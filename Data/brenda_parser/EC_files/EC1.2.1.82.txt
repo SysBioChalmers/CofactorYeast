@@ -1,0 +1,3 @@
+PATH	*	neurosporaxanthin biosynthesis	*	*
+PATH	*	Carotenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

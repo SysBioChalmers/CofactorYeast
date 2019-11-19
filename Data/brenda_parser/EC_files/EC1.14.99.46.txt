@@ -1,0 +1,3 @@
+PATH	*	uracil degradation III	*	*
+PATH	*	Pyrimidine metabolism	*	*
+PATH	*	Metabolic pathways	*	*

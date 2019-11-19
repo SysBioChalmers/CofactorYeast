@@ -1,0 +1,4 @@
+PATH	*	cobalamin salvage (eukaryotic)	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Euglena gracilis	3	*	*

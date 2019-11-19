@@ -1,0 +1,9 @@
+MW	Camellia sinensis	55000	*	*gel filtration
+PATH	*	caffeine biosynthesis I	*	*
+PATH	*	caffeine biosynthesis II (via paraxanthine)	*	*
+PATH	*	theobromine biosynthesis I	*	*
+PATH	*	Caffeine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Camellia sinensis	0.00656	*	*partially purified enzyme, after anion exchange chromatography
+SA	Camellia sinensis	0.0294	*	*purified enzyme

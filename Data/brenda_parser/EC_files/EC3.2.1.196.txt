@@ -1,0 +1,13 @@
+KCAT	Escherichia coli	41.7	G4-beta-cyclodextrin	*in 50 mM sodium phosphate buffer (pH7.0) at 37&Acirc;&deg;C
+KCAT	Escherichia coli	38	G3-beta-cyclodextrin	*in 50 mM sodium phosphate buffer (pH7.0) at 37&Acirc;&deg;C
+KCAT	Escherichia coli	38	beta-cyclodextrin-alpha-1,6-linked maltotriose	*pH 7, 37&Acirc;&deg;C
+KCAT	Escherichia coli	41.7	beta-cyclodextrin-alpha-1,6-linked maltotetraose	*pH 7, 37&Acirc;&deg;C
+KM	Escherichia coli	0.15	G4-beta-cyclodextrin	*in 50 mM sodium phosphate buffer (pH7.0) at 37&Acirc;&deg;C
+KM	Escherichia coli	1.51	G3-beta-cyclodextrin	*in 50 mM sodium phosphate buffer (pH7.0) at 37&Acirc;&deg;C
+KM	Escherichia coli	1.5	beta-cyclodextrin-alpha-1,6-linked maltotriose	*pH 7, 37&Acirc;&deg;C
+KM	Escherichia coli	0.15	beta-cyclodextrin-alpha-1,6-linked maltotetraose	*pH 7, 37&Acirc;&deg;C
+MW	Escherichia coli	76000	*	*x * 76000, His6-tagged enzyme, SDS-PAGE
+MW	Synechococcus elongatus	78956	*	*x * 78956, calculated from amino acid sequence
+MW	Corynebacterium glutamicum	110000	*	*4 * 110000, His6-tagged enzyme, SDS-PAGE
+MW	Corynebacterium glutamicum	417000	*	*native enzyme, gel filtration
+PATH	*	glycogen degradation I	*	*

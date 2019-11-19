@@ -1,0 +1,3 @@
+PATH	*	thiazole biosynthesis II (aerobic bacteria)	*	*
+PATH	*	Thiamine metabolism	*	*
+PATH	*	Metabolic pathways	*	*

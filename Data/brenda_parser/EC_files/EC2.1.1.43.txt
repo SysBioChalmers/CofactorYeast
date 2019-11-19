@@ -1,0 +1,82 @@
+KCAT	Homo sapiens	0.0001	recombinant nucleosome	*pH 9.0, 23&deg;C
+KCAT	Homo sapiens	0.0013	recombinant nucleosome	*pH 9.0, 23&deg;C
+KCAT	Mus musculus	0.001806	histone H3 (S10phos)	*wild-type substrate
+KCAT	Homo sapiens	0.0031	chicken nucleosome	*pH 9.0, 23&deg;C
+KCAT	Homo sapiens	0.0031	histone H3(peptide 21-44)	*pH 9.0, 23&deg;C
+KCAT	Mus musculus	0.005	histone H3 (T11phos)	*wild-type substrate
+KCAT	Homo sapiens	0.0061	chicken nucleosome	*pH 9.0, 23&deg;C
+KCAT	Mus musculus	0.0089	histone K4-acetylK9	*
+KCAT	Mus musculus	0.0089	histone K4-trimethylK9	*
+KCAT	Mus musculus	0.01194	histone K4AK9	*
+KCAT	Mus musculus	0.0161	histone H3(K27A)	*recombinant substrate
+KCAT	Mus musculus	0.0161	histone H3(K4A)	*recombinant substrate
+KCAT	Mus musculus	0.02056	histone H3 (1-13)	*wild-type substrate
+KCAT	Mus musculus	0.02167	histone H3	*recombinant substrate
+KCAT	Mus musculus	0.024	histone H3	*wild-type substrate
+KCAT	Neurospora crassa	0.038	biotinyl-MARTKQTARKSTGGKAPRKQ	*
+KCAT	Paramecium bursaria Chlorella virus 1	1.32	histone H3(K27)	*wild-type
+KCAT	Paramecium bursaria Chlorella virus 1	1.36	histone H3(K27)	*mutant Y50F
+KM	Homo sapiens	0.00012	S-adenosyl-L-methionine	*mutant enzyme G18A/G20A, using p53 as cosubstrate, in 50 mM Tris pH 9.0, at 22&Acirc;&deg;C
+KM	Homo sapiens	0.00031	S-adenosyl-L-methionine	*wild type enzyme, using p53 as cosubstrate, in 50 mM Tris pH 9.0, at 22&Acirc;&deg;C
+KM	Homo sapiens	0.0006	S-adenosyl-L-methionine	*mutant enzyme G18A/G20A, using p53 as cosubstrate, in 50 mM Tris pH 9.0, at 22&Acirc;&deg;C
+KM	Homo sapiens	0.00068	S-adenosyl-L-methionine	*wild type enzyme, using p53 as cosubstrate, in 50 mM Tris pH 9.0, at 22&Acirc;&deg;C
+KM	Neurospora crassa	0.0012	S-adenosyl-L-methionine	*in methylation buffer containing 50 mM glycine (pH 9.8), 2 mM dithiothreitol, 0.025 mg/ml bovine serum albumin, 10% (v/v) glycerol, at 22&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	0.0017	S-adenosyl-L-methionine	*
+KM	Homo sapiens	0.0028	S-adenosyl-L-methionine	*cosubstrate recombinant nucleosome, pH 9.0, 23&Acirc;&deg;C
+KM	Bos taurus	0.003	S-adenosyl-L-methionine	*
+KM	Homo sapiens	0.0033	S-adenosyl-L-methionine	*cosubstrate recombinant nucleosome, pH 9.0, 23&Acirc;&deg;C
+KM	Homo sapiens	0.0038	S-adenosyl-L-methionine	*cosubstrate chicken nucleosome, pH 9.0, 23&Acirc;&deg;C
+KM	Homo sapiens	0.004	S-adenosyl-L-methionine	*cosubstrate chicken nucleosome, pH 9.0, 23&Acirc;&deg;C
+KM	Homo sapiens	0.0055	S-adenosyl-L-methionine	*cosubstrate histone H3(peptide 21-44), pH 9.0, 23&Acirc;&deg;C
+KM	Euglena gracilis	0.027	S-adenosyl-L-methionine	*isozyme VA
+KM	Euglena gracilis	0.0345	S-adenosyl-L-methionine	*isozyme VB
+KM	Neurospora crassa	0.0074	biotinyl-MARTKQTARKSTGGKAPRKQ	*
+KM	Physarum polycephalum	-999	more	*
+KM	Homo sapiens	0.00003	recombinant nucleosome	*pH 9.0, 23&Acirc;&deg;C
+KM	Mus musculus	0.00017	histone H3(K27A)	*recombinant substrate
+KM	Mus musculus	0.00023	histone H3(K4A)	*recombinant substrate
+KM	Mus musculus	0.00026	histone H3	*recombinant substrate
+KM	Homo sapiens	0.00027	chicken nucleosome	*pH 9.0, 23&Acirc;&deg;C
+KM	Euglena gracilis	0.00031	histone H1	*isozyme VA
+KM	Euglena gracilis	0.00044	histone H1	*isozyme VB
+KM	Homo sapiens	0.0005	histone H3(peptide 21-44)	*pH 9.0, 23&Acirc;&deg;C
+KM	Mus musculus	0.0006	histone H3 (T11phos)	*wild-type substrate
+KM	Mus musculus	0.0006	histone K4-trimethylK9	*
+KM	Mus musculus	0.0009	histone H3	*wild-type substrate
+KM	Mus musculus	0.0011	histone H3 (1-13)	*wild-type substrate
+KM	Mus musculus	0.0015	histone K4AK9	*
+KM	Mus musculus	0.0022	histone K4-acetylK9	*
+KM	Homo sapiens	0.0081	recombinant nucleosome	*pH 9.0, 23&Acirc;&deg;C
+KM	Homo sapiens	0.0089	chicken nucleosome	*pH 9.0, 23&Acirc;&deg;C
+KM	Paramecium bursaria Chlorella virus 1	0.2762	histone H3(K27)	*wild-type
+KM	Paramecium bursaria Chlorella virus 1	0.4274	histone H3(K27)	*mutant Y50F
+KM	Paramecium bursaria Chlorella virus 1	3.9	histone H3(K27)	*mutant F52Y
+MW	Methanosarcina mazei	15100	*	*2 * 15100, calculated
+MW	Sulfolobus islandicus	18000	*	*gel filtration
+MW	Methanosarcina mazei	27000	*	*gel filtration
+MW	Mus musculus	30000	*	*the 30 kDa PRDM8 is most abundant in testis, heart, liver, and kidney, SDS-PAGE
+MW	Euglena gracilis	34000	*	*isozyme VB, gel filtration
+MW	Drosophila elegans	45000	*	*SDS-PAGE
+MW	Homo sapiens	45000	*	*SDS-PAGE
+MW	Homo sapiens	49700	*	*calculated from amino acid sequence
+MW	Homo sapiens	52000	*	*about 52000 Da, SDS-PAGE
+MW	Homo sapiens	53000	*	*x * 53000, MALDI-TOF mass spectrometry
+MW	Homo sapiens	53100	*	*x * 53100, calculated from amino acid sequence
+MW	Euglena gracilis	55000	*	*isozyme VA, gel filtration
+MW	Homo sapiens	60000	*	*x * 60000, GST-tagged SET8 domain, SDS-PAGE
+MW	Mus musculus	70000	*	*the 70 kDa full-length PRDM8 is most abundant in brain and testis, SDS-PAGE
+MW	Saccharomyces cerevisiae	82000	*	*gel filtration
+MW	Mus musculus	170000	*	*Western blot analysis, mDot1a in the kidney
+MW	Drosophila melanogaster	171000	*	*x * 171000 to 232000, calculated
+MW	Drosophila melanogaster	180000	*	*x * 180000, enzyme form dG9a, SDS-PAGE
+MW	Homo sapiens	400000	*	*the activity peak migrates at high molecular mass (400000-800000 Da), gel filtration
+MW	Homo sapiens	450000	*	*Western analysis of Set1/CXXC finger protein 1 complex
+MW	Drosophila melanogaster	632800	*	*x * 632800, all dSet1-complex subunits, calculated from amino acid sequence
+MW	Drosophila melanogaster	670000	*	*x * 670000, all dSet1-complex subunits, SDS-PAGE
+PATH	*	carnitine metabolism	*	*
+PATH	*	Lysine degradation	*	*
+SA	Euglena gracilis	-999	*	*
+SA	Saccharomyces cerevisiae	-999	*	*
+SA	Euglena gracilis	0.000285	*	*isozyme VA
+SA	Euglena gracilis	0.00202	*	*isozyme VB
+SA	Bos taurus	0.0027	*	*

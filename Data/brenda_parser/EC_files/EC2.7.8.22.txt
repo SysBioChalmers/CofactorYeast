@@ -1,0 +1,4 @@
+PATH	*	plasmalogen biosynthesis	*	*
+PATH	*	Ether lipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Cavia porcellus	0.00009	*	*heart microsomes

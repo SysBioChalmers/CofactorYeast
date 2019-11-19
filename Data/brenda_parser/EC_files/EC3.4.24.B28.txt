@@ -1,0 +1,4 @@
+MW	Cavia porcellus	45000	*	*x * 45000, mature enzyme, SDS-PAGE
+MW	Homo sapiens	75000	*	*x * 75000, SDS-PAGE
+MW	Homo sapiens	75000	*	*x * 75000, disintegrin domain of ADAM15 fused to human serum albumin, SDS-PAGE
+MW	Cavia porcellus	110000	*	*x * 110000, precursor, SDS-PAGE

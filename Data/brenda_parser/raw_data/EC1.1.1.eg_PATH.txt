@@ -1,0 +1,1 @@
+ecNumber*1.1.1.eg#pathway*sterol biosynthesis (methylotrophs)#link*PWY-8026#source_database*MetaCyc#

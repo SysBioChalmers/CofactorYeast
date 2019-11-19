@@ -1,0 +1,18 @@
+KCAT	Catharanthus roseus	1.4	(6E)-8-oxogeranial	*pH 7.0, temperature not specified in the publication
+KCAT	Catharanthus roseus	2.2	(6E)-8-oxogeranial	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant K146M enzyme
+KCAT	Catharanthus roseus	4.2	(6E)-8-oxogeranial	*pH 7.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Catharanthus roseus	6.1	(6E)-8-oxogeranial	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant K146R enzyme
+KCAT	Catharanthus roseus	6.4	(1E,3S,6E)-8-chloro-3,7-dimethylocta-1,6-dien-1-ol	*pH 7.0, temperature not specified in the publication
+KCAT	Catharanthus roseus	8.1	(1E,3S,6E)-8-chloro-3,7-dimethylocta-1,6-dien-1-ol	*pH 7.0, temperature not specified in the publication
+KM	Catharanthus roseus	0.0019	(6E)-8-oxogeranial	*pH 7.0, 25&Acirc;&deg;C, recombinant wild-type enzyme
+KM	Catharanthus roseus	0.0099	(6E)-8-oxogeranial	*pH 7.0, temperature not specified in the publication
+KM	Catharanthus roseus	0.017	(6E)-8-oxogeranial	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant K146R enzyme
+KM	Catharanthus roseus	0.026	(6E)-8-oxogeranial	*pH 7.0, 25&Acirc;&deg;C, recombinant mutant K146M enzyme
+KM	Catharanthus roseus	0.0819	(1E,3S,6E)-8-chloro-3,7-dimethylocta-1,6-dien-1-ol	*pH 7.0, temperature not specified in the publication
+KM	Catharanthus roseus	0.485	(1E,3S,6E)-8-chloro-3,7-dimethylocta-1,6-dien-1-ol	*pH 7.0, temperature not specified in the publication
+KM	Catharanthus roseus	-999	more	*steady-state kinetic analysis
+KM	Olea europaea subsp. europaea	-999	more	*Michaelis-Menten steady-state kinetics
+PATH	*	secologanin and strictosidine biosynthesis	*	*
+PATH	*	Monoterpenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

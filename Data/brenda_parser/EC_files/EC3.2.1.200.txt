@@ -1,0 +1,9 @@
+KM	Pyrococcus furiosus	0.13	GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAc	*pH 6, 95&Acirc;&deg;C
+KM	Pyrococcus furiosus	0.24	GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAc	*pH 6, 95&Acirc;&deg;C
+KM	Pyrococcus furiosus	0.3	GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAcbeta(1-&gt;4)GlcNAc	*pH 6, 95&Acirc;&deg;C
+MW	Arabidopsis thaliana	30000	*	*
+MW	Serratia liquefaciens	52000	*	*x * 52000, calculated
+PATH	*	chitin degradation I (archaea)	*	*
+PATH	*	chitin degradation III (Serratia)	*	*
+SA	Saccharophagus degradans	5900	*	*substrate 4'-methylumbelliferyl-N,N',N''-triacetylchitobiose, aminoterminal catalytic domain, pH 7.5, 30&deg;C
+SA	Saccharophagus degradans	80000	*	*substrate 4'-methylumbelliferyl-N,N'-diacetylchitobiose, aminoterminal catalytic domain, pH 7.5, 30&deg;C

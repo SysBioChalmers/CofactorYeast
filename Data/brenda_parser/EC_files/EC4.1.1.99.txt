@@ -1,0 +1,7 @@
+KM	Haloferax volcanii	0.075	mevalonate 5-phosphate	*pH 7.5, 30&deg;C
+KM	Haloferax volcanii	0.289	ATP	*pH 7.5, 30&deg;C
+MW	Haloferax volcanii	37328	*	*x * 37328, His-tagged enzyme, matrix-assisted laser desorption ionization-time of flight mass spectrometry
+PATH	*	mevalonate pathway II (archaea)	*	*
+PATH	*	mevalonate metabolism	*	*
+PATH	*	Terpenoid backbone biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

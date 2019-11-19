@@ -1,0 +1,9 @@
+KM	Rattus sp.	0.003	N1-acetylspermidine	*
+KM	Rattus sp.	0.003	N1-acetylspermidine	*
+KM	Rattus sp.	0.004	N8-Acetylspermidine	*
+KM	Rattus sp.	0.011	N8-Acetylspermidine	*
+KM	Rattus sp.	0.011	N8-Acetylspermidine	*
+KM	Rattus sp.	0.016	N1-acetylspermine	*
+KM	Homo sapiens	0.211	N8-Acetylspermidine	*
+SA	Rattus sp.	0.54	*	*
+SA	Rattus sp.	0.54	*	*

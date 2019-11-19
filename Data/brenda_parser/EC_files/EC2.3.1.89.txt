@@ -1,0 +1,6 @@
+PATH	*	L-lysine biosynthesis II	*	*
+PATH	*	lysine metabolism	*	*
+PATH	*	Lysine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Bacillus megaterium	0.011	*	*

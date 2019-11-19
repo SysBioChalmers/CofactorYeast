@@ -1,0 +1,6 @@
+KM	Secale cereale	0.012	luteolin 7-O-glucuronide	*
+KM	Secale cereale	0.04	UDPglucuronic acid	*
+MW	Secale cereale	37000	*	*gel filtration
+PATH	*	luteolin triglucuronide biosynthesis	*	*
+PATH	*	Flavone and flavonol biosynthesis	*	*
+SA	Secale cereale	0.96	*	*

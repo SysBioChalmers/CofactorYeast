@@ -1,0 +1,2 @@
+PATH	*	erythritol degradation I	*	*
+PATH	*	L-threitol degradation	*	*

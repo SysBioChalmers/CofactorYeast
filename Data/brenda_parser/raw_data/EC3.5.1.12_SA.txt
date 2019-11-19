@@ -1,0 +1,1 @@
+ecNumber*3.5.1.12#specificActivity*0.2#specificActivityMaximum*0.3#commentary*#organism*Sus scrofa#literature*171917#

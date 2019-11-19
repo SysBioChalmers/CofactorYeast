@@ -1,0 +1,2 @@
+KCAT	Clostridioides difficile	19	Dabcyl-Lys-EVNPPPPD-EdansGlu	*pH 7.4, 3&Acirc;&deg;C
+KM	Clostridioides difficile	0.077	Dabcyl-Lys-EVNPPPPD-EdansGlu	*pH 7.4, 3&Acirc;&deg;C

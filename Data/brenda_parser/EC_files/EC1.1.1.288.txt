@@ -1,0 +1,5 @@
+KM	Arabidopsis thaliana	0.0202	xanthoxin	*
+PATH	*	abscisic acid biosynthesis	*	*
+PATH	*	Carotenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

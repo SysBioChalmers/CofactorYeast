@@ -1,0 +1,1 @@
+ecNumber*2.5.1.148#kmValue*0.13#kmValueMaximum*#substrate*(2E,6E)-farnesyl diphosphate#commentary*pH and temperature not specified in the publication#organism*Botryococcus braunii#ligandStructureId*81#literature*743340#

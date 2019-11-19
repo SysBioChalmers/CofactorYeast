@@ -1,0 +1,1 @@
+ecNumber*1.1.1.414#pathway*L-galactonate degradation#link*PWY0-1306#source_database*MetaCyc#

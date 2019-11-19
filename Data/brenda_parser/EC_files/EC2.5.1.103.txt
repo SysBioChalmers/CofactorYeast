@@ -1,0 +1,4 @@
+PATH	*	4,4'-diapolycopenedioate biosynthesis	*	*
+PATH	*	botryococcenes and methylated squalene biosynthesis	*	*
+PATH	*	hopanoid biosynthesis (bacteria)	*	*
+PATH	*	staphyloxanthin biosynthesis	*	*

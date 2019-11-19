@@ -1,0 +1,67 @@
+KCAT	Homo sapiens	0.00008	dimethyl-histone 3 L-lysine 9	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00012	trimethyl-histone 3 L-lysine 9 mutant G12P	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00018	trimethyl-histone 3 L-lysine 9 mutant A7H	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00018	trimethyl-histone 3 L-lysine 9 mutant A7R	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.00025	trimethyl-histone 3 L-lysine 9	*pH 7.3, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0005	trimethyl-histone 3 L-lysine 9	*mutant S288A, pH 7.3, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.0029	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4A, pH and temperature not specified in the publication
+KCAT	Mus musculus	0.004	[histone H3 peptide 21mer]-N6-methyl-L-lysine4-methyl-L-lysine9	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type LSD2
+KCAT	Mus musculus	0.0043	[histone H3 peptide 21mer P16A]-N6-methyl-L-lysine4	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type LSD2
+KCAT	Mus musculus	0.0046	[histone H3 peptide 21mer]-N6-methyl-L-lysine4	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type LSD2
+KCAT	Homo sapiens	0.005	dimethyl-histone 3 L-lysine 9	*mutant S288A, pH 7.3, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.005	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4B, pH and temperature not specified in the publication
+KCAT	Mus musculus	0.005	[histone H3 peptide 21mer]-N6-methyl-L-lysine4-methyl-L-arginine17	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type LSD2
+KCAT	Mus musculus	0.0058	[histone H3 peptide 21mer]-N6-methyl-L-lysine4-acetyl-L-lysine9	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type LSD2
+KCAT	Mus musculus	0.0068	[histone H3 peptide 30mer]-N6-methyl-L-lysine4	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type LSD2
+KCAT	Homo sapiens	0.0072	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4C, pH and temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.008	[histone H3]-N6-methyl-L-lysine4	*pH 8.0, 22&Acirc;&deg;C, recombinant LSD1
+KCAT	Homo sapiens	0.01	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4A, pH and temperature not specified in the publication
+KCAT	Arabidopsis thaliana	0.011	[histone H3]-N6,N6-dimethyl-L-lysine4	*pH 8.0, 22&Acirc;&deg;C, recombinant LSD1
+KCAT	Homo sapiens	0.012	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4D, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.015	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4D, pH and temperature not specified in the publication
+KCAT	Mus musculus	0.0222	[histone H3 peptide 21mer]-N6,N6-dimethyl-L-lysine4-dimethyl-L-lysine9	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type LSD2
+KCAT	Homo sapiens	0.028	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4B, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.029	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4C, pH and temperature not specified in the publication
+KCAT	Mus musculus	0.033	[histone H3 peptide 21mer]-N6-methyl-L-lysine4	*pH 8.0, 25&Acirc;&deg;C, recombinant wild-type LSD2
+KCAT	Homo sapiens	0.065	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4E, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.076	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4E, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.199	[histone H3 peptide]-N6,N6-dimethyl-L-lysine4	*pH 7.5, 25&Acirc;&deg;C, recombinant enzyme
+KM	Homo sapiens	-999	more	*effects of pH and isotopic substitution on steady-state and rapid-reaction kinetics, overview. The reductive half-reaction is rate-limiting at physiological pH
+KM	Homo sapiens	-999	more	*Kd values for H3K4me3 peptide with wild-type and mutant enzymes, overview
+KM	Homo sapiens	-999	more	*steady-state kinetic analysis of KDM4A1-359 with respect to 2-oxoglutarate and a 15mer histone peptide substrate H31-15K9me3
+KM	Homo sapiens	-999	more	*Michaelis-Menten kinetics
+KM	Homo sapiens	-999	more	*determination of RNA binding kinetics of recombinant His-tagged full-length enzyme and N-terminal region of KDM4D, KD with 100 nt RNA is about 20 nM and 80 nM, respectively, while it is 15 nM for the catalytically inactive enzyme mutant KDM4D-N202M. The constants are higher for fluorescein labeled 22 nt RNA with 126 nM for the recombinant His-tagged full-length enzyme and 1217 nM for the N-terminal region of KDM4D, overview
+KM	Homo sapiens	0.0026	[histone H3 peptide]-N6,N6-dimethyl-L-lysine4	*pH 7.5, 25&deg;C, recombinant enzyme
+KM	Mus musculus	0.0051	[histone H3 peptide 30mer]-N6-methyl-L-lysine4	*pH 8.0, 25&deg;C, recombinant wild-type LSD2
+KM	Mus musculus	0.0066	[histone H3 peptide 21mer]-N6,N6-dimethyl-L-lysine4-dimethyl-L-lysine9	*pH 8.0, 25&deg;C, recombinant wild-type LSD2
+KM	Mus musculus	0.0081	[histone H3 peptide 21mer]-N6-methyl-L-lysine4-methyl-L-arginine17	*pH 8.0, 25&deg;C, recombinant wild-type LSD2
+KM	Arabidopsis thaliana	0.0089	[histone H3]-N6-methyl-L-lysine4	*pH 8.0, 22&deg;C, recombinant LSD1
+KM	Mus musculus	0.009	[histone H3 peptide 21mer]-N6-methyl-L-lysine4-methyl-L-lysine9	*pH 8.0, 25&deg;C, recombinant wild-type LSD2
+KM	Arabidopsis thaliana	0.0107	[histone H3]-N6,N6-dimethyl-L-lysine4	*pH 8.0, 22&deg;C, recombinant LSD1
+KM	Mus musculus	0.0113	[histone H3 peptide 21mer]-N6-methyl-L-lysine4	*pH 8.0, 25&deg;C, recombinant wild-type LSD2
+KM	Mus musculus	0.0125	[histone H3 peptide 21mer P16A]-N6-methyl-L-lysine4	*pH 8.0, 25&deg;C, recombinant wild-type LSD2
+KM	Homo sapiens	0.023	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4E, pH and temperature not specified in the publication
+KM	Homo sapiens	0.0232	H31-15K9me3	*pH and temperature not specified in the publication
+KM	Homo sapiens	0.0247	2-oxoglutarate	*pH and temperature not specified in the publication
+KM	Homo sapiens	0.025	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4E, pH and temperature not specified in the publication
+KM	Homo sapiens	0.031	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4B, pH and temperature not specified in the publication
+KM	Homo sapiens	0.037	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4D, pH and temperature not specified in the publication
+KM	Homo sapiens	0.045	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4A, pH and temperature not specified in the publication
+KM	Homo sapiens	0.048	histone H3 N6,N6,N6-trimethyl-L-lysine9	*KDM4C, pH and temperature not specified in the publication
+KM	Homo sapiens	0.05	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4B, pH and temperature not specified in the publication
+KM	Homo sapiens	0.063	trimethyl-histone 3 L-lysine 9	*mutant S288A, pH 7.3, 37&deg;C
+KM	Homo sapiens	0.066	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4C, pH and temperature not specified in the publication
+KM	Mus musculus	0.0705	[histone H3 peptide 21mer]-N6-methyl-L-lysine4-acetyl-L-lysine9	*pH 8.0, 25&deg;C, recombinant wild-type LSD2
+KM	Homo sapiens	0.071	trimethyl-histone 3 L-lysine 9	*pH 7.3, 37&deg;C
+KM	Homo sapiens	0.073	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4A, pH and temperature not specified in the publication
+KM	Homo sapiens	0.074	histone H3 N6,N6-dimethyl-L-lysine9	*KDM4D, pH and temperature not specified in the publication
+KM	Mus musculus	0.092	[histone H3 peptide 21mer]-N6-methyl-L-lysine4	*pH 8.0, 25&deg;C, recombinant wild-type LSD2
+KM	Homo sapiens	0.11	trimethyl-histone 3 L-lysine 9 mutant A7H	*pH 7.3, 37&deg;C
+KM	Homo sapiens	0.173	O2	*pH and temperature not specified in the publication
+KM	Homo sapiens	0.18	trimethyl-histone 3 L-lysine 9 mutant A7R	*pH 7.3, 37&deg;C
+KM	Homo sapiens	0.195	O2	*pH 7.5, 25&deg;C, recombinant enzyme
+KM	Homo sapiens	0.23	dimethyl-histone 3 L-lysine 9	*mutant S288A, pH 7.3, 37&deg;C
+KM	Homo sapiens	0.41	dimethyl-histone 3 L-lysine 9	*pH 7.3, 37&deg;C
+KM	Homo sapiens	0.93	trimethyl-histone 3 L-lysine 9 mutant G12P	*pH 7.3, 37&deg;C
+MW	Homo sapiens	95059	*	*1 * 95059, LSD1 without N-terminal methionine, mass spectrometry
+MW	Homo sapiens	100000	*	*about, recombinant enzyme, gel filtration

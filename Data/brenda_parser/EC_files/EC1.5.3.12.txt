@@ -1,0 +1,17 @@
+KM	Papaver somniferum	0.146	(S)-scoulerine	*pH 8.8, 37&Acirc;&deg;C
+KM	Eschscholzia californica	0.006	Dihydromacarpine	*
+KM	Sanguinaria canadensis	0.006	Dihydromacarpine	*dihydrosanguinarine
+KM	Eschscholzia californica	0.008	dihydrochelirubine	*
+KM	Eschscholzia californica	0.016	Dihydrosanguinarine	*
+KM	Papaver somniferum	0.201	Dihydrosanguinarine	*pH 8.8, 37&Acirc;&deg;C
+KM	Sanguinaria canadensis	0.012	Dihydrochelerythrine	*
+MW	Eschscholzia californica	56000	*	*gel filtration
+MW	Sanguinaria canadensis	77000	*	*x * 77000, SDS-PAGE, the lower MW bands include enzymes of the polyphenol oxidase family that copurify with dihydrobenzophenanthridine oxidase
+PATH	*	chelerythrine biosynthesis	*	*
+PATH	*	sanguinarine and macarpine biosynthesis	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Eschscholzia californica	-999	*	*
+SA	Sanguinaria canadensis	-999	*	*
+SA	Sanguinaria canadensis	-999	*	*sensitive, rapid and convenient fluorimetric assay

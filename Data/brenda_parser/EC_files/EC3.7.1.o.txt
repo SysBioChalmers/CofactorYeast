@@ -1,0 +1,4 @@
+PATH	*	2-nitrotoluene degradation	*	*
+PATH	*	toluene degradation to 2-hydroxypentadienoate (via 4-methylcatechol)	*	*
+PATH	*	toluene degradation to 2-hydroxypentadienoate (via toluene-cis-diol)	*	*
+PATH	*	toluene degradation to 2-hydroxypentadienoate I (via o-cresol)	*	*

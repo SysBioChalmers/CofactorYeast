@@ -1,0 +1,1 @@
+ecNumber*3.2.1.193#specificActivity*2.4#specificActivityMaximum*#commentary*40&deg;C, pH not specified in the publication, substrate: ginsenoside Rg3#organism*Aspergillus sp.#literature*722033#

@@ -1,0 +1,1 @@
+MW	Clostridioides difficile	43000	*	*x * 43000, SDS-PAGE

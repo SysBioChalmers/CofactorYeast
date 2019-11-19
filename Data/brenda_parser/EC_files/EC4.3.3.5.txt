@@ -1,0 +1,3 @@
+PATH	*	rebeccamycin biosynthesis	*	*
+PATH	*	Staurosporine biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

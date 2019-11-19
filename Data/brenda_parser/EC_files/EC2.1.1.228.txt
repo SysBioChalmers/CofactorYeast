@@ -1,0 +1,123 @@
+KCAT	Escherichia coli	-999	more	*kinetic analysis of tRNA truncation mutants and tRNA mutant with alterations in the anticodon loop reveals that TrmD and Trm5 exhibit separate and distinct mode of tRNA recognition, suggesting that they evolved by independent and nonoverlapping pathways from their unrelated AdoMet families
+KCAT	Methanocaldococcus jannaschii	-999	more	*kinetic analysis of tRNA truncation mutants and tRNA mutant with alterations in the anticodon loop reveals that TrmD and Trm5 exhibit separate and distinct mode of tRNA recognition, suggesting that they evolved by independent and nonoverlapping pathways from their unrelated AdoMet families
+KCAT	Methanocaldococcus jannaschii	-999	more	*0.12 is kchem in the first rapid burst turnover
+KCAT	Methanocaldococcus jannaschii	0.0001	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&deg;C, mutant enzyme P267A
+KCAT	Methanocaldococcus jannaschii	0.0001	S-adenosyl-L-methionine	*pH 8.0, 50&deg;C, mutant enzyme P267A
+KCAT	Methanocaldococcus jannaschii	0.0003	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&deg;C, mutant enzyme D223A
+KCAT	Methanocaldococcus jannaschii	0.0013	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&deg;C, mutant enzyme N265A; pH 8.0, 50&deg;C, mutant enzyme Y176A
+KCAT	Haemophilus influenzae	0.0014	guanine37 in tRNAGlnCUG	*pH 8.0, temperature not specified in the publication
+KCAT	Methanocaldococcus jannaschii	0.0015	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&deg;C, mutant enzyme G205A/G207A
+KCAT	Escherichia coli	0.0015	guanine37 in tRNALeu	*recombinant mutant S88L, pH 8.0, 43&deg;C
+KCAT	Methanocaldococcus jannaschii	0.0018	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&deg;C, mutant enzyme P226A
+KCAT	Methanocaldococcus jannaschii	0.003	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&deg;C, mutant enzyme R144A
+KCAT	Escherichia coli	0.0032	guanine37 in tRNALeu	*recombinant mutant S88L, pH 8.0, 30&deg;C
+KCAT	Methanocaldococcus jannaschii	0.0037	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&deg;C, mutant enzyme N225A
+KCAT	Haemophilus influenzae	0.0047	guanine37 in tRNAGlnCUG	*pH 8.0, temperature not specified in the publication
+KCAT	Escherichia coli	0.0067	guanine37 in tRNALeu	*recombinant mutant S88L, pH 8.0, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	0.0083	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&deg;C, wild-type enzyme
+KCAT	Methanocaldococcus jannaschii	0.0086	guanine37 in Methanocaldococcus jannaschii tRNAPro	*pH 8.0, 52&deg;C
+KCAT	Methanocaldococcus jannaschii	0.01	guanine37 in Methanocaldococcus jannaschii tRNA(Cys)	*pH 8.0, 50&deg;C
+KCAT	Escherichia coli	0.01	guanine37 in Methanocaldococcus jannaschii tRNAPro	*pH 8.0, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	0.012	S-adenosyl-L-methionine	*pH 8.0, 50&deg;C, wild-type enzyme
+KCAT	Escherichia coli	0.017	guanine37 in Escherichia coli tRNAPro	*pH 8.0, 37&deg;C
+KCAT	Methanocaldococcus jannaschii	0.02	S-adenosyl-L-methionine	*kcat in steady-state phase turnover, pH and temperature not specified in the publication
+KCAT	Homo sapiens	0.023	guanine37 in tRNACys	*recombinant enzyme, pH 7.3, 37&deg;C
+KCAT	Escherichia coli	0.049	guanine37 in tRNALeu	*recombinant wild-type enzyme, pH 8.0, 30&deg;C
+KCAT	Haemophilus influenzae	0.078	guanine37 in tRNAArg	*pH 8.0, temperature not specified in the publication
+KCAT	Escherichia coli	0.09	S-adenosyl-L-methionine	*pH and temperature not specified in the publication
+KCAT	Escherichia coli	0.093	guanine37 in tRNALeu	*recombinant wild-type enzyme, pH 8.0, 37&deg;C
+KCAT	Escherichia coli	0.13	guanine37 in tRNALeu	*recombinant wild-type enzyme, pH 8.0, 43&deg;C
+KCAT	Haemophilus influenzae	0.13	guanine37 in tRNAPro	*pH 8.0, temperature not specified in the publication
+KCAT	Haemophilus influenzae	0.17	guanine37 in tRNAGlnG36U	*pH 8.0, temperature not specified in the publication
+KCAT	Haemophilus influenzae	0.24	guanine37 in tRNAGlnCUG	*pH 8.0, temperature not specified in the publication
+KCAT	Streptococcus pneumoniae	0.25	guanine37 in tRNALeu(GAC)	*pH 8.5, 37&deg;C
+KCAT	Streptococcus pneumoniae	0.25	S-adenosyl-L-homocysteine	*pH 8.5, 37&deg;C
+KCAT	Haemophilus influenzae	0.32	guanine37 in tRNALeu	*pH 8.0, temperature not specified in the publication
+KCAT	Haemophilus influenzae	0.34	guanine37 in tRNAGlnCUG	*pH 8.0, temperature not specified in the publication
+KCAT	Haemophilus influenzae	0.36	guanine37 in tRNAGlnG36A	*pH 8.0, temperature not specified in the publication
+KCAT	Haemophilus influenzae	0.36	guanine37 in tRNAGlnG36C	*pH 8.0, temperature not specified in the publication
+KM	Homo sapiens	0.00042	S-adenosyl-L-methionine	*recombinant enzyme, pH 7.3, 37&Acirc;&deg;C
+KM	Methanocaldococcus jannaschii	0.0005	S-adenosyl-L-methionine	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme P267A
+KM	Methanocaldococcus jannaschii	0.001	S-adenosyl-L-methionine	*pH 8.0, 50&Acirc;&deg;C, wild-type enzyme
+KM	Streptococcus pneumoniae	0.0007	S-adenosyl-L-homocysteine	*pH 8.5, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	-999	more	*KM-values for truncated tRNAPhe variants
+KM	Escherichia coli	-999	more	*kinetic analysis of tRNA truncation mutants and tRNA mutant with alterations in the anticodon loop reveals that TrmD and Trm5 exhibit separate and distinct mode of tRNA recognition, suggesting that they evolved by independent and nonoverlapping pathways from their unrelated AdoMet families
+KM	Methanocaldococcus jannaschii	-999	more	*kinetic analysis of tRNA truncation mutants and tRNA mutant with alterations in the anticodon loop reveals that TrmD and Trm5 exhibit separate and distinct mode of tRNA recognition, suggesting that they evolved by independent and nonoverlapping pathways from their unrelated AdoMet families
+KM	Escherichia coli	-999	more	*pre-steady-state and steady-state kinetics, time-dependent linear reaction, overview. TrmD exhibits half-of-the-sites reactivity in which only one of the two active sites is functional at a given time
+KM	Methanocaldococcus jannaschii	-999	more	*pre-steady-state and steady-state kinetics, rapid burst phase followed by a slower and linear phase in reaction, single-turnover and from steady-state analysis, overview
+KM	Methanocaldococcus jannaschii	-999	more	*wild-type and mutant enzymes pH-dependence of the single-turnover rate constant: the pH dependence of kobs in single-turnover analysis corresponds to proton ransfer during a slower process of induced fit, rather than the bond-breaking and bond-forming steps of methyl transfer, detailed analysis and overview
+KM	Escherichia coli	-999	more	*S-adenosyl-L-methionine and adenosine binding kinetics and kinetic analysis of enzyme reaction, overview
+KM	Methanocaldococcus jannaschii	-999	more	*S-adenosyl-L-methionine and adenosine binding kinetics and kinetic analysis of enzyme reaction, overview
+KM	Escherichia coli	-999	more	*single turnover kinetics and thermodynamic analysis of effect of different guanosine analogues on m1G37-tRNA synthesis, kinetic analysis, overview
+KM	Methanocaldococcus jannaschii	-999	more	*single turnover kinetics and thermodynamic analysis of effect of different guanosine analogues on m1G37-tRNA synthesis, kinetic analysis, overview
+KM	Escherichia coli	-999	more	*measurement of the pre-steady-state rate constant of methyl transfer of TrmD, a proton abstraction step is rate limiting, steady-state kinetics
+KM	Escherichia coli	-999	more	*Michaelis-Menten steady-state kinetics analysis
+KM	Haemophilus influenzae	-999	more	*structure-guided kinetic analysis of TrmD mutants and tRNA variants, overview
+KM	Thermotoga maritima	-999	more	*structure-guided kinetic analysis of TrmD mutants and tRNA variants, overview
+KM	Homo sapiens	-999	more	*pre-steady-state and steady-state kinetic analysis of wild-type and mutant enzymes, the rate-determining step is product release from the enzyme, kinetic isotope effect, overview
+KM	Homo sapiens	0.0000457	guanine37 in yeast tRNAPhe possessing an A36G37 sequence	*pH 8.0, 37&Acirc;&deg;C
+KM	Homo sapiens	0.0000546	guanine37 in Escherichia coli tRNA1Leu	*pH 8.0, 37&Acirc;&deg;C
+KM	Homo sapiens	0.000075	guanine37 in yeast tRNAAsp possessing a C36G37 sequence	*pH 8.0, 37&Acirc;&deg;C
+KM	Homo sapiens	0.000244	guanine37 in yeast tRNAAsp possessing a G36G37 sequence	*pH 8.0, 37&Acirc;&deg;C
+KM	Methanocaldococcus jannaschii	0.00028	guanine37 in Methanocaldococcus jannaschii tRNA(Cys)	*pH 8.0, 50&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0004	guanine37 in Aquifex aeolicus tRNAGln(UUG)	*pH 7.6, 60&Acirc;&deg;C
+KM	Homo sapiens	0.00047	guanine37 in tRNACys	*recombinant enzyme, pH 7.3, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0005	guanine37 in Haloferax volcanii tRNALeu(CAA)	*pH 7.6, 60&Acirc;&deg;C
+KM	Homo sapiens	0.00058	guanine37 in yeast tRNAAsp possessing an U36G37 sequence	*pH 8.0, 37&Acirc;&deg;C
+KM	Homo sapiens	0.00059	guanine37 in yeast tRNAAsp possessing an A36G37 sequence	*pH 8.0, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0006	guanine37 in Aquifex aeolicus tRNAArg(ACG)	*pH 7.6, 60&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0006	guanine37 in Aquifex aeolicus tRNAHis(GUG)	*pH 7.6, 60&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0007	guanine37 in Aquifex aeolicus tRNAPro(GGG)	*pH 7.6, 60&Acirc;&deg;C
+KM	Methanocaldococcus jannaschii	0.0007	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&Acirc;&deg;C, wild-type enzyme
+KM	Aquifex aeolicus	0.0008	guanine37 in Aquifex aeolicus tRNAArg(CCG)	*pH 7.6, 60&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0008	guanine37 in yeast tRNAPhe(GAA)	*pH 7.6, 60&Acirc;&deg;C
+KM	Haemophilus influenzae	0.00082	guanine37 in tRNAGlnCUG	*pH 8.0, temperature not specified in the publication
+KM	Aquifex aeolicus	0.0009	guanine37 in Aquifex aeolicus tRNALeu(CAG)	*pH 7.6, 60&Acirc;&deg;C
+KM	Haemophilus influenzae	0.001	guanine37 in tRNAPro	*pH 8.0, temperature not specified in the publication
+KM	Methanocaldococcus jannaschii	0.0012	guanine37 in Methanocaldococcus jannaschii tRNAPro	*pH 8.0, 52&Acirc;&deg;C
+KM	Homo sapiens	0.00123	inosine37 in yeast tRNAAsp possessing a G36I37 sequence	*below 0.00123 pH 8.0, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0019	guanine37 in Haloferax volcanii tRNATyr(GUA)	*pH 7.6, 60&Acirc;&deg;C
+KM	Aquifex aeolicus	0.002	guanine37 in Haloferax volcanii tRNACys(GCA)	*pH 7.6, 60&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0023	guanine37 in Haloferax volcanii tRNATrp(CCA)	*pH 7.6, 60&Acirc;&deg;C
+KM	Escherichia coli	0.0024	guanine37 in tRNALeu	*recombinant wild-type enzyme, pH 8.0, 30&Acirc;&deg;C
+KM	Methanocaldococcus jannaschii	0.0025	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme Y176A
+KM	Haemophilus influenzae	0.0027	guanine37 in tRNAGlnG36A	*pH 8.0, temperature not specified in the publication
+KM	Escherichia coli	0.0028	guanine37 in Escherichia coli tRNAPro	*pH 8.0, 37&Acirc;&deg;C
+KM	Methanocaldococcus jannaschii	0.003	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme D223A; pH 8.0, 50&Acirc;&deg;C, mutant enzyme P226A
+KM	Escherichia coli	0.0031	guanine37 in tRNALeu	*recombinant wild-type enzyme, pH 8.0, 37&Acirc;&deg;C
+KM	Aquifex aeolicus	0.0033	guanine37 in in Escherichia coli tRNALeu(CAG)	*pH 7.6, 60&Acirc;&deg;C
+KM	Methanocaldococcus jannaschii	0.0043	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme R144A
+KM	Streptococcus pneumoniae	0.0043	guanine37 in tRNALeu(GAC)	*pH 8.5, 37&Acirc;&deg;C
+KM	Haemophilus influenzae	0.0044	guanine37 in tRNAGlnCUG	*pH 8.0, temperature not specified in the publication
+KM	Methanocaldococcus jannaschii	0.0046	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme G205A/G207A
+KM	Homo sapiens	0.00546	guanine37 in human mitochondrial tRNAPro	*pH 8.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0057	guanine37 in Escherichia coli tRNA1Leu	*pH 8.0, 37&Acirc;&deg;C
+KM	Methanocaldococcus jannaschii	0.006	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme P267A
+KM	Methanocaldococcus jannaschii	0.0072	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme N225A
+KM	Escherichia coli	0.0073	guanine37 in Methanocaldococcus jannaschii tRNAPro	*pH 8.0, 37&Acirc;&deg;C
+KM	Haemophilus influenzae	0.008	guanine37 in tRNALeu	*pH 8.0, temperature not specified in the publication
+KM	Methanocaldococcus jannaschii	0.0083	guanine37 in Methanocaldococcus jannaschii tRNACys	*pH 8.0, 50&Acirc;&deg;C, mutant enzyme N265A
+KM	Escherichia coli	0.0086	guanine37 in human mitochondrial tRNAPro	*pH 8.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.013	guanine37 in tRNALeu	*recombinant mutant S88L, pH 8.0, 30&Acirc;&deg;C
+KM	Homo sapiens	0.018	guanine37 in human mitochondrial tRNAPro possessing an A36G37 sequence	*pH 8.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.019	guanine37 in yeast tRNAAsp possessing a G36G37 sequence	*pH 8.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0217	guanine37 in tRNALeu	*recombinant wild-type enzyme, pH 8.0, 43&Acirc;&deg;C
+KM	Haemophilus influenzae	0.027	guanine37 in tRNAArg	*pH 8.0, temperature not specified in the publication
+KM	Escherichia coli	0.046	guanine37 in yeast tRNAAsp possessing an A36G37 sequence	*pH 8.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0522	guanine37 in tRNALeu	*recombinant mutant S88L, pH 8.0, 37&Acirc;&deg;C
+KM	Escherichia coli	0.0625	guanine37 in tRNALeu	*recombinant mutant S88L, pH 8.0, 43&Acirc;&deg;C
+KM	Haemophilus influenzae	0.064	guanine37 in tRNAGlnCUG	*pH 8.0, temperature not specified in the publication
+KM	Haemophilus influenzae	0.067	guanine37 in tRNAGlnCUG	*pH 8.0, temperature not specified in the publication
+KM	Haemophilus influenzae	0.114	guanine37 in tRNAGlnG36U	*pH 8.0, temperature not specified in the publication
+KM	Haemophilus influenzae	0.184	guanine37 in tRNAGlnG36C	*pH 8.0, temperature not specified in the publication
+MW	Escherichia coli	30586	*	*2 * 30586, calculated from sequence
+MW	Streptococcus pneumoniae	32000	*	*2 * 32000
+MW	Methanocaldococcus jannaschii	42000	*	*x * 42000, SDS-PAGE
+MW	Homo sapiens	60500	*	*gel filtration
+MW	Escherichia coli	62000	*	*gel filtration
+MW	Escherichia coli	64000	*	*dynamic light-scattering
+MW	Streptococcus pneumoniae	65000	*	*dynamic light scattering
+MW	Streptococcus pneumoniae	69000	*	*gel filtration
+PATH	*	7-(3-amino-3-carboxypropyl)-wyosine biosynthesis	*	*
+PATH	*	methylwyosine biosynthesis	*	*
+PATH	*	tRNA methylation (yeast)	*	*

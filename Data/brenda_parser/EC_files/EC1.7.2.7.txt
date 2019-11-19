@@ -1,0 +1,7 @@
+MW	Candidatus Kuenenia stuttgartiensis	39000	*	*
+MW	Candidatus Kuenenia stuttgartiensis	42000	*	*
+MW	Candidatus Kuenenia stuttgartiensis	90000	*	*
+PATH	*	ammonia oxidation II (anaerobic)	*	*
+PATH	*	Nitrogen metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Candidatus Jettenia caeni	0.33	*	*Ca. Jettenia caeni cells, pH not specified in the publication, 37&deg;C

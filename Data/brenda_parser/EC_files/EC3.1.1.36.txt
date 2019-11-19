@@ -1,0 +1,2 @@
+SA	Citrus sinensis	-999	*	*fluorescence assay method for purified and crude enzyme preparations
+SA	Citrus sinensis	2.6	*	*pH 8.0, 30&Acirc;&deg;C

@@ -1,0 +1,10 @@
+KM	Oryctolagus cuniculus	0.376	phosphate	*reaction with guanosine
+KM	Oryctolagus cuniculus	0.216	guanosine	*
+KM	Oryctolagus cuniculus	0.21	deoxyguanosine	*
+PATH	*	guanine and guanosine salvage	*	*
+PATH	*	guanosine nucleotides degradation III	*	*
+PATH	*	nucleoside and nucleotide degradation (archaea)	*	*
+PATH	*	purine ribonucleosides degradation	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Oryctolagus cuniculus	4.87	*	*

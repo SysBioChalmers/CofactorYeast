@@ -1,0 +1,3 @@
+PATH	*	vindoline, vindorosine and vinblastine biosynthesis	*	*
+PATH	*	Indole alkaloid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

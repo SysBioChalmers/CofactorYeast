@@ -1,0 +1,6 @@
+PATH	*	aclacinomycin biosynthesis	*	*
+PATH	*	ascorbate metabolism	*	*
+PATH	*	degradation of sugar alcohols	*	*
+PATH	*	lysine metabolism	*	*
+PATH	*	metabolism of disaccharids	*	*
+PATH	*	tryptophan metabolism	*	*

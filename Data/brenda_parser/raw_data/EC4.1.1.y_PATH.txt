@@ -1,0 +1,1 @@
+ecNumber*4.1.1.y#pathway*staphyloferrin B biosynthesis#link*PWY-8008#source_database*MetaCyc#

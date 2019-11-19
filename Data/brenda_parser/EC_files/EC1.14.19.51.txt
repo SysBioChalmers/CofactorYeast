@@ -1,0 +1,3 @@
+PATH	*	magnoflorine biosynthesis	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

@@ -1,0 +1,1 @@
+ecNumber*1.13.12.17#pathway*rebeccamycin biosynthesis#link*PWY-6324#source_database*MetaCyc#!ecNumber*1.13.12.17#pathway*Staurosporine biosynthesis#link*00404#source_database*KEGG#!ecNumber*1.13.12.17#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

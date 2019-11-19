@@ -1,0 +1,6 @@
+KM	Umbilicaria pustulata	0.211	2,4-dihydroxy-6-methylbenzoate	*
+KM	Clonostachys rosea	0.26	2,4-dihydroxy-6-methylbenzoate	*
+MW	Umbilicaria pustulata	72000	*	*1 * 72000, SDS-PAGE
+MW	Umbilicaria pustulata	90000	*	*gel filtration
+SA	Umbilicaria pustulata	14.1	*	*
+SA	Clonostachys rosea	196.8	*	*

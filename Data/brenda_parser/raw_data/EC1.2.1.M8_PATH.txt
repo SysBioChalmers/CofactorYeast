@@ -1,0 +1,1 @@
+ecNumber*1.2.1.M8#pathway*2-oxobutanoate degradation I#link*PWY-5130#source_database*MetaCyc#!ecNumber*1.2.1.M8#pathway*L-threonine degradation V#link*PWY66-428#source_database*MetaCyc#

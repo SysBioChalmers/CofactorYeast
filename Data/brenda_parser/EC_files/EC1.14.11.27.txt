@@ -1,0 +1,7 @@
+KCAT	Homo sapiens	0.00022	trimethyl-histone 3 L-lysine 36	*pH 7.3, 37&Acirc;&deg;C
+KM	Saccharomyces cerevisiae	-999	more	*binding affinities of c-Rph1 with H3K36 and H3K9 peptides, overview
+KM	Homo sapiens	-999	more	*steady-state kinetics for H3K9 demethylation activity of the enzyme, overview
+KM	Homo sapiens	-999	more	*Michaelis-Menten kinetics
+KM	Homo sapiens	0.32	trimethyl-histone 3 L-lysine 36	*pH 7.3, 37&deg;C
+MW	Saccharomyces cerevisiae	56500	*	*x * 56500, calculated
+MW	Saccharomyces cerevisiae	250000	*	*gel filtration

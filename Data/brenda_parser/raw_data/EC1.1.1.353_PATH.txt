@@ -1,0 +1,1 @@
+ecNumber*1.1.1.353#pathway*versicolorin B biosynthesis#link*PWY-5955#source_database*MetaCyc#!ecNumber*1.1.1.353#pathway*Aflatoxin biosynthesis#link*00254#source_database*KEGG#!ecNumber*1.1.1.353#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

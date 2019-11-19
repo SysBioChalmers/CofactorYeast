@@ -1,0 +1,23 @@
+KCAT	Magnaporthe oryzae	3	Scytalone	*mutant enzyme V75M with His-tag
+KCAT	Magnaporthe oryzae	19.6	Scytalone	*pH 8.0, 25&deg;C, inhibitor-resistant enzyme
+KCAT	Magnaporthe oryzae	38.2	Scytalone	*pH 8.0, 25&deg;C, inhibitor-sensitive enzyme
+KCAT	Magnaporthe oryzae	41	Scytalone	*mutant enzyme V75M without His-tag
+KCAT	Magnaporthe oryzae	70	Scytalone	*wild-type enzyme
+KM	Magnaporthe grisea	-999	more	*Km values and kinetic konstants of several mutants
+KM	Magnaporthe oryzae	0.021	Scytalone	*mutant enzyme V75M with His-tag
+KM	Magnaporthe oryzae	0.022	Scytalone	*wild-type enzyme
+KM	Magnaporthe oryzae	0.023	Scytalone	*mutant enzyme V75M without His-tag
+KM	Magnaporthe oryzae	0.0443	Scytalone	*pH 8.0, 25&deg;C, inhibitor-resistant enzyme
+KM	Magnaporthe oryzae	0.0532	Scytalone	*pH 8.0, 25&deg;C, inhibitor-sensitive enzyme
+KM	Phaeococcomyces sp.	2	Scytalone	*25&deg;C
+KM	Magnaporthe grisea	15	2,3-Dihydro-2,5-dihydroxy-4H-benzopyran-4-one	*25&deg;C, pH 7.0
+KM	Magnaporthe grisea	31	vermelone	*25&deg;C, pH 7.0
+KM	Magnaporthe grisea	33	Scytalone	*25&deg;C, pH 7.0
+MW	Magnaporthe oryzae	21000	*	*x * 21000, calculation from nucleotide sequence
+MW	Bipolaris oryzae	21000	*	*x * 21000, calculation from nucleotide sequence
+MW	Magnaporthe grisea	21000	*	*x * 21000, calculation from nucleotide sequence
+MW	Bipolaris oryzae	23000	*	*x * 23000, SDS-PAGE
+MW	Magnaporthe grisea	58000	*	*ultracentrifugation studies
+MW	Phaeococcomyces sp.	63000	*	*PAGE
+SA	Magnaporthe grisea	28	*	*pH 7.0
+SA	Bipolaris oryzae	36.6	*	*30&Acirc;&deg;C, pH 8.2

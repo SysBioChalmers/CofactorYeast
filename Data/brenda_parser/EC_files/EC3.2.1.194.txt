@@ -1,0 +1,9 @@
+KM	Aspergillus sp.	7.63	ginsenoside Rg1	*pH 6, 40&Acirc;&deg;C
+KM	Aspergillus sp.	22.2	ginsenoside Re	*pH 6, 40&Acirc;&deg;C
+KM	Aspergillus sp.	9.43	ginsenoside Rf	*pH 6, 40&Acirc;&deg;C
+KM	Aspergillus sp.	5.74	ginsenoside Rg2	*pH 6, 40&Acirc;&deg;C
+KM	Aspergillus sp.	7.06	ginsenoside R1	*pH 6, 40&Acirc;&deg;C
+MW	Aspergillus sp.	56000	*	*x * 56000, SDS-PAGE
+MW	Aspergillus sp.	56000	*	*x * 56000, SDS-PAGE
+SA	Aspergillus sp.	1.68	*	*pH 6.0, 40&deg;C
+SA	Aspergillus sp.	1.7	*	*pH 6, 40&deg;C

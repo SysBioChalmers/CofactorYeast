@@ -1,0 +1,5 @@
+KCAT	Escherichia coli	1.4	4-(phosphohydroxy)-L-threonine	*
+PATH	*	pyridoxal 5'-phosphate biosynthesis I	*	*
+PATH	*	vitamin B6 metabolism	*	*
+PATH	*	Vitamin B6 metabolism	*	*
+PATH	*	Metabolic pathways	*	*

@@ -1,0 +1,2 @@
+PATH	*	stigma estolide biosynthesis	*	*
+PATH	*	arachidonate biosynthesis	*	*

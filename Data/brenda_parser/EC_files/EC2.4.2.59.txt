@@ -1,0 +1,2 @@
+PATH	*	Thiamine metabolism	*	*
+PATH	*	Metabolic pathways	*	*

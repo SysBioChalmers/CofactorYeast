@@ -1,0 +1,12 @@
+KCAT	Cannabis sativa	0.19	cannabigerolate	*in 100 mM sodium citrate buffer (pH 5.0), at 30&Acirc;&deg;C
+KCAT	Cannabis sativa	0.03	cannabinerolate	*in 100 mM sodium citrate buffer (pH 5.0), at 30&Acirc;&deg;C
+KM	Cannabis sativa	0.137	cannabigerolate	*in 100 mM sodium citrate buffer (pH 5.0), at 30&Acirc;&deg;C
+KM	Cannabis sativa	0.206	cannabinerolate	*in 100 mM sodium citrate buffer (pH 5.0), at 30&Acirc;&deg;C
+MW	Cannabis sativa	58863	*	*x * 58863, deduced from amino acid sequence
+MW	Cannabis sativa	62000	*	*x * 62000, SDS-PAGE
+MW	Cannabis sativa	74000	*	*1 * 74000, SDS-PAGE
+MW	Cannabis sativa	75000	*	*gel filtration
+PATH	*	cannabinoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+SA	Cannabis sativa	0.175	*	*enzyme from supernatant, in 100 mM sodium citrate buffer (pH 5.0), at 30&deg;C
+SA	Cannabis sativa	9	*	*after 519fold purification, in 100 mM sodium citrate buffer (pH 5.0), at 30&deg;C

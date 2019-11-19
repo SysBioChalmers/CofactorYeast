@@ -1,0 +1,2 @@
+PATH	*	alanine metabolism	*	*
+PATH	*	propionate fermentation	*	*

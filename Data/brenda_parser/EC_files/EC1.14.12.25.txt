@@ -1,0 +1,3 @@
+PATH	*	p-cumate degradation to 2-hydroxypentadienoate	*	*
+PATH	*	Xylene degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

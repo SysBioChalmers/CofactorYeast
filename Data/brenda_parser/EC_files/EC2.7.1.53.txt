@@ -1,0 +1,6 @@
+KM	Klebsiella aerogenes	0.4	D-xylulose	*pH 7.5
+PATH	*	L-lyxose degradation	*	*
+PATH	*	degradation of pentoses	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+PATH	*	Ascorbate and aldarate metabolism	*	*
+SA	Klebsiella aerogenes	340.6	*	*pH 7.5

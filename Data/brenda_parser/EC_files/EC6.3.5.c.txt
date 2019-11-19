@@ -1,0 +1,2 @@
+PATH	*	peptidoglycan biosynthesis II (staphylococci)	*	*
+PATH	*	peptidoglycan biosynthesis IV (Enterococcus faecium)	*	*

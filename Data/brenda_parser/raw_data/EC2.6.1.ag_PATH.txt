@@ -1,0 +1,1 @@
+ecNumber*2.6.1.ag#pathway*S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation I#link*PWY-4361#source_database*MetaCyc#

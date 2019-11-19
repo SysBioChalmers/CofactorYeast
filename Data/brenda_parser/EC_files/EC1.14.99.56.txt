@@ -1,0 +1,3 @@
+KCAT	Lentinus similis	0.11	Cellotetraose	*pH 7.0, 37&deg;C
+KM	Lentinus similis	0.049	Cellotetraose	*pH 7.0, 37&Acirc;&deg;C
+PATH	*	cellulose degradation	*	*

@@ -1,0 +1,1 @@
+ecNumber*4.2.1.159#pathway*dTDPLrhamnose biosynthesis#link*BRENDA#source_database*BRENDA#!ecNumber*4.2.1.159#pathway*Polyketide sugar unit biosynthesis#link*00523#source_database*KEGG#!ecNumber*4.2.1.159#pathway*Biosynthesis of vancomycin group antibiotics#link*01055#source_database*KEGG#!ecNumber*4.2.1.159#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

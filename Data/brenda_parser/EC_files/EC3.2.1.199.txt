@@ -1,0 +1,4 @@
+KCAT	Escherichia coli	14.3	4-nitrophenyl alpha-sulfoquinovoside	*pH not specified in the publication, temperature not specified in the publication
+KM	Escherichia coli	0.22	4-nitrophenyl alpha-sulfoquinovoside	*pH not specified in the publication, temperature not specified in the publication
+MW	Escherichia coli	70000	*	*
+PATH	*	sulfoquinovose degradation I	*	*

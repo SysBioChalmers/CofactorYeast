@@ -1,0 +1,2 @@
+PATH	*	N-Glycan biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

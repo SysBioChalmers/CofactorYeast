@@ -1,0 +1,20 @@
+KCAT	Clostridium perfringens	0.000067	NAD+	*ADP-ribosyltransferase activity, mutant enzyme F349A, cosubstrate: non-muscle actin from human platelets
+KCAT	Clostridium perfringens	0.00012	NAD+	*ADP-ribosyltransferase activity, mutant enzyme F349A, cosubstrate: rabbit muscle actin
+KCAT	Clostridium perfringens	0.00015	NAD+	*ADP-ribosyltransferase activity, mutant enzyme Y246A, cosubstrate: rabbit muscle actin
+KCAT	Clostridium perfringens	0.00133	NAD+	*ADP-ribosyltransferase activity, mutant enzyme Y246A, cosubstrate: non-muscle actin from human platelets; ADP-ribosyltransferase activity, mutant enzyme Y251A, cosubstrate: non-muscle actin from human platelets
+KCAT	Clostridium perfringens	0.00183	NAD+	*ADP-ribosyltransferase activity, mutant enzyme N255A, cosubstrate: non-muscle actin from human platelets
+KCAT	Clostridium perfringens	0.0062	NAD+	*ADP-ribosyltransferase activity, wild-type enzyme, cosubstrate: non-muscle actin from human platelets
+KCAT	Clostridium perfringens	0.01	NAD+	*ADP-ribosyltransferase activity, wild-type enzyme, cosubstrate: rabbit muscle actin
+KCAT	Clostridium perfringens	0.014	NAD+	*ADP-ribosyltransferase activity, mutant enzyme N255A, cosubstrate: rabbit muscle actin
+KM	Clostridium perfringens	0.22	NAD+	*ADP-ribosyltransferase activity, mutant enzyme F349A, cosubstrate: non-muscle actin from human platelets
+KM	Clostridium perfringens	0.58	NAD+	*ADP-ribosyltransferase activity, mutant enzyme N255A, cosubstrate: non-muscle actin from human platelets
+KM	Clostridium perfringens	0.69	NAD+	*ADP-ribosyltransferase activity, mutant enzyme F349A, cosubstrate: rabbit muscle actin
+KM	Clostridium perfringens	0.77	NAD+	*ADP-ribosyltransferase activity, wild-type enzyme, cosubstrate: non-muscle actin from human platelets
+KM	Clostridium perfringens	0.92	NAD+	*ADP-ribosyltransferase activity, mutant enzyme Y246A, cosubstrate: non-muscle actin from human platelets
+KM	Clostridium perfringens	0.93	NAD+	*ADP-ribosyltransferase activity, mutant enzyme Y246A, cosubstrate: rabbit muscle actin
+KM	Clostridium perfringens	1.28	NAD+	*ADP-ribosyltransferase activity, wild-type enzyme, cosubstrate: rabbit muscle actin
+KM	Clostridium perfringens	4.48	NAD+	*ADP-ribosyltransferase activity, mutant enzyme N255A, cosubstrate: rabbit muscle actin
+KM	Clostridium perfringens	8.67	NAD+	*ADP-ribosyltransferase activity, mutant enzyme Y251A, cosubstrate: non-muscle actin from human platelets
+MW	Clostridioides difficile	43000	*	*x * 43000, SDS-PAGE
+MW	Clostridium perfringens	47000	*	*x * 47000, SDS-PAGE
+MW	Clostridium botulinum	49000	*	*x * 49000, SDS-PAGE

@@ -1,0 +1,9 @@
+KM	Mus musculus	0.1	dopachrome	*pH 6.0, 30&deg;C
+KM	Sepia officinalis	1	dopachrome	*27&deg;C, pH 6.8
+MW	Mus musculus	46000	*	*x * 46000, SDS-PAGE
+MW	Sepia officinalis	85000	*	*x * 85000, SDS-PAGE
+MW	Mus musculus	300000	*	*gel filtration
+PATH	*	eumelanin biosynthesis	*	*
+PATH	*	Tyrosine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Mus musculus	-999	*	*

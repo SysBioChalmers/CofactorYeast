@@ -1,0 +1,3 @@
+MW	Methanocaldococcus jannaschii	42000	*	*SDS-PAGE
+MW	Mycolicibacterium smegmatis	88000	*	*SDS-PAGE
+PATH	*	factor 420 biosynthesis	*	*

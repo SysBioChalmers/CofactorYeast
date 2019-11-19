@@ -1,0 +1,6 @@
+PATH	*	3-phenylpropionate degradation	*	*
+PATH	*	4-hydroxyphenylacetate degradation	*	*
+PATH	*	aclacinomycin biosynthesis	*	*
+PATH	*	arachidonate biosynthesis	*	*
+PATH	*	carnitine metabolism	*	*
+PATH	*	degradation of aromatic, nitrogen containing compounds	*	*

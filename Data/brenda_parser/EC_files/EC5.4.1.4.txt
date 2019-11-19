@@ -1,0 +1,3 @@
+PATH	*	D-galacturonate degradation II	*	*
+PATH	*	degradation of sugar acids	*	*
+PATH	*	Ascorbate and aldarate metabolism	*	*

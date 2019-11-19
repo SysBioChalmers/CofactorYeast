@@ -1,0 +1,1 @@
+ecNumber*1.14.13.217#pathway*violacein biosynthesis#link*PWY-7040#source_database*MetaCyc#!ecNumber*1.14.13.217#pathway*Staurosporine biosynthesis#link*00404#source_database*KEGG#!ecNumber*1.14.13.217#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

@@ -1,0 +1,1 @@
+ecNumber*2.5.1.cc#pathway*bacterioruberin biosynthesis#link*PWY-7944#source_database*MetaCyc#!ecNumber*2.5.1.cc#pathway*C.p.450 monoglucoside biosynthesis#link*PWY-7945#source_database*MetaCyc#

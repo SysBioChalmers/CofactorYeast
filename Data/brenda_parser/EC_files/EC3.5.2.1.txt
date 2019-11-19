@@ -1,0 +1,7 @@
+KM	Rhodococcus erythropolis	1	Barbiturate	*pH 8.0, 30&deg;C
+KM	Mycobacterium sp.	3.37	Barbiturate	*
+MW	Rhodococcus erythropolis	45000	*	*4 * 45000, SDS-PAGE
+MW	Rhodococcus erythropolis	172000	*	*gel filtration
+PATH	*	uracil degradation II (oxidative)	*	*
+PATH	*	Pyrimidine metabolism	*	*
+SA	Mycobacterium sp.	-999	*	*

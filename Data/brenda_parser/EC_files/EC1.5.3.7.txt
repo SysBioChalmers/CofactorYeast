@@ -1,0 +1,18 @@
+KM	Schizosaccharomyces pombe	3	L-proline	*pH 8.0, 30&Acirc;&deg;C, recombinant enzyme
+KM	Oryctolagus cuniculus	0.74	L-Pipecolic acid	*
+KM	Rhodotorula glutinis	1.7	L-Pipecolic acid	*
+KM	Macaca mulatta	3.5	L-Pipecolic acid	*
+KM	Macacine alphaherpesvirus 1	4.2	L-Pipecolic acid	*
+KM	Macaca mulatta	6	L-Pipecolic acid	*
+KM	Schizosaccharomyces pombe	4.07	L-pipecolate	*pH 8.0, 30&Acirc;&deg;C, recombinant enzyme
+MW	Rhodotorula glutinis	43000	*	*1 * 43000, SDS-PAGE
+MW	Macaca mulatta	46000	*	*1 * 46000, SDS-PAGE
+MW	Schizosaccharomyces pombe	56000	*	*2 * 56000, about, recombinant enzyme, SDS-PAGE
+MW	Schizosaccharomyces pombe	98000	*	*recombinant enzyme, gel filtration
+PATH	*	L-lysine degradation II (L-pipecolate pathway)	*	*
+PATH	*	L-lysine degradation V	*	*
+PATH	*	lysine metabolism	*	*
+PATH	*	Lysine degradation	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Schizosaccharomyces pombe	-999	*	*
+SA	Penicillium chrysogenum	0.002	*	*strain Wis 54-1255, HS1-, 10.25

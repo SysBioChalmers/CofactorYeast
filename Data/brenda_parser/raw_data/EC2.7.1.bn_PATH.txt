@@ -1,0 +1,1 @@
+ecNumber*2.7.1.bn#pathway*L-cysteine biosynthesis VIII (Thermococcus kodakarensis)#link*PWY-8009#source_database*MetaCyc#

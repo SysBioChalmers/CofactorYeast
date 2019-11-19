@@ -1,0 +1,3 @@
+KM	Lathyrus sativus	0.45	oxalyl-CoA	*
+KM	Lathyrus sativus	0.3	L-2,3-diaminopropionic acid	*
+SA	Lathyrus sativus	-999	*	*

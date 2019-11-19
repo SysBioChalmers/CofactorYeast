@@ -1,0 +1,4 @@
+MW	Methanocaldococcus jannaschii	37000	*	*x * 37000, SDS-PAGE
+PATH	*	methanofuran biosynthesis	*	*
+PATH	*	methanofuran biosynthesis	*	*
+PATH	*	Methane metabolism	*	*

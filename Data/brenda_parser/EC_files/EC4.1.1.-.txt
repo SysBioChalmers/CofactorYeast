@@ -1,0 +1,3 @@
+PATH	*	daunorubicin biosynthesis	*	*
+PATH	*	phosphatidylethanolamine bioynthesis	*	*
+PATH	*	polyamine pathway	*	*

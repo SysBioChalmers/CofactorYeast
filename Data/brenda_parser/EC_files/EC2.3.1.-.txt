@@ -1,0 +1,5 @@
+PATH	*	aclacinomycin biosynthesis	*	*
+PATH	*	benzoyl-CoA degradation	*	*
+PATH	*	lipid A biosynthesis	*	*
+PATH	*	lipid metabolism	*	*
+PATH	*	threonine metabolism	*	*

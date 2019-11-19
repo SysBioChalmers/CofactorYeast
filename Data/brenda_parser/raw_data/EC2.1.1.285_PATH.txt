@@ -1,0 +1,1 @@
+ecNumber*2.1.1.285#pathway*novobiocin biosynthesis#link*PWY-7287#source_database*MetaCyc#!ecNumber*2.1.1.285#pathway*Novobiocin biosynthesis#link*00401#source_database*KEGG#!ecNumber*2.1.1.285#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

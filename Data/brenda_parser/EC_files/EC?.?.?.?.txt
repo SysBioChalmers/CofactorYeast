@@ -1,0 +1,36 @@
+PATH	*	1,4-dihydroxy-6-naphthoate biosynthesis	*	*
+PATH	*	3-phenylpropionate degradation	*	*
+PATH	*	aminopropanol phosphate biosynthesis	*	*
+PATH	*	arachidonate biosynthesis	*	*
+PATH	*	arachidonic acid metabolism	*	*
+PATH	*	arginine metabolism	*	*
+PATH	*	ascorbate metabolism	*	*
+PATH	*	bile acid biosynthesis, neutral pathway	*	*
+PATH	*	biosynthesis of special quinones	*	*
+PATH	*	carnitine metabolism	*	*
+PATH	*	cis-vaccenate biosynthesis	*	*
+PATH	*	coenzyme M biosynthesis	*	*
+PATH	*	dapdiamides biosynthesis	*	*
+PATH	*	diterpene phytoalexins precursors biosynthesis	*	*
+PATH	*	enterobactin biosynthesis	*	*
+PATH	*	factor 420 biosynthesis	*	*
+PATH	*	ginsenoside metabolism	*	*
+PATH	*	isoleucine metabolism	*	*
+PATH	*	leucine metabolism	*	*
+PATH	*	lipid metabolism	*	*
+PATH	*	lysine metabolism	*	*
+PATH	*	methanofuran biosynthesis	*	*
+PATH	*	oxidative phosphorylation	*	*
+PATH	*	peptidoglycan biosynthesis	*	*
+PATH	*	phenol degradation	*	*
+PATH	*	photosynthesis	*	*
+PATH	*	proline metabolism	*	*
+PATH	*	purine metabolism	*	*
+PATH	*	pyrimidine metabolism	*	*
+PATH	*	suberin monomers biosynthesis	*	*
+PATH	*	sulfolipid biosynthesis	*	*
+PATH	*	sulfopterin metabolism	*	*
+PATH	*	tetrahydrofolate metabolism	*	*
+PATH	*	toluene degradation	*	*
+PATH	*	tryptophan metabolism	*	*
+PATH	*	vitamin B1 metabolism	*	*

@@ -1,0 +1,1 @@
+ecNumber*3.1.1.86#molecularWeight*26350#molecularWeightMaximum*#commentary*x * 26350, calculated from sequence#organism*Aspergillus aculeatus#literature*708969#

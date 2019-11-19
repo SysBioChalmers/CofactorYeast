@@ -1,0 +1,4 @@
+PATH	*	cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)	*	*
+PATH	*	vitamin B12 metabolism	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	Metabolic pathways	*	*

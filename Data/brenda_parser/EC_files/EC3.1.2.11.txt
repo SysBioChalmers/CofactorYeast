@@ -1,0 +1,6 @@
+KM	Rattus norvegicus	0.0052	acetoacetyl-CoA	*brain mitochondria
+KM	Rattus norvegicus	0.021	acetoacetyl-CoA	*liver cytosol, absence of glutathione
+KM	Rattus norvegicus	0.025	acetoacetyl-CoA	*liver cytosol, presence of glutathione
+PATH	*	isopropanol biosynthesis (engineered)	*	*
+PATH	*	Butanoate metabolism	*	*
+SA	Rattus norvegicus	0.039	*	*brain mitochondria

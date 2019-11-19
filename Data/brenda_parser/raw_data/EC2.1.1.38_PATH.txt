@@ -1,0 +1,1 @@
+ecNumber*2.1.1.38#pathway*puromycin biosynthesis#link*PWY-5929#source_database*MetaCyc#!ecNumber*2.1.1.38#pathway*Puromycin biosynthesis#link*00231#source_database*KEGG#!ecNumber*2.1.1.38#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

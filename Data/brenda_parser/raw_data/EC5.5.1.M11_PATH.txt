@@ -1,0 +1,1 @@
+ecNumber*5.5.1.M11#pathway*C.p.450 monoglucoside biosynthesis#link*PWY-7945#source_database*MetaCyc#

@@ -1,0 +1,1 @@
+ecNumber*3.4.13.4#kmValue*9.8#kmValueMaximum*#substrate*N2-(4-aminobutyryl)-L-lysine#commentary*#organism*Sus scrofa#ligandStructureId*45751#literature*36078#

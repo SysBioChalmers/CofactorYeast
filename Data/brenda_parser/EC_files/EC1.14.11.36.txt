@@ -1,0 +1,2 @@
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

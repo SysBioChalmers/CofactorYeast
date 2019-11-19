@@ -1,0 +1,3 @@
+PATH	*	ascorbate metabolism	*	*
+PATH	*	flavin biosynthesis	*	*
+PATH	*	lipid metabolism	*	*

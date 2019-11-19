@@ -1,0 +1,1 @@
+ecNumber*3.2.1.181#specificActivity*12.8#specificActivityMaximum*#commentary*pH 5.0, 37&Acirc;&deg;C, liberation of D-galactose#organism*Flammulina velutipes#literature*717837#

@@ -1,0 +1,184 @@
+KCAT	Geobacillus kaustophilus	0.0031	Paraoxon	*wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	0.17	N-hexanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	0.2	N-hexanoyl-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101G/R230C
+KCAT	Geobacillus kaustophilus	0.25	N-hexanoyl-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101N/R230I
+KCAT	Bacillus thuringiensis	0.257	N-hexanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KCAT	Bacillus thuringiensis	0.31	N-hexanoyl-L-homoserine lactone	*mutant Y194F with Zn2+
+KCAT	Bacillus thuringiensis	1.4	N-hexanoyl-L-homoserine lactone	*mutant D108N with Zn2+
+KCAT	Bacillus thuringiensis	3	N-hexanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KCAT	Bacillus thuringiensis	3.5	N-hexanoyl-L-homoserine lactone	*mutant D108N with Co2+
+KCAT	Bacillus thuringiensis	16.6	N-hexanoyl-L-homoserine lactone	*mutant Y194F with Co2+
+KCAT	Bacillus sp. (in: Bacteria)	35.7	N-hexanoyl-L-homoserine lactone	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus thuringiensis	91	N-hexanoyl-L-homoserine lactone	*Zn2+-form of AHL lactonase, at pH 7.4 and at 28&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	330	N-hexanoyl-L-homoserine lactone	*Mn2+-form of AHL lactonase, at pH 7.4 and at 28&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	480	N-hexanoyl-L-homoserine lactone	*Cd2+-form of AHL lactonase, at pH 7.4 and at 28&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	510	N-hexanoyl-L-homoserine lactone	*Co2+-form of AHL lactonase, at pH 7.4 and at 28&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	2	gamma-nonalactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101N/R230I
+KCAT	Geobacillus kaustophilus	2.9	gamma-nonalactone	*pH 8.3, 37&Acirc;&deg;C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	22	gamma-nonalactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Brevundimonas diminuta	4.69	L-homoserine lactone	*pH 8.2, 25&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	0.3	N-octanoyl-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101G/R230C
+KCAT	Bacillus thuringiensis	0.46	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KCAT	Geobacillus kaustophilus	0.52	N-octanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	0.83	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F64C/F68C, absence of DTT
+KCAT	Geobacillus kaustophilus	1.4	N-octanoyl-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101N/R230I
+KCAT	Bacillus thuringiensis	8.2	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F64C/F68C, presence of DTT
+KCAT	Bacillus sp. (in: Bacteria)	27.5	N-octanoyl-L-homoserine lactone	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus thuringiensis	34	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KCAT	Bacillus thuringiensis	57	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type, presence of DTT
+KCAT	Saccharolobus solfataricus	0.95	N-(3-oxododecanoyl)-L-homoserine lactone	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	2	N-(3-oxododecanoyl)-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	6.9	N-(3-oxododecanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	1.6	delta-nonalactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101N/R230I
+KCAT	Geobacillus kaustophilus	29	delta-nonalactone	*pH 8.3, 37&Acirc;&deg;C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	0.29	N-(3-oxooctanoyl)-L-homoserine lactone	*wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	0.4	N-(3-oxooctanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1	N-(3-oxooctanoyl)-L-homoserine lactone	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	1.1	N-(3-oxooctanoyl)-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	1.8	N-(3-oxooctanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	1.5	N-(3-oxodecanoyl)-L-homoserine lactone	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	0.4	N-(3-oxohexanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Saccharolobus solfataricus	0.52	N-(3-oxohexanoyl)-L-homoserine lactone	*pH 8.0, 25&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	0.91	N-(3-oxohexanoyl)-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Geobacillus kaustophilus	1.8	N-(3-oxohexanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	0.32	N-decanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KCAT	Geobacillus kaustophilus	0.43	N-decanoyl-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101G/R230C
+KCAT	Geobacillus kaustophilus	1.7	N-decanoyl-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101N/R230I
+KCAT	Bacillus thuringiensis	54	N-decanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KCAT	Geobacillus kaustophilus	0.29	N-3-oxo-octanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Geobacillus kaustophilus	1.1	N-3-oxo-octanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101G/R230C
+KCAT	Geobacillus kaustophilus	1.8	N-3-oxo-octanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101N/R230I
+KCAT	Bacillus sp. (in: Bacteria)	37.6	N-butanoyl-L-homoserine lactone	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus thuringiensis	0.0446	N-octanoyl-DL-homoserine lactone	*pH 7.4, 32&Acirc;&deg;C
+KCAT	Bacillus thuringiensis serovar kurstaki	117	N-hexanoyl-(S)-homoserine lactone	*pH 7.4, 28&Acirc;&deg;C, purified detagged recombinant enzyme
+KCAT	Geobacillus kaustophilus	0.009	N-butyryl-L-homoserine lactone	*kcat below 0.009 s-1, mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C; pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101G/R230C
+KCAT	Geobacillus kaustophilus	0.011	N-butyryl-L-homoserine lactone	*kcat below 0.011 s-1, mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	1.11	N-hexanoyl-L-homoserine thiolactone	*mutant D108N
+KCAT	Bacillus thuringiensis	5.4	N-hexanoyl-L-homoserine thiolactone	*mutant Y194F
+KCAT	Geobacillus kaustophilus	0.4	N-3-oxo-hexanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101N/R230I
+KCAT	Geobacillus kaustophilus	0.91	N-3-oxo-hexanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101G/R230C
+KCAT	Geobacillus kaustophilus	2	N-3-oxo-dodecanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101G/R230C
+KCAT	Geobacillus kaustophilus	6.9	N-3-oxo-dodecanoyl-L-homoserine lactone	*pH 8.3, 37&Acirc;&deg;C, recombinant mutant E101N/R230I
+KCAT	Bacillus sp. (in: Bacteria)	22.7	N-3-oxohexanoyl-L-homoserine lactone	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus sp. (in: Bacteria)	20.2	N-3-oxodecanoyl-L-homoserine lactone	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus sp. (in: Bacteria)	28.6	N-3-oxobutanoyl-L-homoserine lactone	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus sp. (in: Bacteria)	22.2	N-3-oxooctanoyl-L-homoserine lactone	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus sp. (in: Bacteria)	29.3	N-3-hydroxybutanoyl-L-homoserine lactone	*pH 7.4, 22&Acirc;&deg;C, recombinant wild-type enzyme
+KCAT	Bacillus thuringiensis	0.3	N-heptanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KCAT	Bacillus thuringiensis	34	N-heptanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KCAT	Bacillus thuringiensis	0.0102	N-hexanoyl-DL-homoserine lactone	*pH 7.4, 32&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	0.0235	N-heptanoyl-DL-homoserine lactone	*pH 7.4, 32&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	0.00549	N-butanoyl-DL-homoserine lactone	*pH 7.4, 32&Acirc;&deg;C
+KCAT	Brevundimonas diminuta	2.62	N-butyryl-DL-homoserine lactone	*pH 8.2, 25&Acirc;&deg;C
+KCAT	Brevundimonas diminuta	3.17	N-hexyl-L-homoserine lactone	*pH 8.2, 25&Acirc;&deg;C
+KCAT	Brevundimonas diminuta	4.66	N-(3-oxooctyl)-L-homoserine lactone	*pH 8.2, 25&Acirc;&deg;C
+KCAT	Brevundimonas diminuta	2.67	N-(3-oxodecyl)-L-homoserine lactone	*pH 8.2, 25&Acirc;&deg;C
+KCAT	Brevundimonas diminuta	1.83	N-(3-oxododecyl)-L-homoserine lactone	*pH 8.2, 25&Acirc;&deg;C
+KCAT	Bacillus thuringiensis	0.08	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KCAT	Bacillus thuringiensis	3	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F64C/F68C, absence of DTT
+KCAT	Bacillus thuringiensis	6.1	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F64C/F68C, presence of DTT
+KCAT	Bacillus thuringiensis	43	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KCAT	Bacillus thuringiensis	45	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type, presence of DTT
+KM	Agrobacterium tumefaciens	-999	more	*kinetics
+KM	Bacillus thuringiensis serovar kurstaki	-999	more	*steady-state kinetics, different enzyme constitutions
+KM	Bacillus sp. (in: Bacteria)	-999	more	*kinetics and thermodynamics
+KM	Bacillus thuringiensis	-999	more	*steady-state kinetics of wild-type and mutant enzymes, overview
+KM	Bacillus sp. (in: Bacteria)	0.0014	N-3-oxodecanoyl-L-homoserine lactone	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KM	Bacillus sp. (in: Bacteria)	0.0023	N-3-oxooctanoyl-L-homoserine lactone	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KM	Geobacillus kaustophilus	0.0024	gamma-nonalactone	*pH 8.3, 37&deg;C, recombinant wild-type enzyme
+KM	Bacillus sp. (in: Bacteria)	0.0026	N-octanoyl-L-homoserine lactone	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KM	Bacillus sp. (in: Bacteria)	0.003	N-3-oxohexanoyl-L-homoserine lactone	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KM	Bacillus sp. (in: Bacteria)	0.0038	N-hexanoyl-L-homoserine lactone	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KM	Bacillus sp. (in: Bacteria)	0.0047	N-3-oxobutanoyl-L-homoserine lactone	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KM	Bacillus sp. (in: Bacteria)	0.0051	N-butanoyl-L-homoserine lactone	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KM	Bacillus sp. (in: Bacteria)	0.0075	N-3-hydroxybutanoyl-L-homoserine lactone	*pH 7.4, 22&deg;C, recombinant wild-type enzyme
+KM	Geobacillus kaustophilus	0.024	gamma-nonalactone	*wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	0.035	delta-nonalactone	*pH 8.3, 37&deg;C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Saccharolobus solfataricus	0.05	N-(3-oxodecanoyl)-L-homoserine lactone	*pH 8.0, 25&deg;C
+KM	Bacillus thuringiensis	0.09	N-hexanoyl-L-homoserine lactone	*mutant D108N with Co2+
+KM	Geobacillus kaustophilus	0.095	N-octanoyl-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C; pH 8.3, 37&deg;C, recombinant mutant E101G/R230C
+KM	Brevundimonas diminuta	0.101	N-(3-oxododecyl)-L-homoserine lactone	*pH 8.2, 25&deg;C
+KM	Geobacillus kaustophilus	0.13	N-decanoyl-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C; mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C; pH 8.3, 37&deg;C, recombinant mutant E101G/R230C; pH 8.3, 37&deg;C, recombinant mutant E101N/R230I
+KM	Bacillus thuringiensis	0.14	N-decanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KM	Bacillus thuringiensis	0.15	N-decanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KM	Saccharolobus solfataricus	0.16	N-(3-oxooctanoyl)-L-homoserine lactone	*pH 8.0, 25&deg;C
+KM	Saccharolobus solfataricus	0.17	N-(3-oxododecanoyl)-L-homoserine lactone	*pH 8.0, 25&deg;C
+KM	Bacillus thuringiensis	0.18	N-hexanoyl-L-homoserine lactone	*Mn2+-form of AHL lactonase, at pH 7.4 and at 28&deg;C
+KM	Bacillus thuringiensis	0.18	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KM	Brevundimonas diminuta	0.184	N-(3-oxodecyl)-L-homoserine lactone	*pH 8.2, 25&deg;C
+KM	Bacillus thuringiensis	0.24	N-hexanoyl-L-homoserine lactone	*Cd2+-form of AHL lactonase, at pH 7.4 and at 28&deg;C
+KM	Bacillus thuringiensis	0.26	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F64C/F68C, presence of DTT
+KM	Bacillus thuringiensis	0.3	N-heptanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KM	Brevundimonas diminuta	0.306	L-homoserine lactone	*pH 8.2, 25&deg;C
+KM	Bacillus thuringiensis	0.36	N-hexanoyl-L-homoserine lactone	*Co2+-form of AHL lactonase, at pH 7.4 and at 28&deg;C
+KM	Geobacillus kaustophilus	0.39	N-octanoyl-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C; pH 8.3, 37&deg;C, recombinant mutant E101N/R230I
+KM	Brevundimonas diminuta	0.412	N-butyryl-DL-homoserine lactone	*pH 8.2, 25&deg;C
+KM	Geobacillus kaustophilus	0.46	gamma-nonalactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C; pH 8.3, 37&deg;C, recombinant mutant E101N/R230I
+KM	Geobacillus kaustophilus	0.48	N-(3-oxododecanoyl)-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	0.48	N-3-oxo-dodecanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant mutant E101G/R230C
+KM	Bacillus thuringiensis	0.5	N-butanoyl-DL-homoserine lactone	*pH 7.4, 32&deg;C
+KM	Brevundimonas diminuta	0.526	N-hexyl-L-homoserine lactone	*pH 8.2, 25&deg;C
+KM	Bacillus thuringiensis	0.6	N-hexanoyl-L-homoserine thiolactone	*mutant Y194F
+KM	Brevundimonas diminuta	0.608	N-(3-oxooctyl)-L-homoserine lactone	*pH 8.2, 25&deg;C
+KM	Geobacillus kaustophilus	0.69	Paraoxon	*wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Bacillus thuringiensis	0.7	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F64C/F68C, absence of DTT; pH 7.5, temperature not specified in the publication, wild-type, presence of DTT
+KM	Geobacillus kaustophilus	0.74	N-(3-oxododecanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	0.74	N-3-oxo-dodecanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant mutant E101N/R230I
+KM	Bacillus thuringiensis	0.8	N-octanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KM	Bacillus thuringiensis	0.86	N-hexanoyl-DL-homoserine lactone	*pH 7.4, 32&deg;C
+KM	Geobacillus kaustophilus	1.1	delta-nonalactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C; pH 8.3, 37&deg;C, recombinant mutant E101N/R230I
+KM	Geobacillus kaustophilus	1.1	gamma-nonalactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	1.2	N-octanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Bacillus thuringiensis	1.3	N-hexanoyl-L-homoserine thiolactone	*mutant D108N
+KM	Bacillus thuringiensis	1.6	N-heptanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KM	Bacillus thuringiensis	1.6	N-hexanoyl-L-homoserine lactone	*mutant D108N with Zn2+
+KM	Bacillus thuringiensis	1.8	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F64C/F68C, presence of DTT
+KM	Bacillus thuringiensis	2	N-hexanoyl-L-homoserine lactone	*mutant Y194F with Co2+
+KM	Bacillus thuringiensis	2.1	N-hexanoyl-L-homoserine lactone	*mutant Y194F with Zn2+
+KM	Bacillus thuringiensis	2.1	N-hexanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KM	Geobacillus kaustophilus	2.4	N-hexanoyl-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C; pH 8.3, 37&deg;C, recombinant mutant E101G/R230C
+KM	Geobacillus kaustophilus	2.6	N-hexanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant wild-type enzyme; wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	2.9	N-(3-oxohexanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	2.9	N-(3-oxooctanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	2.9	N-3-oxo-octanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant mutant E101N/R230I
+KM	Bacillus thuringiensis	3	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, wild-type
+KM	Geobacillus kaustophilus	3.7	N-hexanoyl-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C; pH 8.3, 37&deg;C, recombinant mutant E101N/R230I
+KM	Geobacillus kaustophilus	3.8	N-(3-oxooctanoyl)-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	3.8	N-3-oxo-octanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant mutant E101G/R230C
+KM	Bacillus thuringiensis	3.81	N-octanoyl-DL-homoserine lactone	*pH 7.4, 32&deg;C
+KM	Bacillus thuringiensis	4.5	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F64C/F68C, absence of DTT
+KM	Saccharolobus solfataricus	5.6	N-(3-oxohexanoyl)-L-homoserine lactone	*pH 8.0, 25&deg;C
+KM	Bacillus thuringiensis	5.6	N-hexanoyl-L-homoserine lactone	*Zn2+-form of AHL lactonase, at pH 7.4 and at 28&deg;C
+KM	Geobacillus kaustophilus	5.9	N-3-oxo-octanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant wild-type enzyme
+KM	Geobacillus kaustophilus	5.9	N-(3-oxooctanoyl)-L-homoserine lactone	*wild type enzyme, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Bacillus thuringiensis	6	N-pentanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W; pH 7.5, temperature not specified in the publication, wild-type, presence of DTT
+KM	Bacillus thuringiensis serovar kurstaki	6.7	N-hexanoyl-(S)-homoserine lactone	*pH 7.4, 28&deg;C, purified detagged recombinant enzyme
+KM	Bacillus thuringiensis	8.84	N-heptanoyl-DL-homoserine lactone	*pH 7.4, 32&deg;C
+KM	Geobacillus kaustophilus	9	N-(3-oxohexanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230I, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	9	N-3-oxo-hexanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant mutant E101N/R230I
+KM	Geobacillus kaustophilus	9	N-(3-oxooctanoyl)-L-homoserine lactone	*mutant enzyme E101N/R230, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Bacillus thuringiensis	10	N-hexanoyl-L-homoserine lactone	*pH 7.5, temperature not specified in the publication, mutant F107W
+KM	Geobacillus kaustophilus	26	N-(3-oxohexanoyl)-L-homoserine lactone	*mutant enzyme E101G/R230C, in 2.5 mM Bicine buffer, pH 8.3, at 37&deg;C
+KM	Geobacillus kaustophilus	26	N-3-oxo-hexanoyl-L-homoserine lactone	*pH 8.3, 37&deg;C, recombinant mutant E101G/R230C
+MW	Bacillus sp. B10	28000	*	*x * 28000, SDS-PAGE
+MW	Bacillus sp. B6	28000	*	*x * 28000, SDS-PAGE
+MW	Bacillus thuringiensis	28000	*	*SDS-PAGE
+MW	Bacillus licheniformis	28000	*	*calculated from cDNA
+MW	Bacillus simplex	28000	*	*SDS-PAGE
+MW	Bacillus thuringiensis serovar kurstaki	29000	*	*x * 29000, recombinant detagged enzyme, SDS-PAGE; x * 29000, SDS-PAGE
+MW	Arthrobacter sp.	30000	*	*x * 30000, native enzyme, SDS-PAGE, x * 36000, recombinant enzyme, SDS-PAGE
+MW	Parageobacillus caldoxylosilyticus	32000	*	*x * 32000, SDS-PAGE
+MW	Saccharolobus solfataricus	34000	*	*x * 34000, SDS-PAGE
+MW	Arthrobacter sp.	36000	*	*x * 30000, native enzyme, SDS-PAGE, x * 36000, recombinant enzyme, SDS-PAGE
+MW	Microbacterium testaceum	74000	*	*x * 74000, recombinant MBP-fusion enzyme, SDS-PAGE
+SA	Bacillus thuringiensis serovar kurstaki	-999	*	*
+SA	Bacillus sp. (in: Bacteria)	-999	*	*
+SA	Arthrobacter sp.	-999	*	*
+SA	Anabaena sp.	-999	*	*substrate specificity, overview
+SA	Homo sapiens	0.012	*	*serum
+SA	Bos taurus	0.013	*	*serum
+SA	Capra hircus	0.013	*	*serum
+SA	Equus caballus	0.014	*	*serum
+SA	Mus musculus	0.016	*	*serum
+SA	Oryctolagus cuniculus	0.017	*	*serum, substrate N-3-oxododecanoyl-L-homoserine lactone
+SA	Parageobacillus caldoxylosilyticus	256	*	*purified enzyme, substrate N-3-oxo-dodecanoyl-L-homoserine lactone, pH 6.5, 50&Acirc;&deg;C

@@ -1,0 +1,11 @@
+KM	Origanum majorana	0.0019	geranyl diphosphate	*pH 7.0, 30&Acirc;&deg;C
+KM	Origanum majorana	0.0019	geranyl diphosphate	*pH 7.0, 30&Acirc;&deg;C
+KM	Origanum majorana	0.0105	neryl diphosphate	*pH 7.0, 30&Acirc;&deg;C
+KM	Origanum majorana	0.0105	neryl diphosphate	*pH 7.0, 30&Acirc;&deg;C
+KM	Origanum majorana	0.001	(3S)-linalyl diphosphate	*pH 7.0, 30&Acirc;&deg;C
+KM	Origanum majorana	0.0027	(3R)-linalyl diphosphate	*pH 7.0, 30&Acirc;&deg;C
+KM	Origanum majorana	0.0045	6,7-dihydrogeranyl diphosphate	*pH 7.0, 30&Acirc;&deg;C
+MW	Origanum majorana	56000	*	*gel filtration
+PATH	*	Monoterpenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

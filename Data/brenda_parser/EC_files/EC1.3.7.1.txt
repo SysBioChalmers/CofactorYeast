@@ -1,0 +1,8 @@
+KM	Clostridium sp.	0.016	Ferredoxin	*
+KM	Clostridium sp.	0.3	methyl viologen	*
+MW	Eubacterium barkeri	53000	*	*gel filtration
+PATH	*	nicotinate degradation III	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Clostridium sp.	1.9	*	*
+SA	Eubacterium barkeri	350	*	*purified enzyme under strictly anaerobic conditions

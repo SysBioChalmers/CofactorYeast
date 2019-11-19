@@ -1,0 +1,2 @@
+PATH	*	Indole alkaloid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

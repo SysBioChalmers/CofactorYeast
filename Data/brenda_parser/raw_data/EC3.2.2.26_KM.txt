@@ -1,0 +1,1 @@
+ecNumber*3.2.2.26#kmValue*0.00103#kmValueMaximum*#substrate*6-amino-6-deoxyfutalosine#commentary*at pH 7.0 and 25&Acirc;&deg;C#organism*Campylobacter jejuni#ligandStructureId*6387#literature*715607#!ecNumber*3.2.2.26#kmValue*0.154#kmValueMaximum*#substrate*futalosine#commentary*pH 4.5, 80&Acirc;&deg;C#organism*Thermus thermophilus#ligandStructureId*14392#literature*707778#

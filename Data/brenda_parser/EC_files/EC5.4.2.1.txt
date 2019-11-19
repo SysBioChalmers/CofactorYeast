@@ -1,0 +1,13 @@
+KCAT	Wolbachia endosymbiont of Dirofilaria immitis	102	3-phospho-D-glycerate	*in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30&deg;C
+KCAT	Dirofilaria immitis	132	3-phospho-D-glycerate	*in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30&deg;C
+KCAT	Lactococcus lactis subsp. lactis	3200	3-phospho-D-glycerate	*in triethanol-HCl buffer (125 mM, pH 7.2, 5 mM MgCl2, 10 mM KCl), 0.1 mM 2,3-bisphosphoglyceric acid, temperature not specified in the publication
+KM	Wolbachia endosymbiont of Dirofilaria immitis	0.55	3-phospho-D-glycerate	*in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30&Acirc;&deg;C
+KM	Dirofilaria immitis	0.58	3-phospho-D-glycerate	*in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30&Acirc;&deg;C
+KM	Lactococcus lactis subsp. lactis	1.03	3-phospho-D-glycerate	*in triethanol-HCl buffer (125 mM, pH 7.2, 5 mM MgCl2, 10 mM KCl), 0.1 mM 2,3-bisphosphoglyceric acid, temperature not specified in the publication
+MW	Lactococcus lactis subsp. lactis	26000	*	*2 * 26000, calculated from amino acid sequence
+MW	Wolbachia endosymbiont of Dirofilaria immitis	56000	*	*x * 56000, calculated from amino acid sequence
+MW	Dirofilaria immitis	57000	*	*x * 57000, calculated from amino acid sequence
+MW	Lactococcus lactis subsp. lactis	102000	*	*gel filtration
+SA	Methanococcus maripaludis	0.078	*	*pH 7.5, 37&Acirc;&deg;C, activity in undialyzed cell extracts
+SA	Wolbachia endosymbiont of Dirofilaria immitis	71	*	*in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30&Acirc;&deg;C
+SA	Dirofilaria immitis	225	*	*in 30 mM Tris-HCl, 5 mM MgSO4, 20 mM KCl, pH 7.5, at 30&Acirc;&deg;C

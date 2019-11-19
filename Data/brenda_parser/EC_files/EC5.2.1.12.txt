@@ -1,0 +1,5 @@
+PATH	*	trans-lycopene biosynthesis II (oxygenic phototrophs and green sulfur bacteria)	*	*
+PATH	*	carotenoid biosynthesis	*	*
+PATH	*	Carotenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

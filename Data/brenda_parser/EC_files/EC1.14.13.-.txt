@@ -1,0 +1,5 @@
+PATH	*	bacilysin biosynthesis	*	*
+PATH	*	histidine metabolism	*	*
+PATH	*	phenylpropanoid biosynthesis	*	*
+PATH	*	resorcinol degradation	*	*
+PATH	*	ubiquinone biosynthesis	*	*

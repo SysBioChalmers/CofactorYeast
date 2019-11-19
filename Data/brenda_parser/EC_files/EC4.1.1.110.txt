@@ -1,0 +1,6 @@
+MW	Thermoplasma acidophilum	89000	*	*gel filtration
+PATH	*	mevalonate pathway III (archaea)	*	*
+PATH	*	mevalonate metabolism	*	*
+PATH	*	Terpenoid backbone biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

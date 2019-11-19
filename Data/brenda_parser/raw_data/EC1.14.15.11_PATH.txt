@@ -1,0 +1,1 @@
+ecNumber*1.14.15.11#pathway*neopentalenoketolactone and pentalenate biosynthesis#link*PWY-6919#source_database*MetaCyc#!ecNumber*1.14.15.11#pathway*Biosynthesis of secondary metabolites - unclassified#link*00999#source_database*KEGG#

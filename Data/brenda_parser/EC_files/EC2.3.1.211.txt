@@ -1,0 +1,3 @@
+MW	Oryza sativa	43000	*	*x * 43000, recombinant His-tagged enzyme, SDS-PAGE
+PATH	*	Stilbenoid, diarylheptanoid and gingerol biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

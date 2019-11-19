@@ -1,0 +1,4 @@
+PATH	*	emetine biosynthesis	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

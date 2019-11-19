@@ -1,0 +1,5 @@
+KM	Rattus norvegicus	-999	more	*
+PATH	*	D-glucuronate degradation I	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Rattus norvegicus	-999	*	*

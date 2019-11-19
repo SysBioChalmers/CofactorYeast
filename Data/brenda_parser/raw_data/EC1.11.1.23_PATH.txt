@@ -1,0 +1,1 @@
+ecNumber*1.11.1.23#pathway*fosfomycin biosynthesis#link*PWY-5757#source_database*MetaCyc#!ecNumber*1.11.1.23#pathway*Phosphonate and phosphinate metabolism#link*00440#source_database*KEGG#!ecNumber*1.11.1.23#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

@@ -1,0 +1,2 @@
+PATH	*	CMP-pseudaminate biosynthesis	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*

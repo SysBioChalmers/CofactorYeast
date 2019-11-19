@@ -1,0 +1,1 @@
+ecNumber*4.1.1.M15#pathway*fatty acid biosynthesis initiation III#link*PWY-5965#source_database*MetaCyc#!ecNumber*4.1.1.M15#pathway*mupirocin biosynthesis#link*PWY-8012#source_database*MetaCyc#

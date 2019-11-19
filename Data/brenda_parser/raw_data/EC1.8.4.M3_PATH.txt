@@ -1,0 +1,1 @@
+ecNumber*1.8.4.M3#pathway*periplasmic disulfide bond formation#link*PWY0-1599#source_database*MetaCyc#

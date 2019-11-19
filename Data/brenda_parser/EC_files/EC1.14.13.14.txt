@@ -1,0 +1,6 @@
+PATH	*	coumarin biosynthesis (via 2-coumarate)	*	*
+PATH	*	Phenylalanine metabolism	*	*
+PATH	*	Phenylpropanoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Melilotus albus	0.0004	*	*supernatant activity

@@ -1,0 +1,5 @@
+PATH	*	imidazole-lactate degradation	*	*
+PATH	*	L-histidine degradation IV	*	*
+PATH	*	histidine metabolism	*	*
+SA	Delftia acidovorans	7	*	*in crude extracts, cofactor NADH
+SA	Delftia acidovorans	12	*	*in crude extracts, cofactor NADPH

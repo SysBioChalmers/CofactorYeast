@@ -1,0 +1,1 @@
+ecNumber*4.2.99.d#pathway*morphine biosynthesis#link*PWY-5270#source_database*MetaCyc#

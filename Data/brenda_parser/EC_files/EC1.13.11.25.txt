@@ -1,0 +1,10 @@
+MW	Rhodococcus hoagii	274000	*	*sedimentation equilibrium
+MW	Rhodococcus hoagii	286000	*	*
+MW	Rhodococcus hoagii	286000	*	*sedimentation velocity
+MW	Rhodococcus hoagii	286000	*	*
+PATH	*	androstenedione degradation	*	*
+PATH	*	androgen and estrogen metabolism	*	*
+PATH	*	Steroid degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Rhodococcus hoagii	22.17	*	*

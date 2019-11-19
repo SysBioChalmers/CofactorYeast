@@ -1,0 +1,2 @@
+PATH	*	ferulate degradation	*	*
+PATH	*	suberin monomers biosynthesis	*	*

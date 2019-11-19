@@ -1,0 +1,3 @@
+PATH	*	dapdiamides biosynthesis	*	*
+PATH	*	staphyloferrin B biosynthesis	*	*
+PATH	*	zwittermicin A biosynthesis	*	*

@@ -1,0 +1,5 @@
+MW	Haematococcus lacustris	32000	*	*SDS-PAGE
+PATH	*	astaxanthin biosynthesis (bacteria, fungi, algae)	*	*
+PATH	*	flexixanthin biosynthesis	*	*
+PATH	*	Carotenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

@@ -1,0 +1,1 @@
+ecNumber*2.4.1.dt#pathway*ginsenosides biosynthesis#link*PWY-5672#source_database*MetaCyc#

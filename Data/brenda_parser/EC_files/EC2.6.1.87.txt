@@ -1,0 +1,3 @@
+PATH	*	polymyxin resistance	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	Metabolic pathways	*	*

@@ -1,0 +1,5 @@
+PATH	*	(4S)-carveol and (4S)-dihydrocarveol degradation	*	*
+PATH	*	(4S)-carvone biosynthesis	*	*
+PATH	*	Monoterpenoid biosynthesis	*	*
+PATH	*	Limonene and pinene degradation	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

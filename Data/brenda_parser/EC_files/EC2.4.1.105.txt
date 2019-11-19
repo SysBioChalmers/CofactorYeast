@@ -1,0 +1,4 @@
+KM	Silene latifolia subsp. alba	0.2	UDPglucose	*
+KM	Silene latifolia subsp. alba	0.01	vitexin	*
+PATH	*	vitexin and derivatives biosynthesis	*	*
+PATH	*	Flavone and flavonol biosynthesis	*	*

@@ -1,0 +1,8 @@
+KM	Homo sapiens	-999	more	*Michaelis-Menten kinetics of wild-type and mutant enzymes; Michaelis-Menten kinetics of wild-type and mutant enzymes
+MW	Homo sapiens	95059	*	*1 * 95059, LSD1 without N-terminal methionine, mass spectrometry
+MW	Homo sapiens	100000	*	*about, recombinant enzyme, gel filtration
+MW	Homo sapiens	192000	*	*
+SA	Homo sapiens	-999	*	*specific isozyme activities with non-histone substrates, overview
+SA	Homo sapiens	0.00029	*	*recombinant purified isozyme JMJD2B, substrate histone H3K9
+SA	Homo sapiens	0.0005	*	*recombinant purified isozyme JMJD2C, substrate histone H3K9
+SA	Homo sapiens	0.001	*	*recombinant purified isozyme JMJD2A, substrate histone H3K9

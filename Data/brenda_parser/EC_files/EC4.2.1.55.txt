@@ -1,0 +1,14 @@
+KM	Rhodospirillum rubrum	0.00926	crotonyl-CoA	*
+KM	Rhodospirillum rubrum	0.0263	trans-2-hexenoyl-CoA	*
+KM	Rhodospirillum rubrum	0.08	crotonyl-[acyl-carrier protein]	*
+KM	Rhodospirillum rubrum	0.118	Crotonylpantetheine	*
+PATH	*	acetyl-CoA fermentation to butanoate II	*	*
+PATH	*	ethylmalonyl-CoA pathway	*	*
+PATH	*	butanoate fermentation	*	*
+PATH	*	CO2 fixation in Crenarchaeota	*	*
+PATH	*	tryptophan metabolism	*	*
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+PATH	*	Butanoate metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Rhodospirillum rubrum	-999	*	*
+SA	Ferroglobus placidus	5.7	*	*85&Acirc;&deg;C, pH 7.0, highly enriched enzyme

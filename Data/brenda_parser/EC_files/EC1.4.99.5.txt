@@ -1,0 +1,2 @@
+PATH	*	Cyanoamino acid metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

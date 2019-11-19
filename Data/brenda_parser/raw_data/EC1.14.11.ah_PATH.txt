@@ -1,0 +1,1 @@
+ecNumber*1.14.11.ah#pathway*coumarins biosynthesis (engineered)#link*PWY-7398#source_database*MetaCyc#!ecNumber*1.14.11.ah#pathway*scopoletin biosynthesis#link*PWY-6792#source_database*MetaCyc#

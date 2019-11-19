@@ -1,0 +1,8 @@
+KM	Chromohalobacter salexigens	0.1	NADPH	*pH 9.0, 23&Acirc;&deg;C
+KM	Chromohalobacter salexigens	1.2	NADP+	*pH 9.0, 23&Acirc;&deg;C
+KM	Chromohalobacter salexigens	0.14	3-sulfopyruvate	*pH 9.0, 23&Acirc;&deg;C
+KM	Chromohalobacter salexigens	19	(S)-3-sulfolactate	*pH 9.0, 23&Acirc;&deg;C
+MW	Chromohalobacter salexigens	37000	*	*2 * 37000, SDS-PAGE
+PATH	*	sulfolactate degradation I	*	*
+PATH	*	Cysteine and methionine metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

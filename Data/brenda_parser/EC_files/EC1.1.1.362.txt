@@ -1,0 +1,6 @@
+MW	Streptomyces sp.	25632	*	*x * 25632, calculated from sequence
+PATH	*	aclacinomycin biosynthesis	*	*
+PATH	*	daunorubicin biosynthesis	*	*
+PATH	*	aclacinomycin biosynthesis	*	*
+PATH	*	Biosynthesis of type II polyketide products	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

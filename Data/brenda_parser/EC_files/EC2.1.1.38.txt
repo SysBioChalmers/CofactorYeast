@@ -1,0 +1,7 @@
+KM	Streptomyces alboniger	0.01	S-adenosyl-L-methionine	*
+KM	Streptomyces alboniger	0.21	O-demethylpuromycin	*
+MW	Streptomyces alboniger	68000	*	*sucrose density gradient centrifugation
+PATH	*	puromycin biosynthesis	*	*
+PATH	*	Puromycin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Streptomyces alboniger	0.0165	*	*

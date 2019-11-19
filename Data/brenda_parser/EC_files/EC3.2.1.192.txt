@@ -1,0 +1,6 @@
+KM	Paecilomyces sp. (in: Eurotiomycetes)	0.111	4-nitrophenyl beta-D-glucoside	*pH 3.5, 45&Acirc;&deg;C
+KM	Paecilomyces sp. (in: Eurotiomycetes)	0.805	ginsenoside Rd	*pH 3.5, 45&Acirc;&deg;C
+KM	Paecilomyces sp. (in: Eurotiomycetes)	0.072	ginsenoside Rb1	*pH 3.5, 45&Acirc;&deg;C
+MW	Paecilomyces sp. (in: Eurotiomycetes)	102000	*	*3 * 102000, SDS-PAGE
+MW	Paecilomyces sp. (in: Eurotiomycetes)	305000	*	*gel filtration
+PATH	*	ginsenoside metabolism	*	*

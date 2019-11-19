@@ -1,0 +1,3 @@
+PATH	*	mineralocorticoid biosynthesis	*	*
+PATH	*	Steroid hormone biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

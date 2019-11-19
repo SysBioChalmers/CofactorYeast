@@ -1,0 +1,1 @@
+ecNumber*6.3.5.c#pathway*peptidoglycan biosynthesis II (staphylococci)#link*PWY-5265#source_database*MetaCyc#!ecNumber*6.3.5.c#pathway*peptidoglycan biosynthesis IV (Enterococcus faecium)#link*PWY-6471#source_database*MetaCyc#

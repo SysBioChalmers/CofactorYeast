@@ -1,0 +1,2 @@
+MW	Sinapis alba	65000	*	*gel filtration
+SA	Sinapis alba	0.3621	*	*

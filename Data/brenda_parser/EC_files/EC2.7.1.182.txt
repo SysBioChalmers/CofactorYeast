@@ -1,0 +1,2 @@
+PATH	*	phytol salvage pathway	*	*
+PATH	*	chlorophyll metabolism	*	*

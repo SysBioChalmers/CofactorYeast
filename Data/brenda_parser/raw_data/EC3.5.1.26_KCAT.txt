@@ -1,0 +1,1 @@
+ecNumber*3.5.1.26#turnoverNumber*0.00015#turnoverNumberMaximum*#substrate*more#commentary*mutant with T152C#organism*Elizabethkingia meningoseptica#ligandStructureId*#literature*681417#!ecNumber*3.5.1.26#turnoverNumber*16#turnoverNumberMaximum*#substrate*more#commentary*native enzyme#organism*Elizabethkingia meningoseptica#ligandStructureId*#literature*681417#

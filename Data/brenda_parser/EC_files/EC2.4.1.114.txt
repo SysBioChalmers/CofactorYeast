@@ -1,0 +1,3 @@
+PATH	*	coumarin biosynthesis (via 2-coumarate)	*	*
+PATH	*	Phenylpropanoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

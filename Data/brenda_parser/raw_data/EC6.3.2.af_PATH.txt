@@ -1,0 +1,1 @@
+ecNumber*6.3.2.af#pathway*staphyloferrin A biosynthesis#link*PWY-7990#source_database*MetaCyc#

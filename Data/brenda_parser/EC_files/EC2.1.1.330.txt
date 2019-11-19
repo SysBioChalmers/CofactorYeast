@@ -1,0 +1,3 @@
+PATH	*	yatein biosynthesis I	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

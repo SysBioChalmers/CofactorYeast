@@ -1,0 +1,6 @@
+KM	Escherichia coli	0.056	NADP+	*pH and temperature not specified in the publication
+MW	Escherichia coli	73045	*	*x * 73045, calculated from amino acid sequence
+PATH	*	phenylacetate degradation I (aerobic)	*	*
+PATH	*	phenylacetate degradation (aerobic)	*	*
+PATH	*	Phenylalanine metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

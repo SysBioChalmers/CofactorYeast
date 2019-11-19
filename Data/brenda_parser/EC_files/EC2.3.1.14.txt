@@ -1,0 +1,5 @@
+MW	Macaca fuscata	30000	*	*gel filtration
+PATH	*	L-phenylalanine degradation IV (mammalian, via side chain)	*	*
+PATH	*	Tyrosine metabolism	*	*
+PATH	*	Phenylalanine metabolism	*	*
+SA	Macaca fuscata	-999	*	*specific activity in various organs

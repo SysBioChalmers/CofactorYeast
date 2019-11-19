@@ -1,0 +1,5 @@
+PATH	*	lupeol biosynthesis	*	*
+PATH	*	mangrove triterpenoid biosynthesis	*	*
+PATH	*	pentacyclic triterpene biosynthesis	*	*
+PATH	*	Sesquiterpenoid and triterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

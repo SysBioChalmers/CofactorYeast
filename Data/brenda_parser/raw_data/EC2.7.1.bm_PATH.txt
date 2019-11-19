@@ -1,0 +1,1 @@
+ecNumber*2.7.1.bm#pathway*dapdiamides biosynthesis#link*PWY-7706#source_database*MetaCyc#!ecNumber*2.7.1.bm#pathway*staphyloferrin B biosynthesis#link*PWY-8008#source_database*MetaCyc#!ecNumber*2.7.1.bm#pathway*zwittermicin A biosynthesis#link*PWY-7694#source_database*MetaCyc#

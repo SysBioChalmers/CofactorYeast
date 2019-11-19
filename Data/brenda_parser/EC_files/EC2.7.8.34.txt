@@ -1,0 +1,3 @@
+PATH	*	di-myo-inositol phosphate biosynthesis	*	*
+PATH	*	myo-inositol biosynthesis	*	*
+PATH	*	Inositol phosphate metabolism	*	*

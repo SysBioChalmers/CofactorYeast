@@ -1,0 +1,15 @@
+KCAT	Alteromonas fortis	4.1	iota-carrageenan	*mutant enzyme H281A, at 40&Acirc;&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl
+KCAT	Alteromonas fortis	13.8	iota-carrageenan	*mutant enzyme E310Q, at 40&Acirc;&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl
+KCAT	Alteromonas fortis	726.6	iota-carrageenan	*wild type enzyme, at 40&Acirc;&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl
+KM	Alteromonas fortis	1.2	iota-carrageenan	*mutant enzyme H281A, at 40&Acirc;&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl
+KM	Alteromonas fortis	2.4	iota-carrageenan	*mutant enzyme E310Q, at 40&Acirc;&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl
+KM	Alteromonas fortis	8.5	iota-carrageenan	*wild type enzyme, at 40&Acirc;&deg;C in 10 mM Tris, pH 8.0, and 100 mM NaCl
+MW	Cellulophaga sp.	48071	*	*x * 48071, sequence calculation; x * 48071, sequence calculation, x * 54000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Zobellia galactanivorans	50000	*	*gel filtration
+MW	Microbulbifer thermotolerans	54000	*	*gel filtration
+MW	Cellulophaga sp.	54000	*	*x * 48071, sequence calculation, x * 54000, recombinant His-tagged enzyme, SDS-PAGE
+MW	Microbulbifer thermotolerans	55000	*	*1 * 55000, SDS-PAGE
+PATH	*	iota-carrageenan degradation	*	*
+SA	Microbulbifer thermotolerans	7.8	*	*culture supernatant, at pH 7.5 and 50&Acirc;&deg;C
+SA	Microbulbifer thermotolerans	80.6	*	*after 10.3fold purification, at pH 7.5 and 50&Acirc;&deg;C
+SA	Cellulophaga sp.	1870	*	*pH 6.5, 45&Acirc;&deg;C, with iota-carrageenan; purified enzyme, pH 6.5, 45&Acirc;&deg;C

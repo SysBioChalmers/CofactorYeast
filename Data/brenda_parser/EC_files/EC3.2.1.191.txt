@@ -1,0 +1,14 @@
+KM	Terrabacter ginsenosidimutans	0.14	ginsenoside Rb1	*pH 7.0, 37&deg;C
+KM	Terrabacter ginsenosidimutans	3.85	ginsenoside Rc	*pH 7.0, 40&deg;C
+KM	Terrabacter ginsenosidimutans	4.08	ginsenoside Rb1	*pH 7.0, 40&deg;C
+KM	Terrabacter ginsenosidimutans	4.2	4-nitrophenyl beta-D-glucopyranoside	*pH 7.0, 37&deg;C
+KM	Terrabacter ginsenosidimutans	8.85	ginsenoside Rb3	*pH 7.0, 40&deg;C
+KM	Terrabacter ginsenosidimutans	9.09	ginsenoside Rb2	*pH 7.0, 40&deg;C
+KM	Terrabacter ginsenosidimutans	9.7	ginsenoside Rg3(S)	*pH 7.0, 40&deg;C
+KM	Terrabacter ginsenosidimutans	11.4	ginsenoside Rd	*pH 7.0, 40&deg;C
+KM	Terrabacter ginsenosidimutans	12.9	ginsenoside F2	*pH 7.0, 40&deg;C
+MW	Terrabacter ginsenosidimutans	70000	*	*3 * 70000, SDS-PAGE
+MW	Terrabacter ginsenosidimutans	71140	*	*3 * 71140, SDS-PAGE
+MW	Terrabacter ginsenosidimutans	71140	*	*x * 71140, calculated from sequence
+MW	Terrabacter ginsenosidimutans	72000	*	*x * 72000, SDS-PAGE
+MW	Terrabacter ginsenosidimutans	193000	*	*gel filtration

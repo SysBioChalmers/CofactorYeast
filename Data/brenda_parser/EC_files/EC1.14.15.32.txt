@@ -1,0 +1,5 @@
+KCAT	Streptomyces avermitilis	0.00838	(+/-)-pentalenene	*recombinant enzyme, in 50 mM phosphate buffer, 10% (v/v) glycerol, pH 7.4, at 22&Acirc;&deg;C
+KM	Streptomyces avermitilis	0.00333	(+/-)-pentalenene	*recombinant enzyme, in 50 mM phosphate buffer, 10% (v/v) glycerol, pH 7.4, at 22&deg;C
+PATH	*	Sesquiterpenoid and triterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

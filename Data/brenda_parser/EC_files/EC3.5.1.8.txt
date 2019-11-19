@@ -1,0 +1,7 @@
+KM	Pseudomonas sp.	1.25	N-formyl-L-aspartate	*formylase I
+KM	Pseudomonas sp.	1.32	N-formyl-L-aspartate	*formylase I
+PATH	*	histidine metabolism	*	*
+PATH	*	Histidine metabolism	*	*
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+SA	Pseudomonas sp.	5940	*	*formylase I
+SA	Pseudomonas sp.	21000	*	*formylase II

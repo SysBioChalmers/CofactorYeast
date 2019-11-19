@@ -1,0 +1,3 @@
+PATH	*	D-myo-inositol-5-phosphate metabolism	*	*
+PATH	*	Inositol phosphate metabolism	*	*
+PATH	*	Metabolic pathways	*	*

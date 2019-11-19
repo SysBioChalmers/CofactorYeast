@@ -1,0 +1,1 @@
+ecNumber*4.3.1.18#pathway*serine metabolism#link*BRENDA#source_database*BRENDA#!ecNumber*4.3.1.18#pathway*Glycine, serine and threonine metabolism#link*00260#source_database*KEGG#

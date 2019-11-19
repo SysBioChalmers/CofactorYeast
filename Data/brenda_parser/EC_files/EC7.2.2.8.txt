@@ -1,0 +1,17 @@
+KCAT	Archaeoglobus fulgidus	-999	more	*kinetic parameters for phosphorylation and dephosphorylation of CopA
+KCAT	Archaeoglobus fulgidus	-999	more	*free Cu+/ATPase activity kinetic parameters and binding stoichiometry pf wild type, and mutants M158A, M158C, E205A, E205C, D336A, D336C and S139A/G140A
+KM	Archaeoglobus fulgidus	-999	more	*kinetic parameters for phosphorylation and dephosphorylation of CopA
+KM	Archaeoglobus fulgidus	-999	more	*free Cu+/ATPase activity kinetic parameters and binding stoichiometry of wild type, and mutants M158A, M158C, E205A, E205C, D336A, D336C and S139A/G140A
+KM	Escherichia coli	-999	more	*Cu+-ATPase activity kinetic parameters and binding stoichiometry of recombinant wild-type and mutant enzymes, overview
+KM	Escherichia coli	0.00045	Cu+	*apparent Km-value of C14A/C17A/C110A/C113A mutant protein, pH 6.8, 20&deg;C
+KM	Escherichia coli	0.0015	Cu+	*apparent Km-value of wild-type protein, pH 6.8, 20&deg;C
+KM	Thermotoga maritima	0.0031	Cu+[side 1]	*at pH 6.0 and 60&deg;C
+KM	Archaeoglobus fulgidus	0.22	ATP	*pH 7.5, 20&deg;C, C27A/C30A mutant enzyme
+KM	Archaeoglobus fulgidus	0.25	ATP	*pH 6.1, 75&deg;C, ATPase activity
+KM	Archaeoglobus fulgidus	0.27	ATP	*pH 7.5, 20&deg;C, wild-type enzyme
+KM	Escherichia coli	0.5	ATP	*pH 6.8, 20&deg;C
+MW	Aquifex aeolicus	78000	*	*x * 78000, isoform CtrA3, SDS-PAGE
+MW	Aquifex aeolicus	80000	*	*x * 80000, isoform CtrA2, SDS-PAGE
+MW	Thermotoga maritima	83300	*	*x * 83300, SELDI-TOF mass spectrometry
+MW	Homo sapiens	150000	*	*gel filtration
+SA	Escherichia coli	-999	*	*ATPase hydrolysis rates of purified and reconstituted wild-type CopA and enzyme truncation mutants

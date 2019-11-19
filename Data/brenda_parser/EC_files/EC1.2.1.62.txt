@@ -1,0 +1,4 @@
+PATH	*	4-toluenesulfonate degradation I	*	*
+PATH	*	Toluene degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Comamonas testosteroni	30	*	*

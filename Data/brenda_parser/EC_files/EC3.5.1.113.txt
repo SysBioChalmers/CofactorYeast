@@ -1,0 +1,3 @@
+PATH	*	neomycin biosynthesis	*	*
+PATH	*	Neomycin, kanamycin and gentamicin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

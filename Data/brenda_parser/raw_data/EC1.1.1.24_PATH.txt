@@ -1,0 +1,1 @@
+ecNumber*1.1.1.24#pathway*quinate degradation II#link*PWY-6416#source_database*MetaCyc#!ecNumber*1.1.1.24#pathway*Phenylalanine, tyrosine and tryptophan biosynthesis#link*00400#source_database*KEGG#

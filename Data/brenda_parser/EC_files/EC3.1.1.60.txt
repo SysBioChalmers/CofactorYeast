@@ -1,0 +1,6 @@
+KCAT	Triticum aestivum	0.0000833	bis(2-ethylhexyl)phthalate	*
+KM	Triticum aestivum	0.005	bis(2-ethylhexyl)phthalate	*30&Acirc;&deg;C
+MW	Triticum aestivum	22000	*	*x * 22000, SDS-PAGE
+MW	Triticum aestivum	38000	*	*gel filtration
+MW	Triticum aestivum	38000	*	*gel filtration
+SA	Triticum aestivum	0.00077	*	*

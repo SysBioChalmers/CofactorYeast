@@ -1,0 +1,2 @@
+PATH	*	Terpenoid backbone biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

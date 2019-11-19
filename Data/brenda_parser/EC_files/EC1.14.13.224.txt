@@ -1,0 +1,4 @@
+MW	Chromobacterium violaceum	48000	*	*x * 48000, SDS-PAGE
+PATH	*	violacein biosynthesis	*	*
+PATH	*	Staurosporine biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

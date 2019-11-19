@@ -1,0 +1,4 @@
+MW	Amycolatopsis orientalis	49800	*	*x * 49800, electrospray ionisation mass spectrometry
+PATH	*	Monobactam biosynthesis	*	*
+PATH	*	Biosynthesis of vancomycin group antibiotics	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

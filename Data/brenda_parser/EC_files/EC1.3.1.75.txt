@@ -1,0 +1,12 @@
+PATH	*	bacteriochlorophyll a biosynthesis	*	*
+PATH	*	bacteriochlorophyll c biosynthesis	*	*
+PATH	*	bacteriochlorophyll d biosynthesis	*	*
+PATH	*	bacteriochlorophyll e biosynthesis	*	*
+PATH	*	chlorophyll a biosynthesis I	*	*
+PATH	*	chlorophyll a biosynthesis II	*	*
+PATH	*	chlorophyll metabolism	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Cucumis sativus	-999	*	*assay development
+SA	Hordeum vulgare	0.17	*	*partially purified enzyme

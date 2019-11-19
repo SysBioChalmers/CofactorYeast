@@ -1,0 +1,3 @@
+MW	Paracoccus pantotrophus	180000	*	*density-gradient gel electrophoresis
+PATH	*	thiosulfate oxidation III (multienzyme complex)	*	*
+PATH	*	Sulfur metabolism	*	*

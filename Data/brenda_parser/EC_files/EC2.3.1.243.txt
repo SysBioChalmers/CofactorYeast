@@ -1,0 +1,6 @@
+PATH	*	(Kdo)2-lipid A biosynthesis I	*	*
+PATH	*	superpathway of (Kdo)2-lipid A biosynthesis	*	*
+PATH	*	lipid A biosynthesis	*	*
+PATH	*	Lipopolysaccharide biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Escherichia coli	0.64	*	*pH 7.0, 30&deg;C

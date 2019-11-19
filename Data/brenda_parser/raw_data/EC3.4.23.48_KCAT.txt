@@ -1,0 +1,1 @@
+ecNumber*3.4.23.48#turnoverNumber*0.0035#turnoverNumberMaximum*#substrate*plasminogen#commentary*#organism*Yersinia pestis#ligandStructureId*#literature*668759#

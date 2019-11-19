@@ -1,0 +1,4 @@
+MW	Ginkgo biloba	100289	*	*x * 100289, calculated
+PATH	*	levopimaric acid biosynthesis	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

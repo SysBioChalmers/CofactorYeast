@@ -1,0 +1,4 @@
+PATH	*	bacteriochlorophyll a biosynthesis	*	*
+PATH	*	bacteriochlorophyll b biosynthesis	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

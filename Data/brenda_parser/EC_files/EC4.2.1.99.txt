@@ -1,0 +1,7 @@
+KM	Yarrowia lipolytica	0.018	(2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate	*
+MW	Yarrowia lipolytica	69000	*	*gel filtration
+PATH	*	2-methylcitrate cycle I	*	*
+PATH	*	2-methylcitrate cycle II	*	*
+PATH	*	propionate fermentation	*	*
+PATH	*	Propanoate metabolism	*	*
+SA	Yarrowia lipolytica	1.33	*	*

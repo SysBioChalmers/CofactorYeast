@@ -1,0 +1,5 @@
+KM	*	1.8	alpha,alpha-trehalose 6-phosphate	*
+PATH	*	trehalose degradation I (low osmolarity)	*	*
+PATH	*	metabolism of disaccharids	*	*
+PATH	*	Starch and sucrose metabolism	*	*
+SA	*	2.83	*	*

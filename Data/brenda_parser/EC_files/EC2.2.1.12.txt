@@ -1,0 +1,3 @@
+PATH	*	prodigiosin biosynthesis	*	*
+PATH	*	Prodigiosin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

@@ -1,0 +1,4 @@
+MW	Methanosarcina barkeri	50000	*	*1 * 50000
+PATH	*	methanogenesis from trimethylamine	*	*
+PATH	*	Methane metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

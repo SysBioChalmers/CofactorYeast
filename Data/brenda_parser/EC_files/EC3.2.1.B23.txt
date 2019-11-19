@@ -1,0 +1,3 @@
+MW	Achatina fulica	110000	*	*2 * 110000, SDS-PAGE
+MW	Achatina fulica	220000	*	*native PAGE
+SA	Achatina fulica	162.8	*	*pH 5.0, 50&Acirc;&deg;C, substrate: 4-nitrophenyl-beta-D-glucopyranoside

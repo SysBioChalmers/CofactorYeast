@@ -1,0 +1,2 @@
+PATH	*	Tyrosine metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

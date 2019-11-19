@@ -1,0 +1,26 @@
+KCAT	Ananas comosus	0.13	benzyloxycarbonyl-Arg-Arg 4-nitroanilide	*
+KCAT	Ananas comosus	0.321	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	0.321	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	3.54	Benzyloxycarbonyl-Gly-Phe-citrulline 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	7	benzyloxycarbonyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	7	benzyloxycarbonyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	10.9	benzoyl-Phe-Val-Arg 4-nitroanilide	*
+KCAT	Ananas comosus	21	Benzyloxycarbonyl-Phe-citrulline 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	63.8	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KCAT	Ananas comosus	63.8	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KM	Ananas comosus	0.0445	benzyloxycarbonyl-Arg-Arg 4-methylcoumarin 7-amide	*
+KM	Ananas comosus	0.0131	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KM	Ananas comosus	0.0131	benzoyl-Phe-Val-Arg 4-methylcoumarin 7-amide	*
+KM	Ananas comosus	0.0044	Benzyloxycarbonyl-Gly-Phe-citrulline 4-methylcoumarin 7-amide	*
+KM	Ananas comosus	1.6	benzoyl-Phe-Val-Arg 4-nitroanilide	*
+KM	Ananas comosus	11	benzyloxycarbonyl-Arg-Arg 4-nitroanilide	*
+KM	Ananas comosus	0.0111	Benzyloxycarbonyl-Phe-citrulline 4-methylcoumarin 7-amide	*
+KM	Ananas comosus	0.0484	benzoyl-Phe-Arg 4-methylcoumarin 7-amide	*
+KM	Ananas comosus	0.0484	benzoyl-Phe-Arg 4-methylcoumarin 7-amide	*
+KM	Ananas comosus	-999	more	*kinetics
+MW	Ananas comosus	23420	*	*Ananas comosus, electrospray mass spectrometry
+MW	Ananas comosus	23464	*	*x * 23464, amino acid sequence determination
+MW	Ananas comosus	25000	*	*x * 25000, Ananas comosus, SDS-PAGE
+MW	Ananas comosus	38200	*	*x * 38200, calculated from amino acid sequence
+SA	Ananas comosus	-999	*	*
+SA	Ananas comosus	-999	*	*

@@ -1,0 +1,2 @@
+PATH	*	Ascorbate and aldarate metabolism	*	*
+SA	Pseudomonas sp.	124	*	*

@@ -1,0 +1,5 @@
+PATH	*	3-dehydroquinate biosynthesis II (archaea)	*	*
+PATH	*	chorismate metabolism	*	*
+PATH	*	Phenylalanine, tyrosine and tryptophan biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

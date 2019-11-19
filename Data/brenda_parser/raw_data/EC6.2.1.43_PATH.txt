@@ -1,0 +1,1 @@
+ecNumber*6.2.1.43#pathway*Biosynthesis of enediyne antibiotics#link*01059#source_database*KEGG#!ecNumber*6.2.1.43#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

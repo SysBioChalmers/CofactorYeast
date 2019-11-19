@@ -1,0 +1,6 @@
+PATH	*	brominated pyrroles biosynthesis	*	*
+PATH	*	prodigiosin biosynthesis	*	*
+PATH	*	pyoluteorin biosynthesis	*	*
+PATH	*	Prodigiosin biosynthesis	*	*
+PATH	*	Novobiocin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

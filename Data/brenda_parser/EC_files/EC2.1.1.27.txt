@@ -1,0 +1,3 @@
+KM	Hordeum vulgare	0.03	S-adenosyl-L-methionine	*
+KM	Hordeum vulgare	0.02	tyramine	*
+PATH	*	Tyrosine metabolism	*	*

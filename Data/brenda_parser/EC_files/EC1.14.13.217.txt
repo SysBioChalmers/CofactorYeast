@@ -1,0 +1,4 @@
+MW	Chromobacterium violaceum	42000	*	*x * 42000, recombinant His6-tagged enzyme, SDS-PAGE
+PATH	*	violacein biosynthesis	*	*
+PATH	*	Staurosporine biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

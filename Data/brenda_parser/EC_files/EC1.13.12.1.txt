@@ -1,0 +1,11 @@
+KM	Streptomyces griseus	2.3	L-arginine	*
+KM	Streptomyces griseus	81	canavanine	*
+KM	Streptomyces griseus	100	homoarginine	*
+PATH	*	L-arginine degradation X (arginine monooxygenase pathway)	*	*
+PATH	*	arginine metabolism	*	*
+PATH	*	Arginine and proline metabolism	*	*
+SA	Streptomyces griseus	-999	*	*
+SA	Brevibacterium lipolyticum	0.0004	*	*
+SA	Arthrobacter globiformis	0.02	*	*
+SA	Pimelobacter simplex	0.05	*	*
+SA	Brevibacterium helvolum	0.07	*	*

@@ -1,0 +1,6 @@
+PATH	*	L-alanine biosynthesis I	*	*
+PATH	*	alanine metabolism	*	*
+PATH	*	Valine, leucine and isoleucine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

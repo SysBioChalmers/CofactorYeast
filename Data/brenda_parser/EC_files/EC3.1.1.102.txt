@@ -1,0 +1,7 @@
+KCAT	Thermobifida fusca	0.31	ethylene terephthalate	*pH 8.5, 60&Acirc;&deg;C
+KCAT	Ideonella sakaiensis	31	ethylene terephthalate	*pH 7.0, 30&Acirc;&deg;C
+KCAT	Thermobifida fusca	26.8	bis(2-hydroxyethyl) terephthalic acid	*pH 8.5, 60&Acirc;&deg;C
+KM	Ideonella sakaiensis	0.0073	ethylene terephthalate	*pH 7.0, 30&Acirc;&deg;C
+KM	Thermobifida fusca	7.3	ethylene terephthalate	*pH 8.5, 60&Acirc;&deg;C
+KM	Thermobifida fusca	3.9	bis(2-hydroxyethyl) terephthalic acid	*pH 8.5, 60&Acirc;&deg;C
+PATH	*	polyethylene terephthalate degradation	*	*

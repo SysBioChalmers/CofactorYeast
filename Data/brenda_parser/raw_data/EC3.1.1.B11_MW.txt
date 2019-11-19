@@ -1,0 +1,1 @@
+ecNumber*3.1.1.B11#molecularWeight*50000#molecularWeightMaximum*#commentary*gel filtration#organism*Trichoderma reesei#literature*742506#

@@ -1,0 +1,7 @@
+KM	Tetrahymena sp.	1.06	citrulline	*
+KM	Euglena gracilis	4.55	citrulline	*
+MW	Euglena gracilis	31000	*	*3 * 31000, 3 identical subunits, SDS-PAGE
+MW	Euglena gracilis	94000	*	*gel filtration
+PATH	*	L-proline biosynthesis II (from arginine)	*	*
+PATH	*	proline metabolism	*	*
+SA	Euglena gracilis	0.0334	*	*

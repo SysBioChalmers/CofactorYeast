@@ -1,0 +1,4 @@
+PATH	*	protein N-glycosylation initial phase (eukaryotic)	*	*
+PATH	*	dolichyl-diphosphooligosaccharide biosynthesis	*	*
+PATH	*	N-Glycan biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

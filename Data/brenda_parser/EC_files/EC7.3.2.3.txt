@@ -1,0 +1,3 @@
+KM	Mycobacterium tuberculosis	0.004	sulfate	*pH 6.0, recombinant enzyme
+KM	Alicyclobacillus acidocaldarius	1.4	ATP	*wild type enzyme CysA, at 60&deg;C
+SA	Mycobacterium tuberculosis	-999	*	*

@@ -1,0 +1,3 @@
+PATH	*	C.p.450 monoglucoside biosynthesis	*	*
+PATH	*	decaprenoxanthin diglucoside biosynthesis	*	*
+PATH	*	sarcinaxanthin diglucoside biosynthesis	*	*

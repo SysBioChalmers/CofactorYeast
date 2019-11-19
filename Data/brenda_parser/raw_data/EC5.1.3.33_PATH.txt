@@ -1,0 +1,1 @@
+ecNumber*5.1.3.33#pathway*validamycin biosynthesis#link*PWY-5818#source_database*MetaCyc#!ecNumber*5.1.3.33#pathway*Acarbose and validamycin biosynthesis#link*00525#source_database*KEGG#!ecNumber*5.1.3.33#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

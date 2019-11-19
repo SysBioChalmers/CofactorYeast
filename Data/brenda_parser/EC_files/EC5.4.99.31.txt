@@ -1,0 +1,3 @@
+PATH	*	thalianol and derivatives biosynthesis	*	*
+PATH	*	Sesquiterpenoid and triterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

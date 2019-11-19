@@ -1,0 +1,2 @@
+MW	Porphyromonas gingivalis	55000	*	*2 * 55000
+MW	Porphyromonas gingivalis	64000	*	*x * 64000, SDS-PAGE

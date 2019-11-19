@@ -1,0 +1,4 @@
+PATH	*	oxalate degradation II	*	*
+PATH	*	oxalate degradation III	*	*
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+PATH	*	Metabolic pathways	*	*

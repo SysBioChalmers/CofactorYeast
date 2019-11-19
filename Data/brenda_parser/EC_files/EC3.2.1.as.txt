@@ -1,0 +1,2 @@
+PATH	*	protein N-glycosylation processing phase (plants and animals)	*	*
+PATH	*	protein N-glycosylation processing phase (yeast)	*	*

@@ -1,0 +1,4 @@
+PATH	*	L-arginine biosynthesis III (via N-acetyl-L-citrulline)	*	*
+PATH	*	arginine metabolism	*	*
+PATH	*	Arginine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

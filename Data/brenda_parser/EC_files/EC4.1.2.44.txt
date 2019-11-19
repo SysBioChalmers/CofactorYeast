@@ -1,0 +1,8 @@
+KCAT	Azoarcus evansii	20	2,3-dihydro-2,3-dihydroxybenzoyl-CoA	*
+KM	Azoarcus evansii	0.017	2,3-dihydro-2,3-dihydroxybenzoyl-CoA	*
+MW	Azoarcus evansii	60000	*	*2 * 60000, SDS-PAGE
+MW	Azoarcus evansii	61000	*	*x * 61000, calculated from sequence
+MW	Azoarcus evansii	120000	*	*gel filtration
+PATH	*	benzoyl-CoA degradation I (aerobic)	*	*
+PATH	*	Benzoate degradation	*	*
+SA	Azoarcus evansii	4.9	*	*

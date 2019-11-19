@@ -1,0 +1,217 @@
+KCAT	Thermotoga maritima	9	4-nitrophenyl beta-D-glucoside	*pH 6.5, 75&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Thermotoga maritima	9	4-nitrophenyl beta-D-glucoside	*75&Acirc;&deg;C, pH 6.5, wild-type enzyme
+KCAT	Escherichia coli	68	4-nitrophenyl beta-D-xylopyranoside	*wild-type enzyme
+KCAT	Homo sapiens	0.004	4-methylumbelliferyl-beta-D-glucuronide	*37&Acirc;&deg;C, pH 5.0, mutant enzyme E540A
+KCAT	Homo sapiens	0.015	4-methylumbelliferyl-beta-D-glucuronide	*37&Acirc;&deg;C, pH 4.0-5.0, mutant enzyme E451A
+KCAT	Homo sapiens	0.2	4-methylumbelliferyl-beta-D-glucuronide	*37&Acirc;&deg;C, mutant enzyme Y540A
+KCAT	Homo sapiens	276	4-methylumbelliferyl-beta-D-glucuronide	*37&Acirc;&deg;C, pH 4.5, wild-type enzyme
+KCAT	Talaromyces purpureogenus	23.3	glycyrrhizin	*pH 5, 55&Acirc;&deg;C, low-shear modeled microgravity
+KCAT	Talaromyces purpureogenus	27.84	glycyrrhizin	*pH 5, 55&Acirc;&deg;C, normal gravity
+KCAT	Escherichia coli	0.001	4-nitrophenyl beta-D-glucuronide	*wild-type enzyme
+KCAT	Thermotoga maritima	0.33	4-nitrophenyl beta-D-glucuronide	*65&Acirc;&deg;C, pH 6.5, mutant enzyme E383A
+KCAT	Thermotoga maritima	0.98	4-nitrophenyl beta-D-glucuronide	*65&Acirc;&deg;C, pH 6.5, mutant enzyme E383Q
+KCAT	Thermotoga maritima	29	4-nitrophenyl beta-D-glucuronide	*pH 6.5, 65&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Thermotoga maritima	29	4-nitrophenyl beta-D-glucuronide	*65&Acirc;&deg;C, pH 6.5, wild-type enzyme
+KCAT	Thermotoga maritima	68	4-nitrophenyl beta-D-glucuronide	*pH 6.5, 75&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Thermotoga maritima	68	4-nitrophenyl beta-D-glucuronide	*75&Acirc;&deg;C, pH 6.5, wild-type enzyme
+KCAT	Homo sapiens	0.67	4-nitrophenyl-beta-D-glucuronide	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Escherichia coli	1100	4-nitrophenyl-beta-D-glucuronide	*mutant enzyme Q493R/T509A/M532T/N550S/G559S/N566S
+KCAT	Escherichia coli	1500	4-nitrophenyl-beta-D-glucuronide	*wild type enzyme
+KCAT	Scutellaria baicalensis	0.011	baicalein 7-O-beta-D-glucuronide	*pH 6.5, 28&Acirc;&deg;C, mutant enzyme E329A
+KCAT	Scutellaria baicalensis	0.135	baicalein 7-O-beta-D-glucuronide	*pH 6.5, 28&Acirc;&deg;C, mutant enzyme E212A
+KCAT	Scutellaria baicalensis	0.77	baicalein 7-O-beta-D-glucuronide	*pH 6.5, 28&Acirc;&deg;C, mutant enzyme Y281A
+KCAT	Scutellaria baicalensis	639	baicalein 7-O-beta-D-glucuronide	*pH 6.5, 28&Acirc;&deg;C, wild-type enzyme
+KCAT	Homo sapiens	1.9	quercetin-3-O-beta-D-glucuronide	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.26	quercetin 4'-O-beta-D-glucuronide	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Thermotoga maritima	443	4-nitrophenyl beta-D-galactosiduronide	*pH 6.5, 75&Acirc;&deg;C, recombinant His6-tagged enzyme
+KCAT	Thermotoga maritima	443	4-nitrophenyl beta-D-galactosiduronide	*75&Acirc;&deg;C, pH 6.5, wild-type enzyme
+KCAT	Homo sapiens	0.65	kaempferol 3-O-beta-D-glucuronide	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.65	quercetin 7-O-beta-D-glucuronide	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	1.07	daidzein 7-O-beta-D-glucuronide	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.35	equol 7-O-beta-D-glucuronide	*pH 7.2, 37&Acirc;&deg;C
+KCAT	Mus musculus	200	4-nitrophenyl-beta-glucuronide	*
+KM	Rattus norvegicus	-999	more	*
+KM	Mammalia	-999	more	*
+KM	Mammalia	-999	more	*
+KM	Thermotoga maritima	-999	more	*kinetics of mutant enzymes, overview
+KM	Escherichia coli	-999	more	*kinetics of mutant enzymes, overview
+KM	Pomacea sp.	-999	more	*
+KM	Labeo rohita	-999	more	*kinetics
+KM	Thermotoga maritima	0.0046	4-nitrophenyl beta-D-glucuronide	*65&deg;C, pH 6.5, mutant enzyme E383Q
+KM	Thermotoga maritima	0.0065	4-nitrophenyl beta-D-glucuronide	*65&deg;C, pH 6.5, mutant enzyme E383A
+KM	Secale cereale	0.007	luteolin 7-O-diglucuronide 4'-O-glucuronide	*
+KM	Scutellaria baicalensis	0.009	luteolin 3'-O-beta-glucuronide	*28&deg;C, pH 6.5
+KM	Scutellaria baicalensis	0.0097	baicalein 7-O-beta-D-glucuronide	*pH 6.5, 28&deg;C, mutant enzyme E329A
+KM	Scutellaria baicalensis	0.01	Baicalin	*28&deg;C, pH 6.5
+KM	Scutellaria baicalensis	0.0103	baicalein 7-O-beta-D-glucuronide	*pH 6.5, 28&deg;C, mutant enzyme E212A
+KM	Scutellaria baicalensis	0.0121	baicalein 7-O-beta-D-glucuronide	*pH 6.5, 28&deg;C, wild-type enzyme
+KM	Littorina littorea	0.018	phenolphthalein glucuronide	*dependency on form of enzyme
+KM	Mus musculus	0.018	phenolphthalein glucuronide	*
+KM	Homo sapiens	0.018	phenolphthalein glucuronide	*dependency on pH
+KM	Sus scrofa	0.02	oestrone-3-glucuronide	*
+KM	Homo sapiens	0.025	kaempferol 3-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KM	Scutellaria baicalensis	0.027	baicalein 7-O-beta-D-glucuronide	*pH 6.5, 28&deg;C, mutant enzyme Y281A
+KM	Scutellaria baicalensis	0.03	wogonin 7-O-beta-D-glucuronide	*28&deg;C, pH 6.5
+KM	Aspergillus niger	0.0304	4-nitrophenyl beta-D-glucoside	*
+KM	Scutellaria baicalensis	0.038	Baicalin	*pH 4.7, 30&deg;C
+KM	Neurospora crassa	0.0383	4-nitrophenyl beta-D-glucoside	*
+KM	Scutellaria baicalensis	0.04	oroxylin-7-O-beta-D-glucuronide	*28&deg;C, pH 6.5
+KM	Littorina littorea	0.041	4-methylumbelliferyl-beta-D-glucuronide	*
+KM	Homo sapiens	0.041	4-methylumbelliferyl-beta-D-glucuronide	*
+KM	Homo sapiens	0.048	quercetin 4'-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KM	Escherichia coli	0.065	methylumbelliferyl-beta-D-glucuronide	*pH 6.5, 38&deg;C, Vmax: 0.026 mM/min
+KM	Thermotoga maritima	0.083	4-nitrophenyl beta-D-glucuronide	*65&deg;C, pH 6.5, wild-type enzyme
+KM	Protubera nipponica	0.13	p-nitrophenyl-beta-D-glucuronide	*
+KM	Escherichia coli	0.13	p-nitrophenyl-beta-D-glucuronide	*
+KM	Littorina littorea	0.13	p-nitrophenyl-beta-D-glucuronide	*
+KM	Homo sapiens	0.13	p-nitrophenyl-beta-D-glucuronide	*
+KM	Rattus norvegicus	0.13	p-nitrophenyl-beta-D-glucuronide	*
+KM	Bos taurus	0.13	p-nitrophenyl-beta-D-glucuronide	*
+KM	Bos taurus	0.132	Ammonium 1-deoxy-1-(6-thiopurinyl)-beta-D-glucopyranosidurate	*
+KM	Thermotoga maritima	0.15	4-nitrophenyl beta-D-glucuronide	*75&deg;C, pH 6.5, wild-type enzyme
+KM	Thermotoga maritima	0.152	4-nitrophenyl beta-D-glucuronide	*pH 6.5, 75&deg;C, recombinant His6-tagged enzyme
+KM	Homo sapiens	0.167	quercetin-3-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KM	Escherichia coli	0.2	4-nitrophenyl beta-D-xylopyranoside	*wild-type enzyme
+KM	Escherichia coli	0.2	estriol-3-glucuronide	*estriol-16-alpha-glucuronide
+KM	Escherichia coli	0.208	4-nitrophenyl-beta-D-glucuronide	*wild type enzyme
+KM	Escherichia coli	0.22	p-nitrophenyl-beta-D-glucuronide	*pH 7.0, 37&deg;C
+KM	Aspergillus niger	0.23	p-nitrophenyl-beta-D-glucuronide	*pH 4.6, 37&deg;C
+KM	Homo sapiens	0.237	quercetin 7-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KM	Homo sapiens	0.266	equol 7-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KM	Homo sapiens	0.272	daidzein 7-O-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KM	Escherichia coli	0.36	4-nitrophenyl beta-D-glucuronide	*wild-type enzyme
+KM	Neurospora crassa	0.378	GlcAbeta(1-6)Gal	*
+KM	Escherichia coli	0.414	4-nitrophenyl-beta-D-glucuronide	*mutant enzyme Q493R/T509A/M532T/N550S/G559S/N566S
+KM	Aspergillus niger	0.422	GlcAbeta(1-6)Gal	*
+KM	Aspergillus niger	0.53	beta-GlcA-(1-6)-beta-Gal-(1-6)-Gal	*pH 4.6, 37&deg;C
+KM	Saccharolobus solfataricus	0.54	4-methylumbelliferyl beta-D-glucuronide	*pH 6.5, 75&deg;C
+KM	Saccharolobus solfataricus	0.58	4-methylumbelliferyl beta-D-glucuronide	*pH 6.5, 65&deg;C
+KM	Aspergillus niger	0.71	beta-GlcA-(1-6)-Gal	*pH 4.6, 37&deg;C
+KM	Escherichia coli	0.91	carboxyumbelliferyl-beta-D-glucuronide	*pH 6.5, 38&deg;C, Vmax: 0.041 mM/min
+KM	Homo sapiens	1.04	4-methylumbelliferyl-beta-D-glucuronide	*enzyme from kidney
+KM	Homo sapiens	1.2	4-methylumbelliferyl-beta-D-glucuronide	*37&deg;C, pH 5.0, mutant enzyme E540A
+KM	Homo sapiens	1.3	4-methylumbelliferyl-beta-D-glucuronide	*pH 5, 37&deg;C
+KM	Homo sapiens	1.32	4-methylumbelliferyl-beta-D-glucuronide	*enzyme from liver
+KM	Homo sapiens	1.33	4-methylumbelliferyl-beta-D-glucuronide	*37&deg;C, pH 4.0-5.0, mutant enzyme E451A
+KM	Aspergillus niger	1.4	4-Me-beta-GlcA-(1-6)-beta-Gal-(1-6)-beta-Gal-(1-3)-Gal	*pH 4.6, 37&deg;C
+KM	Homo sapiens	1.4	4-nitrophenyl-beta-D-glucuronide	*pH 7.2, 37&deg;C
+KM	Bos taurus	1.49	1-Deoxy-1-(6-thiopurinyl)-beta-D-glucopyranoside	*
+KM	Homo sapiens	1.67	4-methylumbelliferyl-beta-D-glucuronide	*37&deg;C, mutant enzyme Y540A
+KM	Talaromyces purpureogenus	1.72	glycyrrhizin	*pH 5, 55&deg;C, low-shear modeled microgravity
+KM	Aspergillus niger	1.9	4-Me-beta-GlcA-(1-6)-beta-Gal-(1-6)-Gal	*pH 4.6, 37&deg;C
+KM	Homo sapiens	2.76	4-methylumbelliferyl-beta-D-glucuronide	*37&deg;C, pH 4.5, wild-type enzyme
+KM	Labeo rohita	2.907	phenolphthalein-beta-D-glucuronic acid	*pH 5.0, 52&deg;C
+KM	Thermotoga maritima	3.06	4-nitrophenyl beta-D-galactosiduronide	*pH 6.5, 75&deg;C, recombinant His6-tagged enzyme
+KM	Thermotoga maritima	3.06	4-nitrophenyl beta-D-galactosiduronide	*75&deg;C, pH 6.5, wild-type enzyme
+KM	Aspergillus niger	3.6	4-Me-beta-GlcA-(1-6)-Gal	*pH 4.6, 37&deg;C
+KM	Oryctolagus cuniculus	6.3	Chondroitin	*pH 5.0, 37&deg;C
+KM	Talaromyces purpureogenus	7.72	glycyrrhizin	*pH 5, 55&deg;C, normal gravity
+KM	Bos taurus	9.25	1-Deoxy-1-(6-thiopurinyl)-beta-D-glucopyranosiduronamide	*
+KM	Thermotoga maritima	145	4-nitrophenyl beta-D-glucoside	*pH 6.5, 75&deg;C, recombinant His6-tagged enzyme
+KM	Thermotoga maritima	145	4-nitrophenyl beta-D-glucoside	*75&deg;C, pH 6.5, wild-type enzyme
+KM	Scutellaria baicalensis	167.5	4-nitrophenyl beta-D-glucuronide	*28&deg;C, pH 6.5
+MW	Scutellaria baicalensis	55000	*	*4 * 55000, SDS-PAGE
+MW	Scutellaria baicalensis	55000	*	*x * 55000, SDS-PAGE
+MW	Scutellaria baicalensis	55000	*	*4 * 55000, SDS-PAGE
+MW	Arabidopsis thaliana	55000	*	*gel filtration
+MW	Aspergillus niger	56682	*	*x * 56682, calculated, mature protein, x * 85700, SDS-PAGE
+MW	Neurospora crassa	58123	*	*x * 58123, calculated, mature protein, x * 90100, SDS-PAGE
+MW	Scutellaria viscidula	58400	*	*x * 58400, SDS-PAGE
+MW	Thermotoga maritima	66000	*	*x * 66000, recombinant His6-tagged enzyme, SDS-PAGE
+MW	Thermotoga maritima	66000	*	*SDS-PAGE
+MW	Saccharolobus solfataricus	66800	*	*
+MW	Streptococcus sp.	67000	*	*2 * 67000, isozymes I and II, SDS-PAGE
+MW	Aspergillus niger	68000	*	*1 * 68000, SDS-PAGE
+MW	Protubera nipponica	70000	*	*gel filtration, SDS-PAGE
+MW	Aspergillus niger	71000	*	*gel filtration
+MW	Lactobacillus brevis	71000	*	*x * 71000, recombinant enzyme, SDS-PAGE
+MW	Escherichia coli	72000	*	*4 * 72000, SDS-PAGE
+MW	Oryctolagus cuniculus	75000	*	*x * 75000, SDS-PAGE, beta-glucuronidase acting on p-nitrophenyl-beta-D-glucuronide
+MW	Homo sapiens	75000	*	*4 * 75000, SDS-PAGE
+MW	Rattus norvegicus	78000	*	*x * 78000, SDS-PAGE
+MW	Homo sapiens	79000	*	*2 * 79000, intracellular human beta-glucuronidase in transfected BHK cells, SDS-PAGE
+MW	Homo sapiens	83000	*	*4 * 83000, the enzyme consists of two disulfide-linked dimers, wild-type enzyme and secreted recombinant enzyme, SDS-PAGE
+MW	Aspergillus niger	85700	*	*x * 56682, calculated, mature protein, x * 85700, SDS-PAGE
+MW	Pomacea sp.	90000	*	*2 * 90000
+MW	Neurospora crassa	90100	*	*x * 58123, calculated, mature protein, x * 90100, SDS-PAGE
+MW	Littorina littorea	113500	*	*sedimentation equilibrium centrifugation of form I
+MW	Oryctolagus cuniculus	130000	*	*gel filtration, beta-glucuronidase acting on chondroitin
+MW	Streptococcus sp.	140000	*	*isozymes I and II, gel filtration
+MW	Bos taurus	160000	*	*SDS-PAGE
+MW	Pomacea sp.	180000	*	*
+MW	Scutellaria baicalensis	200000	*	*gel filtration
+MW	Scutellaria baicalensis	230000	*	*gel filtration
+MW	Homo sapiens	250000	*	*gel filtration
+MW	Rattus norvegicus	250000	*	*gel filtration
+MW	Sus scrofa	250000	*	*gel filtration
+MW	Littorina littorea	250000	*	*Littorina littorea, gel filtration
+MW	Homo sapiens	250000	*	*gel filtration; sedimention equilibrium centrifugation
+MW	Mus musculus	250000	*	*mouse, gel filtration
+MW	Rattus norvegicus	250000	*	*sedimentation equilibrium centrifugation
+MW	Rattus norvegicus	250000	*	*gel electrophoresis
+MW	Mus musculus	250000	*	*mouse, gel filtration
+MW	Rattus norvegicus	250000	*	*sedimentation equilibrium centrifugation
+MW	Mus musculus	250000	*	*gradient polyacrylamide electrophoresis
+MW	Rattus norvegicus	250000	*	*gel electrophoresis; sedimentation equilibrium centrifugation
+MW	Oryctolagus cuniculus	250000	*	*sucrose density gradient centrifugation
+MW	Oryctolagus cuniculus	280000	*	*gel filtration, beta-glucuronidase acting on p-nitrophenyl-beta-D-glucuronide
+MW	Escherichia coli	290000	*	*gel filtration
+MW	Homo sapiens	300000	*	*SDS-PAGE
+MW	Homo sapiens	390000	*	*wild-type enzyme, gel filtration
+PATH	*	beta-D-glucuronide and D-glucuronate degradation	*	*
+PATH	*	luteolin triglucuronide degradation	*	*
+PATH	*	degradation of sugar acids	*	*
+PATH	*	Pentose and glucuronate interconversions	*	*
+PATH	*	Glycosaminoglycan degradation	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	Flavone and flavonol biosynthesis	*	*
+PATH	*	Drug metabolism - other enzymes	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Secale cereale	-999	*	*
+SA	Mammalia	-999	*	*assay method
+SA	Homo sapiens	-999	*	*
+SA	Drosophila melanogaster	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Sus scrofa	-999	*	*
+SA	Littorina littorea	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Mus musculus	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Mus musculus	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Mus musculus	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Bos taurus	-999	*	*
+SA	Mammalia	-999	*	*assay method
+SA	Oryctolagus cuniculus	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Helix pomatia	-999	*	*activities of crude and purified enzyme from digestive juice
+SA	Scutellaria viscidula	-999	*	*
+SA	Escherichia coli	-999	*	*the specific activity of the wild type and mutant enzyme Q493R/T509A/M532T/N550S/G559S/N566S are approximately 142.9 and 43.1 units/mg at 37&Acirc;&deg;C and pH 6.5
+SA	Homo sapiens	-999	*	*
+SA	Lentinula edodes	0.000144	*	*at pH 7.0 and 37&Acirc;&deg;C
+SA	Ruminococcus gnavus	0.08	*	*activity in crude cell extract from cell after growth for 9 h, activity-growth curve
+SA	Oryctolagus cuniculus	0.127	*	*beta-glucuronidase acting on chondroitin
+SA	Streptococcus sp.	0.137	*	*purified isozyme I
+SA	Streptococcus sp.	0.19	*	*purified isozyme II
+SA	Scutellaria viscidula	9.37	*	*purified enzyme, substrate 4-nitrophenyl beta-D-glucuronide
+SA	Escherichia coli	17.78	*	*
+SA	Aspergillus niger	22.6	*	*reaction with p-nitrophenyl-beta-D-glucuronide
+SA	Arabidopsis thaliana	23	*	*pH 5.0, 45&Acirc;&deg;C
+SA	Aspergillus niger	29.3	*	*reaction with beta-GlcA-(1-6)-Gal
+SA	Neurospora crassa	29.3	*	*pH 6.0, 37&Acirc;&deg;C
+SA	Aspergillus niger	30.6	*	*pH 4.0, 37&Acirc;&deg;C
+SA	Homo sapiens	31.33	*	*
+SA	Mytilus galloprovincialis	80	*	*
+SA	Rattus norvegicus	95	*	*
+SA	Protubera nipponica	100	*	*
+SA	Scutellaria baicalensis	114.5	*	*
+SA	Streptococcus equi	117	*	*purified recombinant enzyme, at pH 7.0 and 37&Acirc;&deg;C
+SA	Streptococcus equi	160	*	*purified recombinant enzyme, at pH 5.6 and 37&Acirc;&deg;C
+SA	Scutellaria baicalensis	173.4	*	*activity with wogonin 7-O-beta-D-glucuronide
+SA	Streptococcus equi	270	*	*purified recombinant enzyme, at pH 7.0 and 52&Acirc;&deg;C
+SA	Lactobacillus brevis	1284	*	*purified recombinant enzyme

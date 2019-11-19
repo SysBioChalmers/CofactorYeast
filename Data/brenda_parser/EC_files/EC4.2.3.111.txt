@@ -1,0 +1,3 @@
+PATH	*	Monoterpenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

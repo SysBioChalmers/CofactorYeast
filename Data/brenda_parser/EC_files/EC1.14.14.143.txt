@@ -1,0 +1,4 @@
+MW	Mentha pulegium	55360	*	*x * 55360, sequence calculation
+PATH	*	menthol biosynthesis	*	*
+PATH	*	Monoterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

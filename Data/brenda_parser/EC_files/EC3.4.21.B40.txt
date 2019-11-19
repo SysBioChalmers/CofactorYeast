@@ -1,0 +1,6 @@
+KM	Rattus norvegicus	0.0016	o-aminobenzoyl-TSVIRRVQ-ethylenediamine	*
+MW	Mus musculus	7000	*	*1 * 7000 + 1 * 10000, reducing SDS-PAGE
+MW	Mus musculus	10000	*	*1 * 7000 + 1 * 10000, reducing SDS-PAGE
+MW	Mus musculus	17000	*	*SDS-PAGE
+MW	Homo sapiens	45000	*	*SDS-PAGE
+SA	Mus musculus	0.0005	*	*purified enzyme, substrate Pyr-Arg-Tyr-Lys-Arg-4-methyl-coumaryl-7-amide

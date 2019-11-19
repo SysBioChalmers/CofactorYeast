@@ -1,0 +1,6 @@
+KM	Micrococcus luteus	0.377	N8-Acetylspermidine	*
+KM	Micrococcus luteus	0.321	N-acetylputrescine	*
+MW	Micrococcus luteus	115000	*	*gel filtration
+PATH	*	Arginine and proline metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Micrococcus luteus	0.48	*	*substrate: acetylputrescine

@@ -1,0 +1,2 @@
+KM	Clostridium cylindrosporum	400	formate	*formate kinase I, ATP + formate + hydroxylamine
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*

@@ -1,0 +1,3 @@
+PATH	*	farnesylcysteine salvage pathway	*	*
+PATH	*	Terpenoid backbone biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

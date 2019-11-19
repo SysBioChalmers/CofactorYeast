@@ -1,0 +1,6 @@
+MW	Streptomyces albus	50500	*	*x * 50500, SDS-PAGE, His-tagged recombinant protein
+MW	Streptomyces albus	50550	*	*x * 50550, polyhistidine-tagged protein, SDS-PAGE
+PATH	*	gadusol biosynthesis	*	*
+PATH	*	validamycin biosynthesis	*	*
+PATH	*	Acarbose and validamycin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

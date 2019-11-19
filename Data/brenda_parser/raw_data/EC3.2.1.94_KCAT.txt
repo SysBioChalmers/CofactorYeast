@@ -1,0 +1,1 @@
+ecNumber*3.2.1.94#turnoverNumber*496#turnoverNumberMaximum*#substrate*Dextran#commentary*60&Acirc;&deg;C, pH 3.5#organism*Arthrobacter dextranolyticus#ligandStructureId*1045#literature*654317#

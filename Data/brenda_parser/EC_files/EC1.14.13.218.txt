@@ -1,0 +1,5 @@
+MW	Pseudomonas aeruginosa	43600	*	*x * 43600, calculated from amino acid sequence
+MW	Pseudomonas aeruginosa	43600	*	*
+PATH	*	pyocyanin biosynthesis	*	*
+PATH	*	Phenazine biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

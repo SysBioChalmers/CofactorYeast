@@ -1,0 +1,6 @@
+KM	Lonicera japonica	0.17	7-deoxyloganin	*
+PATH	*	secologanin and strictosidine biosynthesis	*	*
+PATH	*	Monoterpenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Lonicera japonica	0.000099	*	*activity in cell extracts, cofactor NADPH

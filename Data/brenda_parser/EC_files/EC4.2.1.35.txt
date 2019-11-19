@@ -1,0 +1,8 @@
+KM	Pseudomonas sp.	1.1	2-methylmaleate	*
+PATH	*	2,5-xylenol and 3,5-xylenol degradation	*	*
+PATH	*	L-isoleucine biosynthesis II	*	*
+PATH	*	isoleucine metabolism	*	*
+PATH	*	Valine, leucine and isoleucine biosynthesis	*	*
+PATH	*	C5-Branched dibasic acid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Pseudomonas sp.	-999	*	*

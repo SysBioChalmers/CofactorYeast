@@ -1,0 +1,9 @@
+KM	Aspergillus parasiticus	0.0012	8-O-methylsterigmatocystin	*in 50 mM phosphate buffer, pH 7.5, at 29&deg;C
+KM	Aspergillus parasiticus	0.0134	8-O-methyldihydrosterigmatocystin	*in 50 mM phosphate buffer, pH 7.5, at 29&deg;C
+MW	Aspergillus parasiticus	60000	*	*x * 60000, SDS-PAGE
+PATH	*	aflatoxins B1 and G1 biosynthesis	*	*
+PATH	*	aflatoxins B2 and G2 biosynthesis	*	*
+PATH	*	Aflatoxin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Aspergillus parasiticus	0.23	*	*enzyme from supernatant, using 8-O-methylsterigmatocystin as substrate, at pH 7.5 and 29&Acirc;&deg;C
+SA	Aspergillus parasiticus	34.11	*	*after 148.3fold purification, using 8-O-methylsterigmatocystin as substrate, at pH 7.5 and 29&Acirc;&deg;C

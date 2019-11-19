@@ -1,0 +1,234 @@
+KCAT	Mycoplasma arthritidis	-999	more	*
+KCAT	Pseudomonas aeruginosa	0.00036	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R401L
+KCAT	Pseudomonas aeruginosa	0.00089	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R243A
+KCAT	Pseudomonas aeruginosa	0.002	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R243K
+KCAT	Pseudomonas aeruginosa	0.0021	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme E224A
+KCAT	Pseudomonas aeruginosa	0.0037	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme E224D
+KCAT	Porphyromonas gingivalis	0.0046	Nomega-hydroxy-L-arginine	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Porphyromonas gingivalis	0.0052	L-canavanine-L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Porphyromonas gingivalis	0.0068	bradykinin antagonist-L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Porphyromonas gingivalis	0.007	agmatine-L-Arg	*
+KCAT	Pseudomonas aeruginosa	0.0072	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R401A
+KCAT	Porphyromonas gingivalis	0.0075	L-Pro-L-Arg-L-Phe	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Pseudomonas aeruginosa	0.0084	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R185L
+KCAT	Pseudomonas aeruginosa	0.009	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R243L
+KCAT	Pseudomonas aeruginosa	0.01	Nomega-methyl-Arg	*pH 5.6, 25&deg;C, wild-type enzyme
+KCAT	Mycoplasma hominis	0.013	L-arginine	*pH 7.4, 37&deg;C, recombinant mutant D160E
+KCAT	Porphyromonas gingivalis	0.019	benzoyl-L-arginine ethyl ester	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Pseudomonas aeruginosa	0.021	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme N160A
+KCAT	Porphyromonas gingivalis	0.043	bradykinin-L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Porphyromonas gingivalis	0.058	D-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Pseudomonas aeruginosa	0.089	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R185A
+KCAT	Burkholderia mallei	0.09	L-canavanine	*pH 5.6, 25&deg;C
+KCAT	Porphyromonas gingivalis	0.11	homoarginine	*
+KCAT	Porphyromonas gingivalis	0.12	N-alpha-benzoyl-L-arginine	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Porphyromonas gingivalis	0.15	L-Arginine hydroxamate	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Mycoplasma hominis	0.151	L-arginine	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KCAT	Porphyromonas gingivalis	0.17	L-Pro-L-Phe-L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Pseudomonas aeruginosa	0.2	L-arginine	*pH 5.6, 25&deg;C, mutant R243L
+KCAT	Porphyromonas gingivalis	0.22	L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KCAT	Pseudomonas aeruginosa	0.3	L-arginine	*pH 5.6, 25&deg;C, mutant R243A; pH 5.6, 25&deg;C, mutant R243K
+KCAT	Giardia intestinalis	0.32	L-canavanine	*pH 7.5, 25&deg;C
+KCAT	Escherichia coli	0.42	L-canavanine	*pH 6.0, 25&deg;C
+KCAT	Bacillus cereus	0.46	L-canavanine	*pH 7.0, 25&deg;C
+KCAT	Giardia intestinalis	0.58	Nomega-amino-L-arginine	*in 50 mM K+-HEPES (pH 7.5), at 25&deg;C
+KCAT	Pseudomonas aeruginosa	0.62	L-canavanine	*pH 5.6, 25&deg;C; pH 5.6, 25&deg;C
+KCAT	Pseudomonas aeruginosa	0.8	L-arginine	*pH 5.6, 25&deg;C, mutant R401A
+KCAT	Pseudomonas aeruginosa	0.9	L-arginine	*pH 5.6, 25&deg;C, mutant E224D
+KCAT	Pseudomonas aeruginosa	1	Nomega-methyl-L-arginine	*pH 5.6, 25&deg;C, wild-type enzyme
+KCAT	Burkholderia mallei	1.3	L-Arg	*at pH 5.6 and 25&deg;C
+KCAT	Burkholderia mallei	1.3	L-arginine	*pH 5.6, 25&deg;C
+KCAT	Pseudomonas aeruginosa	1.8	L-arginine	*pH 5.6, 25&deg;C, mutant R185L
+KCAT	Pseudomonas aeruginosa	1.9	L-arginine	*pH 5.6, 25&deg;C, mutant E224A
+KCAT	Giardia intestinalis	2.3	L-arginine ethyl ester	*in 50 mM K+-HEPES (pH 7.5), at 25&deg;C
+KCAT	Giardia intestinalis	2.5	Nalpha-benzoyl-L-arginine	*in 50 mM K+-HEPES (pH 7.5), at 25&deg;C
+KCAT	Giardia intestinalis	2.6	L-arginine	*pH 7.5, 25&deg;C
+KCAT	Giardia intestinalis	2.6	L-arginine	*in 50 mM K+-HEPES (pH 7.5), at 25&deg;C
+KCAT	Bacillus cereus	3.2	L-Arg	*at pH 7.0 and 25&deg;C
+KCAT	Escherichia coli	3.2	L-Arg	*at pH 6.0 and 25&deg;C
+KCAT	Escherichia coli	3.2	L-arginine	*pH 6.0, 25&deg;C
+KCAT	Bacillus cereus	4.4	L-arginine	*pH 7.0, 25&deg;C
+KCAT	Pseudomonas plecoglossicida	5.6	L-arginine	*wild type enzyme, in 0.5 M phosphate buffer, pH 7.4, at 37&deg;C
+KCAT	Pseudomonas aeruginosa	5.9	L-arginine	*pH 5.6, 25&deg;C, mutant R185A
+KCAT	Pseudomonas aeruginosa	6.3	L-Arg	*pH 5.6, 25&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	6.3	L-Arg	*at pH 5.6 and 25&deg;C
+KCAT	Pseudomonas aeruginosa	6.3	L-arginine	*pH 5.6, 25&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	6.3	L-arginine	*pH 5.6, 25&deg;C; pH 5.6, 25&deg;C
+KCAT	Pseudomonas aeruginosa	7	Nomega-amino-Arg	*pH 5.6, 25&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	7	Nomega-amino-L-arginine	*pH 5.6, 25&deg;C, wild-type enzyme
+KCAT	Pseudomonas aeruginosa	8	L-arginine	*pH 5.6, 25&deg;C, mutant N160A
+KCAT	Pseudomonas plecoglossicida	8.1	L-arginine	*mutant enzyme H404R, in 0.5 M phosphate buffer, pH 7.4, at 37&deg;C
+KCAT	Pseudomonas plecoglossicida	22.5	L-arginine	*mutant enzyme K5T/D44E/H404R, in 0.5 M phosphate buffer, pH 7.4, at 37&deg;C
+KCAT	Mycoplasma arthritidis	29	L-Arg	*
+KM	Pseudomonas aeruginosa	-999	more	*steady-state kinetics
+KM	Pseudomonas aeruginosa	-999	more	*kinetics of wild-type and mutant enzymes through molecular dynamics and density functional studies
+KM	Giardia intestinalis	0.002	Nomega-amino-L-arginine	*in 50 mM K+-HEPES (pH 7.5), at 25&deg;C
+KM	Mycoplasma arthritidis	0.004	L-Arg	*at pH 7.2, 25&deg;C
+KM	Mycoplasma arthritidis	0.004	L-Arg	*ammonium assay at 25&deg;C
+KM	Mycoplasma arthritidis	0.004	L-Arg	*
+KM	Porphyromonas gingivalis	0.01	N-alpha-benzoyl-L-arginine	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Porphyromonas gingivalis	0.021	bradykinin-L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Mycoplasma arthritidis	0.028	L-Arg	*ammonium assay at 37&deg;C
+KM	Trichomonas vaginalis	0.03	L-Arg	*strain MR-5
+KM	Porphyromonas gingivalis	0.033	bradykinin antagonist-L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Mycoplasma arthritidis	0.044	L-canavanine	*
+KM	Trichomonas vaginalis	0.05	L-Arg	*strain MR-100
+KM	Bacillus cereus	0.06	L-Arg	*at pH 7.0 and 25&deg;C
+KM	Trichomonas vaginalis	0.07	L-Arg	*strain TV 10
+KM	Porphyromonas gingivalis	0.07	L-Pro-L-Arg-L-Phe	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Porphyromonas gingivalis	0.089	L-Pro-L-Phe-L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Burkholderia mallei	0.09	L-Arg	*at pH 5.6 and 25&deg;C
+KM	Bacillus cereus	0.09	L-arginine	*pH 7.0, 25&deg;C
+KM	Burkholderia mallei	0.09	L-arginine	*pH 5.6, 25&deg;C
+KM	Mycoplasma arthritidis	0.1	L-Arg	*citrulline assay
+KM	Pseudomonas aeruginosa	0.14	L-Arg	*pH 5.6, 25&deg;C, wild-type enzyme
+KM	Pseudomonas aeruginosa	0.14	L-Arg	*at pH 5.6 and 25&deg;C
+KM	Pseudomonas aeruginosa	0.14	L-arginine	*pH 5.6, 25&deg;C
+KM	Pseudomonas aeruginosa	0.14	L-arginine	*pH 5.6, 25&deg;C, wild-type enzyme
+KM	Pseudomonas aeruginosa	0.14	L-arginine	*pH 5.6, 25&deg;C; pH 5.6, 25&deg;C
+KM	Giardia intestinalis	0.16	L-arginine	*pH 7.5, 25&deg;C
+KM	Giardia intestinalis	0.16	L-arginine	*in 50 mM K+-HEPES (pH 7.5), at 25&deg;C
+KM	Pseudomonas putida	0.2	L-Arg	*
+KM	Mycoplasma arginini	0.2	L-Arg	*
+KM	Pseudomonas putida	0.2	L-Arg	*
+KM	Mycoplasma hominis	0.24	L-arginine	*pH 7.4, 37&deg;C, recombinant wild-type enzyme
+KM	Giardia intestinalis	0.3	L-Arg	*
+KM	Escherichia coli	0.32	L-Arg	*at pH 6.0 and 25&deg;C
+KM	Escherichia coli	0.32	L-arginine	*pH 6.0, 25&deg;C
+KM	Pseudomonas plecoglossicida	0.7	L-arginine	*wild type enzyme, in 0.5 M phosphate buffer, pH 7.4, at 37&deg;C
+KM	Pseudomonas aeruginosa	0.7	L-canavanine	*pH 5.6, 25&deg;C; pH 5.6, 25&deg;C
+KM	Mycoplasma hominis	0.71	L-arginine	*pH 7.4, 37&deg;C, recombinant mutant D160E
+KM	Lactobacillus buchneri	0.83	L-Arg	*
+KM	Pseudomonas aeruginosa	1.1	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme E224A
+KM	Pseudomonas aeruginosa	1.1	L-arginine	*pH 5.6, 25&deg;C, mutant E224A
+KM	Porphyromonas gingivalis	1.2	L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Pseudomonas plecoglossicida	1.2	L-arginine	*mutant enzyme H404R, in 0.5 M phosphate buffer, pH 7.4, at 37&deg;C
+KM	Burkholderia mallei	1.2	L-canavanine	*pH 5.6, 25&deg;C
+KM	Mycoplasma arthritidis	1.2	Nalpha-methyl-L-Arg	*
+KM	Streptococcus pyogenes	1.33	L-arginine	*at pH 6.5 and 37&deg;C
+KM	Porphyromonas gingivalis	1.5	Nomega-hydroxy-L-arginine	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Porphyromonas gingivalis	1.9	D-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Giardia intestinalis	1.9	L-canavanine	*pH 7.5, 25&deg;C
+KM	Giardia intestinalis	2.1	L-arginine ethyl ester	*in 50 mM K+-HEPES (pH 7.5), at 25&deg;C
+KM	Escherichia coli	2.1	L-canavanine	*pH 6.0, 25&deg;C
+KM	Bacillus cereus	2.3	L-canavanine	*pH 7.0, 25&deg;C
+KM	Pseudomonas putida	2.38	L-Alpha-amino-beta-guanidinopropionic acid	*
+KM	Pseudomonas plecoglossicida	2.5	L-arginine	*mutant enzyme K5T/D44E/H404R, in 0.5 M phosphate buffer, pH 7.4, at 37&deg;C
+KM	Pseudomonas aeruginosa	2.6	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R243A
+KM	Pseudomonas aeruginosa	2.6	L-arginine	*pH 5.6, 25&deg;C, mutant R243A
+KM	Pseudomonas aeruginosa	2.7	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme N160A
+KM	Pseudomonas aeruginosa	2.7	L-arginine	*pH 5.6, 25&deg;C, mutant N160A
+KM	Pseudomonas plecoglossicida	2.88	L-Arg	*pH 6.0, 37&deg;C, wild-type
+KM	Pseudomonas putida	3.03	L-Alpha-amino-gamma-guanidinobutyric acid	*
+KM	Pseudomonas putida	3.38	L-nitroarginine	*
+KM	Pseudomonas aeruginosa	4.2	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme E224D
+KM	Pseudomonas aeruginosa	4.2	L-arginine	*pH 5.6, 25&deg;C, mutant E224D
+KM	Porphyromonas gingivalis	4.7	homoarginine	*
+KM	Mycoplasma arthritidis	4.7	L-homoarginine	*
+KM	Pseudomonas aeruginosa	4.8	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R185L
+KM	Pseudomonas aeruginosa	4.8	L-arginine	*pH 5.6, 25&deg;C, mutant R185L
+KM	Porphyromonas gingivalis	6	L-canavanine-L-Arg	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Pseudomonas aeruginosa	6.9	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R243K
+KM	Pseudomonas aeruginosa	6.9	L-arginine	*pH 5.6, 25&deg;C, mutant R243K
+KM	Porphyromonas gingivalis	6.9	L-Arginine hydroxamate	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Lactococcus lactis subsp. lactis	8.67	L-arginine	*pH 7.2, 60&deg;C
+KM	Pseudomonas aeruginosa	8.7	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R401A
+KM	Pseudomonas aeruginosa	8.7	L-arginine	*pH 5.6, 25&deg;C, mutant R401A
+KM	Mycoplasma arthritidis	10	D-Arg	*
+KM	Mycoplasma arthritidis	11	guanidine	*
+KM	Pseudomonas aeruginosa	15	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R185A
+KM	Pseudomonas aeruginosa	15	L-arginine	*pH 5.6, 25&deg;C, mutant R185A
+KM	Mycoplasma arthritidis	16	L-argininic acid	*
+KM	Porphyromonas gingivalis	18	benzoyl-L-arginine ethyl ester	*in 50 mM CHES/HCl, pH 9.5 containing 10 mM dithiothreitol, at 37&deg;C
+KM	Pseudomonas aeruginosa	21	Nomega-methyl-Arg	*pH 5.6, 25&deg;C, wild-type enzyme
+KM	Pseudomonas aeruginosa	21	Nomega-methyl-L-arginine	*pH 5.6, 25&deg;C, wild-type enzyme
+KM	Porphyromonas gingivalis	31	agmatine-L-Arg	*
+KM	Pseudomonas aeruginosa	38	L-Arg	*pH 5.6, 25&deg;C, mutant enzyme R243L
+KM	Pseudomonas aeruginosa	38	L-arginine	*pH 5.6, 25&deg;C, mutant R243L
+KM	Pseudomonas aeruginosa	50	Nomega-amino-Arg	*pH 5.6, 25&deg;C, wild-type enzyme
+KM	Pseudomonas aeruginosa	50	Nomega-amino-L-arginine	*pH 5.6, 25&deg;C, wild-type enzyme
+MW	Lactococcus lactis	-999	*	*genetic structure and transcriptional analysis of the arginine deiminase (ADI) cluster
+MW	Mycoplasma arthritidis	44000	*	*2 * 44000, the subunits differ in conformation, SDS-PAGE
+MW	Mycoplasma arginini	45000	*	*2 * 45000, SDS-PAGE
+MW	Pseudomonas putida	45000	*	*2 * 45000, SDS-PAGE
+MW	Escherichia coli	45900	*	*calculated from amino acid sequence; electrospray mass spectrometry
+MW	Burkholderia mallei	45920	*	*electrospray mass spectrometry
+MW	Pseudomonas aeruginosa	46000	*	*x * 46000, SDS-PAGE, crystallization data
+MW	Mycoplasma hominis	46000	*	*x * 46000, about, SDS-PAGE
+MW	Lactococcus lactis subsp. lactis	46000	*	*3 * 46000, recombinant enzyme, SDS-PAGE
+MW	Burkholderia mallei	46050	*	*calculated from amino acid sequence
+MW	Pseudomonas plecoglossicida	46500	*	*deduced ADI protein sequence
+MW	Bacillus cereus	46940	*	*calculated from amino acid sequence; electrospray mass spectrometry
+MW	Streptococcus pyogenes	47000	*	*2 * 47000, SDS-PAGE
+MW	Streptococcus pyogenes	47200	*	*x * 47200, SDS-PAGE
+MW	Euglena gracilis	48000	*	*2 * 48000, SDS-PAGE
+MW	Mycoplasma arthritidis	49000	*	*2 * 49000, SDS-PAGE
+MW	Mycoplasma hominis	49000	*	*x * 49000, SDS-PAGE
+MW	Pseudomonas plecoglossicida	49000	*	*SDS-PAGE
+MW	Porphyromonas gingivalis	51000	*	*purified recombinant truncated PAD (missing 43 N-terminal amino acid residues but including Xpress and poly-His tags), SDS-PAGE
+MW	Porphyromonas gingivalis	53000	*	*active enzyme, gel filtration
+MW	Pseudomonas putida	54000	*	*2 * 54000, SDS-PAGE
+MW	Pseudomonas putida	54000	*	*2 * 54000, SDS-PAGE
+MW	Halobacterium salinarum	55000	*	*2 * 55000, cetyl trimethylammonium bromide
+MW	Porphyromonas gingivalis	60880	*	*truncated PAD with its poly-His and Xpress epitope tags, calculated from amino acid sequence
+MW	Porphyromonas gingivalis	60890	*	*MALDI-TOF mass spectrometry
+MW	Giardia intestinalis	64189	*	*2 * 64189, calculated from amino acid sequence
+MW	Giardia intestinalis	64190	*	*2 * 64190, ESI-MS analysis
+MW	Giardia intestinalis	66000	*	*2 * 66000, SDS-PAGE
+MW	Mycoplasma arthritidis	80000	*	*gel filtration
+MW	Euglena gracilis	87000	*	*gel filtration
+MW	Mycoplasma arthritidis	87300	*	*equilibrium sedimentation
+MW	Mycoplasma arginini	90000	*	*gel filtration
+MW	Mycoplasma arginini	90000	*	*gel filtration
+MW	Mycoplasma arginini	90000	*	*
+MW	Mycoplasma hominis	96000	*	*
+MW	Streptococcus pyogenes	100000	*	*gel filtration
+MW	Halobacterium salinarum	105000	*	*gel filtration
+MW	Halobacterium salinarum	105000	*	*
+MW	Pseudomonas putida	120000	*	*equilibrium sedimentation
+MW	Pseudomonas putida	120000	*	*equilibrium sedimentation
+MW	Pseudomonas putida	120000	*	*about, sequence calculation
+MW	Giardia intestinalis	124000	*	*
+MW	Giardia intestinalis	127000	*	*gel filtration
+MW	Pseudomonas putida	130000	*	*gel filtration
+MW	Giardia intestinalis	140000	*	*gel filtration
+MW	Lactococcus lactis ssp. lactis	140000	*	*native enzyme
+MW	Lactococcus lactis subsp. lactis	140000	*	*recombinant enzyme, gel filtration
+MW	Pseudomonas aeruginosa	184000	*	*
+MW	Lactobacillus buchneri	199000	*	*gel filtration
+PATH	*	L-arginine degradation V (arginine deiminase pathway)	*	*
+PATH	*	L-proline biosynthesis II (from arginine)	*	*
+PATH	*	arginine metabolism	*	*
+PATH	*	Arginine biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Mycoplasma arthritidis	-999	*	*
+SA	Lactobacillus buchneri	-999	*	*
+SA	Mycoplasma hominis	-999	*	*
+SA	Halobacterium salinarum	-999	*	*
+SA	Pseudomonas aeruginosa	-999	*	*
+SA	Mycoplasma hominis	-999	*	*cell proliferation assay, recombinant wild-type and mutant enzymes, overview
+SA	Porphyromonas gingivalis	0.000345	*	*crude extract, pH 9.5, at 37&deg;C
+SA	Streptococcus sanguinis	0.115	*	*purifed recombinant enzyme
+SA	Porphyromonas gingivalis	0.175	*	*after purification, pH 9.5, at 37&deg;C
+SA	Pseudomonas plecoglossicida	0.476	*	*crude enzyme extract, IU/mg dry cell weight
+SA	Streptococcus pyogenes	1.5	*	*purified enzyme, at pH 6.5 and 37&deg;C
+SA	Pseudomonas plecoglossicida	4.76	*	*at pH 6.0 and 37&deg;C
+SA	Halobacterium salinarum	5.4	*	*purified enzyme
+SA	Mycoplasma arginini	25.5	*	*PEG-modified enzyme
+SA	Mycoplasma arthritidis	27	*	*free enzyme
+SA	Mycoplasma arginini	32.7	*	*purified recombinant enzyme
+SA	Mycoplasma arginini	33.6	*	*
+SA	Mycoplasma hominis	35	*	*purified enzyme
+SA	Giardia intestinalis	36.5	*	*recombinant enzyme
+SA	Giardia intestinalis	36.5	*	*purified recombinant enzyme
+SA	Mycoplasma arginini	40	*	*purifed recombinant ADI mutant
+SA	Giardia intestinalis	41	*	*purified native enzyme
+SA	Mycoplasma arginini	44.5	*	*purified native enzyme
+SA	Homo sapiens	50	*	*purified rcombinant enzyme
+SA	Pseudomonas putida	57.05	*	*
+SA	Pseudomonas putida	58.8	*	*
+SA	Pseudomonas putida	58.8	*	*purified enzyme
+SA	Lactococcus lactis ssp. lactis	140.3	*	*purified recombinant enzyme
+SA	Lactococcus lactis subsp. lactis	140.3	*	*purified recombinant enzyme, pH 7.2, 37&deg;C

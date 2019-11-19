@@ -1,0 +1,1 @@
+ecNumber*3.2.1.194#molecularWeight*56000#molecularWeightMaximum*#commentary*x * 56000, SDS-PAGE#organism*Aspergillus sp.#literature*722934#!ecNumber*3.2.1.194#molecularWeight*56000#molecularWeightMaximum*#commentary*x * 56000, SDS-PAGE#organism*Aspergillus sp.#literature*723613#

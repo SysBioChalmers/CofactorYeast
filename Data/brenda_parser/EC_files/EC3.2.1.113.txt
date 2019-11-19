@@ -1,0 +1,98 @@
+KCAT	Homo sapiens	0.000026	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.7, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E599Q
+KCAT	Homo sapiens	0.000027	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.6, pyridylamine-tagged Man9GlcNAc2, mutant enzyme D463N/E599Q
+KCAT	Homo sapiens	0.00028	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.6, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q/E599Q
+KCAT	Homo sapiens	0.0046	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.8, pyridylamine-tagged Man9GlcNAc2, mutant enzyme D463N
+KCAT	Homo sapiens	0.018	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 7.1, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q
+KCAT	Homo sapiens	0.084	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 5.3, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q
+KCAT	Homo sapiens	0.86	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.9, pyridylamine-tagged Man9GlcNAc2, mutant enzyme H524A
+KCAT	Homo sapiens	3.7	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 7.1, pyridylamine-tagged Man9GlcNAc2, wild-type enzyme
+KCAT	Homo sapiens	0.03	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.8, mutant enzyme F659A
+KCAT	Homo sapiens	0.06	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.5, mutant enzyme T688A
+KCAT	Homo sapiens	0.07	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.5, mutant enzyme R461L
+KCAT	Homo sapiens	0.084	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 5.3, mutant enzyme E330Q
+KCAT	Homo sapiens	0.11	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.5, mutant enzyme R597A
+KCAT	Homo sapiens	0.6	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 6.5, mutant enzyme R461A
+KCAT	Homo sapiens	3.7	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&Acirc;&deg;C, pH 7.0, wild-type enzyme
+KCAT	Aspergillus phoenicis	3.87	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&Acirc;&deg;C, mutant enzyme C334A
+KCAT	Aspergillus phoenicis	6.67	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&Acirc;&deg;C, mutant enzyme C443A
+KCAT	Aspergillus phoenicis	8.51	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&Acirc;&deg;C, wild-type enzyme
+KCAT	Aspergillus phoenicis	9.48	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&Acirc;&deg;C, mutant enzyme C363A
+KM	Sus scrofa	-999	more	*kinetic constants of various substrate derivatives
+KM	Homo sapiens	0.015	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.5, mutant enzyme T688A
+KM	Sporothrix schenckii	0.04	4-methylumbelliferyl alpha-D-mannopyranoside	*at pH 7.0 in 50 mM MES-Tris buffer and at 37&deg;C
+KM	Homo sapiens	0.068	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 5.3, mutant enzyme E330Q
+KM	Homo sapiens	0.068	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 5.3, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q
+KM	Candida albicans	0.07	4-methylumbelliferyl-alpha-D-mannopyranoside	*
+KM	Trypanosoma cruzi	0.087	p-nitrophenyl-alpha-D-mannoside	*37&deg;C, pH 6.1
+KM	Candida albicans	0.09	4-methylumbelliferyl-alpha-D-mannopyranoside	*hydrolysis of the fluorogenic substrate follows hyperbolic kinetics
+KM	Homo sapiens	0.09	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 7.1, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q
+KM	Rattus norvegicus	0.1	(Man)8GlcNAc	*37&deg;C, pH 6.5
+KM	Candida albicans	0.11	4-methylumbelliferyl-alpha-D-mannopyranoside	*MUaMan, fluorogenic substrate. Vmax 36.2 nmol of 4-methylumbelliferone min-1 mg-1 of protein
+KM	Homo sapiens	0.11	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 7.0, wild-type enzyme
+KM	Homo sapiens	0.11	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.8, pyridylamine-tagged Man9GlcNAc2, mutant enzyme D463N; 37&deg;C, pH 7.1, pyridylamine-tagged Man9GlcNAc2, wild-type enzyme
+KM	Homo sapiens	0.12	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.8, mutant enzyme F659A
+KM	Homo sapiens	0.15	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.6, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E330Q/E599Q
+KM	Homo sapiens	0.16	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.7, pyridylamine-tagged Man9GlcNAc2, mutant enzyme E599Q
+KM	Homo sapiens	0.21	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.9, pyridylamine-tagged Man9GlcNAc2, mutant enzyme H524A
+KM	Ricinus communis	0.26	(Man)6GlcNAc	*40&deg;C, pH 5.5
+KM	Homo sapiens	0.26	Manalpha(1-2)Manalpha(1-6)(Manalpha(1-2)Manalpha(1-3))Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.6, pyridylamine-tagged Man9GlcNAc2, mutant enzyme D463N/E599Q
+KM	Aspergillus phoenicis	0.296	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&deg;C, mutant enzyme C334A
+KM	Saccharomyces cerevisiae	0.3	(Man)9GlcNAc	*
+KM	Saccharomyces cerevisiae	0.3	(Man)9GlcNAc	*pH 6.5
+KM	Homo sapiens	0.33	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.5, mutant enzyme R461L
+KM	Homo sapiens	0.47	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.5, mutant enzyme R597A
+KM	Homo sapiens	0.51	Manalpha(1-2)Manalpha(1-3)Manalpha(1-6)Manalpha(1-2)Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*37&deg;C, pH 6.5, mutant enzyme R461A
+KM	Oryctolagus cuniculus	0.55	glycoprotein IV from ovalbumin	*pH 6.0
+KM	Aspergillus oryzae	0.57	2-O-alpha-D-Mannopyranosyl-D-mannose	*37&deg;C, pH 5.3
+KM	Oryctolagus cuniculus	0.6	methyl-2-O-alpha-D-mannopyranosyl-alpha-D-mannopyranoside	*37&deg;C, pH 6.0
+KM	Aspergillus phoenicis	0.67	mannobiose	*pH 5.0
+KM	Aspergillus phoenicis	0.719	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&deg;C, mutant enzyme C443A; pH 5.0, 30&deg;C, wild-type enzyme
+KM	Aspergillus phoenicis	0.78	Manalpha(1,2)Man-O-Me	*pH 5.0, 30&deg;C, mutant enzyme C363A
+KM	Aspergillus phoenicis	1.25	Manalpha(1-2)Manalpha(1-3)Manbeta(1-4)GlcNAc	*
+MW	Aspergillus phoenicis	-999	*	*amino acid composition
+MW	Oryctolagus cuniculus	-999	*	*amino acid composition
+MW	Candida albicans	23000	*	*analytical electrophoresis of the purified enzyme reveals two polypeptides of 52 and 23 kDa, 52000 Da polypeptide being responsible for enzyme activity as revealed by zymogram analysis
+MW	Candida albicans	27000	*	*analytical electrophoresis of the purified preparation reveals two polypeptides
+MW	Vigna radiata var. radiata	39000	*	*cytosolic enzyme, gel filtration
+MW	Oryctolagus cuniculus	40000	*	*gel filtration
+MW	Gallus gallus	42000	*	*1 * 42000, SDS-PAGE
+MW	Candida albicans	43000	*	*Candida albicans CAI-4 mutant generating an active 43 kDa polypeptide. Zymogram analysis shows that the single proteolytic product of 43 kDa is able to hydrolyze the fluorogenic substrate and, this is not observed when proteolysis is blocked by pepstatin; purified alpha-mannosidase E-II remains unaltered after treatment with aspartyl protease and retains full activity on artificial substrate 4-methylumbelliferyl-alpha-D-mannopyranoside
+MW	Candida albicans	43000	*	*converting the 52 kDa alpha-mannosidase into a polypeptide of 43 kDa retaining full enzyme activity demonstrated in membranes of ATCC 26555, support a precursor-product relationship between soluble alpha1,2-mannosidase E-I (52 kDa) and alpha1,2-mannosidase E-II (43 kDa)
+MW	Aspergillus oryzae	49000	*	*gel filtration
+MW	Sus scrofa	49000	*	*1 * 49000, SDS-PAGE
+MW	Sus scrofa	49000	*	*1 * 49000, SDS-PAGE
+MW	Oryctolagus cuniculus	49200	*	*sedimentation analysis
+MW	Gallus gallus	50000	*	*gel filtration
+MW	Oryctolagus cuniculus	52000	*	*1 * 52000, SDS-PAGE, under reducing and non-reducing conditions
+MW	Candida albicans	52000	*	*alpha1,2-mannosidase E-I. Analytical electrophoresis of the purified enzyme reveals two polypeptides of 52 and 23 kDa, 52000 Da polypeptide being responsible for enzyme activity as revealed by zymogram analysis
+MW	Candida albicans	52000	*	*analytical electrophoresis of the purified preparation reveals two polypeptides. Responsible for enzyme activity. Active on the fluorogenic substrate 4-methylumbelliferyl-alpha-D-mannopyranoside as revealed by zymogram analysis
+MW	Candida albicans	52000	*	*E-I, cytosoloc fraction, Golgi-derived vesicles, SDS-PAGE; gel fitlration, isoform E-I
+MW	Bos taurus	56000	*	*x * 56000, SDS-PAGE
+MW	Coccidioides posadasii	56920	*	*theoretical molecular weight. SDS-PAGE, Western blot analysis. A highly purified fraction is obtained after FPLC
+MW	Magnaporthe oryzae	57000	*	*calculated from amino acid sequence
+MW	Homo sapiens	58000	*	*x * 58000, SDS-PAGE; x * 58000, SDS-PAGE
+MW	Arabidopsis thaliana	60000	*	*His-tagged isozymes MANIa and MANIb, SDS-PAGE
+MW	Magnaporthe oryzae	61200	*	*MALDI-TOF mass spectrometry
+MW	Spodoptera frugiperda	63000	*	*x * 63000, SDS-PAGE
+MW	Magnaporthe oryzae	63000	*	*Man1p-His6 fusion protein, SDS-PAGE
+MW	Aspergillus phoenicis	64000	*	*x * 64000, SDS-PAGE
+MW	Sus scrofa	65000	*	*detected in freshly prepared crude microsomal extracts using polyclonal antibodies, during purification the native enzyme, MW 65000, loses a membrane-spanning domain without losing its catalytic activity
+MW	Candida albicans	65000	*	*x * 65000, SDS-PAGE
+MW	Candida albicans	65000	*	*membrane bound, SDS-PAGE
+MW	Aspergillus oryzae	67000	*	*x * 67000, SDS-PAGE
+MW	Homo sapiens	71000	*	*x * 71000, deduced from gene sequence, type-II transmembrane protein
+MW	Sus scrofa	73000	*	*x * 73000, deduced from gene sequence, type-II transmembrane protein
+MW	Sporothrix schenckii	75000	*	*x * 75000, SDS-PAGE
+MW	Trypanosoma cruzi	76000	*	*2 * 76000, SDS-PAGE
+MW	Homo sapiens	79000	*	*Western blotting of cell lysates, transiently expressed recombinant human ER mannosidase I is absent from mock transfected cells but detected as a single immunoreactive 79 kDa band following transient expression
+MW	Homo sapiens	82000	*	*SDS-PAGE
+MW	Trypanosoma cruzi	150000	*	*gel filtration
+MW	Bacillus sp. (in: Bacteria)	190000	*	*2 * 190000 &nbsp;
+MW	Rattus norvegicus	230000	*	*PAGE
+MW	Vigna umbellata	329000	*	*gel filtration
+MW	Bacillus sp. (in: Bacteria)	380000	*	*
+MW	Vigna radiata var. radiata	460000	*	*microsomal enzyme, gel filtration, presumably in a micelle or aggregate containing detergent, phospholipid or other protein
+PATH	*	protein N-glycosylation processing phase (plants and animals)	*	*
+PATH	*	N-Glycan biosynthesis	*	*
+PATH	*	Various types of N-glycan biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

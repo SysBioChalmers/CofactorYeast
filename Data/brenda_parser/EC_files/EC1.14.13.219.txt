@@ -1,0 +1,3 @@
+PATH	*	resorcinol degradation	*	*
+PATH	*	Benzoate degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

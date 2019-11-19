@@ -1,0 +1,3 @@
+KM	Sus scrofa	9.8	N2-(4-aminobutyryl)-L-lysine	*
+PATH	*	beta-Alanine metabolism	*	*
+SA	Sus scrofa	0.8	*	*

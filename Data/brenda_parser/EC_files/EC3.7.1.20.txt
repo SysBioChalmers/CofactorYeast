@@ -1,0 +1,7 @@
+MW	Ralstonia sp.	21000	*	*SDS-PAGE
+PATH	*	5-nitroanthranilate degradation	*	*
+PATH	*	gentisate degradation I	*	*
+PATH	*	3-phenylpropionate degradation	*	*
+PATH	*	Tyrosine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

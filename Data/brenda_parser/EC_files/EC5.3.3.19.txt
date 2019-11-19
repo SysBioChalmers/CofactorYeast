@@ -1,0 +1,6 @@
+KCAT	Bacillus subtilis	24.52	3-[(4S)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate	*pH 8.1, 37&Acirc;&deg;C
+KM	Bacillus subtilis	0.423	3-[(4S)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate	*pH 8.1, 37&deg;C
+PATH	*	bacilysin biosynthesis	*	*
+PATH	*	bacilysin biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

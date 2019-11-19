@@ -1,0 +1,6 @@
+PATH	*	acetate fermentation	*	*
+PATH	*	glutamate and glutamine metabolism	*	*
+PATH	*	L-lactaldehyde degradation	*	*
+PATH	*	lysine metabolism	*	*
+PATH	*	polyamine pathway	*	*
+PATH	*	tryptophan metabolism	*	*

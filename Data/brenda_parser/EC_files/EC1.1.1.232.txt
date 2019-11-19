@@ -1,0 +1,4 @@
+KM	Mus musculus	0.0083	(15S)-15-hydroxy-5,8,11-cis-13-trans-eicosatetraenoic acid	*
+KM	Mus musculus	0.06	NAD+	*
+PATH	*	arachidonic acid metabolism	*	*
+PATH	*	Arachidonic acid metabolism	*	*

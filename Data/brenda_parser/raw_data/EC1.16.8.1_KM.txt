@@ -1,0 +1,1 @@
+ecNumber*1.16.8.1#kmValue*0.0059#kmValueMaximum*#substrate*FMN#commentary*0.2 M Tris-HCl buffer, pH 8.0, 30&Acirc;&deg;C#organism*Pseudomonas denitrificans (nomen rejiciendum)#ligandStructureId*56#literature*644281#

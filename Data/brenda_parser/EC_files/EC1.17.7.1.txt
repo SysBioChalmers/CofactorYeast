@@ -1,0 +1,6 @@
+PATH	*	methylerythritol phosphate pathway II	*	*
+PATH	*	isoprenoid biosynthesis	*	*
+PATH	*	Terpenoid backbone biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

@@ -1,0 +1,4 @@
+PATH	*	D-cycloserine biosynthesis	*	*
+PATH	*	D-cycloserine biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

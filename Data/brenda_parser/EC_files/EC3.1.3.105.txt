@@ -1,0 +1,4 @@
+KCAT	Pseudomonas putida	0.88	N-acetyl-D-muramate 6-phosphate	*pH 7.6, 22&Acirc;&deg;C
+KM	Pseudomonas putida	0.31	N-acetyl-D-muramate 6-phosphate	*pH 7.6, 22&deg;C
+PATH	*	anhydromuropeptides recycling II	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*

@@ -1,0 +1,1 @@
+ecNumber*3.6.1.55#pathway*oxidized GTP and dGTP detoxification#link*PWY-6502#source_database*MetaCyc#

@@ -1,0 +1,2 @@
+PATH	*	dimethyl sulfide biosynthesis from methionine	*	*
+PATH	*	Sulfur metabolism	*	*

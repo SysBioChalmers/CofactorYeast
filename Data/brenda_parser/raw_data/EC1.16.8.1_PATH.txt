@@ -1,0 +1,1 @@
+ecNumber*1.16.8.1#pathway*vitamin B12 metabolism#link*BRENDA#source_database*BRENDA#!ecNumber*1.16.8.1#pathway*Porphyrin and chlorophyll metabolism#link*00860#source_database*KEGG#!ecNumber*1.16.8.1#pathway*Metabolic pathways#link*01100#source_database*KEGG#

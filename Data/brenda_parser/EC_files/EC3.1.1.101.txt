@@ -1,0 +1,5 @@
+KCAT	Thermomonospora curvata	2.3	4-nitrophenyl butanoate	*pH 8.5, 25&Acirc;&deg;C
+KCAT	Thermomonospora curvata	12.4	4-nitrophenyl butanoate	*pH 8.5, 25&Acirc;&deg;C
+PATH	*	polyethylene terephthalate degradation	*	*
+SA	Thermomonospora curvata	83.1	*	*pH 8.5, 25&Acirc;&deg;C
+SA	Thermomonospora curvata	88.8	*	*pH 8.5, 25&Acirc;&deg;C

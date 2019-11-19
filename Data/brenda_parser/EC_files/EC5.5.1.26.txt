@@ -1,0 +1,4 @@
+MW	Streptomyces nogalater	20471	*	*4 * 20471, calculated from sequence
+MW	Streptomyces nogalater	20472	*	*4 * 20472, mass spectrometry
+PATH	*	Biosynthesis of type II polyketide products	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

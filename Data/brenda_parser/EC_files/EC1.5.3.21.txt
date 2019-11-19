@@ -1,0 +1,10 @@
+KCAT	Paenarthrobacter nicotinovorans	878	4-aminobutanoate	*pH 9.8, 22&Acirc;&deg;C
+KCAT	Paenarthrobacter nicotinovorans	1230	4-methylaminobutanoate	*pH 9.8, 22&Acirc;&deg;C
+KM	Paenarthrobacter nicotinovorans	2.5	4-methylaminobutanoate	*pH 9.8, 22&deg;C
+KM	Paenarthrobacter nicotinovorans	6.66	4-aminobutanoate	*pH 9.8, 22&deg;C
+MW	Paenarthrobacter nicotinovorans	46000	*	*x * 46100, calculated, x * 46000, SDS-PAGE
+MW	Paenarthrobacter nicotinovorans	46100	*	*x * 46100, calculated, x * 46000, SDS-PAGE
+PATH	*	N-methylpyrrolidone degradation	*	*
+PATH	*	nicotine degradation I (pyridine pathway)	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

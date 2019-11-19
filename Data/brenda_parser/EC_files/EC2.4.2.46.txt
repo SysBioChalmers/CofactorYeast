@@ -1,0 +1,3 @@
+PATH	*	mycolyl-arabinogalactan-peptidoglycan complex biosynthesis	*	*
+PATH	*	Arabinogalactan biosynthesis - Mycobacterium	*	*
+PATH	*	Metabolic pathways	*	*

@@ -1,0 +1,2 @@
+PATH	*	Glycerophospholipid metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

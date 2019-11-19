@@ -1,0 +1,3 @@
+MW	Aspergillus terreus	277000	*	*
+PATH	*	lovastatin biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*

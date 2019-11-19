@@ -1,0 +1,1 @@
+ecNumber*3.2.2.15#kmValue*0.0005#kmValueMaximum*#substrate*poly(dAdT)#commentary*#organism*Bos taurus#ligandStructureId*#literature*171777#!ecNumber*3.2.2.15#kmValue*0.0009#kmValueMaximum*#substrate*poly-dC#commentary*#organism*Bos taurus#ligandStructureId*#literature*171777#

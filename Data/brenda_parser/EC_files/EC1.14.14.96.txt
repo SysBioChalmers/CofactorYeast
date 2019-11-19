@@ -1,0 +1,14 @@
+PATH	*	chlorogenic acid biosynthesis I	*	*
+PATH	*	chlorogenic acid biosynthesis II	*	*
+PATH	*	free phenylpropanoid acid biosynthesis	*	*
+PATH	*	phaselate biosynthesis	*	*
+PATH	*	phenylpropanoid biosynthesis	*	*
+PATH	*	suberin monomers biosynthesis	*	*
+PATH	*	superpathway of scopolin and esculin biosynthesis	*	*
+PATH	*	phenylpropanoid biosynthesis	*	*
+PATH	*	suberin monomers biosynthesis	*	*
+PATH	*	Phenylpropanoid biosynthesis	*	*
+PATH	*	Flavonoid biosynthesis	*	*
+PATH	*	Stilbenoid, diarylheptanoid and gingerol biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

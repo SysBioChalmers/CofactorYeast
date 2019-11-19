@@ -1,0 +1,1 @@
+ecNumber*7.1.1.6#pathway*photosynthesis light reactions#link*PWY-101#source_database*MetaCyc#

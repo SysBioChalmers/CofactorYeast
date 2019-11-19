@@ -1,0 +1,4 @@
+MW	Streptomyces longisporoflavus	48000	*	*x * 48000, SDS-PAGE
+PATH	*	rebeccamycin biosynthesis	*	*
+PATH	*	Staurosporine biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

@@ -1,0 +1,636 @@
+KCAT	Homo sapiens	-999	more	*
+KCAT	Geobacillus stearothermophilus	0.0006	demeton-S	*at 35&deg;C, pH 7.2
+KCAT	Homo sapiens	0.0008	4-chlorophenyl diethyl phosphate	*pH 8.0
+KCAT	Mus musculus	0.0008	Paraoxon	*pH 8.0
+KCAT	Saccharolobus solfataricus	0.00089	malathion	*25&deg;C, pH 9.0
+KCAT	Oryctolagus cuniculus	0.001	Paraoxon	*pH 8.0
+KCAT	Vulcanisaeta moutnovskia	0.00108	ethyl-paraoxon	*pH 8.0, 70&deg;C
+KCAT	Homo sapiens	0.0011	3-fluorophenyl diethyl phosphate	*pH 8.0
+KCAT	Saccharolobus solfataricus	0.0011	methyl parathion	*25&deg;C, pH 9.0
+KCAT	Homo sapiens	0.007	Paraoxon	*pH 8.0, recombinant genetic variant G1A7
+KCAT	Flavobacterium sp.	0.007	S-(2-[di(propan-2-yl)amino]ethyl)O-ethyl methylphosphonothioate	*expression mutant A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, pH 8.5, temperature not specified in the publication
+KCAT	Geobacillus stearothermophilus	0.00783	Methyl paraoxon	*at 35&deg;C, pH 9.0
+KCAT	Homo sapiens	0.009	Paraoxon	*pH 8.0, recombinant genetic variant G1B11
+KCAT	Homo sapiens	0.016	4-acetylphenyl (2S)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	0.02	Benzyl acetate	*about, pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	0.036	Paraoxon	*pH 8.0, recombinant genetic variant G2C2
+KCAT	Homo sapiens	0.04	Paraoxon	*pH 8.0, recombinant genetic variant G3A5
+KCAT	Homo sapiens	0.062	2,6-difluorophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	0.076	3-nitrophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	0.1	O-isobutyl-S-[2-(diethylamino)ethyl]methylphosphonothioic acid	*in 50 mM Tris-HCl buffer, 10 mM CaCl2, pH 7.4
+KCAT	Homo sapiens	0.11	Paraoxon	*pH 8.0, recombinant genetic variant G3G3
+KCAT	Geobacillus stearothermophilus	0.115	ethyl paraoxon	*at 35&deg;C, pH 9.0
+KCAT	Homo sapiens	0.12	4-acetylphenyl (2S)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Sulfolobus acidocaldarius	0.12	parathion	*pH 8.3, 25&deg;C
+KCAT	Brevundimonas diminuta	0.13	diethyl 4-chlorophenyl phosphate	*recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30&deg;C
+KCAT	Sulfolobus islandicus	0.13	Paraoxon	*25&deg;C, pH not specified in the publication, mutant enzyme Y34Q
+KCAT	Homo sapiens	0.14	4-acetylphenyl cyclohexyl (S)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	0.14	Paraoxon	*pH 8.0, recombinant genetic variant G3H9
+KCAT	Sulfolobus islandicus	0.14	Paraoxon	*25&deg;C, pH not specified in the publication, mutant enzyme E14K
+KCAT	Flavobacterium sp.	0.15	S-(2-[di(propan-2-yl)amino]ethyl)O-ethyl methylphosphonothioate	*mutant L271A/Y309A, pH 8.5, temperature not specified in the publication
+KCAT	synthetic construct	0.15	SP-O-ethyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	*wild-type, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25&deg;C
+KCAT	synthetic construct	0.167	RP-O-n-propyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	*mutant H115W, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25&deg;C
+KCAT	Sulfolobus islandicus	0.17	Paraoxon	*25&deg;C, pH not specified in the publication, mutant enzyme E14K/Y34Q
+KCAT	Homo sapiens	0.178	3-cyanophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	0.21	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	0.23	diethyl 4-chlorophenyl phosphate	*recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30&deg;C
+KCAT	Homo sapiens	0.24	ethyl acetate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Saccharolobus solfataricus	0.24	Paraoxon	*pH 8.0, 70&deg;C, recombinant enzyme
+KCAT	Saccharolobus solfataricus	0.24	Paraoxon	*pH 8.0, 70&deg;C, wild-type enzyme
+KCAT	Homo sapiens	0.27	2,4-dinitrophenyl diethyl phosphate	*pH 8.0
+KCAT	Sulfolobus acidocaldarius	0.28	CMP-coumarin	*pH 8.3, 25&deg;C
+KCAT	Sulfolobus islandicus	0.3	Methyl paraoxon	*25&deg;C, pH 9, mutant enzyme E14K
+KCAT	Sulfolobus acidocaldarius	0.31	Methyl paraoxon	*pH 8.3, 25&deg;C
+KCAT	Brevundimonas diminuta	0.36	diethyl 4-chlorophenyl phosphate	*recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30&deg;C
+KCAT	Homo sapiens	0.4	4-cyanophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	0.41	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Sulfolobus islandicus	0.42	Methyl paraoxon	*25&deg;C, pH 9, mutant enzyme Y34Q
+KCAT	Homo sapiens	0.44	4-diethyl phosphate acetophenone	*pH 8.0
+KCAT	Homo sapiens	0.45	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	0.45	Paraoxon	*in 50 mM Tris-HCl buffer, 10 mM CaCl2, pH 7.4
+KCAT	Homo sapiens	0.47	4-diethyl phosphate benzaldehyde	*pH 8.0
+KCAT	synthetic construct	0.5	SP-O-ethyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	*mutant H115W, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	0.54	Paraoxon	*pH 8.0, recombinant genetic variant G1C4
+KCAT	synthetic construct	0.55	RP-O-ethyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	*mutant H115W, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	0.6	pentafluorophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	0.62	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Saccharolobus solfataricus	0.68	Paraoxon	*pH 8.0, 70&deg;C, mutant enzyme Y97W
+KCAT	Sulfolobus islandicus	0.79	Paraoxon	*70&deg;C, pH not specified in the publication
+KCAT	Homo sapiens	0.81	4-acetylphenyl cyclohexyl (R)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Sulfolobus islandicus	0.86	Methyl paraoxon	*25&deg;C, pH 9, mutant enzyme E14K/Y34Q
+KCAT	Homo sapiens	0.87	Paraoxon	*pH 8.0, recombinant genetic variant G2E6
+KCAT	Homo sapiens	0.89	Paraoxon	*pH 8.0, temperature not specified in the publication
+KCAT	Homo sapiens	0.9	Paraoxon	*wild-type, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	0.98	Paraoxon	*pH 8.0, recombinant genetic variant G2D6
+KCAT	Homo sapiens	1	Paraoxon	*pH 8.0, mutant enzyme H115Q
+KCAT	Homo sapiens	1.09	Paraoxon	*pH 8.0, recombinant wild-type PON1 genetic variant G2E6
+KCAT	Brevundimonas diminuta	1.1	diethyl 4-chlorophenyl thiophosphate	*recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30&deg;C
+KCAT	Homo sapiens	1.1	Paraoxon	*pH 8.0, recombinant genetic variant G3C9
+KCAT	Homo sapiens	1.16	Paraoxon	*pH 8.0, recombinant genetic variant G1A5
+KCAT	Homo sapiens	1.2	Paraoxon	*pH 8.0, recombinant genetic variant G3H8
+KCAT	Vulcanisaeta moutnovskia	1.25	Methyl paraoxon	*pH 8.0, 70&deg;C
+KCAT	Saccharolobus solfataricus	1.3	Methyl paraoxon	*pH 8.0, 70&deg;C, recombinant enzyme
+KCAT	Sulfolobus islandicus	1.42	Paraoxon	*25&deg;C, pH not specified in the publication, wild-type enzyme
+KCAT	Homo sapiens	1.5	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Saccharolobus solfataricus	1.63	Paraoxon	*pH 8.0, 70&deg;C, mutant enzyme Y97W/W263F
+KCAT	synthetic construct	1.83	SP-O-n-propyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	*wild-type, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	2	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	2.1	4-acetylphenyl (2S)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	2.2	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Escherichia coli K-12	2.2	chlorpyrifos	*pH 8.0, 37&deg;C, wild-type enzyme
+KCAT	Brevundimonas diminuta	2.2	diethyl 4-chlorophenyl thiophosphate	*recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30&deg;C
+KCAT	Saccharolobus solfataricus	2.2	Paraoxon	*pH 8.0, 70&deg;C, mutant enzyme Y97W/I261F
+KCAT	Homo sapiens	2.2	soman	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Saccharolobus solfataricus	2.29	Paraoxon	*pH 8.0, 70&deg;C
+KCAT	Brevundimonas diminuta	2.4	diethyl 4-chlorophenyl thiophosphate	*recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30&deg;C
+KCAT	Flavobacterium sp.	2.55	malathion	*wild type enzyme, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Homo sapiens	2.6	soman	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Sulfolobus islandicus	2.7	Paraoxon	*25&deg;C, 0.01% SDS, pH not specified in the publication
+KCAT	Saccharolobus solfataricus	2.71	Methyl paraoxon	*25&deg;C, pH 9.0
+KCAT	Homo sapiens	2.9	4-acetylphenyl (2S)-3,3-dimethylbutan-2-yl (S)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	3	Paraoxon	*pH 8.0, wild-type enzyme
+KCAT	Brevundimonas diminuta	3.3	demeton-S	*mutant enzyme H257L, in tripart buffer (pH 8.0)
+KCAT	Homo sapiens	3.3	Paraoxon	*pH 8.3, activity buffer
+KCAT	Homo sapiens	3.4	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	3.5	demeton-S	*wild type enzyme, in tripart buffer (pH 8.0)
+KCAT	Homo sapiens	3.7	2-fluoro 4-nitrophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	3.7	Paraoxon	*pH 8.3, activity buffer with 0.01 mM apolipoprotein apoA-I rHDL
+KCAT	Saccharolobus solfataricus	3.7	Paraoxon	*pH 8.0, 70&deg;C, mutant enzyme Y97W/I98F/I261F
+KCAT	Saccharolobus solfataricus	3.76	Paraoxon	*pH 8.0, 70&deg;C, mutant enzyme W263F
+KCAT	Homo sapiens	3.8	Paraoxon	*mutant H115W/R192Q, pH 8.0, 25&deg;C
+KCAT	Saccharolobus solfataricus	3.98	Paraoxon	*70&deg;C, pH 9.0
+KCAT	Homo sapiens	4.2	Paraoxon	*pH 8.0, wild-type enzyme
+KCAT	Homo sapiens	4.3	diethyl paraoxon	*recombinant enzyme, in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+KCAT	Homo sapiens	4.7	Paraoxon	*pH 8.0, mutant enzyme H115Q/H134Q
+KCAT	Homo sapiens	4.8	4-nitrophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	4.8	Paraoxon	*recombinant enzyme
+KCAT	synthetic construct	4.95	RP-O-n-propyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	*wild-type, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25&deg;C
+KCAT	Brevundimonas diminuta	5	1,2,2-trimethylpropylmethylphosphonofluoridate	*
+KCAT	Homo sapiens	5.1	4-acetylphenyl cyclohexyl (S)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	5.7	diethyl paraoxon	*in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+KCAT	Homo sapiens	5.7	Paraoxon	*pH 7.4, 37&deg;C, type A paraoxonase
+KCAT	Homo sapiens	5.8	Paraoxon	*pH 8.3, activity buffer with 0.1% tergitol
+KCAT	Homo sapiens	5.9	4-acetylphenyl cyclohexyl (R)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	6	Paraoxon	*mutant H115W, pH 8.0, 25&deg;C
+KCAT	Sulfolobus islandicus	6.2	malathion	*25&deg;C, pH 9
+KCAT	synthetic construct	6.467	SP-O-n-propyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	*mutant H115W, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	7.3	4-acetylphenyl ethyl (R)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	7.4	4-acetylphenyl propan-2-yl (S)-methylphosphonate	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Sulfolobus islandicus	7.4	Methyl paraoxon	*25&deg;C, pH 9, wild-type enzyme
+KCAT	Sulfolobus acidocaldarius	7.75	Methyl paraoxon	*pH 9.0, 75&deg;C
+KCAT	Homo sapiens	8.5	4-acetylphenyl (2R)-3,3-dimethylbutan-2-yl (R)-methylphosphonate	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Sulfolobus acidocaldarius	8.52	Paraoxon	*pH 8.5, 70&deg;C, Mn2+-containing enzyme
+KCAT	Homo sapiens	9.1	soman	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Sulfolobus islandicus	9.7	methyl parathion	*25&deg;C, pH 9
+KCAT	Homo sapiens	10.2	3,5-dinitrophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	10.7	Paraoxon	*mutant H115W/R192K, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	10.98	Paraoxon	*pH 7.4, 37&deg;C, type B paraoxonase
+KCAT	synthetic construct	11.72	RP-O-ethyl methylphosphonyl-3-cyano-7-hydroxy-4-methylcoumarin	*wild-type, in 50 mM Tris buffer, 1 mM CaCl2, pH 8.0, 25&deg;C
+KCAT	Homo sapiens	12	4-acetylphenyl 2-methylpropyl (S)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Saccharolobus solfataricus	12.59	Paraoxon	*25&deg;C, pH 9.0
+KCAT	Homo sapiens	12.7	Paraoxon	*pH 8.0, mutant enzyme H134Q
+KCAT	Homo sapiens	13	4-acetoxy acetophenone	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Flavobacterium sp.	13.16	demeton-S methyl	*wild type enzyme, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Homo sapiens	13.9	3-fluoro 4-nitrophenyl diethyl phosphate	*pH 8.0
+KCAT	Homo sapiens	14	4-acetylphenyl ethyl (R)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Sulfolobus acidocaldarius	14.05	Methyl paraoxon	*pH 8.5, 70&deg;C, Mn2+-containing enzyme
+KCAT	Sulfolobus islandicus	14.31	Paraoxon	*25&deg;C, 0.1% SDS, pH not specified in the publication
+KCAT	Flavobacterium sp.	14.62	demeton-S methyl	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Homo sapiens	15	4-acetylphenyl propan-2-yl (S)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	15	sarin	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Oryctolagus cuniculus	16.2	diethyl paraoxon	*in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+KCAT	Homo sapiens	18	4-acetylphenyl propan-2-yl (R)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	19	4-acetylphenyl cyclohexyl (S)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	20	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	22	4-acetylphenyl 2-methylpropyl (S)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Flavobacterium sp.	23.01	malathion	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Homo sapiens	25	soman	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	32	demeton-S	*mutant enzyme H254R, in tripart buffer (pH 8.0)
+KCAT	Brevundimonas diminuta	34	demeton-S	*mutant enzyme H254R/H257F, in tripart buffer (pH 8.0)
+KCAT	Homo sapiens	37	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	39	sarin	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	40	4-acetylphenyl propan-2-yl (S)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Flavobacterium sp.	40.63	malathion	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Brevundimonas diminuta	41	diisopropylfluorophosphate	*
+KCAT	Flavobacterium sp.	44.92	malathion	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Flavobacterium sp.	45.95	demeton-S methyl	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Flavobacterium sp.	48.27	demeton-S methyl	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Homo sapiens	50	4-acetylphenyl 2-methylpropyl (S)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	50	demeton-S	*mutant enzyme H254R/H257L, in tripart buffer (pH 8.0)
+KCAT	Brevundimonas diminuta	50	Paraoxon	*Co2+-PTE mutant H123I, at pH 8.5 and 30&deg;C
+KCAT	Homo sapiens	51	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	56	isopropylmethylphosphonofluoridate	*
+KCAT	Flavobacterium sp.	69.44	demeton-S methyl	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Flavobacterium sp.	73.29	malathion	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&deg;C
+KCAT	Escherichia coli K-12	73.8	chlorpyrifos	*pH 8.0, 37&deg;C, wild-type enzyme
+KCAT	Homo sapiens	89	phenyl acetate	*recombinant PON3
+KCAT	Homo sapiens	89	soman	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	90	sarin	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	92	4-acetylphenyl propan-2-yl (S)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	93	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	93	4-acetylphenyl cyclohexyl (R)-methylphosphonate	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	100	4-acetylphenyl 2-methylpropyl (S)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	100	4-acetylphenyl propan-2-yl (R)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	110	4-acetylphenyl 2-methylpropyl (R)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	110	4-acetylphenyl ethyl (R)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	110	4-acetylphenyl ethyl (S)-methylphosphonate	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	120	4-acetylphenyl propan-2-yl (R)-methylphosphonate	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	120	sarin	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	125	Paraoxon	*pH 10.5, 25&deg;C, 3-fluorotyrosine-containing recombinant His6-tagged OPH
+KCAT	Homo sapiens	130	4-acetylphenyl ethyl (R)-methylphosphonate	*mutant enzyme G60A, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	150	4-acetylphenyl cyclohexyl (R)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	150	4-acetylphenyl ethyl (R)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Purpureocillium lilacinum	160	malathion	*pH 7.2, 25&deg;C
+KCAT	Homo sapiens	166	5-(thiobutyryl)butyrolactone	*pH 8.0, recombinant wild-type PON1 genetic variant G2E6
+KCAT	Homo sapiens	190	4-acetylphenyl ethyl (S)-methylphosphonate	*mutant enzyme H254G/H257W/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	250	4-acetylphenyl propan-2-yl (R)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	290	4-acetylphenyl ethyl (S)-methylphosphonate	*mutant enzyme S308G, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	300	parathion	*recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30&deg;C
+KCAT	Homo sapiens	300	sarin	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Saccharolobus solfataricus	342	Methyl paraoxon	*recombinant wild type enzyme, in 100 mM sodium phosphate buffer (pH 7.0), at 60&deg;C
+KCAT	Homo sapiens	370	4-acetylphenyl propan-2-yl (S)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	390	Paraoxon	*Co2+-PTE mutant H123A, at pH 8.5 and 30&deg;C
+KCAT	Homo sapiens	410	4-acetylphenyl ethyl (S)-methylphosphonate	*mutant enzyme H275Y/L303T, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Brevundimonas diminuta	450	Paraoxon	*mutant enzyme H254R/H257F, in 20 mM CHES buffer (pH 9.0) at 25&deg;C
+KCAT	Homo sapiens	552	phenyl acetate	*pH 8.0, recombinant genetic variant G1C4
+KCAT	Homo sapiens	562	phenyl acetate	*pH 8.0, recombinant genetic variant G2D6
+KCAT	Saccharolobus solfataricus	597	Paraoxon	*recombinant wild type enzyme, in 100 mM sodium phosphate buffer (pH 7.0), at 60&deg;C
+KCAT	Brevundimonas diminuta	600	parathion	*recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30&deg;C
+KCAT	Brevundimonas diminuta	640	Paraoxon	*mutant enzyme H254R/H257L, in 20 mM CHES buffer (pH 9.0) at 25&deg;C
+KCAT	Purpureocillium lilacinum	650	demeton-S	*pH 7.2, 25&deg;C
+KCAT	Homo sapiens	656	3-fluorophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	670	4-acetylphenyl ethyl (S)-methylphosphonate	*wild type enzyme, in 50 mM CHES (pH 9.0), at 30&deg;C
+KCAT	Homo sapiens	678	pentafluorophenyl diethyl phosphate	*about, pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	698	dihydrocoumarin	*recombinant PON3
+KCAT	Brevundimonas diminuta	720	parathion	*recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30&deg;C
+KCAT	Brevundimonas diminuta	750	Paraoxon	*mutant H254R, pH 9.0, 25&deg;C
+KCAT	Purpureocillium lilacinum	771	phosmet	*pH 7.2, 25&deg;C
+KCAT	Brevundimonas diminuta	780	Paraoxon	*pH 8.5, recombinant wild-type enzyme-MBP fusion protein
+KCAT	Homo sapiens	789	phenyl acetate	*pH 8.0, recombinant genetic variant G3C9
+KCAT	Homo sapiens	833	phenyl acetate	*pH 8.0, recombinant genetic variant G1A5
+KCAT	Homo sapiens	840	3-nitrophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	848	4-chlorophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Purpureocillium lilacinum	949	Coumaphos	*pH 7.2, 25&deg;C
+KCAT	Homo sapiens	950	2,6-difluorophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	965	phenyl acetate	*pH 8.0, recombinant genetic variant G2E6
+KCAT	Homo sapiens	1018	phenyl acetate	*pH 8.0, recombinant genetic variant G3H8
+KCAT	Purpureocillium lilacinum	1098	parathion	*pH 7.2, 25&deg;C
+KCAT	Purpureocillium lilacinum	1152	methyl parathion	*pH 7.2, 25&deg;C
+KCAT	Brevundimonas diminuta	1200	Paraoxon	*mutant enzyme H254R, in 20 mM CHES buffer (pH 9.0) at 25&deg;C
+KCAT	Homo sapiens	1236	phenyl acetate	*pH 8.0, recombinant wild-type PON1
+KCAT	Brevundimonas diminuta	1280	Paraoxon	*pH 8.5, recombinant genetic variants 1.5E-MBP fusion protein
+KCAT	Brevundimonas diminuta	1290	Paraoxon	*Zn2+-PTE, at pH 8.5 and 30&deg;C
+KCAT	Purpureocillium lilacinum	1336	Paraoxon	*pH 7.2, 25&deg;C
+KCAT	Escherichia coli K-12	1430	chlorpyrifos	*pH 8.0, 37&deg;C, genetic variant A1467
+KCAT	Brevundimonas diminuta	1430	Paraoxon	*pH 8.5, recombinant genetic variants 1.6F-MBP fusion protein
+KCAT	Homo sapiens	1477	3,5-dinitrophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	1610	3-cyanophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Brevundimonas diminuta	1610	Paraoxon	*Co2+-PTE mutant H123N, at pH 8.5 and 30&deg;C
+KCAT	Brevundimonas diminuta	2060	4-nitrophenyl phosphate	*recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30&deg;C
+KCAT	Brevundimonas diminuta	2100	Paraoxon	*
+KCAT	Brevundimonas diminuta	2150	Paraoxon	*pH 8.5, recombinant genetic variants 2.S5-MBP fusion protein
+KCAT	Brevundimonas diminuta	2280	Paraoxon	*pH 9.0, recombinant wild-type enzyme; wild-type enzyme
+KCAT	Brevundimonas diminuta	2300	4-nitrophenyl phosphate	*recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30&deg;C
+KCAT	Escherichia coli	2300	methylparathion	*pH 8.0, 37&deg;C, recombinant His6-tagged wild-type OPH
+KCAT	Brevundimonas diminuta	2500	4-nitrophenyl phosphate	*recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30&deg;C
+KCAT	Escherichia coli K-12	2610	chlorpyrifos	*pH 8.0, 37&deg;C, genetic variant A1030
+KCAT	Brevundimonas diminuta	3400	Paraoxon	*pH 8.0, 30&deg;C
+KCAT	Escherichia coli K-12	3540	chlorpyrifos	*pH 8.0, 37&deg;C, genetic variant B2136
+KCAT	Brevundimonas diminuta	4010	Paraoxon	*Co2+-PTE, at pH 8.5 and 30&deg;C
+KCAT	Brevundimonas diminuta	5100	Paraoxon	*pH 10.5, 25&deg;C, recombinant His6-tagged wild-type OPH
+KCAT	Homo sapiens	5485	4-diethyl phosphate methyl benzoate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Brevundimonas diminuta	6900	Paraoxon	*wild type enzyme, in 20 mM CHES buffer (pH 9.0) at 25&deg;C
+KCAT	Homo sapiens	7495	4-cyanophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Brevundimonas diminuta	8000	Paraoxon	*mutant enzyme H257L, in 20 mM CHES buffer (pH 9.0) at 25&deg;C
+KCAT	Homo sapiens	8080	4-diethyl phosphate acetophenone	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	9160	2,4-dinitrophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Brevundimonas diminuta	10500	Paraoxon	*wild-type enzyme, pH 9.0, 25&deg;C
+KCAT	Homo sapiens	10520	4-nitrophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	11080	2-fluoro-4-nitrophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Homo sapiens	11680	3-fluoro-4-nitrophenyl diethyl phosphate	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Escherichia coli	11700	Paraoxon	*pH 8.0, 37&deg;C, recombinant His6-tagged wild-type OPH
+KCAT	Homo sapiens	12620	4-diethyl phosphate benzaldehyde	*pH 8.0, genetic variant PON1 G2E6
+KCAT	Escherichia coli K-12	20100	chlorpyrifos	*pH 8.0, 37&deg;C, genetic variant 22A11
+KCAT	Escherichia coli K-12	21500	chlorpyrifos	*pH 8.0, 37&deg;C, genetic variant B1368
+KCAT	Escherichia coli K-12	30900	chlorpyrifos	*pH 8.0, 37&deg;C, genetic variant B3561
+KM	Brevundimonas diminuta	0.34	4-nitrophenyl phosphate	*recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.74	4-nitrophenyl phosphate	*recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	1.9	4-nitrophenyl phosphate	*recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30&Acirc;&deg;C
+KM	Saccharolobus solfataricus	0.005	Paraoxon	*recombinant wild type enzyme, in 100 mM sodium phosphate buffer (pH 7.0), at 60&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.01	Paraoxon	*pH 10.5, 20&Acirc;&deg;C, recombinant His6-tagged OPH
+KM	Brevundimonas diminuta	0.01	Paraoxon	*pH 10.5, 25&Acirc;&deg;C, recombinant His6-tagged wild-type OPH
+KM	Brevundimonas diminuta	0.012	Paraoxon	*mutant H254R, pH 9.0, 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.016	Paraoxon	*pH 9.0, 20&Acirc;&deg;C, native OPH
+KM	Sulfolobus islandicus	0.03	Paraoxon	*25&Acirc;&deg;C, pH not specified in the publication, mutant enzyme E14K
+KM	Purpureocillium lilacinum	0.033	Paraoxon	*pH 7.2, 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.035	Paraoxon	*wild-type enzyme
+KM	Brevundimonas diminuta	0.05	Paraoxon	*mutant enzyme H254R/H257F, in 20 mM CHES buffer (pH 9.0) at 25&Acirc;&deg;C
+KM	Saccharolobus solfataricus	0.06	Paraoxon	*pH 8.0, 70&Acirc;&deg;C, recombinant enzyme
+KM	Saccharolobus solfataricus	0.064	Paraoxon	*pH 8.0, 70&Acirc;&deg;C, wild-type enzyme
+KM	Brevundimonas diminuta	0.07	Paraoxon	*mutant enzyme H254R/H257L, in 20 mM CHES buffer (pH 9.0) at 25&Acirc;&deg;C
+KM	Saccharolobus solfataricus	0.075	Paraoxon	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme Y97W
+KM	Bos taurus	0.08	Paraoxon	*pH 8.0, 37&Acirc;&deg;C
+KM	Homo sapiens	0.085	Paraoxon	*pH 8.0, recombinant genetic variant G1A5
+KM	Homo sapiens	0.088	Paraoxon	*pH 8.0, recombinant genetic variant G3H8
+KM	Homo sapiens	0.089	Paraoxon	*pH 8.0, recombinant genetic variant G2E6
+KM	Brevundimonas diminuta	0.09	Paraoxon	*mutant enzyme H254R, in 20 mM CHES buffer (pH 9.0) at 25&Acirc;&deg;C
+KM	Homo sapiens	0.094	Paraoxon	*pH 8.0, recombinant genetic variant G3C9
+KM	Homo sapiens	0.1	Paraoxon	*pH 8.0, recombinant genetic variant G2D6
+KM	Brevundimonas diminuta	0.1	Paraoxon	*wild type enzyme, in 20 mM CHES buffer (pH 9.0) at 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.104	Paraoxon	*pH 10.5, 25&Acirc;&deg;C, 3-fluorotyrosine-containing recombinant His6-tagged OPH
+KM	Brevundimonas diminuta	0.12	Paraoxon	*wild-type enzyme, pH 9.0, 25&Acirc;&deg;C
+KM	Homo sapiens	0.12	Paraoxon	*pH 8.0, recombinant genetic variant G1C4
+KM	Escherichia coli	0.12	Paraoxon	*pH 8.0, 37&Acirc;&deg;C, recombinant His6-tagged wild-type OPH
+KM	Sulfolobus islandicus	0.132	Paraoxon	*25&Acirc;&deg;C, pH not specified in the publication, mutant enzyme E14K/Y34Q
+KM	Homo sapiens	0.14	Paraoxon	*mutant E313A, pH 10.5, 25&Acirc;&deg;C
+KM	Homo sapiens	0.15	Paraoxon	*mutant H115W/N133S, pH 10.5, 25&Acirc;&deg;C
+KM	Sulfolobus islandicus	0.15	Paraoxon	*25&Acirc;&deg;C, pH not specified in the publication, mutant enzyme Y34Q
+KM	Saccharolobus solfataricus	0.153	Paraoxon	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme W263F
+KM	Homo sapiens	0.16	Paraoxon	*wild-type, pH 10.5, 25&Acirc;&deg;C
+KM	Homo sapiens	0.17	Paraoxon	*mutant N133S, pH 10.5, 25&Acirc;&deg;C
+KM	Homo sapiens	0.18	Paraoxon	*mutant G11A and mutant G11S, pH 10.5, 25&Acirc;&deg;C
+KM	Homo sapiens	0.19	Paraoxon	*mutant E314A and mutant G11C, pH 10.5, 25&Acirc;&deg;C
+KM	Homo sapiens	0.19	Paraoxon	*pH 10.5, 25&Acirc;&deg;C, mutant enzyme H115W/N133S
+KM	Homo sapiens	0.25	Paraoxon	*pH 10.5, 25&Acirc;&deg;C, wild-type enzyme
+KM	Brevundimonas diminuta	0.26	Paraoxon	*Zn2+-PTE, at pH 8.5 and 30&Acirc;&deg;C
+KM	Homo sapiens	0.27	Paraoxon	*enzyme variant R192
+KM	Homo sapiens	0.271	Paraoxon	*pH 8.0, 25&Acirc;&deg;C, enzyme from phenotype B blood plasma
+KM	Homo sapiens	0.271	Paraoxon	*pH 7.4, 37&Acirc;&deg;C, type B paraoxonase
+KM	Saccharolobus solfataricus	0.272	Paraoxon	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme Y97W/W263F
+KM	Homo sapiens	0.29	Paraoxon	*; 37&Acirc;&deg;C, pH 10.0
+KM	Brevundimonas diminuta	0.29	Paraoxon	*native enzyme, in 50 mM borate buffer (pH 8.5, 0.1 mM CoCl2), at 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.3	Paraoxon	*mutant enzyme H257L, in 20 mM CHES buffer (pH 9.0) at 25&Acirc;&deg;C
+KM	Homo sapiens	0.31	Paraoxon	*pH 8.5, 25&Acirc;&deg;C, wild-type enzyme
+KM	Sulfolobus acidocaldarius	0.32	Paraoxon	*pH 8.5, 70&Acirc;&deg;C, Mn2+-containing enzyme
+KM	Brevundimonas diminuta	0.34	Paraoxon	*Co2+-PTE mutant H123N, at pH 8.5 and 30&Acirc;&deg;C
+KM	Flavobacterium sp.	0.345	Paraoxon	*surface-displayed recombinant enzyme from fresh cells, in 50 mM CHES/CoCl2 buffer, pH 9.0, with 0.05 mM CoCl2, at 37&Acirc;&deg;C
+KM	Flavobacterium sp.	0.347	Paraoxon	*surface-displayed recombinant enzyme from freeze-thawed cells, in 50 mM CHES/CoCl2 buffer, pH 9.0, with 0.05 mM CoCl2, at 37&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.36	Paraoxon	*Co2+-PTE mutant H123I, at pH 8.5 and 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.39	Paraoxon	*Co2+-PTE mutant H123A, at pH 8.5 and 30&Acirc;&deg;C
+KM	Rattus norvegicus	0.4	Paraoxon	*; 37&Acirc;&deg;C, pH 7.4
+KM	Brevundimonas diminuta	0.4	Paraoxon	*Co2+-PTE, at pH 8.5 and 30&Acirc;&deg;C
+KM	Saccharolobus solfataricus	0.41	Paraoxon	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme Y97W/I261F
+KM	Homo sapiens	0.42	Paraoxon	*mutant H115W, pH 10.5, 25&Acirc;&deg;C
+KM	Homo sapiens	0.43	Paraoxon	*pH 10.5, 25&Acirc;&deg;C, mutant enzyme H115W
+KM	Homo sapiens	0.49	Paraoxon	*R192 isoenzyme, at pH 8.0 and 37&Acirc;&deg;C
+KM	Homo sapiens	0.5	Paraoxon	*enzyme variant Q192
+KM	Homo sapiens	0.5	Paraoxon	*pH 8.3, activity buffer with 0.01 mM apolipoprotein apoA-I rHDL
+KM	Homo sapiens	0.503	Paraoxon	*pH 8.0, 25&Acirc;&deg;C, enzyme from phenotype A blood plasma
+KM	Homo sapiens	0.503	Paraoxon	*pH 7.4, 37&Acirc;&deg;C, type A paraoxonase
+KM	Homo sapiens	0.51	Paraoxon	*pH 8.0, recombinant genetic variant G3A5
+KM	Homo sapiens	0.54	Paraoxon	*pH 8.0, wild-type enzyme
+KM	Homo sapiens	0.56	Paraoxon	*isozyme 192R, in 100 mM Tris-HCl (pH 8.5), 1 mM CaCl2, 37&Acirc;&deg;C
+KM	Homo sapiens	0.599	Paraoxon	*Q192 isoenzyme, at pH 8.0 and 37&Acirc;&deg;C
+KM	Homo sapiens	0.7	Paraoxon	*
+KM	Homo sapiens	0.75	Paraoxon	*pH 8.0, mutant enzyme H134Q
+KM	Homo sapiens	0.75	Paraoxon	*pH 8.0, recombinant genetic variant G3G3
+KM	Homo sapiens	0.8	Paraoxon	*pH 8.0, recombinant genetic variant G2C2; pH 8.0, recombinant genetic variant G3H9
+KM	Homo sapiens	0.8	Paraoxon	*recombinant enzyme
+KM	Homo sapiens	0.8	Paraoxon	*mutant H115W/R192Q, pH 8.0, 25&Acirc;&deg;C
+KM	Homo sapiens	0.86	Paraoxon	*pH 8.0, wild-type enzyme
+KM	Homo sapiens	0.868	Paraoxon	*recombinant wild type enzyme, in 0.1 M Tris-HCl (pH 8.5), 2 M NaCl, and 2 mM CaCl2
+KM	Homo sapiens	0.9	Paraoxon	*pH 8.3, activity buffer; pH 8.3, activity buffer with 0.1% tergitol
+KM	Homo sapiens	0.9	Paraoxon	*mutant H115W, pH 8.0, 25&Acirc;&deg;C; mutant H115W/R192K, pH 8.0, 25&Acirc;&deg;C
+KM	Homo sapiens	0.94	Paraoxon	*wild type enzyme, in 50 mM Tris-HCl with 1 mM CaCl2 (pH 7.4), at 25&Acirc;&deg;C
+KM	Homo sapiens	0.96	Paraoxon	*isozyme 192Q, in 100 mM Tris-HCl (pH 8.5), 1 mM CaCl2, 37&Acirc;&deg;C
+KM	Homo sapiens	1.01	Paraoxon	*
+KM	Flavobacterium sp.	1.047	Paraoxon	*intracellular-expressed recombinant enzyme from fresh cells, in 50 mM CHES/CoCl2 buffer, pH 9.0, with 0.05 mM CoCl2, at 37&Acirc;&deg;C
+KM	Flavobacterium sp.	1.051	Paraoxon	*intracellular expressed recombinant enzyme from freeze-thawed cells, in 50 mM CHES/CoCl2 buffer, pH 9.0, with 0.05 mM CoCl2, at 37&Acirc;&deg;C
+KM	Homo sapiens	1.1	Paraoxon	*pH 8.0, recombinant genetic variant G1B11
+KM	Sulfolobus islandicus	1.1	Paraoxon	*70&Acirc;&deg;C, pH not specified in the publication
+KM	Homo sapiens	1.18	Paraoxon	*pH 8.0, mutant enzyme H115Q/H134Q
+KM	Homo sapiens	1.2	Paraoxon	*mutant enzyme Q192R, in 50 mM Tris-HCl with 1 mM CaCl2 (pH 7.4), at 25&Acirc;&deg;C
+KM	Saccharolobus solfataricus	1.2	Paraoxon	*pH 8.0, 70&Acirc;&deg;C, mutant enzyme Y97W/I98F/I261F
+KM	Homo sapiens	1.2	Paraoxon	*wild-type, pH 8.0, 25&Acirc;&deg;C
+KM	Homo sapiens	1.2	Paraoxon	*pH 8.0, temperature not specified in the publication
+KM	Oryctolagus cuniculus	1.3	Paraoxon	*pH 8.0
+KM	Homo sapiens	1.3	Paraoxon	*2 mM substrate, at pH 8.0 and 37&Acirc;&deg;C
+KM	Homo sapiens	1.35	Paraoxon	*pH 8.0, mutant enzyme H115Q
+KM	Mus musculus	1.4	Paraoxon	*pH 8.0
+KM	Homo sapiens	1.42	Paraoxon	*pH 7.4, 25&Acirc;&deg;C
+KM	Homo sapiens	1.5	Paraoxon	*in 50 mM Tris-HCl buffer, 10 mM CaCl2, pH 7.4
+KM	Rattus norvegicus	1.63	Paraoxon	*pH 8.5, 37&Acirc;&deg;C, enzyme form M2
+KM	Rattus norvegicus	1.69	Paraoxon	*37&Acirc;&deg;C, pH 8.5
+KM	Sulfolobus islandicus	2	Paraoxon	*25&Acirc;&deg;C, 0.1% SDS, pH not specified in the publication
+KM	Saccharolobus solfataricus	2.36	Paraoxon	*pH 8.0, 70&Acirc;&deg;C
+KM	Homo sapiens	2.5	Paraoxon	*serum enzyme, pH 8.0, 37&Acirc;&deg;C
+KM	Homo sapiens	2.5	Paraoxon	*pH 8.0, recombinant genetic variant G1A7
+KM	Rattus norvegicus	2.69	Paraoxon	*pH 8.5, 37&Acirc;&deg;C, enzyme form M1
+KM	Saccharolobus solfataricus	3.27	Paraoxon	*70&Acirc;&deg;C, pH 9.0
+KM	Homo sapiens	4.16	Paraoxon	*liver enzyme, pH 8.0, 37&Acirc;&deg;C; pH 8.0, 37&Acirc;&deg;C
+KM	Homo sapiens	4.16	Paraoxon	*pH 8.0, 37&Acirc;&deg;C
+KM	Sulfolobus islandicus	4.2	Paraoxon	*25&Acirc;&deg;C, 0.01% SDS, pH not specified in the publication
+KM	Sulfolobus islandicus	5.44	Paraoxon	*25&Acirc;&deg;C, pH not specified in the publication, wild-type enzyme
+KM	Saccharolobus solfataricus	24.25	Paraoxon	*25&Acirc;&deg;C, pH 9.0
+KM	Homo sapiens	1.4	phenyl acetate	*pH 8.0, wild-type enzyme
+KM	Homo sapiens	3.5	phenyl acetate	*pH 8.0, recombinant enzyme
+KM	Escherichia coli K-12	0.032	chlorpyrifos	*pH 8.0, 37&Acirc;&deg;C, genetic variant B2136
+KM	Homo sapiens	0.131	chlorpyrifos	*recombinant wild type enzyme, in 0.1 M Tris-HCl (pH 8.5), 2 M NaCl, and 2 mM CaCl2
+KM	Escherichia coli K-12	0.14	chlorpyrifos	*pH 8.0, 37&Acirc;&deg;C, genetic variant B3561
+KM	Escherichia coli K-12	0.19	chlorpyrifos	*pH 8.0, 37&Acirc;&deg;C, genetic variant 22A11
+KM	Escherichia coli K-12	0.22	chlorpyrifos	*pH 8.0, 37&Acirc;&deg;C, genetic variant B1368
+KM	Escherichia coli K-12	0.26	chlorpyrifos	*pH 8.0, 37&Acirc;&deg;C, wild-type enzyme
+KM	Escherichia coli K-12	0.27	chlorpyrifos	*pH 8.0, 37&Acirc;&deg;C, genetic variant A1467
+KM	Escherichia coli K-12	0.51	chlorpyrifos	*pH 8.0, 37&Acirc;&deg;C, genetic variant A1030
+KM	Saccharolobus solfataricus	0.16	malathion	*25&Acirc;&deg;C, pH 9.0
+KM	Flavobacterium sp.	0.29	malathion	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Sulfolobus islandicus	0.33	malathion	*25&Acirc;&deg;C, pH 9
+KM	Purpureocillium lilacinum	0.351	malathion	*pH 7.2, 25&Acirc;&deg;C
+KM	Flavobacterium sp.	0.41	malathion	*wild type enzyme, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Flavobacterium sp.	0.67	malathion	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Flavobacterium sp.	0.82	malathion	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Flavobacterium sp.	1.16	malathion	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Sulfolobus islandicus	0.05	Methyl paraoxon	*25&Acirc;&deg;C, pH 9, mutant enzyme E14K
+KM	Sulfolobus acidocaldarius	0.138	Methyl paraoxon	*pH 8.5, 70&Acirc;&deg;C, Mn2+-containing enzyme
+KM	Saccharolobus solfataricus	0.205	Methyl paraoxon	*pH 8.0, 70&Acirc;&deg;C, recombinant enzyme
+KM	Saccharolobus solfataricus	0.246	Methyl paraoxon	*recombinant wild type enzyme, in 100 mM sodium phosphate buffer (pH 7.0), at 60&Acirc;&deg;C
+KM	Sulfolobus islandicus	0.261	Methyl paraoxon	*25&Acirc;&deg;C, pH 9, mutant enzyme Y34Q
+KM	Geobacillus stearothermophilus	0.27	Methyl paraoxon	*at 35&Acirc;&deg;C, pH 9.0
+KM	Sulfolobus acidocaldarius	0.278	Methyl paraoxon	*pH 8.3, 25&Acirc;&deg;C
+KM	Sulfolobus islandicus	0.62	Methyl paraoxon	*25&Acirc;&deg;C, pH 9, mutant enzyme E14K/Y34Q
+KM	Sulfolobus acidocaldarius	1.4	Methyl paraoxon	*pH 9.0, 75&Acirc;&deg;C
+KM	Sulfolobus islandicus	1.74	Methyl paraoxon	*25&Acirc;&deg;C, pH 9, wild-type enzyme
+KM	Saccharolobus solfataricus	2.14	Methyl paraoxon	*25&Acirc;&deg;C, pH 9.0
+KM	Vulcanisaeta moutnovskia	2.79	Methyl paraoxon	*pH 8.0, 70&Acirc;&deg;C
+KM	Homo sapiens	0.27	soman	*wild type enzyme, in 20 mM Tris-HCl with 1 mM CaCl2 (pH 7.4), at 25&Acirc;&deg;C
+KM	Homo sapiens	0.44	soman	*mutant enzyme Q192R, in 20 mM Tris-HCl with 1 mM CaCl2 (pH 7.4), at 25&Acirc;&deg;C
+KM	Homo sapiens	0.074	sarin	*mutant enzyme Q192R, in 20 mM Tris-HCl with 1 mM CaCl2 (pH 7.4), at 25&Acirc;&deg;C
+KM	Homo sapiens	0.21	sarin	*wild type enzyme, in 20 mM Tris-HCl with 1 mM CaCl2 (pH 7.4), at 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.015	parathion	*pH 10.5, 20&Acirc;&deg;C, recombinant His6-tagged OPH
+KM	Purpureocillium lilacinum	0.058	parathion	*pH 7.2, 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.06	parathion	*pH 9.0, 20&Acirc;&deg;C, native OPH
+KM	Sulfolobus acidocaldarius	0.434	parathion	*pH 8.3, 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.6	parathion	*recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	1.5	parathion	*recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	1.7	parathion	*recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30&Acirc;&deg;C
+KM	Homo sapiens	1.33	diazoxon	*recombinant wild type enzyme, in 0.1 M Tris-HCl (pH 8.5), 2 M NaCl, and 2 mM CaCl2
+KM	Rattus norvegicus	1.1	Tabun	*
+KM	Purpureocillium lilacinum	0.236	demeton-S	*pH 7.2, 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	1.9	demeton-S	*mutant enzyme H257L, in tripart buffer (pH 8.0)
+KM	Brevundimonas diminuta	4.2	demeton-S	*mutant enzyme H254R, in tripart buffer (pH 8.0)
+KM	Brevundimonas diminuta	4.4	demeton-S	*wild type enzyme, in tripart buffer (pH 8.0)
+KM	Geobacillus stearothermophilus	6.1	demeton-S	*at 35&Acirc;&deg;C, pH 7.2
+KM	Brevundimonas diminuta	6.2	demeton-S	*mutant enzyme H254R/H257L, in tripart buffer (pH 8.0)
+KM	Brevundimonas diminuta	7.6	demeton-S	*mutant enzyme H254R/H257F, in tripart buffer (pH 8.0)
+KM	Purpureocillium lilacinum	0.052	methyl parathion	*pH 7.2, 25&Acirc;&deg;C
+KM	Saccharolobus solfataricus	0.12	methyl parathion	*25&Acirc;&deg;C, pH 9.0
+KM	Sulfolobus islandicus	0.272	methyl parathion	*25&Acirc;&deg;C, pH 9
+KM	Agrobacterium tumefaciens	0.36	methyl parathion	*pH 9.1, 37&Acirc;&deg;C, recombinant enzyme in presence of Co2+
+KM	Agrobacterium tumefaciens	0.41	methyl parathion	*pH 9.1, 37&Acirc;&deg;C, recombinant enzyme in absence of Co2+
+KM	Flavobacterium sp.	1.2	demeton-S methyl	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Flavobacterium sp.	3.64	demeton-S methyl	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Flavobacterium sp.	4.18	demeton-S methyl	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Flavobacterium sp.	8.09	demeton-S methyl	*wild type enzyme, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Flavobacterium sp.	23.31	demeton-S methyl	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.073	methylparathion	*pH 10.5, 20&Acirc;&deg;C, recombinant His6-tagged OPH
+KM	Brevundimonas diminuta	0.21	methylparathion	*pH 9.0, 20&Acirc;&deg;C, native OPH
+KM	Escherichia coli	1.22	methylparathion	*pH 8.0, 37&Acirc;&deg;C, recombinant His6-tagged wild-type OPH
+KM	Brevundimonas diminuta	1.6	diethyl 4-chlorophenyl phosphate	*recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	3.3	diethyl 4-chlorophenyl phosphate	*recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	7	diethyl 4-chlorophenyl phosphate	*recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.3	diethyl 4-chlorophenyl thiophosphate	*recombinant wild-type enzyme bound to Cd2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.5	diethyl 4-chlorophenyl thiophosphate	*recombinant wild-type enzyme bound to Zn2+, pH 9.0, 30&Acirc;&deg;C
+KM	Brevundimonas diminuta	0.6	diethyl 4-chlorophenyl thiophosphate	*recombinant wild-type enzyme bound to Cd2+ and Zn2+, pH 9.0, 30&Acirc;&deg;C
+KM	Homo sapiens	0.67	diethyl paraoxon	*recombinant enzyme, in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+KM	Homo sapiens	0.772	diethyl paraoxon	*in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+KM	Oryctolagus cuniculus	0.889	diethyl paraoxon	*in 20 mM Tris-HCl buffer, pH 7.4, 1 mM CaCl2, temperature not specified in the publication
+KM	Purpureocillium lilacinum	0.071	Coumaphos	*pH 7.2, 25&Acirc;&deg;C
+KM	Homo sapiens	4	pentafluorophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	1.2	4-diethyl phosphate benzaldehyde	*pH 8.0
+KM	Homo sapiens	1.56	4-diethyl phosphate acetophenone	*pH 8.0
+KM	Homo sapiens	1.9	4-diethyl phosphate methyl benzoate	*pH 8.0
+KM	Homo sapiens	2.1	2,4-dinitrophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	0.91	2-fluoro 4-nitrophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	1.7	3-fluoro 4-nitrophenyl diethyl phosphate	*
+KM	Homo sapiens	1.8	3,5-dinitrophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	1.3	2,6-difluorophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	1.9	4-cyanophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	1.3	3-nitrophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	2.1	3-cyanophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	2	3-fluorophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	1.9	4-chlorophenyl diethyl phosphate	*pH 8.0
+KM	Homo sapiens	0.8	4-nitrophenyl diethyl phosphate	*pH 8.0
+KM	Geobacillus stearothermophilus	2.1	ethyl paraoxon	*at 35&Acirc;&deg;C, pH 9.0
+KM	Homo sapiens	0.091	7-diethylphospho-6,8-difluor-4-methylumbelliferyl	*pH 8.0, 37&Acirc;&deg;C, recombinant isozyme L55R192 PON1
+KM	Homo sapiens	0.2	7-diethylphospho-6,8-difluor-4-methylumbelliferyl	*pH 8.0, 37&Acirc;&deg;C, recombinant isozyme L55Q192 PON1
+KM	Purpureocillium lilacinum	0.187	phosmet	*pH 7.2, 25&Acirc;&deg;C
+KM	Homo sapiens	0.2	O-ethyl S-2-diisopropylaminoethyl methylphosphonothiolate	*mutant enzyme Q192R, in 20 mM Tris-HCl with 1 mM CaCl2 (pH 7.4), at 25&Acirc;&deg;C; wild type enzyme, in 20 mM Tris-HCl with 1 mM CaCl2 (pH 7.4), at 25&Acirc;&deg;C
+KM	Homo sapiens	0.5	O-isobutyl-S-[2-(diethylamino)ethyl]methylphosphonothioic acid	*in 50 mM Tris-HCl buffer, 10 mM CaCl2, pH 7.4
+KM	Pimelobacter simplex	0.1	ethyl parathion	*
+KM	Pimelobacter simplex	0.345	ethyl phenyl parathion	*
+KM	Flavobacterium sp.	0.15	S-(2-[di(propan-2-yl)amino]ethyl)O-ethyl methylphosphonothioate	*expression mutant A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, pH 8.5, temperature not specified in the publication
+KM	Flavobacterium sp.	5.87	S-(2-[di(propan-2-yl)amino]ethyl)O-ethyl methylphosphonothioate	*mutant L271A/Y309A, pH 8.5, temperature not specified in the publication
+KM	Sulfolobus acidocaldarius	0.642	CMP-coumarin	*pH 8.3, 25&Acirc;&deg;C
+KM	Vulcanisaeta moutnovskia	0.581	ethyl-paraoxon	*pH 8.0, 70&Acirc;&deg;C
+KM	Brevundimonas diminuta	-999	more	*Km values of paraoxon hydrolysis with different metal ions in the active site
+KM	Flavobacterium sp.	-999	more	*Km values of paraoxon hydrolysis with different metal ions in the active site
+KM	Homo sapiens	-999	more	*kinetics
+KM	Brevundimonas diminuta	-999	more	*kinetic evaluation, mutant H254R
+KM	Brevundimonas diminuta	-999	more	*kinetics of the Zn-enzyme and the Cd-enzyme, wild-type and mutant, kinetic model, overview
+KM	Purpureocillium lilacinum	-999	more	*kinetics, overview
+KM	Brevundimonas diminuta	-999	more	*kinetics
+KM	Homo sapiens	-999	more	*kinetics
+KM	Homo sapiens	-999	more	*kinetics
+KM	Agrobacterium tumefaciens	-999	more	*kinetics
+KM	Escherichia coli	-999	more	*kinetics for diverse random mutant variants, overview
+KM	Brevundimonas diminuta	-999	more	*
+KM	Homo sapiens	-999	more	*first order rate kinetics of the immobilized enzyme, overview
+KM	Saccharolobus solfataricus	-999	more	*first order kinetics
+KM	Homo sapiens	-999	more	*
+KM	Agrobacterium tumefaciens	-999	more	*kinetic modelling, molecular dynamic docking studies and density functional theory calculations, overview
+KM	Brevundimonas diminuta	-999	more	*kinetics of recombinant His6-tagged wild-type OPH and 3-fluorotyrosine-containing recombinant His6-tagged OPH
+MW	Oryctolagus cuniculus	-999	*	*rabbit serum contains two major species of PON monomers (42300 Da and 39800 Da), SDS-PAGE
+MW	Plesiomonas sp.	33700	*	*recombinant His-tagged mature enzyme, gel filtration
+MW	Saccharolobus solfataricus	34000	*	*x * 34000, SDS-PAGE, x * 35565, sequence calculation, the enzyme is in a monomer-dimer equilibrium
+MW	Saccharolobus solfataricus	34000	*	*x * 34000, SDS-PAGE
+MW	Plesiomonas sp.	35000	*	*1 * 35000, recombinant His-tagged mature enzyme, SDS-PAGE
+MW	Saccharolobus solfataricus	35175	*	*1 * 35175, MALDI-TOF mass spectrometry
+MW	Saccharolobus solfataricus	35180	*	*MALDI-TOF mass spectrometry
+MW	Sulfolobus acidocaldarius	35307	*	*x * 35307, calculated from sequence
+MW	Sulfolobus acidocaldarius	35500	*	*x * 35500, SDS-PAGE
+MW	Saccharolobus solfataricus	35565	*	*x * 34000, SDS-PAGE, x * 35565, sequence calculation, the enzyme is in a monomer-dimer equilibrium
+MW	Pseudomonas pseudoalcaligenes	36000	*	*x * 36000, recombinant OPHC2, SDS-PAGE
+MW	Geobacillus stearothermophilus	36000	*	*x * 36000, SDS-PAGE
+MW	Brevundimonas diminuta	36000	*	*gel filtration
+MW	Flavobacterium sp.	36000	*	*2 * 36000, SDS-PAGE
+MW	Vulcanisaeta moutnovskia	36000	*	*2 * 36000, SDS-PAGE
+MW	Brevundimonas diminuta	36290	*	*mass spectrometry under acidic conditions; sequence analysis
+MW	Saccharolobus solfataricus	37000	*	*SDS-PAGE
+MW	Homo sapiens	39000	*	*2 * 39000, recombinant enzyme
+MW	Homo sapiens	39620	*	*calculation from DNA sequence, without allowance for contribution from glycosylation
+MW	Mus musculus	40000	*	*x * 40000, SDS-PAGE
+MW	Homo sapiens	40000	*	*2 * 40000, recombinant enzyme, SDS-PAGE
+MW	Flavobacterium sp.	40000	*	*x * 40000, SDS-PAGE
+MW	Homo sapiens	40000	*	*x * 40000, SDS-PAGE
+MW	Homo sapiens	40600	*	*human serum contains one major species of PON monomer (44300 Da) and a minor species of PON monomer (40600 kDa)
+MW	Platynota idaeusalis	41000	*	*gel filtration
+MW	Homo sapiens	41000	*	*x * 41000, glycosylated PON1, SDS-PAGE or mass spectrometry, x * 42000, glycosylated PON1, SDS-PAGE or mass spectrometry, x * 44000, glycosylated PON1, SDS-PAGE or mass spectrometry
+MW	Homo sapiens	42000	*	*x * 41000, glycosylated PON1, SDS-PAGE or mass spectrometry, x * 42000, glycosylated PON1, SDS-PAGE or mass spectrometry, x * 44000, glycosylated PON1, SDS-PAGE or mass spectrometry
+MW	Homo sapiens	43000	*	*x * 43000, SDS-PAGE
+MW	Homo sapiens	43000	*	*x * 43000, SDS-PAGE
+MW	Rattus norvegicus	43000	*	*x * 43000, SDS-PAGE
+MW	Homo sapiens	43000	*	*x * 43000, SDS-PAGE
+MW	Bos taurus	43000	*	*x * 43000, PON1, SDS-PAGE
+MW	Homo sapiens	43000	*	*x * 43000, SDS-PAGE
+MW	Homo sapiens	43000	*	*SDS-PAGE
+MW	Homo sapiens	43000	*	*x * 43000, SDS-PAGE
+MW	Bos taurus	43000	*	*x * 43000, SDS-PAGE
+MW	Homo sapiens	44000	*	*x * 44000, SDS-PAGE
+MW	Homo sapiens	44000	*	*x * 44000, SDS-PAGE
+MW	Homo sapiens	44000	*	*x * 41000, glycosylated PON1, SDS-PAGE or mass spectrometry, x * 42000, glycosylated PON1, SDS-PAGE or mass spectrometry, x * 44000, glycosylated PON1, SDS-PAGE or mass spectrometry
+MW	Rattus norvegicus	45000	*	*x * 45000, SDS-PAGE
+MW	Rattus norvegicus	45000	*	*x * 45000, SDS-PAGE
+MW	Pimelobacter simplex	45000	*	*gel filtration
+MW	Homo sapiens	45000	*	*SDS-PAGE
+MW	Homo sapiens	45000	*	*SDS-PAGE
+MW	Homo sapiens	45000	*	*x * 45000, SDS-PAGE
+MW	Homo sapiens	45000	*	*x * 45000, SDS-PAGE
+MW	Homo sapiens	45000	*	*x * 45000, SDS-PAGE
+MW	Homo sapiens	46000	*	*x * 46000, SDS-PAGE
+MW	Saccharolobus solfataricus	48000	*	*recombinant enzyme, gel filtration
+MW	Purpureocillium lilacinum	60000	*	*gel filtration
+MW	Scyliorhinus canicula	66000	*	*x * 66000, SDS-PAGE
+MW	Bos taurus	66000	*	*x * 66000, SDS-PAGE
+MW	Sulfolobus acidocaldarius	69100	*	*gel filtration
+MW	Homo sapiens	71000	*	*SDS-PAGE
+MW	Sulfolobus islandicus	80000	*	*dynamic light scattering
+MW	Brevundimonas diminuta	82000	*	*x * 82000, SDS-PAGE
+MW	Vulcanisaeta moutnovskia	82000	*	*gel filtration
+MW	Homo sapiens	91900	*	*serum PON1, nondenaturing PAGE
+MW	Homo sapiens	94900	*	*recombinant enzyme, nondenaturing PAGE
+MW	Homo sapiens	95600	*	*recombinant PON1, nondenaturing PAGE
+MW	Mus musculus	331000	*	*gel filtration
+MW	Homo sapiens	380000	*	*gel filtration
+PATH	*	methyl parathion degradation	*	*
+PATH	*	paraoxon degradation	*	*
+PATH	*	parathion degradation	*	*
+PATH	*	degradation of aromatic, nitrogen containing compounds	*	*
+PATH	*	Aminobenzoate degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Ovis aries	-999	*	*specific activity of five enzyme fractions determined with paraoxon, diazoxon or chlorpyrifos-oxon
+SA	Homo sapiens	-999	*	*relative rates of hydrolysis for several substrates
+SA	Escherichia coli K-12	-999	*	*
+SA	Brevundimonas diminuta	-999	*	*
+SA	Purpureocillium lilacinum	-999	*	*
+SA	Brevundimonas diminuta	-999	*	*assay method evaluation of analogues with fluorescent leaving groups for screening and selection of the enzyme that efficiently hydrolyzes organophosphorus nerve agents, overview
+SA	Homo sapiens	-999	*	*assay method evaluation of analogues with fluorescent leaving groups for screening and selection of the enzyme that efficiently hydrolyzes organophosphorus nerve agents, overview
+SA	Escherichia coli	-999	*	*
+SA	Homo sapiens	-999	*	*enzyme activity in individuals of both sexes and different age, overview
+SA	Pseudomonas putida	-999	*	*
+SA	Homo sapiens	-999	*	*new enzymatic tests are developed that detect total PON1 levels, irrespective of high-density lipoprotein status and R/Q polymorphism, as well as the degree of catalytic stimulation and increased stability that follows tight binding of PON1 to HDLapoA-I. The tests are based on measuring total PON1 levels with a fluorogenic phosphotriester, measuring the lipolactonase activity with a chromogenic lactone, and assaying the chelator-mediated inactivation rate of the enzyme. The latter two are affected by tight binding of high-density lipoprotein and thereby derive the levels of the serum PON1-HDL complex. The new tests are demonstrated with a group of healthy individuals and show that the levels of PON1-HDL vary by a factor of 12
+SA	Flavobacterium sp.	-999	*	*His6-tagged organophosphate hydrolase fused with alpha-helical leucine zipper domains and unstructured soluble linker domains shows specific activities from 1.6-2.2 units for paraoxon, 0.61-1.3 units for parathion and 0.011-0.036 units for ethyl parathion (one unit is defined as mol of substrate per mol enzyme per second), in 50 mM carbonate buffer (pH 10.5), at 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.000008	*	*wild type enzyme, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00015	*	*wild type enzyme, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00019	*	*mutant enzyme A80V/F132C/K185R/D208G/H257W/I274N/R319S, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00022	*	*mutant enzyme A80V/K185R/D208G/H257W/I274N/R319S, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Saccharolobus solfataricus	0.00042	*	*purified recombinant enzyme, substrate paraoxon
+SA	Flavobacterium sp.	0.00045	*	*mutant enzyme A80V/F132D/K185R/D208G/H257W/I274N/R319S, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00048	*	*mutant enzyme A80V/K185R/D208G/I274N/R319S, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00075	*	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Homo sapiens	0.0012	*	*wild type enzyme from crude extract, using paraoxon as substrate
+SA	Homo sapiens	0.0013	*	*mutant enzyme Q192R from crude extract, using paraoxon as substrate
+SA	Flavobacterium sp.	0.00151	*	*mutant enzyme A80V/K185R/D208G/I274N/R319S, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Saccharolobus solfataricus	0.0022	*	*purified recombinant enzyme, substrate methyl paraoxon
+SA	Flavobacterium sp.	0.00414	*	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00429	*	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00472	*	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00509	*	*mutant enzyme A80V/K185R/D208G/H257W/I274N/R319S, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.00617	*	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.007	*	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, using VX as substrate, in 10 mM N-Tris (hydroxymethyl-3-amino propanesulfonic acid), pH 8.0 , at 25&Acirc;&deg;C
+SA	Bos taurus	0.00711	*	*crude enzyme, at pH 8.0, 37&Acirc;&deg;C
+SA	Flavobacterium sp.	0.01159	*	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/S308L/R319S, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.01404	*	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.01511	*	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, using malathion as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.0194	*	*mutant enzyme A80V/F132D/K185R/D208G/H257W/I274N/R319S, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.02677	*	*mutant enzyme A80V/F132C/K185R/D208G/H257W/I274N/R319S, using demeton-S methyl as substrate, in 50 mM HEPES buffer, pH 7.5, at pH, 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.0803	*	*mutant enzyme A80V/I106V/F132D/K185R/D208G/H257W/I274N/R319S, using VX as substrate, in 10 mM N-Tris (hydroxymethyl-3-amino propanesulfonic acid), pH 8.0 , at 25&Acirc;&deg;C
+SA	Flavobacterium sp.	0.097	*	*wild type enzyme, using VX as substrate, in 10 mM N-Tris (hydroxymethyl-3-amino propanesulfonic acid), pH 8.0 , at 25&Acirc;&deg;C
+SA	Escherichia coli K-12	0.1	*	*about, wild-type enzyme, substrate chlorpyrifos
+SA	Homo sapiens	0.205	*	*pH 8.5, 25&Acirc;&deg;C, substrate: paraoxon, purified recombinant enzyme
+SA	Scyliorhinus canicula	0.344	*	*crude enzyme, pH 8.0, 37&Acirc;&deg;C
+SA	Homo sapiens	0.391	*	*
+SA	Homo sapiens	0.611	*	*using paraoxin as substrate (paraoxonase activity of PON1), at 25&Acirc;&deg;C
+SA	Homo sapiens	0.85	*	*plasma, at 37&Acirc;&deg;C
+SA	Homo sapiens	0.94	*	*mutant enzyme Q192R after 1018fold purification, using paraoxon as substrate
+SA	Homo sapiens	0.962	*	*purified enzyme from phenotype A blood plasma
+SA	Escherichia coli K-12	1	*	*about, genetic variants A1030 and A1467, substrate chlorpyrifos
+SA	Homo sapiens	1.21	*	*wild type enzyme after 1018fold purification, using paraoxon as substrate
+SA	Homo sapiens	1.76	*	*Q192 isoenzyme, serum, pH 8 at 37&Acirc;&deg;C, in Tris-base buffer
+SA	Homo sapiens	1.88	*	*isozyme 192Q, crude enzyme, using paraoxon as substrate, in 100 mM Tris-HCl (pH 8.5), 1 mM CaCl2, 37&Acirc;&deg;C
+SA	Homo sapiens	1.94	*	*pH 8.5, 25&Acirc;&deg;C, substrate: paraoxon, purified recombinant enzyme
+SA	Flavobacterium sp.	2.5	*	*mutant enzyme G60V/A80V/I106V/F132D/K185R/D208G/H257W/I274N/F306V/R319S, using VX as substrate, in 10 mM N-Tris (hydroxymethyl-3-amino propanesulfonic acid), pH 8.0 , at 25&Acirc;&deg;C
+SA	Oryctolagus cuniculus	4.17	*	*
+SA	Homo sapiens	4.34	*	*isozyme 192Q, after 589.7fold purification, using paraoxon as substrate, in 100 mM Tris-HCl (pH 8.5), 1 mM CaCl2, 37&Acirc;&deg;C
+SA	Escherichia coli K-12	5	*	*about, genetic variant B2136, substrate chlorpyrifos
+SA	Homo sapiens	5.15	*	*recombinant enzyme from crude cell extract
+SA	Homo sapiens	5.21	*	*R192 isoenzyme, serum, pH 8 at 37&Acirc;&deg;C, in Tris-base buffer
+SA	Homo sapiens	6.64	*	*purified enzyme from phenotype A blood plasma
+SA	Saccharolobus solfataricus	10.5	*	*pH 8.5, 70&Acirc;&deg;C
+SA	Bos taurus	10.78	*	*enzyme of breed Swiss Black, pH 8.0, 25&Acirc;&deg;C
+SA	Sulfolobus acidocaldarius	12.3	*	*substrate: paraoxon, pH 8.5, 70&Acirc;&deg;C, Mn2+-containing enzyme
+SA	Scyliorhinus canicula	12.84	*	*after 37.3fold purification, pH 8.0, 37&Acirc;&deg;C
+SA	Bos taurus	14.92	*	*after 1690fold purification, at pH 8.0, 37&Acirc;&deg;C
+SA	Bos taurus	22.4	*	*enzyme of breed Montofon, pH 8.0, 25&Acirc;&deg;C
+SA	Escherichia coli K-12	27	*	*about, genetic variant B1368, substrate chlorpyrifos
+SA	Bos taurus	27	*	*enzyme of breed Holstein, pH 8.0, 25&Acirc;&deg;C
+SA	Pimelobacter simplex	33	*	*substrate ethyl parathion
+SA	Agrobacterium tumefaciens	34	*	*recombinant enzyme in absence of Co2+
+SA	Escherichia coli K-12	35	*	*about, genetic variant B3561, substrate chlorpyrifos
+SA	Homo sapiens	40.9	*	*pH 8.5, 25&Acirc;&deg;C, substrate: chlorpyrifos oxon, purified recombinant enzyme
+SA	Plesiomonas sp.	53.8	*	*purified recombinant His-tagged mature enzyme
+SA	Purpureocillium lilacinum	76.3	*	*purified enzyme, substrate 4-nitrophenyl phosphate at pH 7.0 and 25&Acirc;&deg;C
+SA	Homo sapiens	113	*	*pH 8.5, 25&Acirc;&deg;C, substrate: diazoxon, purified recombinant enzyme
+SA	Agrobacterium tumefaciens	168	*	*recombinant enzyme in presence of Co2+
+SA	Homo sapiens	227.3	*	*pH 8.0, 37&Acirc;&deg;C
+SA	Bos taurus	288	*	*pH 8.0, 37&Acirc;&deg;C
+SA	Mus musculus	429	*	*
+SA	Homo sapiens	438.2	*	*515fold purified enzyme, at 37&Acirc;&deg;C
+SA	Homo sapiens	465	*	*recombinant enzyme after 90fold purification
+SA	Homo sapiens	1168	*	*isozyme 192R, crude enzyme, using paraoxon as substrate, in 100 mM Tris-HCl (pH 8.5), 1 mM CaCl2, 37&Acirc;&deg;C
+SA	Rattus norvegicus	1370	*	*37&Acirc;&deg;C, pH 8.5
+SA	Homo sapiens	1730	*	*purified serum enzyme
+SA	Homo sapiens	2109	*	*Q192 isoenzyme, 901fold purified, pH 8 at 37&Acirc;&deg;C, in Tris-base buffer
+SA	Homo sapiens	3221	*	*isozyme 192R, after 742fold purification, using paraoxon as substrate, in 100 mM Tris-HCl (pH 8.5), 1 mM CaCl2, 37&Acirc;&deg;C
+SA	Homo sapiens	3333	*	*R192 isoenzyme, 453fold purified, pH 8 at 37&Acirc;&deg;C, in Tris-base buffer
+SA	Homo sapiens	3840	*	*in 50 mM glycine/NaOH, pH 10.5, 1 mM CaCl2, at 25&Acirc;&deg;C
+SA	Platynota idaeusalis	8310	*	*substrate methyl paraoxon, 30&Acirc;&deg;C, pH 8.0

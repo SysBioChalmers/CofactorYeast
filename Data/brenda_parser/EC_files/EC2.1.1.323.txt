@@ -1,0 +1,5 @@
+KCAT	Sinopodophyllum hexandrum	0.72	(-)-pluviatolide	*pH and temperature not specified in the publication
+KM	Sinopodophyllum hexandrum	0.0014	(-)-pluviatolide	*pH and temperature not specified in the publication
+PATH	*	yatein biosynthesis I	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

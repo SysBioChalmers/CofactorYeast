@@ -1,0 +1,4 @@
+KM	Leucaena leucocephala	1.64	beta-[N-(3-hydroxy-4(1H)-pyridone)]-alpha-aminopropionic acid	*mimosine
+KM	Leucaena leucocephala	-999	more	*reaction kinetics
+MW	Leucaena leucocephala	45000	*	*x * 45000 recombinant enzyme, SDS-PAGE
+MW	Leucaena leucocephala	140000	*	*PAGE

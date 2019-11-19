@@ -1,0 +1,3 @@
+PATH	*	streptomycin biosynthesis	*	*
+PATH	*	Streptomycin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

@@ -1,0 +1,1 @@
+ecNumber*1.16.8.1#molecularWeight*16000#molecularWeightMaximum*#commentary*2 * 16000, SDS-PAGE#organism*Pseudomonas denitrificans (nomen rejiciendum)#literature*644281#!ecNumber*1.16.8.1#molecularWeight*30000#molecularWeightMaximum*#commentary*gel permeation HPLC#organism*Pseudomonas denitrificans (nomen rejiciendum)#literature*644281#

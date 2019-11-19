@@ -1,0 +1,1 @@
+ecNumber*5.1.1.12#pathway*L-ornithine degradation II (Stickland reaction)#link*PWY-6344#source_database*MetaCyc#!ecNumber*5.1.1.12#pathway*staphyloferrin A biosynthesis#link*PWY-7990#source_database*MetaCyc#!ecNumber*5.1.1.12#pathway*urea cycle#link*BRENDA#source_database*BRENDA#!ecNumber*5.1.1.12#pathway*D-Arginine and D-ornithine metabolism#link*00472#source_database*KEGG#

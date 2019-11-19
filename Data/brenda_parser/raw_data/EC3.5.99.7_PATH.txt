@@ -1,0 +1,1 @@
+ecNumber*3.5.99.7#pathway*Cysteine and methionine metabolism#link*00270#source_database*KEGG#

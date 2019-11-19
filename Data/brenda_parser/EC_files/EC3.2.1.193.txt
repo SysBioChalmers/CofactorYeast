@@ -1,0 +1,5 @@
+MW	Aspergillus sp.	80000	*	*x * 80000, SDS-PAGE
+PATH	*	ginsenoside degradation I	*	*
+PATH	*	ginsenoside degradation III	*	*
+PATH	*	ginsenoside metabolism	*	*
+SA	Aspergillus sp.	2.4	*	*40&deg;C, pH not specified in the publication, substrate: ginsenoside Rg3

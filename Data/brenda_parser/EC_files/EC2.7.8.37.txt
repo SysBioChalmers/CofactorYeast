@@ -1,0 +1,5 @@
+PATH	*	(aminomethyl)phosphonate degradation	*	*
+PATH	*	glyphosate degradation III	*	*
+PATH	*	methylphosphonate degradation I	*	*
+PATH	*	methylphosphonate degradation II	*	*
+PATH	*	Phosphonate and phosphinate metabolism	*	*

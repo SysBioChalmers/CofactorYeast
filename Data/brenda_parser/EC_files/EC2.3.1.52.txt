@@ -1,0 +1,4 @@
+PATH	*	Glycerophospholipid metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Tetrahymena pyriformis	0.0065	*	*
+SA	Rattus norvegicus	0.073	*	*partially purified

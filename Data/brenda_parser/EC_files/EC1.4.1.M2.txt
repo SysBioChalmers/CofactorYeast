@@ -1,0 +1,4 @@
+PATH	*	folate transformations I	*	*
+PATH	*	folate transformations II	*	*
+PATH	*	N10-formyl-tetrahydrofolate biosynthesis	*	*
+PATH	*	photorespiration	*	*

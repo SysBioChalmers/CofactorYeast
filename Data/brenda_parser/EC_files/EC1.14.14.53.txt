@@ -1,0 +1,6 @@
+KM	Carum carvi	0.0114	(+)-limonene	*annual caraway
+KM	Carum carvi	0.0149	(+)-limonene	*biannual caraway
+PATH	*	(4S)-carvone biosynthesis	*	*
+PATH	*	Monoterpenoid biosynthesis	*	*
+PATH	*	Limonene and pinene degradation	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

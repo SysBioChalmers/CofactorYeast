@@ -1,0 +1,6 @@
+MW	Arabidopsis thaliana	48455	*	*x * 48455, deduced from nucleotide sequence
+MW	Saccharomyces cerevisiae	52300	*	*x * 52300, deduced from nucleotide sequence
+MW	Homo sapiens	54000	*	*SDS-PAGE or immunoblot analyis
+PATH	*	Terpenoid backbone biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Homo sapiens	173	*	*wild-type, pH 7.5, 30&deg;C

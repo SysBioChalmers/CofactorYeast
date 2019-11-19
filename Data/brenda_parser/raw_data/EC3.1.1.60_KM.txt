@@ -1,0 +1,1 @@
+ecNumber*3.1.1.60#kmValue*0.005#kmValueMaximum*#substrate*bis(2-ethylhexyl)phthalate#commentary*30&Acirc;&deg;C#organism*Triticum aestivum#ligandStructureId*10607#literature*170988#

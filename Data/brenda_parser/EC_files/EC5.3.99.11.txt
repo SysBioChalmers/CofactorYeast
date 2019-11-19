@@ -1,0 +1,3 @@
+PATH	*	myo-, chiro- and scyllo-inositol degradation	*	*
+PATH	*	Inositol phosphate metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

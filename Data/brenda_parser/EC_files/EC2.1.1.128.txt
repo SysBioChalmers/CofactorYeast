@@ -1,0 +1,11 @@
+KM	Coptis japonica	3.95	S-adenosyl-L-methionine	*
+KM	Argemone platyceras	0.05	S-adenosylmethionine	*with (S)-norlaudanosoline as cosubstrate
+KM	Argemone platyceras	0.2	(R,S)-norlaudanosoline	*
+KM	Coptis japonica	2.23	(R,S)-norlaudanosoline	*
+KM	Argemone platyceras	0.3	(R,S)-laudanosoline	*
+KM	Argemone platyceras	1.1	(R,S)-4'-O-methylnorlaudanosoline	*
+PATH	*	(S)-reticuline biosynthesis I	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Coptis japonica	-999	*	*

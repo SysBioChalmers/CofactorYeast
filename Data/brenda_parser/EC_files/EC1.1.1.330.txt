@@ -1,0 +1,25 @@
+KM	Gossypium hirsutum	0.012	NADPH	*pH 7.5, 37&deg;C
+KM	Gossypium hirsutum	0.026	Nonanal	*pH 7.5, 37&deg;C
+MW	Gossypium hirsutum	34500	*	*x * 34500, calculated and SDS-PAGE
+PATH	*	(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)	*	*
+PATH	*	(4Z,7Z,10Z,13Z,16Z)-docosapentaenoate biosynthesis (6-desaturase)	*	*
+PATH	*	arachidonate biosynthesis I (6-desaturase, lower eukaryotes)	*	*
+PATH	*	arachidonate biosynthesis III (6-desaturase, mammals)	*	*
+PATH	*	arachidonate biosynthesis IV (8-detaturase, lower eukaryotes)	*	*
+PATH	*	arachidonate biosynthesis V (8-detaturase, mammals)	*	*
+PATH	*	docosahexaenoate biosynthesis I (lower eukaryotes)	*	*
+PATH	*	docosahexaenoate biosynthesis III (6-desaturase, mammals)	*	*
+PATH	*	docosahexaenoate biosynthesis IV (4-desaturase, mammals)	*	*
+PATH	*	hydroxylated fatty acid biosynthesis (plants)	*	*
+PATH	*	icosapentaenoate biosynthesis I (lower eukaryotes)	*	*
+PATH	*	icosapentaenoate biosynthesis II (6-desaturase, mammals)	*	*
+PATH	*	icosapentaenoate biosynthesis III (8-desaturase, mammals)	*	*
+PATH	*	icosapentaenoate biosynthesis V (8-desaturase, lower eukaryotes)	*	*
+PATH	*	juniperonate biosynthesis	*	*
+PATH	*	sciadonate biosynthesis	*	*
+PATH	*	very long chain fatty acid biosynthesis I	*	*
+PATH	*	very long chain fatty acid biosynthesis II	*	*
+PATH	*	Fatty acid elongation	*	*
+PATH	*	Biosynthesis of unsaturated fatty acids	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

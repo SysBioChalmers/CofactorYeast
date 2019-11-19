@@ -1,0 +1,8 @@
+KCAT	Oryza sativa	0.00033	ent-copalyl diphosphate	*22&Acirc;&deg;C, pH not specified in the publication
+KCAT	Oryza sativa	-999	more	*Kcat value for substrate syn-copalyl diphosphate is 0.00083 per s
+KM	Oryza sativa	0.0006	ent-copalyl diphosphate	*22&Acirc;&deg;C, pH not specified in the publication
+KM	Oryza sativa	-999	more	*KM value for substrate syn-copalyl diphosphate is 0.005 mM
+PATH	*	diterpene phytoalexins precursors biosynthesis	*	*
+PATH	*	diterpene phytoalexins precursors biosynthesis	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

@@ -1,0 +1,6 @@
+PATH	*	purine nucleobases degradation I (anaerobic)	*	*
+PATH	*	purine nucleobases degradation II (anaerobic)	*	*
+PATH	*	purine metabolism	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	One carbon pool by folate	*	*
+PATH	*	Metabolic pathways	*	*

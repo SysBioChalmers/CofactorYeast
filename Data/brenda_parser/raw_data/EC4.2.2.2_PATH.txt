@@ -1,0 +1,1 @@
+ecNumber*4.2.2.2#pathway*Pentose and glucuronate interconversions#link*00040#source_database*KEGG#

@@ -1,0 +1,3 @@
+KM	Gallus gallus	1.8	5-O-phosphono-D-ribofuranose	*
+KM	Gallus gallus	6.3	NH4+	*
+PATH	*	Purine metabolism	*	*

@@ -1,0 +1,1 @@
+ecNumber*3.1.1.x#pathway*noscapine biosynthesis#link*PWY-7138#source_database*MetaCyc#

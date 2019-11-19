@@ -1,0 +1,1 @@
+ecNumber*1.1.1.385#pathway*bacilysin biosynthesis#link*PWY-7626#source_database*MetaCyc#!ecNumber*1.1.1.385#pathway*bacilysin biosynthesis#link*BRENDA#source_database*BRENDA#!ecNumber*1.1.1.385#pathway*Biosynthesis of secondary metabolites - unclassified#link*00999#source_database*KEGG#!ecNumber*1.1.1.385#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

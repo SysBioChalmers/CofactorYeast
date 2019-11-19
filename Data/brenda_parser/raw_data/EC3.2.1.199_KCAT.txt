@@ -1,0 +1,1 @@
+ecNumber*3.2.1.199#turnoverNumber*14.3#turnoverNumberMaximum*#substrate*4-nitrophenyl alpha-sulfoquinovoside#commentary*pH not specified in the publication, temperature not specified in the publication#organism*Escherichia coli#ligandStructureId*214075#literature*739136#

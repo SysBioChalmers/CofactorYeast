@@ -1,0 +1,4 @@
+KM	Oryctolagus cuniculus	0.6	4-Oxoproline	*
+KM	Oryctolagus cuniculus	0.84	NADH	*
+PATH	*	Arginine and proline metabolism	*	*
+SA	Oryctolagus cuniculus	5.21	*	*

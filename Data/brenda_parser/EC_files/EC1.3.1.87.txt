@@ -1,0 +1,6 @@
+MW	Escherichia coli	28500	*	*calculated from amino acid sequence
+PATH	*	3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate	*	*
+PATH	*	cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate	*	*
+PATH	*	3-phenylpropionate degradation	*	*
+PATH	*	Phenylalanine metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

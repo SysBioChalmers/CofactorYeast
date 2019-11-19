@@ -1,0 +1,8 @@
+KM	Enterobacter cloacae	1.6	N-acetylglucosamine 6-phosphate	*
+KM	Enterobacter cloacae	1.6	N-acetylglucosamine 6-phosphate	*
+KM	Enterobacter cloacae	2.4	N-acetylmannosamine 6-phosphate	*
+KM	Enterobacter cloacae	2.4	N-acetylmannosamine 6-phosphate	*
+PATH	*	N-acetylneuraminate and N-acetylmannosamine degradation I	*	*
+PATH	*	metabolism of amino sugars and derivatives	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+SA	Enterobacter cloacae	478	*	*

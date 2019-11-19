@@ -1,0 +1,17 @@
+KM	Rattus norvegicus	0.001	1-phosphatidyl-1D-myo-inositol 3,4,5-trisphosphate	*in the presence of 5 mM MgCl2, 0.5 mM EGTA, 50 mM Tris, pH 7.4, temperature not specified in the publication
+KM	Rattus norvegicus	0.1	1-phosphatidyl-1D-myo-inositol 4,5-bisphosphate	*in the presence of 5 mM MgCl2, 0.5 mM EGTA, 50 mM Tris, pH 7.4, temperature not specified in the publication
+MW	Homo sapiens	75000	*	*cytosol-associated 5-phosphatase, gel filtration
+MW	Homo sapiens	103000	*	*catalytic part of SHIP2, gel filtration
+MW	Homo sapiens	145000	*	*gel filtration
+MW	Rattus norvegicus	145000	*	*gel filtration
+MW	Homo sapiens	145000	*	*full-length enzyme, gel filtration
+MW	Homo sapiens	145000	*	*gel filtration
+MW	Mus musculus	145000	*	*gel filtration
+MW	Mus musculus	150000	*	*gel filtration
+MW	Homo sapiens	150000	*	*gel filtration
+MW	Homo sapiens	155000	*	*isoform SHIP2, gel filtration; isoform SHIP2, gel filtration
+MW	Homo sapiens	160000	*	*full-length enzyme, gel filtration
+MW	Homo sapiens	170000	*	*phosphorylated protein, gel filtration
+PATH	*	3-phosphoinositide degradation	*	*
+PATH	*	Inositol phosphate metabolism	*	*
+PATH	*	Metabolic pathways	*	*

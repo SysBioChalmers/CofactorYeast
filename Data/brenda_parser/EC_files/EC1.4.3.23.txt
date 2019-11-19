@@ -1,0 +1,17 @@
+KCAT	Lechevalieria aerocolonigenes	0.202	L-Trp	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Lechevalieria aerocolonigenes	0.0255	1-methyl-L-tryptophan	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Lechevalieria aerocolonigenes	0.239	5-fluoro-L-tryptophan	*pH 7.8, 30&Acirc;&deg;C
+KCAT	Lechevalieria aerocolonigenes	0.664	7-chloro-L-tryptophan	*pH 7.8, 30&Acirc;&deg;C
+KM	Lechevalieria aerocolonigenes	1.53	L-Trp	*pH 7.8, 30&Acirc;&deg;C
+KM	Lechevalieria aerocolonigenes	1.43	1-methyl-L-tryptophan	*pH 7.8, 30&Acirc;&deg;C
+KM	Lechevalieria aerocolonigenes	1.84	5-fluoro-L-tryptophan	*pH 7.8, 30&Acirc;&deg;C
+KM	Lechevalieria aerocolonigenes	0.088	7-chloro-L-tryptophan	*pH 7.8, 30&Acirc;&deg;C
+MW	Lechevalieria aerocolonigenes	53412	*	*2 * 53412, calculated from sequence
+MW	Lechevalieria aerocolonigenes	56000	*	*x * 56000, SDS-PAGE
+MW	Lechevalieria aerocolonigenes	110000	*	*gel filtration
+PATH	*	K-252 biosynthesis	*	*
+PATH	*	rebeccamycin biosynthesis	*	*
+PATH	*	staurosporine biosynthesis	*	*
+PATH	*	violacein biosynthesis	*	*
+PATH	*	Staurosporine biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

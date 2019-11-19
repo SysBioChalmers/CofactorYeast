@@ -1,0 +1,5 @@
+KCAT	Salmonella enterica	1.8	D-ornithine	*pH 7.0, 37&deg;C, recombinant enzyme
+KCAT	Salmonella enterica	4.4	D-Lysine	*pH 7.0, 37&deg;C, recombinant enzyme
+KM	Salmonella enterica	7.32	D-Lysine	*pH 7.0, 37&Acirc;&deg;C, recombinant enzyme
+KM	Salmonella enterica	4.12	D-ornithine	*pH 7.0, 37&Acirc;&deg;C, recombinant enzyme
+KM	Salmonella enterica	-999	more	*the kinetics for both D-lysine and D-ornithine are distinctly sigmoid, with n of about 3. The kinetic data is analyzed by fitting to the Hill equation

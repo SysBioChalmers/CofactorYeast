@@ -1,0 +1,8 @@
+MW	Pseudomonas putida	37600	*	*calculated from amino acid sequence
+PATH	*	gallate degradation I	*	*
+PATH	*	gallate degradation II	*	*
+PATH	*	methylgallate degradation	*	*
+PATH	*	protocatechuate degradation I (meta-cleavage pathway)	*	*
+PATH	*	syringate degradation	*	*
+PATH	*	Benzoate degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

@@ -1,0 +1,16 @@
+KM	Acinetobacter calcoaceticus	0.2	quinate	*pH 6.5, 25&deg;C,with potassium ferricyanide or a combination of phenazine methosulfate and 2,6-dichlorophenol indophenol as electron acceptor
+KM	Acinetobacter calcoaceticus	0.26	shikimate	*pH 6.5, 25&deg;C, with potassium ferricyanide or a combination of phenazine methosulfate and 2,6-dichlorophenol indophenol as electron acceptor
+KM	Acinetobacter calcoaceticus	0.52	potassium ferricyanide	*pH 6.5, 25&deg;C
+KM	Acinetobacter calcoaceticus	0.89	2,6-dichlorophenol indophenol	*pH 6.5, 25&deg;C
+KM	Gluconobacter oxydans	1	quinate	*pH 8.0, temperature not specified in the publication, recombinant enzyme
+MW	Gluconobacter oxydans	86000	*	*x * 86000, recombinant, unprocessed enzyme, SDS-PAGE
+MW	Acinetobacter calcoaceticus	88000	*	*x * 88000, SDS-PAGE
+PATH	*	quinate degradation I	*	*
+PATH	*	shikimate degradation I	*	*
+PATH	*	quinate degradation	*	*
+PATH	*	Phenylalanine, tyrosine and tryptophan biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Acinetobacter calcoaceticus	-999	*	*5.8 micromol/g wet cells
+SA	Acinetobacter calcoaceticus	21	*	*

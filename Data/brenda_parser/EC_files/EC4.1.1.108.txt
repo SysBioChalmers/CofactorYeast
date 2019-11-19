@@ -1,0 +1,3 @@
+PATH	*	Tyrosine metabolism	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

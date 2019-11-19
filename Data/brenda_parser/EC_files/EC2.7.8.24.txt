@@ -1,0 +1,6 @@
+KM	Agrobacterium tumefaciens	-999	more	*choline-binding by the enzyme is cooperative
+MW	Agrobacterium tumefaciens	400000	*	*His6-tagged recombinant enzyme, gel filtration
+PATH	*	phosphatidylcholine biosynthesis VI	*	*
+PATH	*	phosphatidylethanolamine bioynthesis	*	*
+PATH	*	Glycerophospholipid metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

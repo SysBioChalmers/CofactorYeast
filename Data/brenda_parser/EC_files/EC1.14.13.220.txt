@@ -1,0 +1,4 @@
+MW	Rhodococcus jostii	59000	*	*1 * 59000, SDS-PAGE
+PATH	*	gamma-resorcylate degradation II	*	*
+PATH	*	Benzoate degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

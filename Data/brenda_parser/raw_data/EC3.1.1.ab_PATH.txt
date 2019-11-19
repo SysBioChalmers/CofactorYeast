@@ -1,0 +1,1 @@
+ecNumber*3.1.1.ab#pathway*D-xylose degradation III#link*PWY-6760#source_database*MetaCyc#!ecNumber*3.1.1.ab#pathway*D-xylose degradation IV#link*PWY-7294#source_database*MetaCyc#!ecNumber*3.1.1.ab#pathway*D-xylose degradation V#link*PWY-8020#source_database*MetaCyc#

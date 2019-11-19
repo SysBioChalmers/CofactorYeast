@@ -1,0 +1,7 @@
+KM	Porphyromonas gingivalis	0.017	NADPH	*pH 7.5, 25&Acirc;&deg;C
+KM	Porphyromonas gingivalis	0.0478	crotonyl-CoA	*pH 7.5, 25&Acirc;&deg;C
+KM	Gallus gallus	-999	more	*NADP+ binds to enzyme in anti conformation both between nicotinamide-ribose and adenine-ribose
+MW	Porphyromonas gingivalis	33090	*	*x * 33090, calculated
+PATH	*	fatty acid elongation -- saturated	*	*
+PATH	*	octanoyl-[acyl-carrier protein] biosynthesis (mitochondria, yeast)	*	*
+PATH	*	palmitate biosynthesis I (animals and fungi)	*	*

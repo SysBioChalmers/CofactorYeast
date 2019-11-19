@@ -1,0 +1,5 @@
+MW	Streptomyces wedmorensis	60400	*	*x * 60400
+MW	Streptomyces wedmorensis	60400	*	*10 * or 12 * 60400, SDS-PAGE
+PATH	*	fosfomycin biosynthesis	*	*
+PATH	*	Phosphonate and phosphinate metabolism	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

@@ -1,0 +1,7 @@
+KCAT	Streptomyces hygroscopicus subsp. limoneus	7	GDP-valienol	*at pH 7.5 and 30&Acirc;&deg;C
+KCAT	Streptomyces hygroscopicus subsp. limoneus	7	validamine 7-phosphate	*at pH 7.5 and 30&Acirc;&deg;C
+KM	Streptomyces hygroscopicus subsp. limoneus	0.0597	GDP-valienol	*at pH 7.5 and 30&Acirc;&deg;C
+KM	Streptomyces hygroscopicus subsp. limoneus	0.308	validamine 7-phosphate	*at pH 7.5 and 30&Acirc;&deg;C
+PATH	*	validamycin biosynthesis	*	*
+PATH	*	Acarbose and validamycin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

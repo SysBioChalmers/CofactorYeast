@@ -1,0 +1,2 @@
+PATH	*	methylphosphonate degradation II	*	*
+PATH	*	Phosphonate and phosphinate metabolism	*	*

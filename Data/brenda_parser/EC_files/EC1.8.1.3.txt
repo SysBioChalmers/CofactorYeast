@@ -1,0 +1,4 @@
+PATH	*	taurine biosynthesis I	*	*
+PATH	*	taurine biosynthesis II	*	*
+PATH	*	Taurine and hypotaurine metabolism	*	*
+PATH	*	Metabolic pathways	*	*

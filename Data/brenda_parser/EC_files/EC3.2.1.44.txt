@@ -1,0 +1,25 @@
+KM	Fusarium sp.	-999	fucoidan	*KM value is 8.9 mg/ml for Fucus vesiculosus fucoidan and 10.9 mg/ml for Laminaria sp. fucoidan
+KM	Paradendryphiella arenariae	-999	fucoidan	*KM value is 6.56 mg/ml for Fusarium vesiculosus fucoidan and 10.1 mg/ml for Laminaria sp. fucoidan, pH 5.5, 40&deg;C
+KM	Rattus norvegicus	0.21	p-nitrophenyl alpha-L-fucoside	*
+KM	Bos taurus	0.22	p-nitrophenyl alpha-L-fucoside	*
+MW	Vibrio sp. N-5	39500	*	*E-1, SDS-PAGE
+MW	Vibrio sp.	40000	*	*
+MW	Fusarium sp.	64000	*	*x * 64000, SDS-PAGE
+MW	Flavobacteriaceae	67000	*	*
+MW	Vibrio sp. N-5	67500	*	*E-1, gel filtration
+MW	Vibrio sp. N-5	68000	*	*E-2 and E-2, SDS-PAGE
+MW	Vibrio sp. N-5	68500	*	*E-2, gel filtration
+MW	Mizuhopecten yessoensis	84000	*	*SDS-PAGE
+MW	Mizuhopecten yessoensis	85000	*	*gel filtration
+MW	Mizuhopecten yessoensis	85000	*	*
+MW	Haliotis sp.	100000	*	*gel filtration
+MW	Vibrio sp. N-5	158000	*	*E-1, gel filtration
+MW	Paradendryphiella arenariae	180000	*	*x * 180000, SDS-PAGE
+MW	Pecten maximus	200000	*	*
+SA	Mizuhopecten yessoensis	-999	*	*
+SA	Gramella sp.	-999	*	*assay described, p-nitrophenyl glycosides as substrates, activity determined spectrophotometrically by measurement of p-nitrophenol formation
+SA	Maribacter sp.	-999	*	*assay described, p-nitrophenyl glycosides as substrates, activity determined spectrophotometrically by measurement of p-nitrophenol formation
+SA	Mesonia algae	-999	*	*assay described, p-nitrophenyl glycosides as substrates, activity determined spectrophotometrically by measurement of p-nitrophenol formation
+SA	Vibrio sp. N-5	0.053	*	*isozyme E-2
+SA	Vibrio sp. N-5	0.066	*	*isozyme E-1
+SA	Vibrio sp. N-5	0.114	*	*isozyme E-3

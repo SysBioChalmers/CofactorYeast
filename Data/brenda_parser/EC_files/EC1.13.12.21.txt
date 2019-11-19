@@ -1,0 +1,9 @@
+KM	Streptomyces glaucescens	0.00747	tetracenomycin F1	*pH 7.5, 30&Acirc;&deg;C
+MW	Streptomyces glaucescens	12500	*	*3 * 12500, SDS-PAGE
+MW	Streptomyces glaucescens	37500	*	*gel filtration
+PATH	*	elloramycin biosynthesis	*	*
+PATH	*	tetracenomycin C biosynthesis	*	*
+PATH	*	elloramycin biosynthesis	*	*
+PATH	*	Biosynthesis of type II polyketide products	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Streptomyces glaucescens	0.599	*	*pH 7.5, 30&Acirc;&deg;C

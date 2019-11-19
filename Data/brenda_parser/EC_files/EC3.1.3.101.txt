@@ -1,0 +1,3 @@
+PATH	*	validamycin biosynthesis	*	*
+PATH	*	Acarbose and validamycin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

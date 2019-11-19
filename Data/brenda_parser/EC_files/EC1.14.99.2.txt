@@ -1,0 +1,3 @@
+KM	Pseudomonas fluorescens	0.008	Kynurenate	*
+KM	Pseudomonas fluorescens	0.04	NADH	*
+PATH	*	Tryptophan metabolism	*	*

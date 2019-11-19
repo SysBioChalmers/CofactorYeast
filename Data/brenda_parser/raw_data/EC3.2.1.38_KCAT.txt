@@ -1,0 +1,1 @@
+ecNumber*3.2.1.38#turnoverNumber*21.5#turnoverNumberMaximum*#substrate*4-nitrophenyl-beta-D-fucopyranoside#commentary*25&deg;C, recombinant mutant H540V/N604T of beta-galactosidase, EC 3.2.1.22#organism*Escherichia coli#ligandStructureId*3011#literature*666056#

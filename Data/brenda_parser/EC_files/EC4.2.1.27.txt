@@ -1,0 +1,5 @@
+KM	Pseudomonas sp.	40.08	propynoate	*
+PATH	*	beta-Alanine metabolism	*	*
+PATH	*	Propanoate metabolism	*	*
+PATH	*	Butanoate metabolism	*	*
+SA	Pseudomonas sp.	38	*	*

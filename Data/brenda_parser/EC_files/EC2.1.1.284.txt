@@ -1,0 +1,6 @@
+KCAT	Streptomyces niveus	0.5	8-demethylnovobiocic acid	*pH 8.5, temperature not specified in the publication
+KM	Streptomyces niveus	0.0265	8-demethylnovobiocic acid	*pH 8.5, temperature not specified in the publication
+MW	Streptomyces niveus	26500	*	*
+PATH	*	novobiocin biosynthesis	*	*
+PATH	*	Novobiocin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

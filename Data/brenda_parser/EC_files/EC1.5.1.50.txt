@@ -1,0 +1,4 @@
+KM	Escherichia coli	0.147	7,8-dihydromonapterin	*pH 6.0, 22&deg;C
+PATH	*	tetrahydromonapterin biosynthesis	*	*
+PATH	*	tetrahydrofolate metabolism	*	*
+PATH	*	Folate biosynthesis	*	*

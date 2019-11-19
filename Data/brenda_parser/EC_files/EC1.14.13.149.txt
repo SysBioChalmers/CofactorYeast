@@ -1,0 +1,7 @@
+KM	Pseudomonas sp.	0.023	NADPH	*at pH 8.0 and 30&Acirc;&deg;C
+KM	Pseudomonas sp.	0.003	O2	*at pH 8.0 and 30&Acirc;&deg;C
+KM	Pseudomonas sp.	0.006	epoxyphenylacetyl-CoA	*at pH 8.0 and 30&Acirc;&deg;C
+PATH	*	phenylacetate degradation I (aerobic)	*	*
+PATH	*	phenylacetate degradation (aerobic)	*	*
+PATH	*	Phenylalanine metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

@@ -1,0 +1,8 @@
+MW	Acinetobacter sp.	158000	*	*gel filtration
+PATH	*	cyclohexanol degradation	*	*
+PATH	*	nylon-6 oligomer degradation	*	*
+PATH	*	cyclohexanol degradation	*	*
+PATH	*	Caprolactam degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Acinetobacter sp.	7.7	*	*

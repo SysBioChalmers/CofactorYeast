@@ -1,0 +1,5 @@
+MW	Archaeoglobus fulgidus	22000	*	*1 * 22000, SDS-PAGE
+MW	Archaeoglobus fulgidus	22639	*	*1 * 22639, calculated from sequenec
+MW	Archaeoglobus fulgidus	23000	*	*gel filtration
+MW	Archaeoglobus fulgidus	23124	*	*1 * 23124, mass spectrophotometry
+MW	Pyrobaculum aerophilum	29467	*	*x * 29467, calculated from sequence

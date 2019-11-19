@@ -1,0 +1,5 @@
+MW	Neurospora crassa	270000	*	*gel filtration
+PATH	*	ergothioneine biosynthesis I (bacteria)	*	*
+PATH	*	ergothioneine biosynthesis II (fungi)	*	*
+PATH	*	Histidine metabolism	*	*
+SA	Neurospora crassa	0.0434	*	*

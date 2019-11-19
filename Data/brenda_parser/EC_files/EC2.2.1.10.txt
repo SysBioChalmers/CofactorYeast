@@ -1,0 +1,7 @@
+KM	Methanocaldococcus jannaschii	-999	more	*MJ0400-His6 exhibits Michaelis-Menten kinetics in the aldolase reaction
+PATH	*	3-dehydroquinate biosynthesis II (archaea)	*	*
+PATH	*	chorismate metabolism	*	*
+PATH	*	Phenylalanine, tyrosine and tryptophan biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Methanocaldococcus jannaschii	0.033	*	*purified recombinant enzyme, pH 7.5, 50&Acirc;&deg;C, buffer Tris-HCl, HEPES/NaOH, or Na-phosphate

@@ -1,0 +1,2 @@
+PATH	*	uracil degradation II (oxidative)	*	*
+PATH	*	Pyrimidine metabolism	*	*

@@ -1,0 +1,24 @@
+KM	Mus musculus	0.003	stearoyl-CoA	*
+KM	Trypanosoma cruzi	0.0124	palmitoyl-CoA	*pH 7.5, 28&deg;C
+KM	Mus musculus	0.035	sphinganine	*
+KM	Bos taurus	0.141	palmitoyl-CoA	*
+KM	Bos taurus	0.144	sphinganine	*
+KM	Bos taurus	0.146	stearoyl-CoA	*
+KM	Bos taurus	0.17	D-sphingosine	*
+KM	Bos taurus	0.171	sphingosine	*
+KM	Bos taurus	0.18	oleoyl-CoA	*
+KM	Bos taurus	0.299	behenoyl-CoA	*
+KM	Bos taurus	0.358	lauroyl-CoA	*
+KM	Bos taurus	0.522	Hexanoyl-CoA	*
+MW	Mus musculus	37000	*	*x * 42000, glycosylated enzyme, SDS-PAGE, x * 37000, deglycosylated enzyme, SDS-PAGE
+MW	Mus musculus	42000	*	*x * 42000, glycosylated enzyme, SDS-PAGE, x * 37000, deglycosylated enzyme, SDS-PAGE
+MW	Bos taurus	62000	*	*x * 62000 + x * 72000, SDS-PAGE
+MW	Bos taurus	72000	*	*x * 62000 + x * 72000, SDS-PAGE
+MW	Bos taurus	240000	*	*gel filtration
+PATH	*	sphingolipid biosynthesis (yeast)	*	*
+PATH	*	ceramide biosynthesis	*	*
+PATH	*	Sphingolipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Mus musculus	0.0000006	*	*pH 7.4, 37&Acirc;&deg;C, enzyme activity in mouse tissues, overview
+SA	Mus musculus	0.000049	*	*activity in endoplasmic reticulum vesicles from liver
+SA	Bos taurus	0.0148	*	*

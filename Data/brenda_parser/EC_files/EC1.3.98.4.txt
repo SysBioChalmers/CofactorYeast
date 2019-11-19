@@ -1,0 +1,4 @@
+PATH	*	tetracycline and oxytetracycline biosynthesis	*	*
+PATH	*	Tetracycline biosynthesis	*	*
+PATH	*	Biosynthesis of type II polyketide products	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

@@ -1,0 +1,4 @@
+PATH	*	alginate biosynthesis I (algal)	*	*
+PATH	*	alginate biosynthesis II (bacterial)	*	*
+PATH	*	alginate biosynthesis	*	*
+PATH	*	Fructose and mannose metabolism	*	*

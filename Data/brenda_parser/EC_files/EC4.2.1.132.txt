@@ -1,0 +1,5 @@
+PATH	*	androstenedione degradation	*	*
+PATH	*	androgen and estrogen metabolism	*	*
+PATH	*	Xylene degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

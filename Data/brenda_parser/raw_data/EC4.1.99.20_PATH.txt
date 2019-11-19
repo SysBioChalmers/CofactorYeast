@@ -1,0 +1,1 @@
+ecNumber*4.1.99.20#pathway*grixazone biosynthesis#link*PWY-7153#source_database*MetaCyc#!ecNumber*4.1.99.20#pathway*grixazone biosynthesis#link*BRENDA#source_database*BRENDA#!ecNumber*4.1.99.20#pathway*Biosynthesis of secondary metabolites - unclassified#link*00999#source_database*KEGG#

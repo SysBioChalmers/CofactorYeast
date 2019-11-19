@@ -1,0 +1,101 @@
+KM	Thermomicrobia bacterium	-999	more	*kinetics; kinetics
+KM	Bacillus sp. (in: Bacteria)	-999	more	*2.5 micrograms per ml of purified protein used for the wild-type enzyme and 500 micrograms per ml for mutant enzymes
+KM	Fusobacterium sp.	0.057	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 5.5-7.0
+KM	Sphingomonas paucimobilis	0.06	hesperidin	*
+KM	Sphingomonas paucimobilis	0.07	proscillaridin A	*
+KM	Fusobacterium sp.	0.077	quercitrin	*pH 5.5-7.0
+KM	Bacillus sp. (in: Bacteria)	0.119	p-nitrophenyl-alpha-L-rhamnopyranoside	*pH 7.0
+KM	Sphingomonas paucimobilis	0.13	rutin	*
+KM	Sphingomonas paucimobilis	0.17	naringin	*
+KM	Aspergillus terreus	0.17	p-nitrophenyl-alpha-L-rhamnopyranoside	*
+KM	Bacillus sp. (in: Bacteria)	0.28	p-nitrophenyl-alpha-L-rhamnopyranoside	*wild-type
+KM	Bacillus sp. (in: Bacteria)	0.282	p-nitrophenyl-alpha-L-rhamnopyranoside	*pH 7.0
+KM	Bacteroides JY-6	0.29	p-nitrophenyl-alpha-L-rhamnopyranoside	*
+KM	Aspergillus aculeatus	0.3	p-nitrophenyl-alpha-L-rhamnopyranoside	*pH 4.5, 30&deg;C
+KM	Bacillus sp. (in: Bacteria)	0.3	p-nitrophenyl-alpha-L-rhamnopyranoside	*E572Q
+KM	Bacillus sp. (in: Bacteria)	0.31	p-nitrophenyl-alpha-L-rhamnopyranoside	*E841Q
+KM	Fagopyrum esculentum	0.33	p-nitrophenyl-alpha-L-rhamnoside	*
+KM	Bacillus sp. (in: Bacteria)	0.36	p-nitrophenyl-alpha-L-rhamnopyranoside	*D567N
+KM	Thermomicrobia bacterium	0.46	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 7.5, 50&deg;C, recombinant RhmA
+KM	Bacillus sp. (in: Bacteria)	0.48	p-nitrophenyl-alpha-L-rhamnopyranoside	*D579N
+KM	Lactobacillus plantarum	0.51	4-nitrophenyl alpha-L-rhamnopyranoside	*isoform RhaB2
+KM	Lactobacillus plantarum	0.57	4-nitrophenyl alpha-L-rhamnopyranoside	*isoform RhaB1
+KM	Thermomicrobia bacterium	0.66	4-nitrophenyl alpha-L-rhamnopyranoside	*pH 7.0, 50&deg;C, recombinant RhmB
+KM	Lactobacillus plantarum	0.78	hesperidin	*isoform RhaB2
+KM	Bacteroides JY-6	0.82	neohesperidin	*
+KM	Sphingomonas paucimobilis	0.88	saikosaponin C	*
+KM	Bacteroides JY-6	0.89	naringin	*
+KM	Sphingomonas paucimobilis	0.89	quercitrin	*
+KM	Bacteroides JY-6	0.93	poncirin	*
+KM	Lactobacillus plantarum	1.06	rutin	*isoform RhaB2
+KM	Sphingomonas paucimobilis	1.18	p-nitrophenyl-alpha-L-rhamnopyranoside	*
+KM	Bacteroides JY-6	1.33	hesperidin	*
+KM	Bacteroides JY-6	1.44	rutin	*
+KM	Penicillium sp.	1.52	p-nitrophenyl-alpha-L-rhamnoside	*
+KM	Bacteroides JY-6	1.6	saikosaponin C	*
+KM	Lactobacillus plantarum	1.77	rutin	*isoform RhaB1
+KM	Turbo cornutus	2	p-nitrophenyl alpha-L-rhamnoside	*
+KM	Fagopyrum esculentum	2.2	6-O-alpha-L-rhamnosyl-D-glucopyranose	*
+KM	Aspergillus niger	2.65	p-nitrophenyl alpha-L-rhamnoside	*
+KM	Penicillium sp.	2.8	naringin	*immobilized, narginase activity
+KM	Penicillium sp.	2.8	naringin	*immobilized, narginase activity
+KM	Aspergillus aculeatus	2.8	p-nitrophenyl-alpha-L-rhamnopyranoside	*pH 4.5, 30&deg;C
+KM	Aspergillus niger	2.9	p-nitrophenyl-alpha-L-rhamnopyranoside	*
+KM	Acrostalagmus luteoalbus	3.38	4-nitrophenyl-alpha-L-rhamnoside	*pH 8.0, 55&deg;C
+KM	Lactobacillus plantarum	3.39	hesperidin	*isoform RhaB1
+KM	Penicillium decumbens	6.1	4-nitrophenyl alpha-L-rhamnopyranoside	*60&deg;C, pH 5.5
+KM	Penicillium sp.	7	naringin	*soluble, narginase activity
+KM	Penicillium sp.	7	naringin	*soluble, narginase activity
+MW	Fusobacterium sp.	41000	*	*4 * 41000, SDS-PAGE
+MW	Aspergillus kawachii	68000	*	*x * 90000, SDS-PAGE, x * 68000, calculated
+MW	Fagopyrum esculentum	70000	*	*disc gel electrophoresis, gel filtration
+MW	Aspergillus niger	85000	*	*gel filtration, SDS-PAGE
+MW	Aspergillus aculeatus	85000	*	*x * 85000, SDS-PAGE
+MW	Aspergillus aculeatus	87000	*	*gel filtration, SDS-PAGE
+MW	Ogataea angusta	88000	*	*1 * 88000, SDS-PAGE
+MW	Ogataea angusta	90000	*	*PAGE
+MW	Aspergillus kawachii	90000	*	*x * 90000, SDS-PAGE, x * 68000, calculated
+MW	Aspergillus aculeatus	92000	*	*x * 92000, SDS-PAGE
+MW	Thermoclostridium stercorarium	95000	*	*SDS-PAGE, amino acid analysis
+MW	Aspergillus terreus	96000	*	*x * 96000, SDS-PAGE
+MW	Bacillus sp. (in: Bacteria)	98000	*	*5 * 98300, deduced from gene sequence, 5 * 98000, SDS-PAGE
+MW	Bacillus sp. (in: Bacteria)	98300	*	*5 * 98300, deduced from gene sequence, 5 * 98000, SDS-PAGE
+MW	Bacillus sp. (in: Bacteria)	100000	*	*native gradient PAGE, SDS-PAGE
+MW	Bacillus sp. (in: Bacteria)	100000	*	*gel filtration, PAGE
+MW	Aspergillus nidulans	102000	*	*x * 102000, SDS-PAGE
+MW	Thermomicrobia bacterium	104000	*	*2 * 104000, recombinant enzyme, SDS-PAGE
+MW	Bacillus sp. (in: Bacteria)	105000	*	*1 * 106000, deduced from gene sequence, 1 * 105000, SDS-PAGE
+MW	Bacillus sp. (in: Bacteria)	106000	*	*1 * 106000, deduced from gene sequence, 1 * 105000, SDS-PAGE
+MW	Thermomicrobia bacterium	107000	*	*2 * 107000, recombinant enzyme, SDS-PAGE
+MW	Acrostalagmus luteoalbus	109000	*	*x * 109000, SDS-PAGE
+MW	Sphingomonas paucimobilis	112000	*	*gel filtration, SDS-PAGE
+MW	Bacteroides JY-6	120000	*	*2 * 120000, SDS-PAGE
+MW	Fusobacterium sp.	170000	*	*gel filtration
+MW	Thermomicrobia bacterium	210000	*	*recombinant enzyme, gel filtration; recombinant enzyme, gel filtration
+MW	Bacteroides JY-6	240000	*	*gel filtration, SDS-PAGE
+MW	Bacillus sp. (in: Bacteria)	500000	*	*gel filtration, PAGE
+PATH	*	rutin degradation (plants)	*	*
+SA	Bacillus sp. (in: Bacteria)	-999	*	*assay in a reaction system containing 0.4 mM p-nitrophenyl-alpha-L-rhamnopyranoside as a substrate and 50 mM potassium phosphate buffer, resultant p-nitrophenol concentration determined spectrophotometrically
+SA	Thermomicrobia bacterium	-999	*	*activity measured under different conditions of pH and temperature, free cells and immobilized cells compared to defined conditions of large scale production of rhamnose, assay described, full degradation of 7.9 mM naringin by running the reactor at 1 ml per min at 50&Acirc;&deg;C, optimal flow rates estimated, after four days substrate degradation capacity decreased by 10 to 15%
+SA	Pseudoalteromonas sp.	-999	*	*the isolate 005NJ retains 19% alpha-L-rhamnosidase activity at 7&Acirc;&deg;C and 6% activity at 4&Acirc;&deg;C, relative activity depends on carbon source, maximal specific activity obtained at concentrations of 0.5% (w/v) for L-rhamnose (967 U/mg) and apple pectin (382 U/mg)
+SA	Ralstonia pickettii	-999	*	*activity analyzed at 4&Acirc;&deg;C and 7&Acirc;&deg;C, 100% activity arbitrarily established as the activity shown at 35&Acirc;&deg;C, corresponds to 151 U/ml in Ralstonia pickettii, activity about 5% at 4&Acirc;&deg;C and about 15% at 7&Acirc;&deg;C determined
+SA	Bacillus sp. (in: Bacteria)	-999	*	*assayed in a reaction system containing 0.4 mM p-nitrophenyl-alpha-L-rhamnopyranoside as a substrate and 50 mM potassium phosphate buffer, resultant p-nitrophenol concentration determined spectrophotometrically
+SA	Turbo cornutus	0.324	*	*
+SA	Thermoclostridium stercorarium	0.46	*	*hesperidin
+SA	Thermoclostridium stercorarium	1.5	*	*naringin
+SA	Absidia sp. (in: Fungi)	2.44	*	*purified enzyme
+SA	Fusobacterium sp.	2.89	*	*purified enzyme
+SA	Aspergillus aculeatus	13	*	*pH 4.5, 30&Acirc;&deg;C
+SA	Penicillium decumbens	13.3	*	*60&Acirc;&deg;C, pH 5.5
+SA	Aspergillus kawachii	17.9	*	*substrate 4-nitrophenyl alpha-L-rhamnopyranoside, pH 4.0, 40&Acirc;&deg;C
+SA	Aspergillus kawachii	29.5	*	*substrate hesperidin, pH 4.0, 40&Acirc;&deg;C
+SA	Aspergillus niger	31.7	*	*
+SA	Bacillus sp. (in: Bacteria)	54	*	*pH 7.0
+SA	Bacillus sp. (in: Bacteria)	54.4	*	*pH 7.0
+SA	Aspergillus nidulans	64.6	*	*
+SA	Thermoclostridium stercorarium	82	*	*p-nitrophenyl-alpha-L-rhamnopyranoside
+SA	Aspergillus kawachii	85.3	*	*substrate naringin, pH 4.0, 40&Acirc;&deg;C
+SA	Bacteroides JY-6	89.9	*	*
+SA	Thermomicrobia bacterium	108.9	*	*purified recombinant enzyme
+SA	Thermomicrobia bacterium	263.9	*	*purified recombinant enzyme
+SA	Acrostalagmus luteoalbus	526	*	*pH 9.5, 37&Acirc;&deg;C

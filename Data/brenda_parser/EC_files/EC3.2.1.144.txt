@@ -1,0 +1,2 @@
+PATH	*	Lipopolysaccharide biosynthesis	*	*
+SA	Crassostrea virginica	1433	*	*

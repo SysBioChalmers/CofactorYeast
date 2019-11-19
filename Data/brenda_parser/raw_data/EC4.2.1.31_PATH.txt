@@ -1,0 +1,1 @@
+ecNumber*4.2.1.31#pathway*Butanoate metabolism#link*00650#source_database*KEGG#

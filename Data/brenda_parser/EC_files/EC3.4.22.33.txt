@@ -1,0 +1,24 @@
+KCAT	Ananas comosus	0.0094	Nalpha-benzoyl-Arg amide	*fruit bromelain C
+KCAT	Ananas comosus	0.027	Nalpha-benzoyl-Arg amide	*fruit bromelain B
+KCAT	Ananas comosus	0.033	Nalpha-benzoyl-Arg amide	*fruit bromelain A
+KM	Ananas comosus	2.1	Nalpha-benzoyl-Arg amide	*fruit bromelain C
+KM	Ananas comosus	4	Nalpha-benzoyl-Arg amide	*
+KM	Ananas comosus	4	Nalpha-benzoyl-Arg amide	*fruit bromelain A and B
+KM	Ananas comosus	4	Nalpha-benzoyl-Arg amide	*
+KM	Ananas comosus	43	N-benzoyl-L-Arg ethyl ester	*
+KM	Ananas comosus	43	N-benzoyl-L-Arg ethyl ester	*
+MW	Ananas comosus	18000	*	*Ananas comosus, fruit bromelain A, gel filtration
+MW	Ananas comosus	19000	*	*Ananas comosus, fruit bromelain C, gel filtration
+MW	Ananas comosus	23000	*	*x * 23000, Ananas comosus, enzyme form FBA, SDS-PAGE, x * 27000, Ananas comosus, enzyme form FBB, SDS-PAGE
+MW	Ananas comosus	23000	*	*x * 23000, SDS-PAGE
+MW	Ananas comosus	25000	*	*1 * 25000
+MW	Bromelia fastuosa	25000	*	*SDS-PAGE
+MW	Ananas comosus	27000	*	*x * 23000, Ananas comosus, enzyme form FBA, SDS-PAGE, x * 27000, Ananas comosus, enzyme form FBB, SDS-PAGE
+MW	Ananas comosus	28000	*	*Ananas comosus, fruit bromelain B, gel filtration
+MW	Ananas comosus	28000	*	*SDS-PAGE
+MW	Ananas comosus	30000	*	*SDS-PAGE
+MW	Ananas comosus	31000	*	*1 * 31000, Ananas comosus, SDS-PAGE, 1 * 32500, Ananas comosus
+MW	Ananas comosus	31000	*	*Ananas comosus, gel electrophoresis
+MW	Ananas comosus	31000	*	*x * 31000, calculated from amino acid sequence
+MW	Ananas comosus	32500	*	*Ananas comosus, gel filtration
+MW	Ananas comosus	34000	*	*SDS-PAGE

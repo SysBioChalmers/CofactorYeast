@@ -1,0 +1,20 @@
+KCAT	Arthrobacter dextranolyticus	496	Dextran	*60&Acirc;&deg;C, pH 3.5
+KM	Arthrobacter dextranolyticus	5.4	Dextran	*60&Acirc;&deg;C, pH 3.5
+MW	Arthrobacter globiformis	65000	*	*SDS-PAGE
+MW	Arthrobacter dextranolyticus	65500	*	*SDS-PAGE
+MW	Arthrobacter dextranolyticus	65990	*	*calculated from amino acid sequence
+MW	Arthrobacter globiformis	69000	*	*x * 69000, SDS-PAGE
+MW	Arthrobacter globiformis	69000	*	*SDS-PAGE
+SA	Arthrobacter globiformis	0.012	*	*E420A mutant
+SA	Arthrobacter globiformis	0.17	*	*D396A mutant
+SA	Arthrobacter globiformis	0.22	*	*D340A mutant
+SA	Arthrobacter globiformis	0.24	*	*D373A mutant
+SA	Arthrobacter globiformis	0.35	*	*D295A mutant
+SA	Arthrobacter globiformis	0.45	*	*D163A mutant
+SA	Arthrobacter globiformis	0.67	*	*D107A mutant
+SA	Arthrobacter globiformis	0.78	*	*wild-type enzyme
+SA	Actinomadura sp.	5	*	*
+SA	Arthrobacter globiformis	15.3	*	*
+SA	Arthrobacter globiformis	18.8	*	*
+SA	Arthrobacter globiformis	18.8	*	*
+SA	Arthrobacter dextranolyticus	43	*	*

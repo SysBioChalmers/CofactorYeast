@@ -1,0 +1,2 @@
+PATH	*	2-oxobutanoate degradation I	*	*
+PATH	*	L-threonine degradation V	*	*

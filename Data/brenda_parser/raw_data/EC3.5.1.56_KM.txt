@@ -1,0 +1,1 @@
+ecNumber*3.5.1.56#kmValue*1.28#kmValueMaximum*#substrate*N,N-Dimethylformamide#commentary*#organism*Alcaligenes sp.#ligandStructureId*5998#literature*209201#!ecNumber*3.5.1.56#kmValue*13.8#kmValueMaximum*#substrate*N,N-Dimethylformamide#commentary*#organism*Pseudomonas sp.#ligandStructureId*5998#literature*209200#

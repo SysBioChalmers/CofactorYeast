@@ -1,0 +1,9 @@
+KM	Bos taurus	0.0005	poly(dAdT)	*
+KM	Bos taurus	0.0009	poly-dC	*
+MW	Escherichia coli	30000	*	*
+MW	Escherichia coli	30000	*	*gel filtration
+MW	Escherichia coli	30000	*	*
+MW	Bos taurus	31000	*	*SDS-PAGE
+MW	Bos taurus	31000	*	*SDS-PAGE
+MW	Homo sapiens	37000	*	*SDS-PAGE
+SA	Rattus norvegicus	-999	*	*activity at different ages of both rat races

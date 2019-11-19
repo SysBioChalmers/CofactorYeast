@@ -1,0 +1,1 @@
+ecNumber*4.1.1.113#pathway*itaconate biosynthesis II#link*PWY-8018#source_database*MetaCyc#

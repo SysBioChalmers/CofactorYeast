@@ -1,0 +1,1 @@
+ecNumber*3.4.21.B40#specificActivity*0.0005#specificActivityMaximum*#commentary*purified enzyme, substrate Pyr-Arg-Tyr-Lys-Arg-4-methyl-coumaryl-7-amide#organism*Mus musculus#literature*647359#

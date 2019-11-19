@@ -1,0 +1,35 @@
+KCAT	Streptomyces cattleya	0.003	Fluoroacetyl-CoA	*mutant H76A, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	0.01	acetyl-CoA	*mutant T42C, 25&deg;C, pH 7.6; mutant T42S, 25&deg;C, pH 7.6; mutant V23A, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	0.044	Fluoroacetyl-CoA	*wild-type, 25&deg;C, pH not specified in the publication; wild type protein, pH not specified in the publication, 25&deg;C
+KCAT	Streptomyces cattleya	0.06	acetyl-CoA	*wild-type, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	0.1	acetyl-CoA	*mutant F36A, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	0.111	Fluoroacetyl-CoA	*E50A mutant protein, pH not specified in the publication, 25&deg;C; mutant E50A, 25&deg;C, pH not specified in the publication
+KCAT	Streptomyces cattleya	0.13	Fluoroacetyl-CoA	*mutant E50Q, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	0.409	Fluoroacetyl-CoA	*mutant T42S, 25&deg;C, pH not specified in the publication; T42S mutant protein, pH not specified in the publication, 25&deg;C
+KCAT	Streptomyces cattleya	0.45	Fluoroacetyl-CoA	*mutant T42A, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	6.7	Fluoroacetyl-CoA	*mutant L26A, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	19	Fluoroacetyl-CoA	*mutant T42S, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	27	Fluoroacetyl-CoA	*mutant F33A, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	110	Fluoroacetyl-CoA	*mutant T42C, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	150	Fluoroacetyl-CoA	*mutant V23A, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	270	Fluoroacetyl-CoA	*mutant F36A, 25&deg;C, pH 7.6
+KCAT	Streptomyces cattleya	390	Fluoroacetyl-CoA	*wild-type, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.001	Fluoroacetyl-CoA	*wild-type, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.014	Fluoroacetyl-CoA	*mutant E50Q, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.015	Fluoroacetyl-CoA	*mutant T42S, 25&deg;C, pH not specified in the publication; T42S mutant protein, pH not specified in the publication, 25&deg;C
+KM	Streptomyces cattleya	0.02	Fluoroacetyl-CoA	*mutant H76A, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.03	Fluoroacetyl-CoA	*wild-type, 25&deg;C, pH not specified in the publication; wild type protein, pH not specified in the publication, 25&deg;C
+KM	Streptomyces cattleya	0.06	Fluoroacetyl-CoA	*mutant T42S, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.061	acetyl-CoA	*mutant T42S, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.11	Fluoroacetyl-CoA	*mutant T42A, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.12	Fluoroacetyl-CoA	*mutant L26A, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.206	Fluoroacetyl-CoA	*E50A mutant protein, pH not specified in the publication, 25&deg;C; mutant E50A, 25&deg;C, pH not specified in the publication
+KM	Streptomyces cattleya	0.3	Fluoroacetyl-CoA	*mutant V23A, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.36	Fluoroacetyl-CoA	*mutant T42C, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.39	acetyl-CoA	*mutant T42C, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.71	Fluoroacetyl-CoA	*mutant F36A, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	0.9	acetyl-CoA	*mutant V23A, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	1.5	Fluoroacetyl-CoA	*mutant F33A, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	2.1	acetyl-CoA	*wild-type, 25&deg;C, pH 7.6
+KM	Streptomyces cattleya	3	acetyl-CoA	*mutant F36A, 25&deg;C, pH 7.6
+SA	Dichapetalum cymosum	0.0295	*	*crude mitochondrial extract, pH not specified in the publication, temperature not specified in the publication

@@ -1,0 +1,16 @@
+KCAT	Homo sapiens	0.00008	P1,P3-bis(5'-adenosyl)triphosphate	*pH 7.2, 22&deg;C
+KCAT	Homo sapiens	0.0009	P1,P4-bis(5'-adenosyl)tetraphosphate	*pH 7.2, 22&deg;C
+KCAT	Homo sapiens	0.0115	P1,P4-bis(5'-adenosyl)tetraphosphate	*pH 7.0, 30&deg;C
+KCAT	Homo sapiens	0.0195	adenosine-5'-monophosphoramidate	*pH 7.0, 30&deg;C
+KCAT	Saccharomyces cerevisiae	0.23	adenosine-5'-diphospho-5'-(ribonucleotide)-[DNA]	*pH 8.0, 20&deg;C
+KCAT	Homo sapiens	0.31	adenosine-5'-diphospho-5'-(ribonucleotide)-[DNA]	*pH 8.0, 20&deg;C
+KCAT	Saccharomyces cerevisiae	0.32	adenosine-5'-diphospho-5'-[DNA]	*pH 8.0, 20&deg;C
+KCAT	Homo sapiens	0.37	adenosine-5'-diphospho-5'-[DNA]	*pH 8.0, 20&deg;C
+KM	Homo sapiens	0.0000166	adenosine-5'-diphospho-5'-(ribonucleotide)-[DNA]	*pH 8.0, 20&deg;C
+KM	Homo sapiens	0.000112	adenosine-5'-diphospho-5'-[DNA]	*pH 8.0, 20&deg;C
+KM	Saccharomyces cerevisiae	0.00111	adenosine-5'-diphospho-5'-(ribonucleotide)-[DNA]	*pH 8.0, 20&deg;C
+KM	Saccharomyces cerevisiae	0.00247	adenosine-5'-diphospho-5'-[DNA]	*pH 8.0, 20&deg;C
+KM	Homo sapiens	0.018	P1,P4-bis(5'-adenosyl)tetraphosphate	*pH 7.0, 30&deg;C
+KM	Homo sapiens	0.021	P1,P3-bis(5'-adenosyl)triphosphate	*pH 7.2, 22&deg;C
+KM	Homo sapiens	0.039	P1,P4-bis(5'-adenosyl)tetraphosphate	*pH 7.2, 22&deg;C
+KM	Homo sapiens	0.837	adenosine-5'-monophosphoramidate	*pH 7.0, 30&deg;C

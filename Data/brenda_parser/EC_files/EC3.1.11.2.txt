@@ -1,0 +1,11 @@
+KM	Escherichia coli	0.05	PUC18 DNA, PstI	*31&deg;C and 37&deg;C, 0.05 mM base pairs
+KM	Escherichia coli	0.75	PUC18 DNA, PstI	*41&deg;C, 0.05 mM base pairs
+KM	Escherichia coli	3.5	apurinic DNA	*
+KM	Escherichia coli	9.5	Urea-containing DNA	*
+MW	Escherichia coli	25500	*	*gel filtration
+MW	Escherichia coli	29000	*	*2 * 29000, SDS-PAGE, wild-type and mutant enzymes E117Q and E117D
+MW	Escherichia coli	58000	*	*SDS-PAGE
+MW	Homo sapiens	95000	*	*determined by SDS-PAGE
+MW	Saccharolobus solfataricus	100000	*	*1 * 100000
+MW	Saccharolobus solfataricus	100000	*	*1 * 100000, likely it is cleaved by the action of endogenous proteases during the purification procedure. As a consequence of that, two proteolytic fragments of about 50 and 40 kDa, in addition to the intact 100-kDa molecular species, can be detected upon SDS-PAGE
+SA	Escherichia coli	0.27	*	*exonuclease activity

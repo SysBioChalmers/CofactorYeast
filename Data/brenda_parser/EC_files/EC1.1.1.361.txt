@@ -1,0 +1,3 @@
+PATH	*	kanosamine biosynthesis II	*	*
+PATH	*	kanosamine biosynthesis II	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*

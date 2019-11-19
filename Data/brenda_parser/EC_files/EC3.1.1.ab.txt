@@ -1,0 +1,3 @@
+PATH	*	D-xylose degradation III	*	*
+PATH	*	D-xylose degradation IV	*	*
+PATH	*	D-xylose degradation V	*	*

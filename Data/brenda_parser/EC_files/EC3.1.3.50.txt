@@ -1,0 +1,4 @@
+KM	Malus domestica	0.85	D-sorbitol-6-phosphate	*pH 6.8, 30&Acirc;&deg;C
+MW	Malus domestica	61000	*	*gel filtration
+PATH	*	D-sorbitol biosynthesis I	*	*
+SA	Malus domestica	89.8	*	*pH 6.8, 30&Acirc;&deg;C

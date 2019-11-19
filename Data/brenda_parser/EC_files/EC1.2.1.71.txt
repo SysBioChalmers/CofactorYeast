@@ -1,0 +1,4 @@
+PATH	*	L-arginine degradation II (AST pathway)	*	*
+PATH	*	arginine metabolism	*	*
+PATH	*	Arginine and proline metabolism	*	*
+PATH	*	Metabolic pathways	*	*

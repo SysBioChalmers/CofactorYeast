@@ -1,0 +1,1 @@
+ecNumber*4.3.1.32#pathway*factor 420 biosynthesis#link*PWY-5198#source_database*MetaCyc#

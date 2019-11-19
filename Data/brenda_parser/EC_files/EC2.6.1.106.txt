@@ -1,0 +1,4 @@
+PATH	*	dTDP-D-desosamine biosynthesis	*	*
+PATH	*	dTDPLrhamnose biosynthesis	*	*
+PATH	*	Polyketide sugar unit biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

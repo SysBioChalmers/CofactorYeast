@@ -1,0 +1,1 @@
+ecNumber*3.5.1.128#turnoverNumber*3.6#turnoverNumberMaximum*#substrate*N-(4-oxoglutaryl)-L-cysteinylglycine#commentary*pH 8.5, 30&Acirc;&deg;C#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*746322#

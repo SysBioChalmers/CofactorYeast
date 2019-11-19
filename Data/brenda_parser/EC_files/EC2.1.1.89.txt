@@ -1,0 +1,3 @@
+PATH	*	palmatine biosynthesis	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

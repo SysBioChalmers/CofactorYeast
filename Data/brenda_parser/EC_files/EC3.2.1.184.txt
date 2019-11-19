@@ -1,0 +1,4 @@
+KCAT	Legionella pneumophila	59.1	UDP-N,N'-diacetylbacillosamine	*pH 7.5, 37&deg;C
+KM	Legionella pneumophila	0.0365	UDP-N,N'-diacetylbacillosamine	*pH 7.5, 37&deg;C
+PATH	*	CMP-legionaminate biosynthesis II	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*

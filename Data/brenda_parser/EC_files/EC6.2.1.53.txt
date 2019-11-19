@@ -1,0 +1,9 @@
+KCAT	Streptomyces coelicolor	2.8	L-proline	*pH 7.5, 25&Acirc;&deg;C
+KCAT	Pseudomonas fluorescens	5.5	L-proline	*pH 7.5, 25&Acirc;&deg;C
+KM	Pseudomonas fluorescens	0.51	L-proline	*pH 7.5, 25&deg;C
+KM	Streptomyces coelicolor	1.54	L-proline	*pH 7.5, 25&deg;C
+PATH	*	brominated pyrroles biosynthesis	*	*
+PATH	*	prodigiosin biosynthesis	*	*
+PATH	*	Prodigiosin biosynthesis	*	*
+PATH	*	Novobiocin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

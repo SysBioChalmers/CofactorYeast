@@ -1,0 +1,3 @@
+PATH	*	phenazine-1-carboxylate biosynthesis	*	*
+PATH	*	Phenazine biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

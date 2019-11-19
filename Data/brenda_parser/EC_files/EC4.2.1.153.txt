@@ -1,0 +1,7 @@
+MW	Chloroflexus aurantiacus	30000	*	*x * 30000, SDS-PAGE
+MW	Rhodobacter sphaeroides	37000	*	*x * 37000, SDS-PAGE
+MW	Chloroflexus aurantiacus	38000	*	*x * 38000, SDS-PAGE
+PATH	*	glyoxylate assimilation	*	*
+PATH	*	ethylmalonyl-CoA pathway	*	*
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

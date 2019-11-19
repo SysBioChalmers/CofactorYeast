@@ -1,0 +1,4 @@
+MW	Pseudomonas chlororaphis subsp. aureofaciens	39000	*	*gel fitlration, reductase component CymA
+PATH	*	p-cymene degradation to p-cumate	*	*
+PATH	*	Xylene degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

@@ -1,0 +1,9 @@
+KM	Klebsiella aerogenes	0.22	ATP	*
+KM	Klebsiella aerogenes	0.097	2-deoxy-5-keto-D-gluconic acid	*
+MW	Klebsiella aerogenes	225000	*	*sucrose density gradient centrifugation
+PATH	*	myo-inositol degradation I	*	*
+PATH	*	myo-inositol biosynthesis	*	*
+PATH	*	Inositol phosphate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Klebsiella aerogenes	13.6	*	*

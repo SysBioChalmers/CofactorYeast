@@ -1,0 +1,8 @@
+MW	Clostridium scindens	71400	*	*SDS-PAGE
+MW	Clostridium scindens	72000	*	*SDS-PAGE
+MW	Clostridium scindens	72000	*	*SDS-PAGE
+MW	Clostridium scindens	210000	*	*gel filtration; non-denaturing PAGE
+MW	Clostridium scindens	210000	*	*gel filtration
+PATH	*	Secondary bile acid biosynthesis	*	*
+SA	Clostridium scindens	16.4	*	*37&deg;C, pH 6.8; pH 6.8, 25&deg;C
+SA	Clostridium scindens	48.36	*	*pH 6.8, 20&deg;C

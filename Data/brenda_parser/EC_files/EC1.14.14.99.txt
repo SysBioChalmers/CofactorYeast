@@ -1,0 +1,6 @@
+KM	Mentha x piperita	0.018	(-)-limonene	*
+PATH	*	menthol biosynthesis	*	*
+PATH	*	Monoterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Mentha x piperita	0.0003333	*	*
+SA	Mentha x piperita	0.000685	*	*

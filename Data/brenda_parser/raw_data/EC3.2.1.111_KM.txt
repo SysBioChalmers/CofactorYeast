@@ -1,0 +1,1 @@
+ecNumber*3.2.1.111#kmValue*0.095#kmValueMaximum*#substrate*lacto-N-fucopentaitol III#commentary*#organism*Prunus dulcis#ligandStructureId*16300#literature*208732#!ecNumber*3.2.1.111#kmValue*0.101#kmValueMaximum*#substrate*lacto-N-fucopentaitol II#commentary*pH 5.0, 37&deg;C#organism*Prunus dulcis#ligandStructureId*16105#literature*208732#

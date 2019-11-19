@@ -1,0 +1,4 @@
+KM	Mycobacterium tuberculosis	2.4	2-acetolactate	*
+PATH	*	Valine, leucine and isoleucine biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

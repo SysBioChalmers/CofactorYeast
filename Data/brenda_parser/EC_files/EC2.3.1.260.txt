@@ -1,0 +1,4 @@
+PATH	*	6-methylpretetramide biosynthesis	*	*
+PATH	*	Tetracycline biosynthesis	*	*
+PATH	*	Biosynthesis of type II polyketide backbone	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

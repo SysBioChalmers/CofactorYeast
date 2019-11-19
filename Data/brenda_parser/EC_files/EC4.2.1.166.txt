@@ -1,0 +1,4 @@
+PATH	*	phosalacine biosynthesis	*	*
+PATH	*	phosphinothricin tripeptide biosynthesis	*	*
+PATH	*	Phosphonate and phosphinate metabolism	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

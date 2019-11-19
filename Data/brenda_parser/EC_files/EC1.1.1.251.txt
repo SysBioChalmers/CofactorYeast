@@ -1,0 +1,6 @@
+MW	Escherichia coli	37422	*	*x * 37422, calculation from nucleotide sequence
+MW	Escherichia coli	37422	*	*x * 37422, calculation from nucleotide sequence
+PATH	*	galactitol degradation	*	*
+PATH	*	degradation of sugar alcohols	*	*
+PATH	*	Galactose metabolism	*	*
+PATH	*	Metabolic pathways	*	*

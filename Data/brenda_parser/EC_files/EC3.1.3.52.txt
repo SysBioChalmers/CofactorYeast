@@ -1,0 +1,9 @@
+MW	Bos taurus	33000	*	*1 * 33000, catalytic subunit, SDS-PAGE
+MW	Bos taurus	230000	*	*gel filtration, under conditions of high dilution, low MW form
+MW	Bos taurus	460000	*	*gel filtration
+MW	Bos taurus	460000	*	*gel filtration
+MW	Bos taurus	460000	*	*gel filtration; high MW form
+SA	Bos taurus	0.158	*	*
+SA	Bos taurus	0.24	*	*
+SA	Bos taurus	2.328	*	*
+SA	Bos taurus	22.86	*	*

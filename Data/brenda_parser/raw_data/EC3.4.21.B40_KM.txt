@@ -1,0 +1,1 @@
+ecNumber*3.4.21.B40#kmValue*0.0016#kmValueMaximum*#substrate*o-aminobenzoyl-TSVIRRVQ-ethylenediamine#commentary*#organism*Rattus norvegicus#ligandStructureId*21191#literature*647361#

@@ -1,0 +1,4 @@
+PATH	*	phenylacetate degradation I (aerobic)	*	*
+PATH	*	phenylacetate degradation (aerobic)	*	*
+PATH	*	Phenylalanine metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

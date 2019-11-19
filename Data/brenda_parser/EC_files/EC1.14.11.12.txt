@@ -1,0 +1,6 @@
+MW	Spinacia oleracea	381000	*	*gel filtration, HPLC
+PATH	*	gibberellin biosynthesis III (early C-13 hydroxylation)	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Spinacia oleracea	0.003	*	*

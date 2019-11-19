@@ -1,0 +1,5 @@
+KM	Klebsiella aerogenes	0.98	D-Allose	*25&deg;C, pH 6.5
+PATH	*	D-allose degradation	*	*
+PATH	*	Fructose and mannose metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Klebsiella aerogenes	1.93	*	*25&deg;C, pH 6.5

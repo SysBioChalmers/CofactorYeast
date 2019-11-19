@@ -1,0 +1,4 @@
+PATH	*	L-selenocysteine biosynthesis II (archaea and eukaryotes)	*	*
+PATH	*	selenocysteine biosynthesis	*	*
+PATH	*	Selenocompound metabolism	*	*
+PATH	*	Aminoacyl-tRNA biosynthesis	*	*

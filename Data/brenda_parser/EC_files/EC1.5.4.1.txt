@@ -1,0 +1,11 @@
+KM	Drosophila melanogaster	1.8	glutathione	*
+KM	Drosophila melanogaster	0.0085	dihydroneopterin triphosphate	*
+MW	Drosophila melanogaster	24000	*	*2 * 24000, SDS-PAGE
+MW	Drosophila melanogaster	28000	*	*2 * 28000, SDS-PAGE
+MW	Drosophila melanogaster	48000	*	*gel filtration
+MW	Drosophila melanogaster	56000	*	*gel filtration
+PATH	*	drosopterin and aurodrosopterin biosynthesis	*	*
+PATH	*	Glutathione metabolism	*	*
+PATH	*	Folate biosynthesis	*	*
+SA	Drosophila melanogaster	0.8	*	*
+SA	Drosophila melanogaster	124	*	*30&deg;C, pH 7.5

@@ -1,0 +1,2 @@
+PATH	*	lovastatin biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*

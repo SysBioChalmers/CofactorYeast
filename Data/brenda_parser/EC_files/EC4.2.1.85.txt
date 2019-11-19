@@ -1,0 +1,6 @@
+KM	Eubacterium barkeri	3.1	dimethylmaleate	*35&Acirc;&deg;C, pH 7
+MW	Eubacterium barkeri	153000	*	*gel filtration
+PATH	*	nicotinate degradation III	*	*
+PATH	*	Nicotinate and nicotinamide metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Eubacterium barkeri	0.14	*	*

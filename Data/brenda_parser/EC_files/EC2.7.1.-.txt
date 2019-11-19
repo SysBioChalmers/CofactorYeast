@@ -1,0 +1,2 @@
+PATH	*	lipid A biosynthesis	*	*
+PATH	*	pyrimidine metabolism	*	*

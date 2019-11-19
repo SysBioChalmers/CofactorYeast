@@ -1,0 +1,29 @@
+KCAT	Homo sapiens	0.000083	cytosine in single-stranded viral DNA	*mutant enzyme R374A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.000102	cytosine in single-stranded viral DNA	*mutant enzyme P210A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.000165	cytosine in single-stranded viral DNA	*mutant enzyme P210G, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.00017	cytosine in single-stranded viral DNA	*mutant enzyme D370A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.0002	cytosine in single-stranded viral DNA	*mutant enzyme R256A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.000517	cytosine in single-stranded viral DNA	*mutant enzyme F268A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.00085	cytosine in single-stranded viral DNA	*mutant enzyme R376A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.001	cytosine in single-stranded viral DNA	*mutant enzyme Q380A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.0014	cytosine in single-stranded viral DNA	*mutant enzyme Q245A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.0018	cytosine in single-stranded viral DNA	*wild type enzyme, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.002	cytosine in single-stranded viral DNA	*mutant enzyme D264A, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.0047	cytosine in single-stranded viral DNA	*mutant enzyme H248G, at pH 7.5 and 37&deg;C
+KCAT	Homo sapiens	0.008	cytosine in single-stranded viral DNA	*mutant enzyme H250A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	-999	more	*pre-steady state and steady state kinetics, stopped-flow fluorescence measurements, detailed overview
+KM	Homo sapiens	0.01615	cytosine in single-stranded viral DNA	*mutant enzyme Q380A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.01846	cytosine in single-stranded viral DNA	*mutant enzyme P210G, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.02042	cytosine in single-stranded viral DNA	*wild type enzyme, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.02252	cytosine in single-stranded viral DNA	*mutant enzyme F268A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.02705	cytosine in single-stranded viral DNA	*mutant enzyme R374A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.03306	cytosine in single-stranded viral DNA	*mutant enzyme H248G, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.03325	cytosine in single-stranded viral DNA	*mutant enzyme H250A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.06323	cytosine in single-stranded viral DNA	*mutant enzyme R376A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.08188	cytosine in single-stranded viral DNA	*mutant enzyme P210A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.1189	cytosine in single-stranded viral DNA	*mutant enzyme D370A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.1639	cytosine in single-stranded viral DNA	*mutant enzyme R256A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.2785	cytosine in single-stranded viral DNA	*mutant enzyme Q245A, at pH 7.5 and 37&deg;C
+KM	Homo sapiens	0.3944	cytosine in single-stranded viral DNA	*mutant enzyme D264A, at pH 7.5 and 37&deg;C
+MW	Homo sapiens	46000	*	*x * 46000, the enzyme is active in monomeric, dimeric, and larger oligomeric states
+MW	Homo sapiens	88000	*	*gel filtration

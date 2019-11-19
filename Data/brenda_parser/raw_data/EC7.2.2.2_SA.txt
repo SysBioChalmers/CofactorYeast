@@ -1,0 +1,1 @@
+ecNumber*7.2.2.2#specificActivity*-999#specificActivityMaximum*#commentary*measurement of growth inhibition by cadmium in wild-type and mutant strains, overview#organism*Saccharomyces cerevisiae#literature*698806#

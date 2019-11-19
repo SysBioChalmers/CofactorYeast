@@ -1,0 +1,4 @@
+PATH	*	isoflavonoid biosynthesis II	*	*
+PATH	*	luteolin biosynthesis	*	*
+PATH	*	salvigenin biosynthesis	*	*
+PATH	*	tricin biosynthesis	*	*

@@ -1,0 +1,6 @@
+MW	Paracoccus denitrificans	21000	*	*x * 21000, SDS-PAGE
+PATH	*	formaldehyde oxidation II (glutathione-dependent)	*	*
+PATH	*	formaldehyde oxidation	*	*
+PATH	*	Methane metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Paracoccus denitrificans	350	*	*

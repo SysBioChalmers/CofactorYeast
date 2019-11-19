@@ -1,0 +1,5 @@
+PATH	*	myo-inositol degradation I	*	*
+PATH	*	myo-inositol biosynthesis	*	*
+PATH	*	Inositol phosphate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

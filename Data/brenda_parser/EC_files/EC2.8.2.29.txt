@@ -1,0 +1,2 @@
+PATH	*	heparan sulfate biosynthesis (late stages)	*	*
+PATH	*	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	*	*

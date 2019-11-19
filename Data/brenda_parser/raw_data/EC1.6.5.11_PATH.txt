@@ -1,0 +1,1 @@
+ecNumber*1.6.5.11#pathway*menaquinol-4 biosynthesis II#link*PWY-7998#source_database*MetaCyc#!ecNumber*1.6.5.11#pathway*Oxidative phosphorylation#link*00190#source_database*KEGG#

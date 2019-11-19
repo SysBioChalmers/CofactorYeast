@@ -1,0 +1,2 @@
+PATH	*	L-arginine biosynthesis IV (archaebacteria)	*	*
+PATH	*	L-lysine biosynthesis V	*	*

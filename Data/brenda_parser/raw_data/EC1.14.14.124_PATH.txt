@@ -1,0 +1,1 @@
+ecNumber*1.14.14.124#pathway*Biosynthesis of secondary metabolites - unclassified#link*00999#source_database*KEGG#

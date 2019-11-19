@@ -1,0 +1,9 @@
+KCAT	Arabidopsis thaliana	399	NADP+	*pH 8.8, 22&Acirc;&deg;C, with shikimate
+KCAT	Arabidopsis thaliana	428	shikimate	*pH 8.8, 22&Acirc;&deg;C, with NADP+
+KM	Arabidopsis thaliana	0.131	NADP+	*pH 8.8, 22&Acirc;&deg;C, with shikimate
+KM	Populus trichocarpa	0.223	shikimate	*pH 8.5, 22&Acirc;&deg;C, with NADP+, isozyme Poptr1
+KM	Populus trichocarpa	0.321	shikimate	*with NADP+, pH 8.5, 22&Acirc;&deg;C, recombinant His-tagged Poptr1
+KM	Populus trichocarpa	0.346	shikimate	*pH 8.5, 22&Acirc;&deg;C, with NADP+, isozyme Poptr5
+KM	Populus trichocarpa	0.346	shikimate	*with NAD+, pH 8.5, 22&Acirc;&deg;C, recombinant His-tagged Poptr1
+KM	Arabidopsis thaliana	0.685	shikimate	*pH 8.8, 22&Acirc;&deg;C, with NADP+
+KM	Populus trichocarpa	-999	more	*Michaelis-Menten kinetics

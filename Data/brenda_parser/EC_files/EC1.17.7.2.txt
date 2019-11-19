@@ -1,0 +1,6 @@
+MW	Arabidopsis thaliana	195000	*	*gel filtration
+PATH	*	chlorophyll cycle	*	*
+PATH	*	chlorophyll metabolism	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

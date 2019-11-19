@@ -1,0 +1,4 @@
+KM	Rhodotorula glutinis	0.05	dihydrouracil	*
+KM	Rhodotorula glutinis	0.05	Dihydrothymine	*
+MW	Rhodotorula glutinis	80000	*	*gel filtration
+SA	Rhodotorula glutinis	9.25	*	*

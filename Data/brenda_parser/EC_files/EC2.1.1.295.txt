@@ -1,0 +1,8 @@
+PATH	*	plastoquinol-9 biosynthesis I	*	*
+PATH	*	plastoquinol-9 biosynthesis II	*	*
+PATH	*	vitamin E biosynthesis (tocopherols)	*	*
+PATH	*	vitamin E biosynthesis (tocotrienols)	*	*
+PATH	*	vitamin E metabolism	*	*
+PATH	*	Ubiquinone and other terpenoid-quinone biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

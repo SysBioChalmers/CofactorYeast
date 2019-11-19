@@ -1,0 +1,7 @@
+KM	Klebsiella aerogenes	0.15	2-keto-myo-inositol	*
+PATH	*	myo-inositol degradation I	*	*
+PATH	*	myo-inositol biosynthesis	*	*
+PATH	*	Inositol phosphate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Klebsiella aerogenes	270	*	*

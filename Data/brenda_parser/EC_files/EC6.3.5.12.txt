@@ -1,0 +1,4 @@
+PATH	*	factor 430 biosynthesis	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

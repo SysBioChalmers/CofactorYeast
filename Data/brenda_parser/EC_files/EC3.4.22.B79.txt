@@ -1,0 +1,7 @@
+KCAT	Venezuelan equine encephalitis virus	0.016	Semliki forest virus p1/p2	*
+KCAT	Semliki forest virus	0.043	Semliki forest virus p1/p2	*
+KCAT	Semliki forest virus	0.352	Semliki forest virus p3/p4	*
+KM	Semliki forest virus	0.25	Trx34	*wild-type, at 28&deg;C
+KM	Venezuelan equine encephalitis virus	0.58	Semliki forest virus p1/p2	*
+KM	Semliki forest virus	1.2	Semliki forest virus p1/p2	*
+KM	Semliki forest virus	1.27	Semliki forest virus p3/p4	*

@@ -1,0 +1,1 @@
+ecNumber*7.2.2.8#specificActivity*-999#specificActivityMaximum*#commentary*ATPase hydrolysis rates of purified and reconstituted wild-type CopA and enzyme truncation mutants#organism*Escherichia coli#literature*734725#

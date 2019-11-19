@@ -1,0 +1,1 @@
+ecNumber*3.3.2.8#specificActivity*85.1#specificActivityMaximum*#commentary*with (1R,2S,4R)-limonene-1,2-epoxide as substrate#organism*Rhodococcus erythropolis#literature*208936#!ecNumber*3.3.2.8#specificActivity*85.1#specificActivityMaximum*#commentary*#organism*Rhodococcus erythropolis#literature*208938#

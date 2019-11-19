@@ -1,0 +1,4 @@
+MW	Cannabis sativa	23000	*	*dynamic light scattering
+MW	Cannabis sativa	25000	*	*gel filtration
+PATH	*	cannabinoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*

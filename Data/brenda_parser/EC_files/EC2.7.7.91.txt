@@ -1,0 +1,4 @@
+MW	Streptomyces hygroscopicus subsp. jinggangensis	45000	*	*x * 45000, SDS-PAGE
+PATH	*	validamycin biosynthesis	*	*
+PATH	*	Acarbose and validamycin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

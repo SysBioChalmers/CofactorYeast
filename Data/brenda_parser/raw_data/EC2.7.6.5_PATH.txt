@@ -1,0 +1,1 @@
+ecNumber*2.7.6.5#pathway*ppGpp biosynthesis#link*PPGPPMET-PWY#source_database*MetaCyc#!ecNumber*2.7.6.5#pathway*ppGpp biosynthesis#link*BRENDA#source_database*BRENDA#!ecNumber*2.7.6.5#pathway*Purine metabolism#link*00230#source_database*KEGG#

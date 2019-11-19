@@ -1,0 +1,3 @@
+PATH	*	histidine metabolism	*	*
+PATH	*	Histidine metabolism	*	*
+SA	Pseudomonas sp.	10.8	*	*

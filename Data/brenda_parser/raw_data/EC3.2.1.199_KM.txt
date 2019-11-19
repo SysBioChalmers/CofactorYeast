@@ -1,0 +1,1 @@
+ecNumber*3.2.1.199#kmValue*0.22#kmValueMaximum*#substrate*4-nitrophenyl alpha-sulfoquinovoside#commentary*pH not specified in the publication, temperature not specified in the publication#organism*Escherichia coli#ligandStructureId*214075#literature*739136#

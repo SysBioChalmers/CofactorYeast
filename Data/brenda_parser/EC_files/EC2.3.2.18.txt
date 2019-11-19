@@ -1,0 +1,7 @@
+MW	Staphylococcus epidermidis	49287	*	*x * 49287, calculated
+MW	Staphylococcus aureus	53400	*	*2 * 53400, SDS-PAGE
+MW	Staphylococcus aureus	95400	*	*gel filtration
+PATH	*	peptidoglycan cross-bridge biosynthesis I (S. aureus)	*	*
+PATH	*	peptidoglycan biosynthesis	*	*
+PATH	*	Peptidoglycan biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

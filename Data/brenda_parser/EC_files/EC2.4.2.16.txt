@@ -1,0 +1,2 @@
+PATH	*	Purine metabolism	*	*
+SA	Canis lupus familiaris	4.6	*	*

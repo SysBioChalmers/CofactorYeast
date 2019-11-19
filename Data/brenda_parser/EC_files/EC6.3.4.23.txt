@@ -1,0 +1,7 @@
+PATH	*	inosine-5'-phosphate biosynthesis III	*	*
+PATH	*	purine metabolism	*	*
+PATH	*	Purine metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Methanocaldococcus jannaschii	1.9	*	*pH 7.3, 70&Acirc;&deg;C

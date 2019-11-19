@@ -1,0 +1,1 @@
+ecNumber*1.14.13.ev#pathway*dimethyl sulfide degradation II (oxidation)#link*PWY-6059#source_database*MetaCyc#

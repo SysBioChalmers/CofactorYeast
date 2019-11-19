@@ -1,0 +1,6 @@
+MW	Streptomyces galilaeus	72000	*	*gel filtration
+PATH	*	aclacinomycin biosynthesis	*	*
+PATH	*	aclacinomycin biosynthesis	*	*
+PATH	*	Biosynthesis of type II polyketide products	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Streptomyces galilaeus	952	*	*pH and temperature not specified in the publication

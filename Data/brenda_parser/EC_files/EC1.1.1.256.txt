@@ -1,0 +1,4 @@
+PATH	*	fluorene degradation I	*	*
+PATH	*	Polycyclic aromatic hydrocarbon degradation	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

@@ -1,0 +1,12 @@
+KCAT	Campylobacter jejuni	0.53	6-amino-6-deoxyfutalosine	*at pH 7.0 and 25&Acirc;&deg;C
+KCAT	Thermus thermophilus	1.02	futalosine	*pH 4.5, 80&Acirc;&deg;C
+KM	Campylobacter jejuni	0.00103	6-amino-6-deoxyfutalosine	*at pH 7.0 and 25&Acirc;&deg;C
+KM	Thermus thermophilus	0.154	futalosine	*pH 4.5, 80&Acirc;&deg;C
+MW	Thermus thermophilus	23800	*	*4 * 23800, detagged recombinant TTHA0556, SDS-PAGE, 4 * 66300, recombinant MBP-fusion TTHA0556, SDS-PAGE
+MW	Thermus thermophilus	66300	*	*4 * 23800, detagged recombinant TTHA0556, SDS-PAGE, 4 * 66300, recombinant MBP-fusion TTHA0556, SDS-PAGE
+MW	Thermus thermophilus	220000	*	*recombinant MBP-fusion TTHA0556, gel filtration
+PATH	*	1,4-dihydroxy-6-naphthoate biosynthesis I	*	*
+PATH	*	1,4-dihydroxy-6-naphthoate biosynthesis	*	*
+PATH	*	Ubiquinone and other terpenoid-quinone biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Thermus thermophilus	-999	*	*recombinant MBP-fusion and detagged enzymes show similar activities

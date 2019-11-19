@@ -1,0 +1,14 @@
+KCAT	Campylobacter jejuni	0.53	6-amino-6-deoxyfutalosine	*pH 7, 25&deg;C
+KM	Campylobacter jejuni	0.001	6-amino-6-deoxyfutalosine	*pH 7, 25&Acirc;&deg;C
+MW	Arabidopsis thaliana	27462	*	*x * 27462, isoform MATN2, calculated from amino acid sequence
+PATH	*	1,4-dihydroxy-6-naphthoate biosynthesis II	*	*
+PATH	*	1,4-dihydroxy-6-naphthoate biosynthesis	*	*
+PATH	*	Ubiquinone and other terpenoid-quinone biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Arabidopsis thaliana	0.38	*	*using adenosine as substrate, at pH 6.0 and 22&Acirc;&deg;C
+SA	Arabidopsis thaliana	0.83	*	*using 5'-chloroadenosine as substrate, at pH 6.0 and 22&Acirc;&deg;C
+SA	Arabidopsis thaliana	1.06	*	*using 5'-iodoadenosine as substrate, at pH 6.0 and 22&Acirc;&deg;C
+SA	Arabidopsis thaliana	1.5	*	*using 5'-butylthioadenosine as substrate, at pH 6.0 and 22&Acirc;&deg;C
+SA	Arabidopsis thaliana	1.98	*	*using 5'-isobutylthioadenosine as substrate, at pH 6.0 and 22&Acirc;&deg;C
+SA	Arabidopsis thaliana	2.44	*	*using 5'-phenylthioadenosine as substrate, at pH 6.0 and 22&Acirc;&deg;C
+SA	Arabidopsis thaliana	6.25	*	*using 5'-methylthioadenosine as substrate, at pH 6.0 and 22&Acirc;&deg;C

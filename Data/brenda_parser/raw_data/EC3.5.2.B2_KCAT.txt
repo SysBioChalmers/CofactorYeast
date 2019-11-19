@@ -1,0 +1,1 @@
+ecNumber*3.5.2.B2#turnoverNumber*4.2#turnoverNumberMaximum*#substrate*1,3-benzoxazol-2(3H)-one#commentary*pH 7.0, temperature not specified in the publication#organism*Fusarium pseudograminearum#ligandStructureId*210620#literature*736167#

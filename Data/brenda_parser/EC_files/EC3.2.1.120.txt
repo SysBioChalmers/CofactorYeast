@@ -1,0 +1,22 @@
+KM	Thermobifida fusca	0.0024	tamarind xyloglucan	*50&deg;C, pH 7.5
+KM	Oerskovia sp.	0.7	Xylbeta(1-6)Glcbeta(1-4)(Xylbeta(1-6))Glcbeta(1-4)(Xylbeta(1-6))Glcbeta(1-4)Glc	*
+KM	Thermobifida fusca	0.966	xyloglucan oligosaccharide	*50&deg;C, pH 7.5
+MW	Aspergillus aculeatus	23600	*	*x * 23600, mass spectroscopy, x * 34000, SDS-PAGE, x * 23760, deduced from gene sequence
+MW	Aspergillus aculeatus	23760	*	*x * 23600, mass spectroscopy, x * 34000, SDS-PAGE, x * 23760, deduced from gene sequence
+MW	Vigna angularis	32000	*	*x * 32000, SDS-PAGE
+MW	Aspergillus aculeatus	34000	*	*x * 23600, mass spectroscopy, x * 34000, SDS-PAGE, x * 23760, deduced from gene sequence
+MW	Pisum sativum	70000	*	*gel filtration
+MW	Pisum sativum	77000	*	*1 * 77000, SDS-PAGE
+MW	Thermobifida fusca	79440	*	*x * 79440, mass spectroscopy, x * 79480, deduced from gene sequence
+MW	Thermobifida fusca	79480	*	*x * 79440, mass spectroscopy, x * 79480, deduced from gene sequence
+MW	Oerskovia sp.	105000	*	*x * 105000, SDS-PAGE
+MW	Aspergillus oryzae	115000	*	*2 * 115000, SDS-PAGE
+MW	Aspergillus oryzae	230000	*	*gel filtration
+PATH	*	xyloglucan degradation II (exoglucanase)	*	*
+SA	Arabidopsis thaliana	-999	*	*overview: assay methods
+SA	Aspergillus niger	1	*	*pH 4.5, 40&Acirc;&deg;C, substrate: beta-glucan; pH 4.5, 40&Acirc;&deg;C, substrate: chemically modified cellulose
+SA	Aspergillus niger	19	*	*pH 4.5, 40&Acirc;&deg;C, substrate: tamarind xyloglucan
+SA	Aspergillus oryzae	38.42	*	*
+SA	Oerskovia sp.	85	*	*with Xylbeta(1-6)Glcbeta(1-4)(Xylbeta(1-6))Glcbeta(1-4)(Xylbeta(1-6))Glcbeta(1-4)Glc
+SA	Aspergillus aculeatus	260	*	*21&Acirc;&deg;C, pH 5.0
+SA	Pisum sativum	1294	*	*pH 6.2, 35&Acirc;&deg;C

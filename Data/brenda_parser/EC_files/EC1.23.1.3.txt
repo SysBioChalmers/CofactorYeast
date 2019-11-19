@@ -1,0 +1,5 @@
+KM	Arabidopsis thaliana	0.0073	(-)-pinoresinol	*at pH 7.5 and 30&Acirc;&deg;C
+KM	Arabidopsis thaliana	0.0126	(-)-pinoresinol	*at pH 7.5 and 30&Acirc;&deg;C
+PATH	*	matairesinol biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

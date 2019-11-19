@@ -1,0 +1,1 @@
+ecNumber*1.17.99.4#pathway*uracil degradation II (oxidative)#link*PWY-6426#source_database*MetaCyc#!ecNumber*1.17.99.4#pathway*Pyrimidine metabolism#link*00240#source_database*KEGG#

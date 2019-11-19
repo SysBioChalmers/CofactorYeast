@@ -1,0 +1,15 @@
+KCAT	Pseudomonas aeruginosa	38.6	pyruvate	*calculated, pH 9.0, 37&Acirc;&deg;C, coupled reaction with NAD+ and L-alanine dehydrogenase
+KCAT	Pseudomonas aeruginosa	38.6	L-arginine	*calculated, pH 9.0, 37&Acirc;&deg;C, coupled reaction with NAD+ and L-alanine dehydrogenase; pH 9.0, 37&Acirc;&deg;C
+KCAT	Pseudomonas aeruginosa	-999	more	*catalytic efficiency kcat/KM 24.1 mM/s for pyruvate and 2.8 mM/s for arginine
+KM	Pseudomonas aeruginosa	1.6	pyruvate	*pH 9.0, 37&Acirc;&deg;C; pH 9.0, 37&Acirc;&deg;C, coupled reaction with NAD+ and L-alanine dehydrogenase
+KM	Pseudomonas aeruginosa	2.8	L-arginine	*pH 9.0, 37&Acirc;&deg;C
+KM	Pseudomonas aeruginosa	13.9	L-arginine	*pH 9.0, 37&Acirc;&deg;C, coupled reaction with NAD+ and L-alanine dehydrogenase
+KM	Pseudomonas aeruginosa	-999	more	*catalytic efficiency kcat/KM 24.1 mM/s for pyruvate and 2.8 mM/s for arginine; kinetics
+MW	Pseudomonas aeruginosa	43000	*	*2 * 43000, recombinant enzyme, SDS-PAGE; 2 * 43000, SDS-PAGE, His-tagged
+MW	Pseudomonas aeruginosa	79300	*	*native enzyme, gel filtration, apparent mass, indicating that His-tagged AruH is a homodimer; recombinant enzyme, gel filtration
+PATH	*	L-arginine degradation IX (arginine:pyruvate transaminase pathway)	*	*
+PATH	*	arginine metabolism	*	*
+PATH	*	Arginine and proline metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Pseudomonas aeruginosa	-999	*	*
+SA	Pseudomonas aeruginosa	-999	*	*a coupled reaction assay with NAD+ and L-alanine dehydrogenase

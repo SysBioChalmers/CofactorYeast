@@ -1,0 +1,1 @@
+ecNumber*3.5.1.62#kmValue*0.377#kmValueMaximum*#substrate*N8-Acetylspermidine#commentary*#organism*Micrococcus luteus#ligandStructureId*2661#literature*172070#!ecNumber*3.5.1.62#kmValue*0.321#kmValueMaximum*#substrate*N-acetylputrescine#commentary*#organism*Micrococcus luteus#ligandStructureId*7243#literature*172070#

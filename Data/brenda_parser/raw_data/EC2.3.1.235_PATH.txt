@@ -1,0 +1,1 @@
+ecNumber*2.3.1.235#pathway*elloramycin biosynthesis#link*BRENDA#source_database*BRENDA#!ecNumber*2.3.1.235#pathway*Biosynthesis of type II polyketide backbone#link*01056#source_database*KEGG#!ecNumber*2.3.1.235#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

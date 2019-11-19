@@ -1,0 +1,54 @@
+KCAT	Escherichia coli	21.5	4-nitrophenyl-beta-D-fucopyranoside	*25&deg;C, recombinant mutant H540V/N604T of beta-galactosidase, EC 3.2.1.22
+KM	Ovis aries aries	0.25	p-nitrophenyl-beta-D-galactoside	*
+KM	Bos taurus	0.3	p-nitrophenyl-beta-D-galactoside	*
+KM	Littorina littorea	2.22	p-nitrophenyl-beta-D-galactoside	*
+KM	Turbo cornutus	3.5	p-nitrophenyl-beta-D-galactoside	*
+KM	Bos taurus	0.1	p-nitrophenyl-beta-D-glucoside	*
+KM	Ovis aries aries	0.2	p-nitrophenyl-beta-D-glucoside	*
+KM	Littorina littorea	0.39	p-nitrophenyl-beta-D-glucoside	*
+KM	Bifidobacterium breve clb	1.3	p-nitrophenyl-beta-D-glucoside	*
+KM	Dalbergia cochinchinensis	4.7	p-nitrophenyl-beta-D-glucoside	*in presence of inhibitory Tris
+KM	Dalbergia cochinchinensis	5.37	p-nitrophenyl-beta-D-glucoside	*
+KM	Escherichia coli	2.56	4-nitrophenyl-beta-D-fucopyranoside	*25&Acirc;&deg;C, recombinant mutant H540V/N604T of beta-galactosidase, EC 3.2.1.22
+KM	Bos taurus	0.26	p-nitrophenyl-beta-D-fucoside	*
+KM	Littorina littorea	0.29	p-nitrophenyl-beta-D-fucoside	*
+KM	Ovis aries aries	0.33	p-nitrophenyl-beta-D-fucoside	*
+KM	Dalbergia cochinchinensis	0.54	p-nitrophenyl-beta-D-fucoside	*
+KM	Dalbergia cochinchinensis	0.57	p-nitrophenyl-beta-D-fucoside	*in presence of inhibitory Tris
+KM	Patella vulgata	0.63	p-nitrophenyl-beta-D-fucoside	*
+KM	Bifidobacterium breve clb	0.7	p-nitrophenyl-beta-D-fucoside	*
+KM	Aspergillus phoenicis	2.4	p-nitrophenyl-beta-D-fucoside	*
+KM	Asclepias curassavica	6.58	p-nitrophenyl-beta-D-fucoside	*
+KM	Lactuca sativa	8	p-nitrophenyl-beta-D-fucoside	*
+KM	Haloferax lucentense	0.87	2-nitrophenyl beta-D-galactoside	*pH 7.2, 22&Acirc;&deg;C, the enzyme also shows beta-fucosidase activity
+KM	Caecomyces communis	-999	p-nitro-phenyl-beta-D-fucoside	*0.37 mg/ml
+KM	Neocallimastix frontalis	-999	p-nitro-phenyl-beta-D-fucoside	*0.39 mg/ml
+KM	Piromyces communis	-999	p-nitro-phenyl-beta-D-fucoside	*0.3 mg/ml
+KM	Citrobacter sp.	-999	more	*kinetics
+MW	Lactuca sativa	37000	*	*SDS-PAGE, gel filtration
+MW	Bifidobacterium breve clb	47000	*	*native gradient PAGE, SDS-PAGE
+MW	Asclepias curassavica	49000	*	*gel filtration, SDS-PAGE
+MW	Shewanella sp.	50000	*	*x * 50000, SDS-PAGE
+MW	Aspergillus phoenicis	57000	*	*SDS-PAGE, gel filtration
+MW	Dalbergia cochinchinensis	66000	*	*SDS-PAGE
+MW	Haloferax lucentense	78000	*	*2 * 78000, SDS-PAGE
+MW	Achatina balteata	105000	*	*beta-fucosidase II, gel filtration, ultracentrifugation
+MW	Achatina balteata	110000	*	*1 * 110000, beta-fucosidase II, SDS-PAGE, gel filtration, ultracentrifugation
+MW	Achatina balteata	170000	*	*1 * 170000 + 1 * 190000, beta-fucosidase I, SDS-PAGE, gel filtration, ultracentrifugation
+MW	Haloferax lucentense	180000	*	*gel filtration
+MW	Achatina balteata	190000	*	*1 * 170000 + 1 * 190000, beta-fucosidase I, SDS-PAGE, gel filtration, ultracentrifugation
+MW	Achatina balteata	300000	*	*beta-fucosidase I, gel filtration, ultracentrifugation
+MW	Citrobacter sp.	337000	*	*2 * 337000, SDS-PAGE, the enzyme is part of a high-molecular weight multiprotein complex of at least 6 individual proteins
+MW	Citrobacter sp.	775000	*	*native PAGE, the enzyme is part of a high-molecular weight multiprotein complex of at least 6 individual proteins
+SA	Phlebotomus papatasi	-999	*	*assay described, enzyme activity measured in homogenates of 10 to 15 male and female flies before and after sucrose meals, monitoring by spectroscopy, values of relative activity shown
+SA	Citrobacter sp.	0.002	*	*partially purified enzyme
+SA	Turbo cornutus	2.47	*	*
+SA	Aspergillus phoenicis	7.6	*	*
+SA	Haloferax lucentense	42	*	*substrate: 2-nitrophenyl beta-D-galactosidepH 7.2, 22&Acirc;&deg;C, the enzyme also shows beta-fucosidase activity
+SA	Dalbergia cochinchinensis	48	*	*for beta-D-glucosidase activity
+SA	Bifidobacterium breve clb	54.6	*	*for beta-D-fucosidase activity
+SA	Dalbergia cochinchinensis	62	*	*for beta-D-fucosidase activity
+SA	Achatina balteata	63	*	*
+SA	Bifidobacterium breve clb	67.3	*	*for beta-D-glucosidase activity
+SA	Lactuca sativa	430	*	*
+SA	Asclepias curassavica	2853	*	*

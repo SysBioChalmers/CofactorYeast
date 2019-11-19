@@ -1,0 +1,1 @@
+ecNumber*3.2.1.100#molecularWeight*64000#molecularWeightMaximum*#commentary*gel filtration#organism*Aeromonas hydrophila#literature*135706#

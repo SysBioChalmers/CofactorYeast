@@ -1,0 +1,2 @@
+PATH	*	fatty acid biosynthesis initiation III	*	*
+PATH	*	mupirocin biosynthesis	*	*

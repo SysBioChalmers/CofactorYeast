@@ -1,0 +1,4 @@
+PATH	*	cis-abienol biosynthesis	*	*
+PATH	*	labdane-type diterpenes biosynthesis	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

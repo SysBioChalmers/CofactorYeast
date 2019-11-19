@@ -1,0 +1,2 @@
+PATH	*	heme metabolism	*	*
+PATH	*	phenol degradation	*	*

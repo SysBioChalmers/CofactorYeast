@@ -1,0 +1,7 @@
+KM	Mesorhizobium loti	0.011	isatin	*pH 9.0, 32&Acirc;&deg;C
+PATH	*	indole-3-acetate degradation	*	*
+SA	Bradyrhizobium japonicum	0.34	*	*pH 9.0, 32&Acirc;&deg;C
+SA	Bradyrhizobium japonicum	0.41	*	*pH 9.0, 32&Acirc;&deg;C
+SA	Bradyrhizobium japonicum	0.611	*	*pH 9.0, 32&Acirc;&deg;C
+SA	Mesorhizobium loti	0.64	*	*pH 9.0, 32&Acirc;&deg;C
+SA	Neorhizobium galegae	0.69	*	*pH 9.0, 32&Acirc;&deg;C

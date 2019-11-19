@@ -1,0 +1,1 @@
+ecNumber*3.6.1.61#pathway*Purine metabolism#link*00230#source_database*KEGG#

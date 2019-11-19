@@ -1,0 +1,3 @@
+PATH	*	cis-genanyl-CoA degradation	*	*
+PATH	*	Geraniol degradation	*	*
+SA	Pseudomonas citronellolis	25.8	*	*

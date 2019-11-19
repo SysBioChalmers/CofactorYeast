@@ -1,0 +1,4 @@
+MW	Microbacterium hydrocarbonoxydans	31300	*	*2 * 31300, calculated, 2 * 33000, SDS-PAGE
+MW	Microbacterium hydrocarbonoxydans	33000	*	*2 * 31300, calculated, 2 * 33000, SDS-PAGE
+MW	Microbacterium hydrocarbonoxydans	65000	*	*PAGE
+MW	Microbacterium hydrocarbonoxydans	65300	*	*gel filtration

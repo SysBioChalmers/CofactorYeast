@@ -1,0 +1,136 @@
+KCAT	Staphylococcus aureus	240	NADH	*isoform NdhF, pH 7.5, 37&Acirc;&deg;C
+KCAT	Gloeophyllum trabeum	1200	NADH	*pH 6.0, room temperature
+KCAT	Staphylococcus aureus	1500	NADH	*isoform NdhC, pH 7.5, 37&Acirc;&deg;C
+KCAT	Methanothermobacter marburgensis	14.3	ferricyanide	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KCAT	Gloeophyllum trabeum	2200	2,6-dichlorophenolindophenol	*pH 6.0, room temperature
+KCAT	Methanothermobacter marburgensis	0.1025	fumarate	*cosubstrate NADH, pH 7.4, 30&Acirc;&deg;C
+KCAT	Methanothermobacter marburgensis	6	1,4-benzoquinone	*cosubstrate: NADPH, pH 7.4, temperature not specified in the publication
+KCAT	Methanothermobacter marburgensis	9.74	1,4-benzoquinone	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KCAT	Methanothermobacter marburgensis	0.33	thiosulfate	*cosubstrate NADH, pH 7.4, 30&Acirc;&deg;C
+KCAT	Methanothermobacter marburgensis	0.0825	oxidized 2,6-dichlorophenolindophenol	*cosubstrate NADH, pH 7.4, 30&Acirc;&deg;C
+KCAT	Methanothermobacter marburgensis	14.6	ubiquinone-1	*cosubstrate: NADPH, pH 7.4, temperature not specified in the publication
+KCAT	Methanothermobacter marburgensis	15.6	ubiquinone-1	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KCAT	Gloeophyllum trabeum	4000	benzoquinone	*pH 6.0, room temperature
+KCAT	Methanothermobacter marburgensis	0.1867	ferrocenium hexafluorophosphate	*cosubstrate NADH, pH 7.4, 30&Acirc;&deg;C
+KCAT	Methanothermobacter marburgensis	11.2	ferrocenium hexafluorophosphate	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KCAT	Gloeophyllum trabeum	2600	Fe(CN)63-	*pH 6.0, room temperature
+KCAT	Gloeophyllum trabeum	5300	2,3-dimethoxy-5-methyl-1,4-benzoquinone	*pH 6.0, room temperature
+KCAT	Methanothermobacter marburgensis	4.95	oxidized 2,6-dichloroindophenol	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KCAT	Staphylococcus aureus	67.9	2,3-dimethyl-1,4-naphthoquinone	*pH 7.0, 35&Acirc;&deg;C
+KCAT	Methanothermobacter marburgensis	0.1143	coenzyme Q10	*cosubstrate NADH, pH 7.4, 30&Acirc;&deg;C
+KCAT	Methanothermobacter marburgensis	6.86	Ubiquinone-10	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KCAT	Gloeophyllum trabeum	1000	2,6-dimethoxy-1,4-benzoquinone	*pH 6.0, room temperature
+KCAT	Gloeophyllum trabeum	1100	2,5-dimethoxy-1,4-benzoquinone	*
+KCAT	Gloeophyllum trabeum	1100	2,5-dimethoxy-1,4-benzoquinone	*pH 6.0, room temperature
+KCAT	Methanothermobacter marburgensis	0.2367	DL-malic acid	*cosubstrate NADH, pH 7.4, 30&Acirc;&deg;C
+KCAT	Gloeophyllum trabeum	1100	4,5-dimethoxy-1,2-benzoquinone	*
+KCAT	Methanothermobacter marburgensis	0.1622	Diethyloxaloacetate	*cosubstrate NADPH, pH 7.4, 30&Acirc;&deg;C
+KCAT	Staphylococcus aureus	68.2	2,3,5,6-tetramethyl-1,4-benzoquinone	*pH 7.0, 35&Acirc;&deg;C
+KCAT	Staphylococcus aureus	69.4	2,3-dimethoxy-5,6-dimethyl-benzoquinone	*pH 7.0, 35&Acirc;&deg;C
+KM	Photobacterium phosphoreum	0.002	cytochrome c	*
+KM	Escherichia coli	0.002	menadione	*pH 7.5, 30&deg;C
+KM	Rhodobacter capsulatus	0.0029	2,6-dichlorophenolindophenol	*
+KM	Gloeophyllum trabeum	0.0038	benzoquinone	*pH 6.0, room temperature
+KM	Rhodobacter capsulatus	0.004	NADH	*
+KM	Gloeophyllum trabeum	0.005	2,5-dimethoxy-1,4-benzoquinone	*
+KM	Gloeophyllum trabeum	0.005	4,5-dimethoxy-1,2-benzoquinone	*
+KM	Gloeophyllum trabeum	0.0058	2,5-dimethoxy-1,4-benzoquinone	*pH 6.0, room temperature
+KM	Gloeophyllum trabeum	0.0068	2,6-dimethoxy-1,4-benzoquinone	*pH 6.0, room temperature
+KM	Rhodobacter capsulatus	0.0079	FMN	*
+KM	Sus scrofa	0.012	NADH	*
+KM	Rhodobacter capsulatus	0.015	cytochrome c	*
+KM	Gloeophyllum trabeum	0.0162	2,3-dimethoxy-5-methyl-1,4-benzoquinone	*pH 6.0, room temperature
+KM	halophilic bacterium	0.017	NADH	*reaction with 5-hydroxy-1,4-naphthoquinone
+KM	Gloeophyllum trabeum	0.0172	2,6-dichlorophenolindophenol	*pH 6.0, room temperature
+KM	Methanothermobacter marburgensis	0.0175	oxidized 2,6-dichloroindophenol	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KM	Staphylococcus aureus	0.0205	NADH	*pH 7.0, 35&deg;C
+KM	halophilic bacterium	0.021	2-methyl-1,4-naphthoquinone	*
+KM	halophilic bacterium	0.022	NADH	*reaction with 2,6-dichlorophenolindophenol
+KM	Caldalkalibacillus thermarum	0.029	NADH	*wild-type, pH 8.0, 37&deg;C
+KM	Staphylococcus aureus	0.0297	2,3-dimethyl naphthoquinone	*isoform NdhF, pH 7.5, 37&deg;C
+KM	halophilic bacterium	0.03	2,6-dichlorophenol indophenol	*
+KM	Corynebacterium glutamicum	0.031	NADH	*at pH 7
+KM	Methanothermobacter marburgensis	0.0337	oxidized 2,6-dichlorophenolindophenol	*cosubstrate NADH, pH 7.4, 30&deg;C
+KM	Methanothermobacter marburgensis	0.0337	Ubiquinone-10	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KM	Caldalkalibacillus thermarum	0.034	menadione	*wild-type, pH 8.0, 37&deg;C
+KM	halophilic bacterium	0.034	NADH	*reaction with 2-methyl-1,4-naphthoquinone
+KM	Photobacterium phosphoreum	0.035	2-methyl-1,4-naphthoquinone	*
+KM	Staphylococcus aureus	0.035	NADH	*isoform NdhC, pH 7.5, 37&deg;C
+KM	Gloeophyllum trabeum	0.0363	NADH	*pH 6.0, room temperature
+KM	Staphylococcus aureus	0.0375	2,3-dimethyl naphthoquinone	*isoform NdhC, pH 7.5, 37&deg;C
+KM	Methanothermobacter marburgensis	0.0414	Diethyloxaloacetate	*cosubstrate NADPH, pH 7.4, 30&deg;C
+KM	Rhodobacter capsulatus	0.045	NADH	*
+KM	Methanothermobacter marburgensis	0.0481	1,4-benzoquinone	*cosubstrate: NADPH, pH 7.4, temperature not specified in the publication
+KM	Staphylococcus aureus	0.0554	2,3,5,6-tetramethyl-1,4-benzoquinone	*pH 7.0, 35&deg;C
+KM	Methanothermobacter marburgensis	0.0565	1,4-benzoquinone	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KM	Methanothermobacter marburgensis	0.0565	ferrocenium hexafluorophosphate	*cosubstrate NADH, pH 7.4, 30&deg;C
+KM	Rhodobacter capsulatus	0.063	2,6-dichlorophenolindophenol	*
+KM	Staphylococcus aureus	0.0637	2,3-dimethoxy-5,6-dimethyl-benzoquinone	*pH 7.0, 35&deg;C
+KM	Methanothermobacter marburgensis	0.0648	ferrocenium hexafluorophosphate	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KM	Staphylococcus aureus	0.0699	2,3-dimethyl-1,4-naphthoquinone	*pH 7.0, 35&deg;C
+KM	Methanothermobacter marburgensis	0.0748	coenzyme Q10	*cosubstrate NADH, pH 7.4, 30&deg;C
+KM	Methanothermobacter marburgensis	0.0748	ferricyanide	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KM	Gloeophyllum trabeum	0.085	NADH	*
+KM	Propionibacterium freudenreichii subsp. shermanii	0.087	NADH	*
+KM	Methanothermobacter marburgensis	0.0968	ubiquinone-1	*cosubstrate: NADH, pH 7.4, temperature not specified in the publication
+KM	Sus scrofa	0.1	menadione	*
+KM	Methanothermobacter marburgensis	0.1025	fumarate	*cosubstrate NADH, pH 7.4, 30&deg;C
+KM	Photobacterium phosphoreum	0.11	2,6-dichlorophenolindophenol	*
+KM	Methanothermobacter marburgensis	0.112	thiosulfate	*cosubstrate NADH, pH 7.4, 30&deg;C
+KM	Methanothermobacter marburgensis	0.112	ubiquinone-1	*cosubstrate: NADPH, pH 7.4, temperature not specified in the publication
+KM	Escherichia coli	0.132	NADH	*pH 7.5, 30&deg;C
+KM	halophilic bacterium	0.133	5-hydroxy-1,4-naphthoquinone	*
+KM	Staphylococcus aureus	0.154	NADH	*isoform NdhF, pH 7.5, 37&deg;C
+KM	Gloeophyllum trabeum	0.2158	Fe(CN)63-	*pH 6.0, room temperature
+KM	Methanothermobacter marburgensis	0.258	DL-malic acid	*cosubstrate NADH, pH 7.4, 30&deg;C
+KM	Caldalkalibacillus thermarum	0.78	menadione	*mutant G164E, pH 8.0, 37&deg;C
+KM	Propionibacterium freudenreichii subsp. shermanii	0.94	ferricyanide	*
+KM	Caldalkalibacillus thermarum	1	NADH	*mutant G164E, pH 8.0, 37&deg;C
+KM	Photobacterium phosphoreum	2.1	ferricyanide	*
+MW	Rhodobacter capsulatus	15500	*	*6 * 15500, membrane-bound enzyme, SDS-PAGE
+MW	Gloeophyllum trabeum	22000	*	*2 * 22000, SDS-PAGE
+MW	Gloeophyllum trabeum	22000	*	*x * 22000, SDS-PAGE
+MW	Methanothermobacter marburgensis	24000	*	*2 * 24000, SDS-PAGE
+MW	Escherichia coli	25000	*	*2 * 25000, SDS-PAGE
+MW	Rhodobacter capsulatus	37000	*	*soluble enzyme, gel filtration
+MW	Rhodobacter capsulatus	38000	*	*1 * 38000, soluble enzyme, SDS-PAGE
+MW	Escherichia coli	38000	*	*x * 38000, SDS-PAGE
+MW	Staphylococcus aureus	45000	*	*2 * 45600, calculated, 2 * 45000, SDS-PAGE
+MW	Staphylococcus aureus	45600	*	*2 * 45600, calculated, 2 * 45000, SDS-PAGE
+MW	Agrobacterium tumefaciens	46000	*	*SDS-PAGE
+MW	Gloeophyllum trabeum	50000	*	*gel filtration
+MW	Escherichia coli	50000	*	*gel filtration
+MW	Mycobacterium tuberculosis	50000	*	*SDS-PAGE
+MW	Escherichia coli	50000	*	*SDS-PAGE
+MW	Mycobacterium tuberculosis	50000	*	*SDS-PAGE
+MW	Mycolicibacterium smegmatis	50000	*	*SDS-PAGE
+MW	Plasmodium falciparum	52000	*	*1 * 52000
+MW	Corynebacterium glutamicum	55000	*	*SDS-PAGE
+MW	Drosophila hydei	57000	*	*x * 57000, SDS-PAGE
+MW	halophilic bacterium	64000	*	*gel filtration
+MW	Bacillus sp. (in: Bacteria)	65000	*	*2 * 65000, SDS-PAGE
+MW	Drosophila hydei	79000	*	*gel filtration
+MW	Staphylococcus aureus	90000	*	*gel filtration
+MW	Rhodobacter capsulatus	97000	*	*membrane-bound enzyme, gel filtration
+MW	Bacillus sp. (in: Bacteria)	138000	*	*gel filtration
+MW	Thermosynechococcus elongatus	190000	*	*MALDI-TOF MS, NDH-1S complex
+MW	Propionibacterium freudenreichii subsp. shermanii	215000	*	*gel filtration
+MW	Thermosynechococcus elongatus	300000	*	*MALDI-TOF MS, NDH-1M complex
+MW	Thermosynechococcus elongatus	450000	*	*MALDI-TOF MS, NDH-1L complex
+MW	Thermosynechococcus elongatus	490000	*	*MALDI-TOF MS, NDH-1MS complex
+PATH	*	menaquinol-4 biosynthesis II	*	*
+PATH	*	Oxidative phosphorylation	*	*
+SA	Rhodobacter capsulatus	-999	*	*
+SA	Rhodobacter capsulatus	-999	*	*
+SA	Drosophila hydei	-999	*	*
+SA	Sus scrofa	-999	*	*
+SA	Gloeophyllum trabeum	-999	*	*
+SA	Aphanocapsa	0.035	*	*soluble fraction with 0.1 mM o-phenanthroline
+SA	Aphanocapsa	0.085	*	*soluble fraction with 0.1 mM rotenone
+SA	Aphanocapsa	0.123	*	*soluble fraction with 0.1 mM thenoyltrifluoroacetone
+SA	Aphanocapsa	0.682	*	*soluble fraction control
+SA	Tetragenococcus halophilus	7.4	*	*partially purified enzyme
+SA	Photobacterium phosphoreum	24.2	*	*
+SA	halophilic bacterium	376	*	*
+SA	Gloeophyllum trabeum	1213	*	*
+SA	Escherichia coli	3205	*	*pH 7.5, 30&deg;C

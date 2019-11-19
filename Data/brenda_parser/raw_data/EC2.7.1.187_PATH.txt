@@ -1,0 +1,1 @@
+ecNumber*2.7.1.187#pathway*Acarbose and validamycin biosynthesis#link*00525#source_database*KEGG#

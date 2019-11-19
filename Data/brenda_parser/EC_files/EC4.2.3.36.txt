@@ -1,0 +1,6 @@
+KM	Kitasatospora griseola	0.0076	terpentedienyl diphosphate	*
+MW	Kitasatospora griseola	37000	*	*2 * 37000, calculated from sequence
+MW	Kitasatospora griseola	70000	*	*gel filtration
+PATH	*	terpentecin biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

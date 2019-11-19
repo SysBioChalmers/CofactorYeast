@@ -1,0 +1,3 @@
+PATH	*	limonene degradation I (D-limonene)	*	*
+PATH	*	limonene degradation II (L-limonene)	*	*
+PATH	*	Limonene and pinene degradation	*	*

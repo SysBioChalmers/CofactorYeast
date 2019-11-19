@@ -1,0 +1,3 @@
+PATH	*	phosphatidylinositol mannoside biosynthesis	*	*
+PATH	*	Lipoarabinomannan (LAM) biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

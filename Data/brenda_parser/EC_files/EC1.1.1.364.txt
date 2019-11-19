@@ -1,0 +1,5 @@
+MW	Streptomyces sp.	52000	*	*x * 52000, including the 6His-tag and thioredoxin-tagged fusion protein, SDS-PAGE
+PATH	*	dTDP-6-deoxy-alpha-D-allose biosynthesis	*	*
+PATH	*	dTDPLrhamnose biosynthesis	*	*
+PATH	*	Polyketide sugar unit biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

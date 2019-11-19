@@ -1,0 +1,4 @@
+PATH	*	abietic acid biosynthesis	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

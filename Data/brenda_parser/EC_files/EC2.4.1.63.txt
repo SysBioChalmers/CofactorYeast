@@ -1,0 +1,5 @@
+PATH	*	linamarin biosynthesis	*	*
+PATH	*	lotaustralin biosynthesis	*	*
+PATH	*	Cyanoamino acid metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Linum usitatissimum	0.0238	*	*

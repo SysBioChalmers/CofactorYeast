@@ -1,0 +1,1 @@
+ecNumber*1.14.14.22#pathway*dibenzothiophene desulfurization#link*PWY-681#source_database*MetaCyc#

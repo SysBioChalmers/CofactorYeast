@@ -1,0 +1,2 @@
+PATH	*	Glucosinolate biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

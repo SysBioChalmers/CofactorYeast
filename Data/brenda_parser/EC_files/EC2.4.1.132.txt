@@ -1,0 +1,12 @@
+KM	Oryctolagus cuniculus	0.00021	tetrasaccharide-diphosphoryl-lipid	*detergent-stimulated
+KM	Oryctolagus cuniculus	0.00065	GDPmannose	*detergent-stimulated
+KM	Oryctolagus cuniculus	0.00096	tetrasaccharide-diphosphoryl-lipid	*
+KM	Oryctolagus cuniculus	0.00142	GDPmannose	*
+MW	Saccharomyces cerevisiae	85000	*	*SDS-PAGE
+MW	Saccharomyces cerevisiae	98500	*	*SDS-PAGE, MW slowly increases due to glycosylation
+PATH	*	protein N-glycosylation initial phase (eukaryotic)	*	*
+PATH	*	dolichyl-diphosphooligosaccharide biosynthesis	*	*
+PATH	*	N-Glycan biosynthesis	*	*
+PATH	*	Various types of N-glycan biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Oryctolagus cuniculus	-999	*	*

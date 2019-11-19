@@ -1,0 +1,1 @@
+ecNumber*3.5.2.20#kmValue*0.011#kmValueMaximum*#substrate*isatin#commentary*pH 9.0, 32&Acirc;&deg;C#organism*Mesorhizobium loti#ligandStructureId*805#literature*730657#

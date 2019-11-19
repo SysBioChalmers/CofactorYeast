@@ -1,0 +1,4 @@
+MW	Streptomyces fradiae	30120	*	*x * 30120, calculated from sequence
+PATH	*	tylosin biosynthesis	*	*
+PATH	*	Biosynthesis of 12-, 14- and 16-membered macrolides	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

@@ -1,0 +1,2 @@
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+SA	Bos taurus	0.083	*	*

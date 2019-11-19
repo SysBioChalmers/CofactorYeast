@@ -1,0 +1,4 @@
+PATH	*	diterpene phytoalexins precursors biosynthesis	*	*
+PATH	*	diterpene phytoalexins precursors biosynthesis	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

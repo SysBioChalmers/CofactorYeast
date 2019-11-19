@@ -1,0 +1,2 @@
+PATH	*	superpathway of ubiquinol-6 biosynthesis (eukaryotic)	*	*
+PATH	*	ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)	*	*

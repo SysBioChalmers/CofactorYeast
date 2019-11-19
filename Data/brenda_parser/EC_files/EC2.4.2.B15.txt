@@ -1,0 +1,6 @@
+KCAT	Homo sapiens	0.018	[histone H3]-N6-myristoyl-L-lysine9	*at pH 8.0 and 37&Acirc;&deg;C
+KCAT	Homo sapiens	0.275	[histone H3]-N6-acetyl-L-lysine9	*at pH 8.0 and 37&Acirc;&deg;C
+KM	Homo sapiens	0.00024	[histone H3]-N6-myristoyl-L-lysine9	*at pH 8.0 and 37&deg;C
+KM	Homo sapiens	0.019	[histone H3]-N6-acetyl-L-lysine9	*at pH 8.0 and 37&deg;C
+MW	Homo sapiens	37000	*	*x * 37000, SDS-PAGE
+MW	Rattus norvegicus	37000	*	*x * 37000, SDS-PAGE

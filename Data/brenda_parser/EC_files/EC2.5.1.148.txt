@@ -1,0 +1,2 @@
+KCAT	Botryococcus braunii	0.0205	(2E,6E)-farnesyl diphosphate	*pH and temperature not specified in the publication
+KM	Botryococcus braunii	0.13	(2E,6E)-farnesyl diphosphate	*pH and temperature not specified in the publication

@@ -1,0 +1,5 @@
+KM	Mycobacterium sp.	0.131	Uracil	*
+KM	Mycobacterium sp.	0.035	thymine	*
+PATH	*	uracil degradation II (oxidative)	*	*
+PATH	*	Pyrimidine metabolism	*	*
+SA	Klebsiella aerogenes	0.0115	*	*

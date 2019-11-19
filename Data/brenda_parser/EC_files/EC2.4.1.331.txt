@@ -1,0 +1,4 @@
+PATH	*	elloramycin biosynthesis	*	*
+PATH	*	elloramycin biosynthesis	*	*
+PATH	*	Biosynthesis of type II polyketide products	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

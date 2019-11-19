@@ -1,0 +1,5 @@
+PATH	*	5,6-dimethylbenzimidazole biosynthesis I (aerobic)	*	*
+PATH	*	bacterial bioluminescence	*	*
+PATH	*	vitamin B12 metabolism	*	*
+PATH	*	Riboflavin metabolism	*	*
+PATH	*	Metabolic pathways	*	*

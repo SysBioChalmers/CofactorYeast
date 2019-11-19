@@ -1,0 +1,4 @@
+KM	Arthrobacter sp.	0.0173	o-coumarate	*
+PATH	*	Phenylalanine metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Arthrobacter sp.	0.56	*	*

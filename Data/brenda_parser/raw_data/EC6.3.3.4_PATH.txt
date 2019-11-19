@@ -1,0 +1,1 @@
+ecNumber*6.3.3.4#pathway*clavulanate biosynthesis#link*PWY-5679#source_database*MetaCyc#!ecNumber*6.3.3.4#pathway*Clavulanic acid biosynthesis#link*00331#source_database*KEGG#!ecNumber*6.3.3.4#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

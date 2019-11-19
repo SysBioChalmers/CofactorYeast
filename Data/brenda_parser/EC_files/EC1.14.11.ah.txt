@@ -1,0 +1,2 @@
+PATH	*	coumarins biosynthesis (engineered)	*	*
+PATH	*	scopoletin biosynthesis	*	*

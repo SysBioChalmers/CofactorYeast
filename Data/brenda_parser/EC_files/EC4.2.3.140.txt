@@ -1,0 +1,3 @@
+PATH	*	cis-abienol biosynthesis	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

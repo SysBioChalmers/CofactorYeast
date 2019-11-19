@@ -1,0 +1,57 @@
+KCAT	Aspergillus melleus	28.3	Acetyl-Ala methyl ester	*Aspergillus melleus
+KCAT	Aspergillus sojae	28.9	Acetyl-Ala methyl ester	*Aspergillus sojae
+KCAT	Aspergillus oryzae	41	benzoylarginine ethyl ester	*Aspergillus oryzae
+KCAT	Aspergillus oryzae	43	acetyltyrosine ethyl ester	*Aspergillus oryzae
+KCAT	Aspergillus sojae	1150	acetyl-(Ala)2 methyl ester	*Aspergillus sojae
+KCAT	Aspergillus melleus	1540	acetyl-(Ala)3 methyl ester	*Aspergillus melleus
+KCAT	Aspergillus melleus	1970	acetyl-(Ala)4 methyl ester	*Aspergillus melleus
+KCAT	Aspergillus melleus	2000	acetyl-(Ala)2 methyl ester	*Aspergillus melleus
+KCAT	Aspergillus sojae	2090	acetyl-(Ala)4 methyl ester	*Aspergillus sojae
+KCAT	Aspergillus oryzae	2850	acetyl-(Ala)3 methyl ester	*Aspergillus oryzae
+KCAT	Aspergillus sojae	3720	acetyl-(Ala)3 methyl ester	*Aspergillus sojae
+KM	Aspergillus melleus	6.7	acetyl-(Ala)3 methyl ester	*Aspergillus melleus
+KM	Aspergillus sojae	6.7	acetyl-(Ala)3 methyl ester	*acetyl-(Ala)2-Phe methyl ester, Aspergillus sojae
+KM	Aspergillus oryzae	20.8	acetyl-(Ala)3 methyl ester	*Aspergillus oryzae
+KM	Aspergillus sojae	32.1	acetyl-(Ala)3 methyl ester	*Aspergillus sojae
+KM	Aspergillus melleus	4.7	acetyl-(Ala)4 methyl ester	*Aspergillus melleus
+KM	Aspergillus sojae	7	acetyl-(Ala)4 methyl ester	*Aspergillus sojae
+KM	Aspergillus melleus	194	acetyl-(Ala)4 methyl ester	*Aspergillus melleus
+KM	Aspergillus sojae	44.5	acetyl-(Ala)2 methyl ester	*Aspergillus sojae
+KM	Aspergillus melleus	68.5	acetyl-(Ala)2 methyl ester	*Aspergillus melleus
+KM	Aspergillus sojae	96.8	Acetyl-Ala methyl ester	*Aspergillus sojae
+KM	Aspergillus oryzae	7.1	benzoyl-arginine ethyl ester	*Aspergillus oryzae
+KM	Aspergillus sojae	13.5	Acetyl-Ala-Phe methyl ester	*Aspergillus sojae
+KM	Aspergillus sojae	23	Acetyl-Phe methyl ester	*Aspergillus sojae
+KM	Aspergillus oryzae	12.8	acetyl-tyrosine ethyl ester	*Aspergillus oryzae
+KM	Aspergillus melleus	-999	more	*
+KM	Aspergillus sojae	-999	more	*
+KM	Aspergillus oryzae	-999	more	*
+KM	Aspergillus oryzae	-999	more	*
+KM	Aspergillus oryzae	-999	more	*Km for the immobilized enzyme is 1.5fold higher than for the free enzyme
+MW	Aspergillus fumigatus	15500	*	*x * 15500, AP15, SDS-PAGE and mass spectrometry, x * 30000, AP30, SDS-PAGE and mass spectrometry
+MW	Aspergillus flavus	18000	*	*Aspergillus flavus
+MW	Aspergillus flavus	22000	*	*Aspergillus flavus, gel filtration
+MW	Aspergillus candidus	22000	*	*Aspergillus candidus, calculation from amino acid composition
+MW	Aspergillus candidus	23000	*	*Aspergillus candidus, gel filtration
+MW	Aspergillus oryzae	23000	*	*Aspergillus oryzae, gel filtration
+MW	Aspergillus flavus	23620	*	*Aspergillus flavus, ultracentrifugal measurements
+MW	Aspergillus oryzae	25000	*	*Aspergillus oryzae, gel filtration
+MW	Aspergillus sojae	25500	*	*Aspergillus sojae
+MW	Aspergillus fumigatus	30000	*	*x * 15500, AP15, SDS-PAGE and mass spectrometry, x * 30000, AP30, SDS-PAGE and mass spectrometry
+MW	Aspergillus oryzae	33000	*	*gel filtration
+MW	Aspergillus oryzae	34000	*	*x * 34000, recombinant enzyme, SDS-PAGE
+MW	Aspergillus oryzae	35000	*	*Aspergillus oryzae, gel filtration
+MW	Aspergillus nidulans	35000	*	*x * 35000, SDS-PAGE
+SA	Aspergillus flavus	-999	*	*
+SA	Aspergillus oryzae	-999	*	*
+SA	Aspergillus candidus	-999	*	*
+SA	Aspergillus flavus	-999	*	*
+SA	Aspergillus oryzae	-999	*	*
+SA	Aspergillus oryzae	-999	*	*
+SA	Aspergillus clavatus	-999	*	*
+SA	Aspergillus oryzae	-999	*	*
+SA	Aspergillus oryzae	-999	*	*584000 U/g, one unit is the amount of enzyme that produces TCA mixture-soluble materials equivalent to 1 microgram of tyrosine from casein per min at pH 9.0 and 45&Acirc;&deg;C
+SA	Aspergillus oryzae	25.7	*	*crude extract
+SA	Aspergillus oryzae	40.94	*	*culture supernatant
+SA	Aspergillus oryzae	92.73	*	*purified recombinant enzyme
+SA	Aspergillus oryzae	750	*	*30fold purified enzyme

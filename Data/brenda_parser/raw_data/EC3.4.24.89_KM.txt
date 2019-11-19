@@ -1,0 +1,1 @@
+ecNumber*3.4.24.89#kmValue*0.077#kmValueMaximum*#substrate*Dabcyl-Lys-EVNPPPPD-EdansGlu#commentary*pH 7.4, 3&Acirc;&deg;C#organism*Clostridioides difficile#ligandStructureId*194864#literature*728302#

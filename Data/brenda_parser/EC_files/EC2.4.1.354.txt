@@ -1,0 +1,2 @@
+PATH	*	prunasin and amygdalin biosynthesis	*	*
+PATH	*	Cyanoamino acid metabolism	*	*

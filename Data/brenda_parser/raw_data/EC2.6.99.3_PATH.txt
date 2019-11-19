@@ -1,0 +1,1 @@
+ecNumber*2.6.99.3#pathway*D-cycloserine biosynthesis#link*PWY-7274#source_database*MetaCyc#!ecNumber*2.6.99.3#pathway*D-cycloserine biosynthesis#link*BRENDA#source_database*BRENDA#!ecNumber*2.6.99.3#pathway*Biosynthesis of secondary metabolites - unclassified#link*00999#source_database*KEGG#!ecNumber*2.6.99.3#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

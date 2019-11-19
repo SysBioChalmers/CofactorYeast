@@ -1,0 +1,1 @@
+ecNumber*3.4.17.21#turnoverNumber*1#turnoverNumberMaximum*#substrate*N-acetyl-L-aspartyl-L-glutamate#commentary*#organism*Homo sapiens#ligandStructureId*19040#literature*696330#!ecNumber*3.4.17.21#turnoverNumber*4#turnoverNumberMaximum*#substrate*N-acetyl-Asp-Glu#commentary*pH 7.4, 37&Acirc;&deg;C#organism*Homo sapiens#ligandStructureId*34722#literature*654179#

@@ -1,0 +1,5 @@
+PATH	*	indole-3-acetate biosynthesis I	*	*
+PATH	*	indolmycin biosynthesis	*	*
+PATH	*	tryptophan metabolism	*	*
+PATH	*	Tryptophan metabolism	*	*
+PATH	*	Metabolic pathways	*	*

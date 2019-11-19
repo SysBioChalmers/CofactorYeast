@@ -1,0 +1,1 @@
+ecNumber*3.4.11.26#molecularWeight*55000#molecularWeightMaximum*#commentary*#organism*Saccharomyces cerevisiae#literature*708076#

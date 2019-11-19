@@ -1,0 +1,1 @@
+ecNumber*3.4.13.4#pathway*beta-Alanine metabolism#link*00410#source_database*KEGG#

@@ -1,0 +1,2 @@
+PATH	*	coumarins biosynthesis (engineered)	*	*
+PATH	*	umbelliferone biosynthesis	*	*

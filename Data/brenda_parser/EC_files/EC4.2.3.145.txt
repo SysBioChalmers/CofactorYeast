@@ -1,0 +1,2 @@
+PATH	*	ophiobolin F biosynthesis	*	*
+PATH	*	isoprenoid biosynthesis	*	*

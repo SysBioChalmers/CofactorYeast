@@ -1,0 +1,7 @@
+MW	Staphylococcus aureus	38000	*	*2 * 38000, calculated
+MW	Staphylococcus aureus	71000	*	*and 81000, dynamic and multi-angle light scattering
+MW	Staphylococcus aureus	81000	*	*and 71000, dynamic and multi-angle light scattering
+PATH	*	dapdiamides biosynthesis	*	*
+PATH	*	staphyloferrin B biosynthesis	*	*
+PATH	*	zwittermicin A biosynthesis	*	*
+PATH	*	dapdiamides biosynthesis	*	*

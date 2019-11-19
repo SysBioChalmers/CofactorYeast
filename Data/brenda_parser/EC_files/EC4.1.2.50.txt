@@ -1,0 +1,4 @@
+PATH	*	preQ0 biosynthesis	*	*
+PATH	*	tetrahydrofolate metabolism	*	*
+PATH	*	Folate biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

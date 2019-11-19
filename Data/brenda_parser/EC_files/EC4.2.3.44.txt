@@ -1,0 +1,3 @@
+PATH	*	isopimaric acid biosynthesis	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

@@ -1,0 +1,16 @@
+KM	Clostridium kluyveri	4.3	NADPH	*pH 7.0, 30&Acirc;&deg;C
+KM	Clostridium kluyveri	4	NADP+	*pH 8.5, 30&Acirc;&deg;C
+KM	Clostridium kluyveri	3.2	succinyl-CoA	*pH 7.0, 30&Acirc;&deg;C
+KM	Clostridium kluyveri	2.9	coenzyme A	*pH 8.5, 30&Acirc;&deg;C
+KM	Clostridium kluyveri	2.7	Succinate-semialdehyde	*pH 8.5, 30&Acirc;&deg;C
+MW	Clostridium kluyveri	55000	*	*2 * 55000, SDS-PAGE
+MW	Clostridium kluyveri	115000	*	*sucrose gradient centrifugation
+PATH	*	3-hydroxypropanoate/4-hydroxybutanate cycle	*	*
+PATH	*	crotonyl-CoA/ethylmalonyl-CoA/hydroxybutyryl-CoA cycle (engineered)	*	*
+PATH	*	succinate fermentation to butanoate	*	*
+PATH	*	CO2 fixation in Crenarchaeota	*	*
+PATH	*	Butanoate metabolism	*	*
+PATH	*	Carbon fixation pathways in prokaryotes	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*
+SA	Clostridium kluyveri	41.4	*	*pH 7.0, 30&deg;C

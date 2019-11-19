@@ -1,0 +1,3 @@
+PATH	*	methanofuran biosynthesis	*	*
+PATH	*	methanofuran biosynthesis	*	*
+PATH	*	Methane metabolism	*	*

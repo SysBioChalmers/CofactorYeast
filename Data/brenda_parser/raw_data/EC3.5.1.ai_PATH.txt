@@ -1,0 +1,1 @@
+ecNumber*3.5.1.ai#pathway*L-arginine biosynthesis IV (archaebacteria)#link*PWY-7400#source_database*MetaCyc#!ecNumber*3.5.1.ai#pathway*L-lysine biosynthesis V#link*PWY-3081#source_database*MetaCyc#

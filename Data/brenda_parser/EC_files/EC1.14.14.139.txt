@@ -1,0 +1,2 @@
+PATH	*	Primary bile acid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

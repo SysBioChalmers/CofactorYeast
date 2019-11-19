@@ -1,0 +1,13 @@
+KCAT	Rhodococcus erythropolis	0.002	styrene-7,8-oxide	*pH 7.4, mutant N55A
+KCAT	Rhodococcus erythropolis	0.176	styrene-7,8-oxide	*pH 7.4, mutant Y53F
+KCAT	Rhodococcus erythropolis	0.47	styrene-7,8-oxide	*pH 7.4, wild-type
+KM	Rhodococcus erythropolis	1.4	styrene-7,8-oxide	*pH 7.4, mutant N55A; pH 7.4, wild-type
+KM	Rhodococcus erythropolis	3.7	styrene-7,8-oxide	*pH 7.4, mutant Y53F
+MW	Rhodococcus erythropolis	15000	*	*gel filtration
+MW	Rhodococcus erythropolis	16520	*	*deduced from amino acid sequence
+MW	Rhodococcus erythropolis	17000	*	*SDS-PAGE
+PATH	*	limonene degradation I (D-limonene)	*	*
+PATH	*	limonene degradation II (L-limonene)	*	*
+PATH	*	Limonene and pinene degradation	*	*
+SA	Rhodococcus erythropolis	85.1	*	*with (1R,2S,4R)-limonene-1,2-epoxide as substrate
+SA	Rhodococcus erythropolis	85.1	*	*

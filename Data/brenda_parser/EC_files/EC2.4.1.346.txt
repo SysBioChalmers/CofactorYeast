@@ -1,0 +1,4 @@
+MW	Mycobacterium tuberculosis	41200	*	*x * 41200, calculated
+PATH	*	phosphatidylinositol mannoside biosynthesis	*	*
+PATH	*	Lipoarabinomannan (LAM) biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*

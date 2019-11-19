@@ -1,0 +1,1 @@
+ecNumber*3.2.1.93#kmValue*1.8#kmValueMaximum*#substrate*alpha,alpha-trehalose 6-phosphate#commentary*#organism*#ligandStructureId*4222#literature*137013#

@@ -1,0 +1,1 @@
+ecNumber*3.4.21.96#specificActivity*-999#specificActivityMaximum*#commentary*the CEP activity levels are controlled by the peptide content of the growth medium. The maximum activity is observed in a basal minimal defined medium#organism*Lactobacillus delbrueckii#literature*695740#

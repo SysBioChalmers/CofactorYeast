@@ -1,0 +1,6 @@
+MW	Kitasatospora aureofaciens	57500	*	*2 * 57500, SDS-PAGE
+MW	Kitasatospora aureofaciens	115000	*	*gel filtration
+PATH	*	tetracycline and oxytetracycline biosynthesis	*	*
+PATH	*	Tetracycline biosynthesis	*	*
+PATH	*	Biosynthesis of type II polyketide products	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

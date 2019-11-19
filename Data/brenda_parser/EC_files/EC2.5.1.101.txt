@@ -1,0 +1,3 @@
+PATH	*	CMP-legionaminate biosynthesis I	*	*
+PATH	*	CMP-legionaminate biosynthesis II	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*

@@ -1,0 +1,9 @@
+KM	Pseudomonas aeruginosa	1.4	Choline sulfate	*
+KM	Penicillium chrysogenum	8.5	Choline sulfate	*
+KM	Aspergillus nidulans	35	Choline sulfate	*
+KM	Pseudomonas nitroreducens	40	Choline sulfate	*
+MW	Pseudomonas aeruginosa	175000	*	*gel filtration
+MW	Penicillium chrysogenum	345000	*	*gel filtration
+PATH	*	choline-O-sulfate degradation	*	*
+SA	Pseudomonas nitroreducens	0.0714	*	*
+SA	Pseudomonas aeruginosa	0.262	*	*

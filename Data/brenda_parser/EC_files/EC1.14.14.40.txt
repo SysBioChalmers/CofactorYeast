@@ -1,0 +1,5 @@
+KM	Arabidopsis thaliana	0.0067	L-phenylalanine	*pH 7.5, 26&deg;C
+MW	Arabidopsis thaliana	60000	*	*x * 60000, SDS-PAGE
+PATH	*	Cyanoamino acid metabolism	*	*
+PATH	*	Glucosinolate biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

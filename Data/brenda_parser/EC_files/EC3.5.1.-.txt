@@ -1,0 +1,2 @@
+PATH	*	lysine metabolism	*	*
+PATH	*	purine metabolism	*	*

@@ -1,0 +1,5 @@
+KM	Salmonella enterica subsp. enterica serovar Enteritidis	0.052	CDP-3,6-dideoxy-D-mannose	*
+KM	Salmonella enterica subsp. enterica serovar Enteritidis	0.085	CDP-3,6-dideoxy-D-glucose	*
+PATH	*	CDP-tyvelose biosynthesis	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+SA	Salmonella enterica subsp. enterica serovar Enteritidis	0.025	*	*

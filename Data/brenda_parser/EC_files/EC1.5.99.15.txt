@@ -1,0 +1,4 @@
+MW	Methanosarcina mazei	29000	*	*2 * 29000, SDS-PAGE
+PATH	*	tetrahydromethanopterin biosynthesis	*	*
+PATH	*	methanogenesis from CO2	*	*
+PATH	*	Folate biosynthesis	*	*

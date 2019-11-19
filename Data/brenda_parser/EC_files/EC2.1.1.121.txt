@@ -1,0 +1,5 @@
+KM	Argemone platyceras	0.05	S-adenosyl-L-methionine	*
+KM	Argemone platyceras	0.4	6-O-methylnorlaudanosoline	*
+PATH	*	papaverine biosynthesis	*	*
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+SA	Argemone platyceras	-999	*	*

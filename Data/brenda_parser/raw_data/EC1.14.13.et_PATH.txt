@@ -1,0 +1,1 @@
+ecNumber*1.14.13.et#pathway*toluene degradation to 2-hydroxypentadienoate I (via o-cresol)#link*TOLUENE-DEG-2-OH-PWY#source_database*MetaCyc#

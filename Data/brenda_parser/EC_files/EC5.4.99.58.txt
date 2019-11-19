@@ -1,0 +1,3 @@
+PATH	*	L-pyrrolysine biosynthesis	*	*
+PATH	*	Lysine biosynthesis	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

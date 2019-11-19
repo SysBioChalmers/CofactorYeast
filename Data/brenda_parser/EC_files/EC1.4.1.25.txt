@@ -1,0 +1,2 @@
+PATH	*	D-arginine degradation	*	*
+PATH	*	D-Arginine and D-ornithine metabolism	*	*

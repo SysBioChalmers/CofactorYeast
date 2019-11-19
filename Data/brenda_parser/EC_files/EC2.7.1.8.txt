@@ -1,0 +1,8 @@
+KM	Vibrio cholerae	1.96	ATP	*pH 7.0, 25&Acirc;&deg;C
+KM	Vibrio cholerae	0.48	D-glucosamine	*pH 7.0, 25&Acirc;&deg;C
+MW	Vibrio cholerae	30000	*	*x * 30000, SDS-PAGE
+MW	Vibrio cholerae	31600	*	*x * 31600, calculation from nucleotide sequence
+PATH	*	chitin derivatives degradation	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Vibrio cholerae	92.5	*	*

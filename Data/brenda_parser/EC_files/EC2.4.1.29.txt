@@ -1,0 +1,2 @@
+PATH	*	Starch and sucrose metabolism	*	*
+PATH	*	Metabolic pathways	*	*

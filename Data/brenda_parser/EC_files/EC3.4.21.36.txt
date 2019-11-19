@@ -1,0 +1,42 @@
+KCAT	Rattus norvegicus	-999	more	*
+KCAT	Homo sapiens	-999	more	*
+KCAT	Sus scrofa	-999	more	*
+KCAT	Rattus norvegicus	0.12	succinyl-Ala-Ala-Pro-Met-p-nitroanilide	*
+KCAT	Rattus norvegicus	1.59	succinyl-Ala-Ala-Ala-p-nitroanilide	*
+KCAT	Rattus norvegicus	4.88	succinyl-Ala-Ala-Pro-Ala-p-nitroanilide	*
+KM	Ovis aries	0.68	succinyl-Ala-Ala-Ala-p-nitroanilide	*
+KM	Salmo salar	1.47	succinyl-Ala-Ala-Ala-p-nitroanilide	*
+KM	Rattus norvegicus	1.21	succinyl-Ala-Ala-Pro-Phe-p-nitroanilide	*
+KM	Salmo salar	1.34	succinyl-Ala-Ala-Pro-Leu-p-nitroanilide	*
+KM	Salmo salar	0.83	succinyl-Ala-Ala-Pro-Ala-p-nitroanilide	*
+KM	Rattus norvegicus	1.42	succinyl-Ala-Ala-Pro-Met-p-nitroanilide	*
+KM	Salmo salar	0.15	succinyl-Ala-Ala-Pro-Ile-p-nitroanilide	*
+KM	Rattus norvegicus	0.91	succinyl-Ala-Ala-Pro-Ile-p-nitroanilide	*
+KM	Sus scrofa	2.09	succinyl-L-Ala-L-Ala-L-Ala-4-nitroanilide	*in 0.1 M phosphate buffer, pH 7.0 and 37&Acirc;&deg;C
+KM	Homo sapiens	0.513	tert-butyloxycarbonyl-Ala-p-nitrophenylester	*
+KM	Salmo salar	0.82	succinyl-Ala-Ala-Pro-Val-p-nitroanilide	*
+KM	Rattus norvegicus	-999	more	*
+KM	Homo sapiens	-999	more	*
+KM	Sus scrofa	-999	more	*
+KM	Salmo salar	-999	more	*
+MW	Sus scrofa	21900	*	*gel filtration
+MW	Ovis aries	25000	*	*gel filtration
+MW	Sus scrofa	25900	*	*SDS-PAGE
+MW	Mus musculus	25900	*	*active form, ultracentrifugation
+MW	Homo sapiens	26300	*	*x * 26300, SDS-PAGE
+MW	Rattus norvegicus	26500	*	*x * 26500, SDS-PAGE
+MW	Salmo salar	27000	*	*x * 27000, SDS-PAGE
+MW	Gadus morhua	28000	*	*x * 28000, SDS-PAGE
+MW	Rattus norvegicus	29000	*	*gel filtration
+MW	Homo sapiens	30000	*	*gel filtration
+MW	Homo sapiens	30790	*	*amino acid analysis
+SA	Homo sapiens	-999	*	*
+SA	Rattus norvegicus	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Homo sapiens	-999	*	*
+SA	Sus scrofa	-999	*	*
+SA	Salmo salar	1.31	*	*
+SA	Gadus morhua	7	*	*
+SA	Ovis aries	7.21	*	*
+SA	Scyliorhinus canicula	23	*	*EII
+SA	Scyliorhinus canicula	29	*	*EI

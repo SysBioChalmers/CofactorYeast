@@ -1,0 +1,4 @@
+KM	Penicillium chrysogenum	3.95	phenylacetyl-CoA	*
+MW	Penicillium chrysogenum	25000	*	*gel filtration
+PATH	*	phenylacetate degradation II (anaerobic)	*	*
+PATH	*	Phenylalanine metabolism	*	*

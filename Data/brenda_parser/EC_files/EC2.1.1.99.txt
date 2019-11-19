@@ -1,0 +1,5 @@
+MW	Catharanthus roseus	60000	*	*gel chromatography
+PATH	*	vindoline, vindorosine and vinblastine biosynthesis	*	*
+PATH	*	Indole alkaloid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Catharanthus roseus	-999	*	*

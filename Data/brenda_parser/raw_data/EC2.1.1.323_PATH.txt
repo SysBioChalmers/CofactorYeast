@@ -1,0 +1,1 @@
+ecNumber*2.1.1.323#pathway*yatein biosynthesis I#link*PWY-7748#source_database*MetaCyc#!ecNumber*2.1.1.323#pathway*Biosynthesis of secondary metabolites - unclassified#link*00999#source_database*KEGG#!ecNumber*2.1.1.323#pathway*Biosynthesis of secondary metabolites#link*01110#source_database*KEGG#

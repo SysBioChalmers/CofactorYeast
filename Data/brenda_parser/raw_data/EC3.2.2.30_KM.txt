@@ -1,0 +1,1 @@
+ecNumber*3.2.2.30#kmValue*0.001#kmValueMaximum*#substrate*6-amino-6-deoxyfutalosine#commentary*pH 7, 25&Acirc;&deg;C#organism*Campylobacter jejuni#ligandStructureId*6387#literature*715607#

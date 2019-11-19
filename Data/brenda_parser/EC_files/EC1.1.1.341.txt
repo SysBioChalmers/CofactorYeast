@@ -1,0 +1,4 @@
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	33000	*	*x * 33000, SDS-PAGE, x * 34106, calculated
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	34106	*	*x * 33000, SDS-PAGE, x * 34106, calculated
+PATH	*	CDP-abequose biosynthesis	*	*
+PATH	*	Amino sugar and nucleotide sugar metabolism	*	*

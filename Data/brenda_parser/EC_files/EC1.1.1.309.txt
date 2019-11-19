@@ -1,0 +1,9 @@
+KCAT	Streptomyces viridochromogenes	0.41	phosphonoacetaldehyde	*in 50 mM HEPES, 200 mM NaCl, pH 7.5, temperature not specified in the publication
+KM	Streptomyces viridochromogenes	0.0193	NADH	*in 50 mM HEPES, 200 mM NaCl, pH 7.5, temperature not specified in the publication
+KM	Streptomyces viridochromogenes	0.185	phosphonoacetaldehyde	*in 50 mM HEPES, 200 mM NaCl, pH 7.5, temperature not specified in the publication
+PATH	*	dehydrophos biosynthesis	*	*
+PATH	*	fosfomycin biosynthesis	*	*
+PATH	*	phosalacine biosynthesis	*	*
+PATH	*	phosphinothricin tripeptide biosynthesis	*	*
+PATH	*	Phosphonate and phosphinate metabolism	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

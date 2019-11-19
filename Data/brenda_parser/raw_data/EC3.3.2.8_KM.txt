@@ -1,0 +1,1 @@
+ecNumber*3.3.2.8#kmValue*1.4#kmValueMaximum*#substrate*styrene-7,8-oxide#commentary*pH 7.4, mutant N55A; pH 7.4, wild-type#organism*Rhodococcus erythropolis#ligandStructureId*9273#literature*655334#!ecNumber*3.3.2.8#kmValue*3.7#kmValueMaximum*#substrate*styrene-7,8-oxide#commentary*pH 7.4, mutant Y53F#organism*Rhodococcus erythropolis#ligandStructureId*9273#literature*655334#

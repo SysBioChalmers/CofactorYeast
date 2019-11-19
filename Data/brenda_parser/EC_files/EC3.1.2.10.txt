@@ -1,0 +1,9 @@
+KM	Clostridium kluyveri	0.045	formyl-CoA	*
+KM	Clostridium kluyveri	0.08	Formylpantetheine	*
+PATH	*	fatty acid alpha-oxidation II	*	*
+PATH	*	fatty acid alpha-oxidation III	*	*
+PATH	*	oxalate degradation III	*	*
+PATH	*	oxalate degradation VI	*	*
+PATH	*	Glyoxylate and dicarboxylate metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Clostridium kluyveri	90	*	*

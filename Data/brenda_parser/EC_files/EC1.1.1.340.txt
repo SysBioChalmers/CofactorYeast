@@ -1,0 +1,8 @@
+KCAT	Streptomyces avermitilis	0.65	1-deoxy-11beta-hydroxypentalenic acid	*pH 8.0, 22&deg;C
+KM	Streptomyces avermitilis	0.025	NAD+	*pH 8.0, 22&Acirc;&deg;C
+KM	Streptomyces avermitilis	0.0065	1-deoxy-11beta-hydroxypentalenic acid	*pH 8.0, 22&Acirc;&deg;C
+MW	Streptomyces avermitilis	30183	*	*x * 30183, MALDI-TOF, recombinant protein including His-tag
+PATH	*	neopentalenoketolactone and pentalenate biosynthesis	*	*
+PATH	*	pentalenolactone biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites - unclassified	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

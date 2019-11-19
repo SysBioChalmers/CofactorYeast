@@ -1,0 +1,5 @@
+PATH	*	lutein biosynthesis	*	*
+PATH	*	carotenoid biosynthesis	*	*
+PATH	*	Carotenoid biosynthesis	*	*
+PATH	*	Metabolic pathways	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

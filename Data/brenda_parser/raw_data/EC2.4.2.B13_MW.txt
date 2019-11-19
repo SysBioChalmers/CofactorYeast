@@ -1,0 +1,1 @@
+ecNumber*2.4.2.B13#molecularWeight*43000#molecularWeightMaximum*#commentary*x * 43000, SDS-PAGE#organism*Clostridioides difficile#literature*727615#

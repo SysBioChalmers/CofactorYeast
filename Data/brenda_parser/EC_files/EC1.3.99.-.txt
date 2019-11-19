@@ -1,0 +1,2 @@
+PATH	*	adipate degradation	*	*
+PATH	*	carnitine metabolism	*	*

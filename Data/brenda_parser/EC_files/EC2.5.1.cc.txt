@@ -1,0 +1,2 @@
+PATH	*	bacterioruberin biosynthesis	*	*
+PATH	*	C.p.450 monoglucoside biosynthesis	*	*

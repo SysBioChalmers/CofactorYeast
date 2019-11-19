@@ -1,0 +1,7 @@
+MW	Streptomyces griseus	42000	*	*SDS-PAGE
+MW	Streptomyces griseus	68900	*	*sedimentation analysis
+MW	Streptomyces griseus	80300	*	*calculated molecular mass
+PATH	*	streptomycin biosynthesis	*	*
+PATH	*	Streptomycin biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*
+SA	Streptomyces bikiniensis	0.17	*	*

@@ -1,0 +1,1 @@
+ecNumber*1.14.19.bi#pathway*isoflavonoid biosynthesis II#link*PWY-2083#source_database*MetaCyc#!ecNumber*1.14.19.bi#pathway*luteolin biosynthesis#link*PWY-5060#source_database*MetaCyc#!ecNumber*1.14.19.bi#pathway*salvigenin biosynthesis#link*PWY-7325#source_database*MetaCyc#!ecNumber*1.14.19.bi#pathway*tricin biosynthesis#link*PWY-7995#source_database*MetaCyc#

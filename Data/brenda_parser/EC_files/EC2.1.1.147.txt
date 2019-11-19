@@ -1,0 +1,7 @@
+KM	Corydalis cava	0.016	NADPH	*
+KM	Corydalis cava	0.0027	S-adenosyl-L-methionine	*
+KM	Corydalis cava	0.005	Berberine	*
+MW	Corydalis cava	56000	*	*gel filtration
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
+SA	Corydalis cava	-999	*	*

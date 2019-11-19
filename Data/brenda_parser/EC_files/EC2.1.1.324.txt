@@ -1,0 +1,5 @@
+MW	Saccharopolyspora spinosa	28000	*	*2 * 28000, SDS-PAGE
+MW	Saccharopolyspora spinosa	28730	*	*2 * 28730, calculated from amino acid sequence
+MW	Saccharopolyspora spinosa	61200	*	*gel filtration
+PATH	*	Polyketide sugar unit biosynthesis	*	*
+PATH	*	Biosynthesis of antibiotics	*	*

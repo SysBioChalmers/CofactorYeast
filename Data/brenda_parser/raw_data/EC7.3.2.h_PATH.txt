@@ -1,0 +1,1 @@
+ecNumber*7.3.2.h#pathway*arsenate detoxification II (glutaredoxin)#link*PWY-4621#source_database*MetaCyc#

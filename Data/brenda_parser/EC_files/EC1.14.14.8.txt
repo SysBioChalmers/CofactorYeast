@@ -1,0 +1,4 @@
+PATH	*	anthranilate degradation IV (aerobic)	*	*
+PATH	*	tryptophan metabolism	*	*
+PATH	*	Tryptophan metabolism	*	*
+SA	Geobacillus thermodenitrificans	151.3	*	*substrate anthranilate, pH 9.0, 60&Acirc;&deg;C

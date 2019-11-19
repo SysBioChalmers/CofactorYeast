@@ -1,0 +1,1 @@
+ecNumber*3.4.99.B2#specificActivity*2370#specificActivityMaximum*#commentary*paenidase II#organism*Paenibacillus sp.#literature*698647#!ecNumber*3.4.99.B2#specificActivity*2880#specificActivityMaximum*#commentary*paenidase I#organism*Paenibacillus sp.#literature*698647#

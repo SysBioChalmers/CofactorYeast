@@ -1,0 +1,3 @@
+PATH	*	phthalate degradation (aerobic)	*	*
+PATH	*	Polycyclic aromatic hydrocarbon degradation	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

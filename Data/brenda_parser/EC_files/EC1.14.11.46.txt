@@ -1,0 +1,2 @@
+PATH	*	2-aminoethylphosphonate degradation III	*	*
+PATH	*	Phosphonate and phosphinate metabolism	*	*

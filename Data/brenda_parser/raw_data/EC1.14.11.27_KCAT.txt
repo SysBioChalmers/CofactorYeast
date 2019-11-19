@@ -1,0 +1,1 @@
+ecNumber*1.14.11.27#turnoverNumber*0.00022#turnoverNumberMaximum*#substrate*trimethyl-histone 3 L-lysine 36#commentary*pH 7.3, 37&Acirc;&deg;C#organism*Homo sapiens#ligandStructureId*#literature*689144#

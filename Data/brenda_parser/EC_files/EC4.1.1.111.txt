@@ -1,0 +1,12 @@
+KM	Desulfovibrio desulfuricans	0.01174	siroheme	*pH and temperature not specified in the publication
+MW	Desulfovibrio desulfuricans	39000	*	*calculated from amino acid sequence
+MW	Desulfovibrio desulfuricans	40000	*	*gel filtration
+MW	Desulfovibrio vulgaris	40000	*	*gel filtration
+MW	Methanosarcina barkeri	40000	*	*gel filtration
+MW	Desulfovibrio desulfuricans	44000	*	*heterodimeric complex of subunits AhbA and AhbB, gel filtration
+MW	Desulfovibrio desulfuricans	94000	*	*heterotetrameric complex of subunits AhbA and AhbB, gel filtration
+PATH	*	heme b biosynthesis III (from siroheme)	*	*
+PATH	*	heme d1 biosynthesis	*	*
+PATH	*	heme metabolism	*	*
+PATH	*	Porphyrin and chlorophyll metabolism	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

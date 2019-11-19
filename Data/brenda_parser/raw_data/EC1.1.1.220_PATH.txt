@@ -1,0 +1,1 @@
+ecNumber*1.1.1.220#pathway*erythro-tetrahydrobiopterin biosynthesis II#link*PWY-5664#source_database*MetaCyc#

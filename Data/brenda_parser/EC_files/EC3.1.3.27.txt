@@ -1,0 +1,32 @@
+KCAT	Escherichia coli	24	1,2-dioleoyl-sn-glycero-3-phosphate	*pH and temperature not specified in the publication
+KM	Rattus sp.	0.002	phosphatidylglycerophosphate	*
+KM	Saccharomyces cerevisiae	0.015	phosphatidylglycerophosphate	*
+KM	Escherichia coli	0.08	phosphatidylglycerophosphate	*
+KM	Escherichia coli	0.083	phosphatidylglycerophosphate	*
+KM	Bacillus licheniformis	0.18	phosphatidylglycerophosphate	*
+KM	Escherichia coli	0.3	1,2-dioleoyl-sn-glycero-3-phosphate	*pH and temperature not specified in the publication
+KM	Vigna radiata	0.012	dipalmitoyl sn-glycero 3-phosphate	*
+MW	Escherichia coli	29000	*	*x * 29000, SDS-PAGE
+PATH	*	cardiolipin biosynthesis I	*	*
+PATH	*	cardiolipin biosynthesis II	*	*
+PATH	*	cardiolipin biosynthesis III	*	*
+PATH	*	phosphatidylglycerol biosynthesis I (plastidic)	*	*
+PATH	*	phosphatidylglycerol biosynthesis II (non-plastidic)	*	*
+PATH	*	type I lipoteichoic acid biosynthesis (S. aureus)	*	*
+PATH	*	cardiolipin biosynthesis	*	*
+PATH	*	Glycerophospholipid metabolism	*	*
+PATH	*	Metabolic pathways	*	*
+SA	Vigna radiata	0.0004	*	*
+SA	Rattus sp.	0.0017	*	*partially purified
+SA	Escherichia coli	0.0018	*	*pgpB geneproduct
+SA	Escherichia coli	0.0021	*	*pgpA geneproduct
+SA	Bacillus licheniformis	0.0023	*	*partially purified
+SA	Escherichia coli	0.01	*	*PGP-C
+SA	Escherichia coli	0.014	*	*compound of PGP-A,-B and -C
+SA	Escherichia coli	0.028	*	*partially purified
+SA	Escherichia coli	0.13	*	*PGP-B and -C
+SA	Escherichia coli	0.19	*	*PGP-A and -C
+SA	Escherichia coli	5.2	*	*PGPC-tase
+SA	Escherichia coli	6	*	*PGPA-tase, more specific for phosphatidylglycerolphosphate than PGPB-tase
+SA	Escherichia coli	10.1	*	*PGPB-tase
+SA	Saccharomyces cerevisiae	35	*	*

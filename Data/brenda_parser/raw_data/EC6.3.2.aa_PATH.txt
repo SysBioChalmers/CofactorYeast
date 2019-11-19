@@ -1,0 +1,1 @@
+ecNumber*6.3.2.aa#pathway*UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)#link*PWY-7953#source_database*MetaCyc#

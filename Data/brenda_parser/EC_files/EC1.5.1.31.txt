@@ -1,0 +1,2 @@
+PATH	*	Isoquinoline alkaloid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*

@@ -1,0 +1,8 @@
+KM	Prunus dulcis	0.095	lacto-N-fucopentaitol III	*
+KM	Prunus dulcis	0.101	lacto-N-fucopentaitol II	*pH 5.0, 37&deg;C
+MW	Prunus dulcis	73000	*	*gel filtration
+MW	Bifidobacterium bifidum	160000	*	*2 * 160000, SDS-PAGE
+MW	Bifidobacterium bifidum	350000	*	*gel filtration
+SA	Prunus dulcis	-999	*	*
+SA	Prunus dulcis	0.00146	*	*
+SA	Prunus dulcis	0.0645	*	*

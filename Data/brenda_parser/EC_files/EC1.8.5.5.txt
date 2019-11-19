@@ -1,0 +1,6 @@
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	21300	*	*
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	28500	*	*
+MW	Salmonella enterica subsp. enterica serovar Typhimurium	82700	*	*
+PATH	*	thiosulfate disproportionation III (quinone)	*	*
+PATH	*	Sulfur metabolism	*	*
+PATH	*	Microbial metabolism in diverse environments	*	*

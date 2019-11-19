@@ -1,0 +1,1 @@
+ecNumber*4.6.1.1#pathway*purine metabolism#link*BRENDA#source_database*BRENDA#!ecNumber*4.6.1.1#pathway*Purine metabolism#link*00230#source_database*KEGG#

@@ -1,0 +1,16 @@
+KCAT	Solanum torvum	7.7	torvoside H	*pH 5.0, 37&deg;C
+KCAT	Solanum torvum	8.3	4-methylumbelliferyl beta-D-glucoside	*pH 5.0, 37&deg;C
+KCAT	Solanum torvum	8.6	torvoside A	*pH 5.0, 37&deg;C
+KCAT	Solanum torvum	9.1	4-nitrophenyl beta-D-glucoside	*pH 5.0, 37&deg;C
+KM	Solanum torvum	1.03	4-nitrophenyl beta-D-glucoside	*pH 5.0, 37&Acirc;&deg;C
+KM	Solanum torvum	0.78	4-methylumbelliferyl beta-D-glucoside	*pH 5.0, 37&Acirc;&deg;C
+KM	Solanum torvum	0.063	torvoside A	*pH 5.0, 37&Acirc;&deg;C
+KM	Solanum torvum	0.068	torvoside H	*pH 5.0, 37&Acirc;&deg;C
+KM	Cheilocostus speciosus	0.05	protogracillin	*pH 5.0, 40&Acirc;&deg;C
+MW	Cheilocostus speciosus	54000	*	*1 * 54000 + 1 * 58000, SDS-PAGE
+MW	Cheilocostus speciosus	58000	*	*1 * 54000 + 1 * 58000, SDS-PAGE
+MW	Avena sativa	60000	*	*x * 60000, the enzyme is highly aggregated. It consists of 300-350 kDa aggregates and multimers thereof
+MW	Solanum torvum	80700	*	*1 * 80700, SDS-PAGE
+MW	Solanum torvum	87000	*	*gel filtration
+MW	Cheilocostus speciosus	110000	*	*gel filtration
+SA	Cheilocostus speciosus	325	*	*pH 5.0, 40&Acirc;&deg;C

@@ -1,0 +1,8 @@
+KCAT	Acinetobacter calcoaceticus	84	perillyl alcohol	*mutant benzyl alcohol dehydrogenase
+KM	Pseudomonas sp.	0.077	NAD+	*at pH 8.6
+KM	Acinetobacter calcoaceticus	0.119	perillyl alcohol	*mutant benzyl alcohol dehydrogenase
+KM	Pseudomonas sp.	-999	more	*
+PATH	*	limonene degradation (anaerobic)	*	*
+PATH	*	limonene degradation III (to perillate)	*	*
+PATH	*	Limonene and pinene degradation	*	*
+SA	Pseudomonas sp.	13	*	*DEAE-eluate

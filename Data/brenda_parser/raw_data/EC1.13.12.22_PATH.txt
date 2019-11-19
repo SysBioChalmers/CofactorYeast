@@ -1,0 +1,1 @@
+ecNumber*1.13.12.22#pathway*Biosynthesis of type II polyketide products#link*01057#source_database*KEGG#!ecNumber*1.13.12.22#pathway*Biosynthesis of antibiotics#link*01130#source_database*KEGG#

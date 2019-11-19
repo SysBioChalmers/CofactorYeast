@@ -1,0 +1,4 @@
+PATH	*	oryzalexin D and E biosynthesis	*	*
+PATH	*	diterpene phytoalexins precursors biosynthesis	*	*
+PATH	*	Diterpenoid biosynthesis	*	*
+PATH	*	Biosynthesis of secondary metabolites	*	*
