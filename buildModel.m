@@ -13,6 +13,9 @@ load('Yeast8.mat');
 
 %% Modify the original model
 model_updated = org_model;
+% after updated the model, protein list in the file
+% "ProteinStoichiometry.xlsx" should also be updated, and
+% "process_protein_stoichiometry.m" should be re-run.
 clear org_model;
 
 %% Reformulate the orginal model
@@ -31,8 +34,19 @@ model = addTranslationRxns(model_split,ProteinSequence);
 %% Add cofactor binding reactions
 model = addCofactorRxns(model);
 
-%% Formulate S matrix for complex formation based on protein stoichiometry
+%% Add complex formation reactions based on protein stoichiometry
 % promiscuous = findPromiscuous(model_split);
+load('Determined_stoichiometry.mat');
+model = addComplexFormationRxns(model,Determined_stoichiometry);
+
+% manually update complex formation reactions for some complexes.
+
+%% Collect kcats for complexes
+
+
+
+
+
 
 
 
