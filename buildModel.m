@@ -40,14 +40,14 @@ load('Determined_stoichiometry.mat');
 model = addComplexFormationRxns(model,Determined_stoichiometry);
 
 % manually update complex formation reactions for some complexes.
+% model = updateComplexformation(model);
+
 
 %% Collect kcats for complexes
 
+enzymedata = collectkcats(model);
 
-
-
-
-
-
+% manually update kcats for some reactions.
+% enzymedata = updatekcats(enzymedata);
 
 
