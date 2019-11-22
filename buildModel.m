@@ -1,5 +1,7 @@
 %% buildModel
+% Timing: ~ 500 s
 
+tic;
 %% Import yeast 7.6
 
 % load('Yeast7.6.mat');
@@ -10,6 +12,7 @@
 % cd ../../;
 % save('Yeast8.mat','org_model');
 load('Yeast8.mat');
+tot_protein = 0.46; %g/gCDW, estimated from the original GEM.
 
 %% Modify the original model
 model_updated = org_model;
@@ -24,7 +27,6 @@ clear org_model;
 %   2. Reversible reactions will be split into forward and reverse ones.
 
 model_split = splitModel(model_updated);
-save('model_split.mat','model_split');
 clear model_updated;
 
 %% Add translation reactions
@@ -42,6 +44,30 @@ model = addComplexFormationRxns(model,Determined_stoichiometry);
 % manually update complex formation reactions for some complexes.
 % model = updateComplexformation(model);
 
+%% Add complex dilution reactions
+model = addComplexDilutionRxns(model);
+
+%% Add dummy complex reactions
+% Dummy complex is assumed to be a part of metabolic protein pool.
+% Note that the dummy complex is synthesized or diluted in the unit of
+% g/gCDW/h.
+
+model = addDummy(model,'r_4047','s_3717[c]'); 
+% r_4047 is pseudo_protein_rxn_id in the GEM
+% s_3717[c] is protein id
+
+
+%% Change protein in the biomass equation
+% Estimate modeled proteome
+f_modeled_protein = estimateModeledprotein(model);
+f_modeled_protein = round(f_modeled_protein,2); %g/gProtein
+
+% Change the coefficient of the protein in the biomass equation to
+% unmodeled fraction
+model = changeBiomass(model,f_modeled_protein,'r_4041','s_3717[c]');
+% r_4041 is pseudo_biomass_rxn_id in the GEM
+% s_3717[c] is protein id
+
 save('model.mat','model');
 
 %% Collect kcats for complexes
@@ -52,3 +78,4 @@ enzymedata = collectkcats(model);
 % enzymedata = updatekcats(enzymedata);
 
 save('enzymedata.mat','enzymedata');
+toc;
