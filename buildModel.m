@@ -12,7 +12,6 @@ tic;
 % cd ../../;
 % save('Yeast8.mat','org_model');
 load('Yeast8.mat');
-tot_protein = 0.46; %g/gCDW, estimated from the original GEM.
 
 %% Modify the original model
 model_updated = org_model;
@@ -68,14 +67,18 @@ model = changeBiomass(model,f_modeled_protein,'r_4041','s_3717[c]');
 % r_4041 is pseudo_biomass_rxn_id in the GEM
 % s_3717[c] is protein id
 
-save('model.mat','model');
+save('CofactorYeast.mat','model');
+writeCbModel(model,'xls','CofactorYeast.xls');
 
-%% Collect kcats for complexes
+%% Collect kcats for enzymes
 
 enzymedata = collectkcats(model);
 
 % manually update kcats for some reactions.
 % enzymedata = updatekcats(enzymedata);
+
+%% Calculate molecular weight for each enzyme
+enzymedata = calculateMW(enzymedata,ProteinSequence);
 
 save('enzymedata.mat','enzymedata');
 toc;

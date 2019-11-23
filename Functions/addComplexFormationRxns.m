@@ -1,4 +1,4 @@
-%% addTranslationRxns 
+%% addComplexFormationRxns 
 function model = addComplexFormationRxns(model,Determined_stoichiometry)
 
 % find reactions with GPR
