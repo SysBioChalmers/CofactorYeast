@@ -48,10 +48,10 @@ for i = 1:length(enzyme_list)
     enzyme = enzyme_list{i};
   	kcat = kcat_list(i);
     
-% % Change kcats extremely low
-% 	if kcat < quantile(kcat_list,0.1,1)
-%         kcat = quantile(kcat_list,0.1,1);
-% 	end
+% Change kcats extremely low
+	if kcat < quantile(kcat_list,0.1,1)
+        kcat = quantile(kcat_list,0.1,1);
+	end
     kcat = kcat*factor_k;
 
     %find enzyme formation reaction id

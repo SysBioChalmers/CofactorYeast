@@ -248,4 +248,7 @@ for i = 1:length(UnqRxnList)
                             'upperBound',ub_tmp,...
                             'geneRule',catalyst_tmp);
 end
+
+new_model = changeObjective(new_model,'r_2111');
+
 % new_model.subSystem = repelem({'Metabolism'},length(new_model.rxns))';

@@ -3,10 +3,15 @@
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
+tic;
+
 %% Set model
 
+model = changeRxnBounds(model,'r_1714',-1000,'l'); % 
 
-sol = optimizeCbModel(model);
+% block iso-reaction of PFK
+'r_0886_1_enzyme'
+'r_0887_1_enzyme'
 
 
 %% Set optimization
@@ -20,8 +25,20 @@ f_modeled_protein = extractModeledprotein(model,'r_4041','s_3717[c]'); %g/gProte
 f = tot_protein * f_modeled_protein;
 clear tot_protein f_modeled_protein;
 
-mu = 0.01;
+mu = 0.3;
+model = changeRxnBounds(model,'r_2111',mu,'b');
 fileName = writeLP(model,mu,f,osenseStr,rxnID,enzymedata,1);
 
+%% Solve LP
 command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 %s > %s.out %s',fileName,fileName);
 system(command,'-echo');
+[sol_obj,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model);
+
+% dummy complex
+if strcmp(sol_status,'optimal')
+    dummy = sol_full(strcmp(model.rxns,'dilute_dummy'))/mu; %g/gCDW
+    etoh = sol_full(strcmp(model.rxns,'r_1761'));
+end
+
+toc;
+

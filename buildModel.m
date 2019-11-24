@@ -76,6 +76,7 @@ enzymedata = collectkcats(model);
 
 % manually update kcats for some reactions.
 % enzymedata = updatekcats(enzymedata);
+% CONFIDENCE SCORE 4 means maually collected kcats.
 
 %% Calculate molecular weight for each enzyme
 enzymedata = calculateMW(enzymedata,ProteinSequence);
