@@ -41,7 +41,7 @@ load('Determined_stoichiometry.mat');
 model = addComplexFormationRxns(model,Determined_stoichiometry);
 
 % manually update complex formation reactions for some complexes.
-% model = updateComplexformation(model);
+model = updateComplexformation(model);
 
 %% Add complex dilution reactions
 model = addComplexDilutionRxns(model);
@@ -75,7 +75,7 @@ writeCbModel(model,'xls','CofactorYeast.xls');
 enzymedata = collectkcats(model);
 
 % manually update kcats for some reactions.
-% enzymedata = updatekcats(enzymedata);
+enzymedata = updatekcats(enzymedata);
 % CONFIDENCE SCORE 4 means maually collected kcats.
 
 %% Calculate molecular weight for each enzyme
