@@ -68,9 +68,10 @@ for i = 1:length(enzyme_list)
     %find enzyme used reaction id (metabolic reaction)
     idx_rxn = find(ismember(model.rxns,strrep(enzyme,'_enzyme','')));
 
-    fprintf(fptr,'CM%d: X%d - %.15f X%d <= 0\n',...
+%     fprintf(fptr,'CM%d: X%d - %.15f X%d <= 0\n',...
+%                  i,idx_rxn,coef,idx_syn);
+    fprintf(fptr,'CM%d: X%d - %.15f X%d = 0\n',...
                  i,idx_rxn,coef,idx_syn);
-
 end
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

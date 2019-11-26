@@ -23,7 +23,7 @@ f_modeled_protein = extractModeledprotein(model,'r_4041','s_3717[c]'); %g/gProte
 f = tot_protein * f_modeled_protein;
 clear tot_protein f_modeled_protein;
 
-mu = 0.4;
+mu = 0.2;
 model = changeRxnBounds(model,'r_2111',mu,'b');
 fileName = writeLP(model,mu,f,osenseStr,rxnID,enzymedata,1);
 
