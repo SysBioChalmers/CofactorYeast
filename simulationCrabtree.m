@@ -1,5 +1,5 @@
 %% simulationCrabtree
-% Timing: ~ 400 s
+% Timing: ~ 500 s
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
@@ -7,8 +7,27 @@ tic;
 
 %% Set model
 
-model = changeRxnBounds(model,'r_1714',-1000,'l'); % 
-model = changeRxnBounds(model,'r_0886_1',0,'b'); % block iso-reaction of PFK
+model = changeRxnBounds(model,'r_1714',-1000,'l'); %
+
+% block some reactions
+model = changeRxnBounds(model,'r_0886_1',0,'b'); % iso-reaction of PFK
+
+% % block pyruvate decarboxylase (acetoin-forming)
+% % it is a lump reaction of r_0095 and r_0959.
+% model = changeRxnBounds(model,'r_0960_1',0,'b');
+% model = changeRxnBounds(model,'r_0960_2',0,'b');
+% model = changeRxnBounds(model,'r_0960_3',0,'b');
+% % then the following blocked reaction could be free?
+% model = changeRxnBounds(model,'r_1549',0,'b'); % (R,R)-2,3-butanediol exchange
+
+model = changeRxnBounds(model,'r_2045_rvs',0,'b'); % serine transport from [m] to [c]
+model = changeRxnBounds(model,'r_0659_fwd',0,'b'); % isocitrate dehydrogenase (NADP)
+model = changeRxnBounds(model,'r_0659_rvs',0,'b'); % isocitrate dehydrogenase (NADP)
+model = changeRxnBounds(model,'r_0725_fwd',0,'b'); % methenyltetrahydrofolate cyclohydrolase
+model = changeRxnBounds(model,'r_0918',0,'b'); % phosphoserine transaminase
+
+model = changeRxnBounds(model,'r_1631',0,'b'); % acetaldehyde exchange
+
 
 %% Set optimization
 rxnID = 'r_1714'; %minimize glucose uptake rate
@@ -76,10 +95,10 @@ legend({'Glucose uptake',...
         'O2 uptake',...
         'CO2 production'},'FontSize',12,'FontName','Helvetica','location','nw');
 set(gcf,'position',[0 400 240 185]);
-set(gca,'position',[0.2 0.18 0.76 0.8]);
+set(gca,'position',[0.17 0.2 0.76 0.75]);
 
 
-dummy = fluxes(strcmp(model.rxns,'dilute_dummy'))./mu; %g/gCDW
+dummy = fluxes(strcmp(model.rxns,'dilute_dummy'),:)./mu; %g/gCDW
 figure('Name','dummy');
 hold on;
 box on;
@@ -88,8 +107,10 @@ xlim([0 0.4]);
 set(gca,'FontSize',12,'FontName','Helvetica');
 xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
 ylabel('Dummy (g/gCDW)','FontSize',14,'FontName','Helvetica');
-set(gcf,'position',[0 400 240 185]);
-set(gca,'position',[0.2 0.18 0.76 0.5]);
+set(gcf,'position',[0 0 240 185]);
+set(gca,'position',[0.17 0.2 0.76 0.5]);
+clear;
+
 
 toc;
 
