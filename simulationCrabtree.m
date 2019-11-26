@@ -26,7 +26,7 @@ model = changeRxnBounds(model,'r_0659_rvs',0,'b'); % isocitrate dehydrogenase (N
 model = changeRxnBounds(model,'r_0725_fwd',0,'b'); % methenyltetrahydrofolate cyclohydrolase
 model = changeRxnBounds(model,'r_0918',0,'b'); % phosphoserine transaminase
 
-model = changeRxnBounds(model,'r_1631',0,'b'); % acetaldehyde exchange
+% model = changeRxnBounds(model,'r_1631',0,'b'); % acetaldehyde exchange
 
 
 %% Set optimization
@@ -42,7 +42,7 @@ f = tot_protein * f_modeled_protein;
 clear tot_protein f_modeled_protein;
 
 %% Solve LPs
-mu_list = 0.025:0.025:0.4;
+mu_list = 0.05:0.05:0.4;
 
 fluxes = zeros(length(model.rxns),length(mu_list));
 
@@ -75,7 +75,8 @@ glc = -1*fluxes(strcmp(model.rxns,'r_1714'),:);
 etoh = fluxes(strcmp(model.rxns,'r_1761'),:);
 o2 = -1*fluxes(strcmp(model.rxns,'r_1992'),:);
 co2 = fluxes(strcmp(model.rxns,'r_1672'),:);
-ac = fluxes(strcmp(model.rxns,'r_1634'),:);
+% ac = fluxes(strcmp(model.rxns,'r_1634'),:);
+% aldh = fluxes(strcmp(model.rxns,'r_1631'),:);
 
 figure('Name','orginial');
 hold on;
@@ -85,6 +86,7 @@ plot(mu,etoh,'-o','LineWidth',0.75,'Color',[255,127,0]/255);
 plot(mu,o2,'-o','LineWidth',0.75,'Color',[77,175,74]/255);
 plot(mu,co2,'-o','LineWidth',0.75,'Color',[152,78,163]/255);
 % plot(mu,ac,'-o','LineWidth',0.75,'Color',[247,129,191]/255);
+% plot(mu,aldh,'-o','LineWidth',0.75,'Color',[247,129,191]/255);
 xlim([0 0.4]);
 
 set(gca,'FontSize',12,'FontName','Helvetica');
