@@ -1,0 +1,131 @@
+%% simulationCrabtree
+
+load('CofactorYeast.mat');
+load('enzymedata.mat');
+% enzymedata = updatekcats(enzymedata);
+tic;
+
+%% Set model
+
+model = changeRxnBounds(model,'r_1714',-1000,'l'); % 
+model = changeRxnBounds(model,'r_0886_1',0,'b'); % block iso-reaction of PFK
+
+%% Set optimization
+rxnID = 'r_1714'; %minimize glucose uptake rate
+% rxnID = 'dilute_dummy'; %minimize glucose uptake rate
+osenseStr = 'Maximize';
+
+tot_protein = 0.46; %g/gCDW, estimated from the original GEM.
+f_modeled_protein = extractModeledprotein(model,'r_4041','s_3717[c]'); %g/gProtein
+% r_4041 is pseudo_biomass_rxn_id in the GEM
+% s_3717[c] is protein id
+
+f = tot_protein * f_modeled_protein;
+clear tot_protein f_modeled_protein;
+
+%% Solve LPs
+mu_list = [0.05 0.1 0.15 0.2 0.25 0.3 0.35 0.4];
+
+fluxes_original = zeros(length(model.rxns),length(mu_list));
+fluxes_changed_dummy = zeros(length(model.rxns),length(mu_list));
+
+for i = 1:length(mu_list)
+    mu = mu_list(i);
+    model_tmp = changeRxnBounds(model_tmp,'r_2111',mu,'b');
+    fileName = writeLP(model_tmp,mu,f,osenseStr,rxnID,enzymedata,1);
+    command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 %s > %s.out %s',fileName,fileName);
+    system(command,'-echo');
+    [sol_obj,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
+    
+    % dummy complex
+    if strcmp(sol_status,'optimal')
+        fluxes_original(:,i) = sol_full;
+        
+        % max dummy complex
+        glc_tmp = sol_full(strcmp(model_tmp.rxns,'r_1714')) * 1.00000001;
+        model_tmp = changeRxnBounds(model_tmp,'r_1714',glc_tmp,'b');
+        rxnID = 'dilute_dummy';
+        fileName = writeLP(model_tmp,mu,f,osenseStr,rxnID,enzymedata,1);
+        command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 %s > %s.out %s',fileName,fileName);
+        system(command,'-echo');
+        [sol_obj,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
+        if strcmp(sol_status,'optimal')
+            fluxes_changed_dummy(:,i) = sol_full;
+        end
+    end
+end
+
+%% Plot
+% orginial simulations
+mu = fluxes_original(strcmp(model.rxns,'r_2111'),:);
+glc = -1*fluxes_original(strcmp(model.rxns,'r_1714'),:);
+etoh = fluxes_original(strcmp(model.rxns,'r_1761'),:);
+o2 = -1*fluxes_original(strcmp(model.rxns,'r_1992'),:);
+co2 = fluxes_original(strcmp(model.rxns,'r_1672'),:);
+ac = fluxes_original(strcmp(model.rxns,'r_1634'),:);
+
+figure('Name','orginial');
+hold on;
+box on;
+plot(mu,glc,'-','LineWidth',0.75,'Color',[55,126,184]/255);
+plot(mu,etoh,'-','LineWidth',0.75,'Color',[255,127,0]/255);
+plot(mu,o2,'-','LineWidth',0.75,'Color',[77,175,74]/255);
+plot(mu,co2,'-','LineWidth',0.75,'Color',[152,78,163]/255);
+plot(mu,ac,'-','LineWidth',0.75,'Color',[247,129,191]/255);
+xlim([0 0.4]);
+
+set(gca,'FontSize',12,'FontName','Helvetica');
+xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
+ylabel('Flux (mmol/gCDW/h)','FontSize',14,'FontName','Helvetica');
+legend({'Glucose uptake',...
+        'Ethanol production',...
+        'O2 uptake',...
+        'CO2 production'...
+        'Acetate production'},'FontSize',12,'FontName','Helvetica','location','nw');
+set(gcf,'position',[0 400 240 185]);
+set(gca,'position',[0.2 0.18 0.76 0.8]);
+
+
+% max dummy simulations
+mu = fluxes_changed_dummy(strcmp(model.rxns,'r_2111'),:);
+glc = -1*fluxes_changed_dummy(strcmp(model.rxns,'r_1714'),:);
+etoh = fluxes_changed_dummy(strcmp(model.rxns,'r_1761'),:);
+o2 = -1*fluxes_changed_dummy(strcmp(model.rxns,'r_1992'),:);
+co2 = fluxes_changed_dummy(strcmp(model.rxns,'r_1672'),:);
+ac = fluxes_changed_dummy(strcmp(model.rxns,'r_1634'),:);
+dummy = fluxes_changed_dummy(strcmp(model.rxns,'dilute_dummy'))./mu; %g/gCDW
+
+figure('Name','max dummy');
+hold on;
+box on;
+plot(mu,glc,'-','LineWidth',0.75,'Color',[55,126,184]/255);
+plot(mu,etoh,'-','LineWidth',0.75,'Color',[255,127,0]/255);
+plot(mu,o2,'-','LineWidth',0.75,'Color',[77,175,74]/255);
+plot(mu,co2,'-','LineWidth',0.75,'Color',[152,78,163]/255);
+plot(mu,ac,'-','LineWidth',0.75,'Color',[247,129,191]/255);
+xlim([0 0.4]);
+
+set(gca,'FontSize',12,'FontName','Helvetica');
+xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
+ylabel('Flux (mmol/gCDW/h)','FontSize',14,'FontName','Helvetica');
+legend({'Glucose uptake',...
+        'Ethanol production',...
+        'O2 uptake',...
+        'CO2 production'...
+        'Acetate production'},'FontSize',12,'FontName','Helvetica','location','nw');
+set(gcf,'position',[0 400 240 185]);
+set(gca,'position',[0.2 0.18 0.76 0.8]);
+
+figure('Name','dummy');
+hold on;
+box on;
+plot(mu,dummy,'-','LineWidth',0.75,'Color',[82,82,82]/255);
+xlim([0 0.4]);
+set(gca,'FontSize',12,'FontName','Helvetica');
+xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
+ylabel('Dummy (g/gCDW)','FontSize',14,'FontName','Helvetica');
+set(gcf,'position',[0 400 240 185]);
+set(gca,'position',[0.2 0.18 0.76 0.8]);
+
+toc;
+
