@@ -12,19 +12,14 @@ model = changeRxnBounds(model,'r_1714',-1000,'l'); %
 % block some reactions
 model = changeRxnBounds(model,'r_0886_1',0,'b'); % iso-reaction of PFK
 
-% % block pyruvate decarboxylase (acetoin-forming)
-% % it is a lump reaction of r_0095 and r_0959.
-% model = changeRxnBounds(model,'r_0960_1',0,'b');
-% model = changeRxnBounds(model,'r_0960_2',0,'b');
-% model = changeRxnBounds(model,'r_0960_3',0,'b');
-% % then the following blocked reaction could be free?
-% model = changeRxnBounds(model,'r_1549',0,'b'); % (R,R)-2,3-butanediol exchange
-
+% block some reactions that done in PMID: 28779005.
 model = changeRxnBounds(model,'r_2045_rvs',0,'b'); % serine transport from [m] to [c]
 model = changeRxnBounds(model,'r_0659_fwd',0,'b'); % isocitrate dehydrogenase (NADP)
 model = changeRxnBounds(model,'r_0659_rvs',0,'b'); % isocitrate dehydrogenase (NADP)
+
 model = changeRxnBounds(model,'r_0725_fwd',0,'b'); % methenyltetrahydrofolate cyclohydrolase
 model = changeRxnBounds(model,'r_0918',0,'b'); % phosphoserine transaminase
+
 
 % model = changeRxnBounds(model,'r_1631',0,'b'); % acetaldehyde exchange
 
@@ -42,7 +37,7 @@ f = tot_protein * f_modeled_protein;
 clear tot_protein f_modeled_protein;
 
 %% Solve LPs
-mu_list = 0.05:0.05:0.4;
+mu_list = 0.05:0.05:0.45;
 
 fluxes = zeros(length(model.rxns),length(mu_list));
 
@@ -87,7 +82,7 @@ plot(mu,o2,'-o','LineWidth',0.75,'Color',[77,175,74]/255);
 plot(mu,co2,'-o','LineWidth',0.75,'Color',[152,78,163]/255);
 % plot(mu,ac,'-o','LineWidth',0.75,'Color',[247,129,191]/255);
 % plot(mu,aldh,'-o','LineWidth',0.75,'Color',[247,129,191]/255);
-xlim([0 0.4]);
+xlim([0 0.45]);
 
 set(gca,'FontSize',12,'FontName','Helvetica');
 xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
@@ -105,7 +100,7 @@ figure('Name','dummy');
 hold on;
 box on;
 plot(mu,dummy,'-o','LineWidth',0.75,'Color',[82,82,82]/255);
-xlim([0 0.4]);
+xlim([0 0.45]);
 set(gca,'FontSize',12,'FontName','Helvetica');
 xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
 ylabel('Dummy (g/gCDW)','FontSize',14,'FontName','Helvetica');

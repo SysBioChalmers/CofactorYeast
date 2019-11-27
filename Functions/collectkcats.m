@@ -122,6 +122,11 @@ end
 medianvalue = median(enzymedata.kcat(~isnan(enzymedata.kcat)));
 enzymedata.kcat(isnan(enzymedata.kcat)) = medianvalue;
 
+% There are a few cases that multiple isozymes are assigned different kcats
+% due to different EC numbers, e.g., EC4.2.1.- and EC4.2.1.36. This should
+% be avoided by re-assigning the kcat with higher confidence score for the
+% isozyme with lower confidence score?
+
 end
 
 
