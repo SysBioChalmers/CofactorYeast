@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ is not bound at the catalytic site; Mg2+ ligand binding site

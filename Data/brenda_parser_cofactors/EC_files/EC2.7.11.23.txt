@@ -1,0 +1,10 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*; ATP-dependent dissociation of holo-RNAPII by TFIIH
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*no activation by calmodulin and cGMP; no activation by cAMP
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*above 1 mM; requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required; required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required
+METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by Ca2+

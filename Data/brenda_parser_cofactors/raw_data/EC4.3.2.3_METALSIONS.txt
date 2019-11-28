@@ -1,0 +1,1 @@
+ecNumber*4.3.2.3#metalsIons*Ni2+#commentary*nickel-dependent urea-release activity#organism*Saccharomyces cerevisiae#ligandStructureId*38#literature*729615#

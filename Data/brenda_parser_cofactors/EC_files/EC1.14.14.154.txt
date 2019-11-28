@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	cytochrome P450	*	*
+COFACTOR	Saccharomyces cerevisiae	heme	*	*heme-thiolate enzyme

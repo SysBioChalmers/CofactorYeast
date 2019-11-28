@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	[4Fe-4S]-center	*	*

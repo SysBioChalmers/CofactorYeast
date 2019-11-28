@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal concentration is 1-2 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*2fold stimulation at 5 mM
+METALSIONS	Saccharomyces cerevisiae	ZnCl2	*	*stimulation
+METALSIONS	Saccharomyces cerevisiae	MnCl2	*	*stimulation

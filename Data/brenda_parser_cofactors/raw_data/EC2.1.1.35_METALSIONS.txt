@@ -1,0 +1,1 @@
+ecNumber*2.1.1.35#metalsIons*more#commentary*no divalent cations required, not activated by Mg2+ and Mn2+#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*441299#

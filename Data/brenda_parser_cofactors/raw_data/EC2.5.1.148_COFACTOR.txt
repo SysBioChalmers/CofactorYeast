@@ -1,0 +1,1 @@
+ecNumber*2.5.1.148#cofactor*NADH#commentary*preference for NADPH over NADH#organism*Saccharomyces cerevisiae#ligandStructureId*8#literature*489844#!ecNumber*2.5.1.148#cofactor*NADPH#commentary*preference for NADPH over NADH#organism*Saccharomyces cerevisiae#ligandStructureId*5#literature*489844#

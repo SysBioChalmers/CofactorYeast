@@ -1,0 +1,8 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*requirement, 1-10 mM, can replace Mg2+ to some extent, inhibits above 30 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inhibits above 30 mM; requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can replace Mg2+ to some extent; inhibits above 30 mM; requirement, 1-10 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can substitute for Mg2+

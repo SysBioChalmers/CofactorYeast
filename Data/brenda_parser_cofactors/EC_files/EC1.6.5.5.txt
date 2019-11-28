@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*completely specific for NADPH as cofactor
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*interference of NADPH on Zta1p binding to RNA is much lower than that of NADPH on human zeta-crystallin, consistent with a weaker binding of NADPH to the yeast enzyme

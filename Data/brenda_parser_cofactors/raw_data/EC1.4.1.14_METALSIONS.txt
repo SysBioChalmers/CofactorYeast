@@ -1,0 +1,1 @@
+ecNumber*1.4.1.14#metalsIons*3Fe-4S-center#commentary*iron-sulfur flavoprotein#organism*Saccharomyces cerevisiae#ligandStructureId*21788#literature*391493#

@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	K+	*	*maximal activity at 20 mM; required form maximal activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required

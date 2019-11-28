@@ -1,0 +1,32 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulates
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, optimal activity at 5 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1-10 mM, about 7fold activation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required, order of decreasing stimulation: Co2+, Mn2+, Mg2+, Ni2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*2.5 mM, 15fold activity enhancement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.1 mM MgSO4, 5% activity loss; 1 mM, 2fold activity enhancement; 2fold activation at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*single tight binding site for Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1.6fold activation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*poor activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*1-10 mM, 3-5fold stimulation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, order of decreasing stimulation: Co2+, Mn2+, Mg2+, Ni2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*poor activition
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*stimulates
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.1 mM ZnSO4, 76% activity loss; 1.5fold activation at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*stimulated by divalent cations, Co2+ is the best stimulator, 6fold at 0.05 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*5 mM, 108% of the activation by Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*2 mM CoCl2, 2.5fold stimulation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cation required, order of decreasing stimulation: Co2+, Mn2+, Mg2+, Ni2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*0.1 mM, 31fold activity enhancement; best activator
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*0.1 mM, 6fold activity stimulation; 6fold activation at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*2.5fold activation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*best activator, maximum activation at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*Co2+ stimulates phosphate release from the polyphosphate chain end
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*5 mM, 34% of the activation by Mg2+
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*5 mM, 32% of the activation by Mg2+
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*divalent cation required, order of decreasing stimulation: Co2+, Mn2+, Mg2+, Ni2+
+METALSIONS	Saccharomyces cerevisiae	K+	*	*100 mM, 30% activity enhancement; slight activation
+METALSIONS	Saccharomyces cerevisiae	NaCl	*	*50 and 200 mM, 46 and 42% activity enhancement, respectively
+METALSIONS	Saccharomyces cerevisiae	NH4+	*	*100 mM, 35% activity enhancement; slight activation
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*50 and 200 mM, 39 and 38% activity enhancement, respectively
+METALSIONS	Saccharomyces cerevisiae	NH4Cl	*	*50 and 200 mM, 42 and 67% activity enhancement, respectively
+METALSIONS	Saccharomyces cerevisiae	more	*	*stimulated by divalent cations to a lesser extent

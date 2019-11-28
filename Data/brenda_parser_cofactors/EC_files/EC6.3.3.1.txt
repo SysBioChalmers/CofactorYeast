@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolutely required
+METALSIONS	Saccharomyces cerevisiae	K+	*	*absolutely required

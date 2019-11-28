@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*NADP+ can not substitute for NAD+
+METALSIONS	Saccharomyces cerevisiae	Cl-	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Br-	*	*activates
+METALSIONS	Saccharomyces cerevisiae	I-	*	*activates

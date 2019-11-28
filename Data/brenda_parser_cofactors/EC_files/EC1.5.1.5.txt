@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*and other monovalent metal cations

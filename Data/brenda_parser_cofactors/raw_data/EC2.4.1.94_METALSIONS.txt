@@ -1,0 +1,1 @@
+ecNumber*2.4.1.94#metalsIons*Mn2+#commentary*2fold activation at 25 mM, slight activation at 20 mM and above 50 mM#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*489608#

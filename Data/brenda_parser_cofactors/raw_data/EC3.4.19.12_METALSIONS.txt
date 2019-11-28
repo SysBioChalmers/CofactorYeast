@@ -1,0 +1,1 @@
+ecNumber*3.4.19.12#metalsIons*Divalent cations#commentary*most divalent cations, except Mg2+ and Ca2+ are inhibitory#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*646096#

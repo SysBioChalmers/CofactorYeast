@@ -1,0 +1,1 @@
+ecNumber*2.7.8.41#metalsIons*Mg2+#commentary*maximal activity is obtained in the presence of 20 mM Mg2+#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*727054#!ecNumber*2.7.8.41#metalsIons*Mg2+#commentary*1.7 m required for half-maximal activity#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*728227#

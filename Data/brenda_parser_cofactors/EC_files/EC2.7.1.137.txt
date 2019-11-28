@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*binding site structure, a single conserved residue I670 of VPS34 and L2129 of PI3-K-related protein MEC1, termed the gatekeeper, controls the sensitivity to a wide range of small molecule inhibitors, inhibitor resistance id conferred by a large resiude at this position, e.g. isoleucine, whereas a small amino acid at this position like alanine, glycine, or threonine renders the enzyme sensitive for inhibition by small molecule drugs
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*

@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement, optimum concentration: 10 mM, Ca2+, Mg2+, Co2+ or Zn2+ cannot substitute for Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*no activity without addition of Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required, enzyme complex binding structure, overview
+METALSIONS	Saccharomyces cerevisiae	more	*	*Ni2+, Mg2+, Ca2+, and Zn2+ cannot substitute for Mn2+

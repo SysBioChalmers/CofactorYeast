@@ -1,0 +1,1 @@
+ecNumber*4.1.1.65#metalsIons*Mn2+#commentary*stimulation up to 2-fold#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*652561#

@@ -1,0 +1,1 @@
+ecNumber*2.4.2.60#metalsIons*Iron#commentary*iron-dependent sulfide transfer reaction from the protein to a reaction intermediate#organism*Saccharomyces cerevisiae#ligandStructureId*46#literature*745881#

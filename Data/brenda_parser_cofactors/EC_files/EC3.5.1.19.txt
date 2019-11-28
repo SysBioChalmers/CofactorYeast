@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains tightly bound zinc. Addition of 2 mM ZnCl2 fails to increase the activity of the wild type enzyme

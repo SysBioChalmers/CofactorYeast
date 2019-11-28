@@ -1,0 +1,10 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*1 mol per subunit
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*ratio FAD : FMN 1 : 1; tightly bound
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*loosely bound
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*loosely bound; ratio FAD : FMN 1 : 1
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*loosely bound
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*second FMN binding site is detected at the interface of the connecting and FMN binding domains. The two FMN binding sites have different accessibilities to the bulk solvent and different amino acid environments, suggesting stabilization of different electronic structures of the reduced flavin. Since only one FMN cofactor is required for function, a hypothetical mechanism of electron transfer is discussed that proposes shuttling of a single FMN between these two sites coupled with the transition between two semiquinone forms, neutral and anionic
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*binding affinity for FMN is in the submicromolar range, 30times higher than that for FAD

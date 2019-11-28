@@ -1,0 +1,1 @@
+ecNumber*2.7.1.105#cofactor*AMP#commentary*activation, 0.025 mM#organism*Saccharomyces cerevisiae#ligandStructureId*30#literature*640288#

@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*the enzyme is composed of at least two subunits that are associated in vivo: Trm11p, which is the catalytic subunit, and Trm112p, a putative zinc-binding protein

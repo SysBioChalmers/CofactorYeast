@@ -1,0 +1,11 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*only for anaerobic activity, optimal activity at 2 mM
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*only anaerobic activity, 30% of the activity compared to NADP+
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*strong specificity for anaerobic oxidation
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*50% activation of anaerobic enzyme at 5 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*optimal activation only for anaerobic enzyme at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*2 atoms per native molecule
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*optimal activation only for anaerobic enzyme at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Fe3+	*	*80% activation of anaerobic enzyme at 0.5 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*50% activation of anaerobic enzyme at 5 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*optimal activation only for anaerobic enzyme at 0.2 mM
+METALSIONS	Saccharomyces cerevisiae	more	*	*30% activation of aerobic oxidation by divalent ions

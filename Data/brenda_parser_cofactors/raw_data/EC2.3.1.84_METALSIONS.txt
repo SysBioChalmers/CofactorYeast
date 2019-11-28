@@ -1,0 +1,1 @@
+ecNumber*2.3.1.84#metalsIons*Mg2+#commentary*1 mM, 10% activation#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*487556#

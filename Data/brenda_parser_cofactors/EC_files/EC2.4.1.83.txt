@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ and Mn2+ up to a concentration of 5 mM result in the same activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+ and Mn2+ up to a concentration of 5 mM result in the same activation

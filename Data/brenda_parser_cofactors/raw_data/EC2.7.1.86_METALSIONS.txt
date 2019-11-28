@@ -1,0 +1,1 @@
+ecNumber*2.7.1.86#metalsIons*Mg2+#commentary*either Mn2+ or Mg2+ activate at low concentrations. Km: Km: 1.0 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*642062#!ecNumber*2.7.1.86#metalsIons*Mn2+#commentary*either Mn2+ or Mg2+ activate at low concentrations#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*642062#

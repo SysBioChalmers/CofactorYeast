@@ -1,0 +1,15 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*in stimulation of Chs2 Co2+ is twice as effective on an enzyme activated by trypsin
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*absolute requirement for a divalent cation. Mg2+, Mn2+ or Co2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cation required, chitin synthase 2 shows highest activity with chitin synthase 2
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*chitin synthase 2 requires Co2+ rather than Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*best stimulator of Chs1. Mg2+ and Mn2+ lead to similar maximal stimulation of Chs2
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for a divalent cation. Mg2+, Mn2+ or Co2+. Optimum concentration for Mg2+ is 1-10 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the best divalent cation stimulator of chitin synthase 1 and 2
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required, chitin synthase 1 and 3 have a preference for Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*significant chitin synthase activity in the presence of Mg2+ or Mn2+, even without trypsin treatment
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates mutant Chs2DELTAN222
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+ and Mn2+ lead to similar maximal stimulation of Chs2
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement for a divalent cation. Mg2+, Mn2+ or Co2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*significant chitin synthase activity in the presence of Mg2+ or Mn2+, even without trypsin treatment
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates the wild-type Chs2 and mutant Chs2DELTAN222

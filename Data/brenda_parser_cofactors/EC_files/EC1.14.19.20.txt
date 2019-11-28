@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*
+COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*

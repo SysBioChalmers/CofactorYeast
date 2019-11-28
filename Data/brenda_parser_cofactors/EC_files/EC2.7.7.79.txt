@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the requirement for a divalent metal ion can be satisfied by Mg2+, Mn2+, and to a lesser extent by Co2+ and Zn2+. Maximal activity by 10 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*the requirement for a divalent metal ion can be satisfied by Mg2+, Mn2+, and to a lesser extent by Co2+ and Zn2+. Activity in presence of 10 mM Mn2+ is 70% compared to the activity in presence of 10 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*the requirement for a divalent metal ion can be satisfied by Mg2+, Mn2+, and to a lesser extent by Co2+ and Zn2+. Activity in presence of 10 mM Zn2+ is 15% compared to the activity in presence of 10 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*the requirement for a divalent metal ion can be satisfied by Mg2+, Mn2+, and to a lesser extent by Co2+ and Zn2+. Activity in presence of 10 mM Co2+ is 13% compared to the activity in presence of 10 mM Mg2+

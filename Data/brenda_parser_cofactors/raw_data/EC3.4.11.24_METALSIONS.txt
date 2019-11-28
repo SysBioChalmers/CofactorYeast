@@ -1,0 +1,1 @@
+ecNumber*3.4.11.24#metalsIons*Co2+#commentary*metalloenzyme containing Co2+ in its structure#organism*Saccharomyces cerevisiae#ligandStructureId*23#literature*665078#!ecNumber*3.4.11.24#metalsIons*Co2+#commentary*activity is strictly dependent on, maximal activity at 0.5 mM CoCl2#organism*Saccharomyces cerevisiae#ligandStructureId*23#literature*667014#

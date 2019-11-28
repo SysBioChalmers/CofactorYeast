@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	more	*	*enzyme requires ATP, a monovalent cation such as K+ or NH4+ and a divalent cation such as Mg2+ or Mn2+

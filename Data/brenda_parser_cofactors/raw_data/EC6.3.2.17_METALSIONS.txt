@@ -1,0 +1,1 @@
+ecNumber*6.3.2.17#metalsIons*K+#commentary*maximal activity at 20 mM; required form maximal activity#organism*Saccharomyces cerevisiae#ligandStructureId*39#literature*1092#!ecNumber*6.3.2.17#metalsIons*Mg2+#commentary*required#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*1092#

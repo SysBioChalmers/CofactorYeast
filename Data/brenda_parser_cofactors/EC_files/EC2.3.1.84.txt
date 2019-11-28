@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	acetyl-CoA	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1 mM, 10% activation

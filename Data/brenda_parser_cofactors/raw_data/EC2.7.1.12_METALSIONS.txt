@@ -1,0 +1,1 @@
+ecNumber*2.7.1.12#metalsIons*Mg2+#commentary*activates; inhibition above; Km: 1.68 mM; optimum concentration: 5-7 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*640677#

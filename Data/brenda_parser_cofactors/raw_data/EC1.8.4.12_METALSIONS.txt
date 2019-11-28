@@ -1,0 +1,1 @@
+ecNumber*1.8.4.12#metalsIons*selenium#commentary*selenoprotein#organism*Saccharomyces cerevisiae#ligandStructureId*518#literature*658212#!ecNumber*1.8.4.12#metalsIons*more#commentary*the major isozyme of MsrB, MsrB1, is a selenoprotein, selenium affects the expression of MsrB#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*668357#

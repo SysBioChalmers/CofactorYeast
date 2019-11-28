@@ -1,0 +1,10 @@
+COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*holo CcP binds cytochrome c with micromolar affinity. For apo CcP, the interaction with cytochrome c is completely abolished
+COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*thermodynamic affinity constants for binding the first and second cytochrome c are KI 0.0000001 per M, KII 0.0001 per M. Cytochrome c binds at the weaker-binding site with relatively great affinity, and places upper bounds on the contributions of repulsion between the two cytochrome c of the ternary complex
+COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*study on both chemical shift perturbations and paramagnetic relaxation enhancements effects in the NMR spectrum of CcP generated in the presence of spin-labelled cytochrome c
+COFACTOR	Saccharomyces cerevisiae	heme	*	*
+COFACTOR	Saccharomyces cerevisiae	heme	*	*Fe(III) reduction to Fe(IV) in heme cofactor, pH dependence of the reduction potential and heme binding site structure analysis of wild-type and mutant enzymes using photoreduction and spectroscopic methods, respectively, overview
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*heme
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*heme prosthetic group
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*heme
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*heme iron Fe(III)
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*Fe(III) reduction to Fe(IV) in heme cofactor

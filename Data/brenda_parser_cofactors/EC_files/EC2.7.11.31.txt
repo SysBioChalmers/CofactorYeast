@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required

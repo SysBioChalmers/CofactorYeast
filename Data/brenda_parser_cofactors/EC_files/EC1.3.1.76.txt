@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*beta-NAD+-dependent dehydrogenation of precorrin-2

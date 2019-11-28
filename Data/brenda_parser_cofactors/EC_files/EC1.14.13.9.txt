@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*less effective than NADPH
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*

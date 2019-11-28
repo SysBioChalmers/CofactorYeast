@@ -1,0 +1,1 @@
+ecNumber*1.5.1.15#cofactor*NAD+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*7#literature*392075, 392076, 392079, 392083, 392087, 392090#

@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*Vps4 and its cofactor Vta1p/LIP5 function in membrane remodeling events that accompany cytokinesis, multivesicular body biogenesis, and retrovirus budding
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required

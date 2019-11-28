@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*dimer contains 1.3 mol copper per mol of subunit
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, half-maximal activity at 0.15 mM
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*dimer contains 1.5 mol zinc per mol of subunit

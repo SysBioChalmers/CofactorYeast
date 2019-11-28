@@ -1,0 +1,1 @@
+ecNumber*2.5.1.10#metalsIons*Mg2+#commentary*contains 3 Mg2+ ions#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*723705#

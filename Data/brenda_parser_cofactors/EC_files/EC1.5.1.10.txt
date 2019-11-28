@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*NAD+ and NADP+ equally effective in 2-aminoadipate 6-semialdehyde formation
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*NADPH far more effective than NADH in saccaropine formation
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*NAD+ and NADP+ equally effective in 2-aminoadipate 6-semialdehyde formation
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*far more effective than NADH in saccharopine formation
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*

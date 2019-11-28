@@ -1,0 +1,1 @@
+ecNumber*2.7.1.158#metalsIons*Mg2+#commentary*optimal concentration is 10 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*662106#

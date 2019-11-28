@@ -1,0 +1,1 @@
+ecNumber*4.1.3.17#metalsIons*Ni2+#commentary*required, best activating metal ion#organism*Saccharomyces cerevisiae#ligandStructureId*38#literature*727049#!ecNumber*4.1.3.17#metalsIons*more#commentary*the enzyme is a class II divalent metal ion-dependent aldolase#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*727049#

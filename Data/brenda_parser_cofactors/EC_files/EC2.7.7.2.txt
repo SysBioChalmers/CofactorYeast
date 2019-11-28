@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*no FAD synthesis in absence of ATP, ADP cannot replace ATP
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for FAD synthesis, optimal concentration 1.5 mM, inhibition at higher levels
+METALSIONS	Saccharomyces cerevisiae	more	*	*Zn2+ cannot replace Mg2+

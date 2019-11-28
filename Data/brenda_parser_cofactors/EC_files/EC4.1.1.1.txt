@@ -1,0 +1,28 @@
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, located at the active site at the interface of the alpha and gamma domains
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, mode of active site binding
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, bound at the interface created by 2 subunits that form a tight dimer, mode of binding
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, cofactor is located between the alpha and the gamma domains
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, active center, at the interface of the alpha and gamma domains
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*thiamine diphosphate-dependent enzyme, a diphosphate-binding domain and a pyrimidine-binding domain serve to anchor the cofactor with its thiazolium C2-H bond directed toward the presumed pyruvate binding site, catalytic mechanism
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*coenzyme, bound in the interface between two subunits, binds pH-dependently
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, tetramer binds 4 molecules, at the interface between two monomers involving the alpha and gamma domains, tightly bound at pH 6, dissociates reversibly above pH 7
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*prosthetic group
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*enzyme forms covalent intermediate C2-alpha-lactylthiamine diphosphate
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*bound to the active site located at the interface of the alpha and gamma domains
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*dependent on, bound tightly, but not covalently, at the interface of two monomers
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*0.1 mM, required for activity
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*required, the Ser/Thr protein phosphatase SIT4 reduces Pdc1p activity by altering the apparent affinity for the cofactor thiamine pyrophosphate
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*bound in the V conformation in the active sites of the ezyme, side chains of residues Glu51, Glu477, Asp28, His114, and His 115 potentially participate in proton transfer steps
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*cofactor, requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*essential for activity, coordinated in the active site at the diphosphate moiety of the coenzyme thiamine diphosphate, also able to coordinate to other specific functional groups than in the active site region, stabilizes the monomeric state of enzyme
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*cofactor
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*cofactor, tetramer binds 4 Mg2+ ions, tightly bound at pH 6, dissociates reversibly above pH 7
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on, bound tightly, but not covalently, at the interface of two monomers
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on

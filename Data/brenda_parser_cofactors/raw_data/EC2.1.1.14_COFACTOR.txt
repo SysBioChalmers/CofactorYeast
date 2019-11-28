@@ -1,0 +1,1 @@
+ecNumber*2.1.1.14#cofactor*more#commentary*vitamin-B12 independent enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*441326, 441328, 671587, 676741#

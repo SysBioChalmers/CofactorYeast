@@ -1,0 +1,1 @@
+ecNumber*1.1.5.3#cofactor*FAD#commentary*dependent on#organism*Saccharomyces cerevisiae#ligandStructureId*20#literature*695272#

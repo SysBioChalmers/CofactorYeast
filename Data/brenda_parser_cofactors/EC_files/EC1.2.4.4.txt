@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	CoA	*	*
+COFACTOR	Saccharomyces cerevisiae	CoA	*	*extraordinarily tightly bound
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*

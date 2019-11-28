@@ -1,0 +1,1 @@
+ecNumber*1.14.99.7#cofactor*FAD#commentary*dependent on, binds at a domain with a Rossmann fold, containing the 25GlyXGlyXXGly30 sequence#organism*Saccharomyces cerevisiae#ligandStructureId*20#literature*715725#

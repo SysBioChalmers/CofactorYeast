@@ -1,0 +1,1 @@
+ecNumber*3.6.1.22#metalsIons*Mg2+#commentary*strong activation#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*209959#!ecNumber*3.6.1.22#metalsIons*Mn2+#commentary*strong activation#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*209959#

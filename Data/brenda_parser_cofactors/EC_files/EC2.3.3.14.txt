@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.002 mM MgCl2 has no effect
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*activator at low concentrations, inhibitor at high concentrations, inhibition and activation can occur simultaneously, inhibition by Na+ is eliminated at high concentrations of acetyl-CoA
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*activity is simultaneously inhibited and activated. Activation by Na+ binding to the active enzyme conformer at an allosteric site. Inhibition by binding to the active site
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*bound in the active site

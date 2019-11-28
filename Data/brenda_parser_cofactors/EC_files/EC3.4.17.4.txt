@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can reverse the inhibition by chelating agents
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can reverse the inhibition by chelating agents at a concentration of 0.1 mM, reactivation of 88%, inhibits the enzyme at higher concentrations, 10 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can reverse the inhibition by chelating agents at a concentration of 0.1 mM, reactivation of 62%, inhibits the enzyme at higher concentrations, 10 mM
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can reverse the inhibition by chelating agents

@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*
+METALSIONS	Saccharomyces cerevisiae	selenium	*	*selenoprotein
+METALSIONS	Saccharomyces cerevisiae	more	*	*the major isozyme of MsrB, MsrB1, is a selenoprotein, selenium affects the expression of MsrB

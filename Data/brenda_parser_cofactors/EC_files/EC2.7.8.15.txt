@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent metal required, optimal activity in presence of Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent metal required, Mn2+ is less effective than Mg2+
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*divalent metal required, Ca2+ is less effective than Mg2+

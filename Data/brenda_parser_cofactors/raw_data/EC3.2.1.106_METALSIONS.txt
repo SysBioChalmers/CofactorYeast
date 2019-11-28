@@ -1,0 +1,1 @@
+ecNumber*3.2.1.106#metalsIons*more#commentary*metal ions not required#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*170948#!ecNumber*3.2.1.106#metalsIons*more#commentary*no requirement for divalent cations#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*170949, 170956#

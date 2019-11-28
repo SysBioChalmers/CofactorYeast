@@ -1,0 +1,1 @@
+ecNumber*1.13.11.6#cofactor*more#commentary*non-heme enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*677020#

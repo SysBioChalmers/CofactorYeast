@@ -1,0 +1,10 @@
+COFACTOR	Saccharomyces cerevisiae	glutathione	*	*
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*restores activity after EDTA treatment
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*at least one iron per enzyme molecule, the second metal is zinc or manganese, apparantly depending on growth conditions
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*restores activity after EDTA treatment
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can replace Zn2+
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*metalloenzyme with one Zn2+ per subunit
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for activity, 1 Zn2+ per subunit
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activates, Zn2+ -activation class

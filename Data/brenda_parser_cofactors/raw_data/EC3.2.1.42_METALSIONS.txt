@@ -1,0 +1,1 @@
+ecNumber*3.2.1.42#metalsIons*Mg2+#commentary*relieves inhibition by guanosine diphosphate, some activation#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*136441#!ecNumber*3.2.1.42#metalsIons*Mn2+#commentary*relieves inhibition by guanosine diphosphate, some activation#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*136441#

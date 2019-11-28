@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*dependent for, binding and specificity mechanism, interaction through Ser210, Arg211, and Lys215 and the terminal phosphate group
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*2 zinc atoms per subunit

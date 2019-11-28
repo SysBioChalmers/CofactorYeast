@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal concentration: 5 mM; required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation

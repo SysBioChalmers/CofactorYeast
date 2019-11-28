@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*Ara2p is specific for NAD+, while Ara1p utilizes NADP+

@@ -1,0 +1,1 @@
+ecNumber*2.6.1.44#cofactor*pyridoxal 5'-phosphate#commentary*0.04 mM#organism*Saccharomyces cerevisiae#ligandStructureId*32#literature*660780#!ecNumber*2.6.1.44#cofactor*pyridoxal 5'-phosphate#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*32#literature*640071, 661283#

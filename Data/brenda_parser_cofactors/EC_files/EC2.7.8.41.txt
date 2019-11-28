@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity is obtained in the presence of 20 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1.7 m required for half-maximal activity

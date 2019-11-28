@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for wild-type activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required for activity of mutant which carries an insertion of the Green Fluorescence Protein into a loop which is located between the endonuclease and splicing domains of the Sce VMA1 intein

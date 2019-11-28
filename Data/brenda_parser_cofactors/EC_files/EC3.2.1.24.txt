@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*50% stimulation at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*30% stimulation of the EGTA-inhibited enzyme at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*90% stimulation at 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*inhibition by EGTA can be 90% restored after addition of 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*28% stimulation at 0.1 mM

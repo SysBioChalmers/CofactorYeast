@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*important role in maintaining the structural integrity of the enzyme by preventing the dissociation of the enzyme into subunits, in addition to its function in catalysis; one mol/subunit bound to the epsilon-amino group of lysine
+COFACTOR	Saccharomyces cerevisiae	tetrahydrofolate	*	*requirement with L-serine or L-2-methylserine as substrate
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activation at 0.5-10 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation at 0.5-10 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation at 0.5-10 mM

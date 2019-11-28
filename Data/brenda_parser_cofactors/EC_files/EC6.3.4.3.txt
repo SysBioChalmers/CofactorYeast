@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulates formate kinase reaction, Km: 0.88 mM
+METALSIONS	Saccharomyces cerevisiae	K+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*stimulates formate kinase reaction, Km: 8.7 mM

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.286#cofactor*NAD+#commentary*stereochemistry of hydride transfer to NAD, overview#organism*Saccharomyces cerevisiae#ligandStructureId*7#literature*685232#!ecNumber*1.1.1.286#cofactor*NAD+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*7#literature*696220#

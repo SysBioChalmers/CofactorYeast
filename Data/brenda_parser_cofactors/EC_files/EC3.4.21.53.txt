@@ -1,0 +1,7 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*ATP-dependent protease
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*ATP-dependent
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*maintenance of the holoenzyme does not require the addition of ATP. ATP binding induces conformational changes in the holoenzyme
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*; requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*ATP hydrolysis and protease activity; requirement
+METALSIONS	Saccharomyces cerevisiae	more	*	*maintenance of the holoenzyme does not require the addition of Mg2+

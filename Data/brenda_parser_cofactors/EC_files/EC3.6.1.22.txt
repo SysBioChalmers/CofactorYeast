@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*strong activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*strong activation

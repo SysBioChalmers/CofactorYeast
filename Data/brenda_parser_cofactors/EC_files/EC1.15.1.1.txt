@@ -1,0 +1,12 @@
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*2 mol of Cu per mol of enzyme
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*when mitochondrial iron homeostasis is disrupted, iron accumulates in a reactive form and competes with manganese, inactivating the enzyme. The ability to control the iron pool within mitochondria is critical to maintaining enzyme activity
+METALSIONS	Saccharomyces cerevisiae	Manganese	*	*
+METALSIONS	Saccharomyces cerevisiae	Manganese	*	*mitochondrial localization is essential for insertion of manganese to protein. Insertion is only possible with a newly synthesized polypeptide and seems to be driven by the protein unfolding process associated with mitochondrial import
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*4 mol per mol of enzyme
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*1 atom per subunit
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn	*	*Mn-SOD
+METALSIONS	Saccharomyces cerevisiae	more	*	*enzyme from eukaryotes contains both copper and zinc, enzymes from most prokaryotes contain manganese or iron; overview: metal content
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*1.8 mol of Zn per mol of enzyme
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*2 mol of Zn2+ per mol of enzyme

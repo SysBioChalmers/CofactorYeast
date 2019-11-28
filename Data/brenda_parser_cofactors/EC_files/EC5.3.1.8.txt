@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can reverse inhibition by EDTA
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*can reverse inhibition by EDTA
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*contains 1 gatom per mol of enzyme
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can reverse inhibition by EDTA

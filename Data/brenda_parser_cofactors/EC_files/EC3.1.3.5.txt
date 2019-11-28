@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activation
+METALSIONS	Saccharomyces cerevisiae	Br-	*	*activation

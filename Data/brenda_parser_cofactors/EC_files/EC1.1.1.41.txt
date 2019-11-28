@@ -1,0 +1,11 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*specific for
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*specific for, binding site at subunit IDH2
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*specific for NAD+
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on, one NAD+ site per enzyme tetramer, two functional NAD+ binding sites in the wild-type enzyme; two NAD+ binding sites located on subunit IDH2
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*binding site at subunit IDH2, active site
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, activates
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*requires divalent cations

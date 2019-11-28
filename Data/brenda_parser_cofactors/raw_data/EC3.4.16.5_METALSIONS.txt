@@ -1,0 +1,1 @@
+ecNumber*3.4.16.5#metalsIons*Cd2+#commentary*stimulates activity#organism*Saccharomyces cerevisiae#ligandStructureId*52#literature*679852#!ecNumber*3.4.16.5#metalsIons*more#commentary*the enzyme does not require metals for activity#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*647195#

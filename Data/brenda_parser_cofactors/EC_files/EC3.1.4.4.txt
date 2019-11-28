@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+ dependent and independent enzymes

@@ -1,0 +1,1 @@
+ecNumber*1.1.1.303#cofactor*NADH#commentary*enzyme is specific for NADH#organism*Saccharomyces cerevisiae#ligandStructureId*8#literature*246410#!ecNumber*1.1.1.303#cofactor*NADH#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*8#literature*246413#

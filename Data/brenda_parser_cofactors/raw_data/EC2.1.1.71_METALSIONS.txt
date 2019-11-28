@@ -1,0 +1,1 @@
+ecNumber*2.1.1.71#metalsIons*Ca2+#commentary*leads to a stimulation of activity#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*485166#!ecNumber*2.1.1.71#metalsIons*Mg2+#commentary*leads to a stimulation of activity#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*485166#

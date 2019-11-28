@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*or an other divalent cation required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal concentration is 3 mM

@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Asr1p is involved in calcium signalling. The interaction with calmodulin occurs in vivo and depends on physiological concentrations of Ca2+. A plataeu is reached at 100-500 nM CaCl2

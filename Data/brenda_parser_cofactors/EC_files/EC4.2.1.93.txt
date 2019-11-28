@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*most effective
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*or Mg2+ required
+METALSIONS	Saccharomyces cerevisiae	more	*	*Ca2+ has no effect

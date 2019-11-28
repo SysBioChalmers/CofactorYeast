@@ -1,0 +1,6 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required, Mg2+ most efficient
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on, maximal activity achieved at concentrations of 10 mM or greater
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*can partially replace Mg2+ in activation

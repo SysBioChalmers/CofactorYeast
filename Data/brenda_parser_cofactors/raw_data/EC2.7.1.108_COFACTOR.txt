@@ -1,0 +1,1 @@
+ecNumber*2.7.1.108#cofactor*CTP#commentary*cytidine-5'-triphosphate#organism*Saccharomyces cerevisiae#ligandStructureId*60#literature*677274#!ecNumber*2.7.1.108#cofactor*CTP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*60#literature*687738#

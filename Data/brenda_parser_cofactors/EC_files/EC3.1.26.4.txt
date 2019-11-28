@@ -1,0 +1,8 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for divalent cations, preferably Mg2+, optimal activity at 25 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ activates more than Mn2+, RNase H(70); Mn2+ activates more than Mg2+, RNase H(42)
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for Mg2+, optimal activity at 2-6 mM MgCl2
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*cation requirement can be fullfilled to some extent by 2 mM Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+ activates more than Mn2+, RNase H(70); Mn2+ activates more than Mg2+, RNase H(42)
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required; Mn2+ is preferred over Mg2+
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*

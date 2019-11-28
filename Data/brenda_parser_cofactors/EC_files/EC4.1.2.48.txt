@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*2 mol pyridoxal 5'-phosphate per 4 mol of subunit

@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, optimal concentration around 3-12 mM

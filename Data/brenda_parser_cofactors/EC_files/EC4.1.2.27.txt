@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*pyridoxal 5'-phosphate-dependent enzyme
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*

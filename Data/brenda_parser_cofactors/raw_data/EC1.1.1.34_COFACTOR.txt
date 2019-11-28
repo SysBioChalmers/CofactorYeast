@@ -1,0 +1,1 @@
+ecNumber*1.1.1.34#cofactor*NADPH#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*5#literature*286558, 286560, 286566#

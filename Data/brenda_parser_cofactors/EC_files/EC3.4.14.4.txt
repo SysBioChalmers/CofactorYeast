@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*zinc-dependent enzyme
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*10 micromol, strong inhibition
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*increase of activity
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*10-100 micromol, potent activation

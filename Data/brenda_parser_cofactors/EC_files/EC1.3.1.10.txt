@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific for form B, i.e. hydrogen in position HB is transferred to substrate
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*dependent on

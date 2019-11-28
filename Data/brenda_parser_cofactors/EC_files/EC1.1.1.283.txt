@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*

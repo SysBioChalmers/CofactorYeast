@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*required, best activating metal ion
+METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is a class II divalent metal ion-dependent aldolase

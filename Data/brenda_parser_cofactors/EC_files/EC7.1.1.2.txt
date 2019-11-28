@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*contains a single molecule of FAD per subunit
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme contains FAD
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*contains 0.08 mol Fe per mol of flavin after dialysis

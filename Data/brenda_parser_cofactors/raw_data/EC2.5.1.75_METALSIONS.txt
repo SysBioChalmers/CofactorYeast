@@ -1,0 +1,1 @@
+ecNumber*2.5.1.75#metalsIons*Mg2+#commentary*optimal concentration: 5 mM; required#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*489958#!ecNumber*2.5.1.75#metalsIons*Mn2+#commentary*can partially replace Mg2+ in activation#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*489958#

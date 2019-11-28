@@ -1,0 +1,1 @@
+ecNumber*4.1.1.102#cofactor*FMN#commentary*a modified form of FMN acts as cofactor#organism*Saccharomyces cerevisiae#ligandStructureId*56#literature*746588#!ecNumber*4.1.1.102#cofactor*FMN#commentary*cofactor is prenylated FMN#organism*Saccharomyces cerevisiae#ligandStructureId*56#literature*748038#

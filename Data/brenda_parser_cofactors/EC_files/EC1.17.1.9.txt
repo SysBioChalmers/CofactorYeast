@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*wild-type enzyme shows no activity with NADP+, mutant enzyme D196A/Y197R shows higher activity with NADP+ than with NAD+
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*wild-type enzyme shows no activity with NADP+, mutant enzyme D196A/Y197R shows higher activity with NADP+ than with NAD+

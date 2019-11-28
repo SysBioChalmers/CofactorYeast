@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+COFACTOR	Saccharomyces cerevisiae	heme	*	*heme b

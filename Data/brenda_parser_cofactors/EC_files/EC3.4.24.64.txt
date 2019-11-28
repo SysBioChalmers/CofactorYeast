@@ -1,0 +1,11 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activation of chelator-inactivated enzyme; metalloprotease
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*metalloprotease; requirement (in vitro, in vivo not identified yet)
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*metalloprotease; requirement; requirement (in vitro, in vivo not identified yet)
+METALSIONS	Saccharomyces cerevisiae	more	*	*metalloendopeptidase that does not contain His-Glu-X-X-His zinc-binding motif, cf. human insulinase or E. coli protease III
+METALSIONS	Saccharomyces cerevisiae	more	*	*atomic absorption spectroscopy: purified MAS1/MAS2-holoenzyme lacks significant amounts of zinc, manganese or cobalt, probably lost during purification
+METALSIONS	Saccharomyces cerevisiae	more	*	*consensus metal-binding motif HEliH, formed by amino acid residues 167-171 of Atp23
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activation of chelator-inactivated enzyme
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*zinc binding motif in beta-MPP
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*localized in the active site cavity
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*MPP is a zinc-metalloendopeptidase
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains zinc

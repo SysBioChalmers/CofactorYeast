@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	acetyl-CoA	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	NaCl	*	*
+METALSIONS	Saccharomyces cerevisiae	NaCl	*	*7fold decrease in activity between 0.15 and 1 M

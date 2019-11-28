@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*facilitates RNA polymerization
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*RNA polymerase is a member of the iron-sulfur cluster protein family

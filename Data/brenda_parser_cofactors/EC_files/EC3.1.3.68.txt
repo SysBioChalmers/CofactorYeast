@@ -1,0 +1,7 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, maximal activation with 10 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can replace Mg2+ in activation, with less than 15% of the efficiency
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can replace Mg2+ in activation, with less than 15% of the efficiency
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can replace Mg2+ in activation, with 65% of the efficiency
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*can replace Mg2+ in activation, with 35% of the efficiency
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can replace Mg2+ in activation, with less than 15% of the efficiency

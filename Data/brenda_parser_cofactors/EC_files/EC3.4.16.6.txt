@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates at low concentrations
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates at low concentrations

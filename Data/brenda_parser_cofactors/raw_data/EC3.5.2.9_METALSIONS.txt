@@ -1,0 +1,1 @@
+ecNumber*3.5.2.9#metalsIons*more#commentary*enzyme requires ATP, a monovalent cation such as K+ or NH4+ and a divalent cation such as Mg2+ or Mn2+#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*712045#

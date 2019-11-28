@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	K+	*	*optimum enzyme activity at 50-100 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimum enzyme activity at 0.3-0.5 mM

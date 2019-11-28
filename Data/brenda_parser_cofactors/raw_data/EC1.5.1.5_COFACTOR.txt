@@ -1,0 +1,1 @@
+ecNumber*1.5.1.5#cofactor*NADP+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*10#literature*1505, 392313, 701402#

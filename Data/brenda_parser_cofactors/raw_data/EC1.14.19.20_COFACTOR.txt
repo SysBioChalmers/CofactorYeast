@@ -1,0 +1,1 @@
+ecNumber*1.14.19.20#cofactor*cytochrome b5#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*733924, 734923#!ecNumber*1.14.19.20#cofactor*NAD(P)H#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*40#literature*390937#

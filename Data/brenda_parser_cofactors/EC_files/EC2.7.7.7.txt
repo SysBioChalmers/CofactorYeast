@@ -1,0 +1,7 @@
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required, in [4Fe-4S] clusters, that are bound to the CysB motif in all yeast B family DNA polymerases, assembly of the essential Fe-S cluster is strictly dependent on the function of mitochondrial Nfs1 and cytosolic Nbp35. The C-terminal domain of the catalytic subunit binds the Fe-S cluster in the CysB motif requiring all Cys residues of motif Cysb
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*enzyme prefers Mn2+ over Mg2+ for RTHI activity; enzyme prefers Mn2+ over Mg2+ for RTHI nuclease activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*enzyme prefers Mn2+ over Mg2+ for RTHI nuclease activity
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*increases enzymatic activity, no absolute dependence on zinc
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required, Zn2+ is bound to the CysA motif in yeast B family DNA polymerases

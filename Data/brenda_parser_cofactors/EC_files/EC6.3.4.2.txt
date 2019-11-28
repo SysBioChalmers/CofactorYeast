@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dUTP-dependent activity is dependent on Mg2+, maximal activity at 4 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on 4 mM Mg2+ for maximal activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*

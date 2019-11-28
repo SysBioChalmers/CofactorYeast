@@ -1,0 +1,1 @@
+ecNumber*1.3.3.4#cofactor*flavin#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*190#literature*391001, 391006#

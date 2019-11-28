@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*2.5fold better activity than with NADP+ at 0.2 mM concentration
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*

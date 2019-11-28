@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*heatstable
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*UMP, SAMP, cAMP, UTP, CTP, GTP, ATP and derivatives of NAD+ like NMN, ADP-ribose, ATP-ribose, NADPH, NADP+, NADH do not support dephosphorylation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	more	*	*Ca2+ and Zn2+ have no effect on activity

@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*requirement

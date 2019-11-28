@@ -1,0 +1,1 @@
+ecNumber*3.4.99.B1#metalsIons*more#commentary*probably a metallo-dependent enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*654005#

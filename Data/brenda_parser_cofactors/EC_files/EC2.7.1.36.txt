@@ -1,0 +1,7 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ becomes increasingly active at higher concentrations and at sufficiently high concentrations the most active metal ion
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*substrate MgATP
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required for activity; higher activation than with Mg2+ at concentrations below approx. 0.008 mM, lower activation than with Mg2+ above
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*at 5 mM about 30% of the activity of Mn2+; can partially replace Mn2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*at 5 mM 10% of the activity with Mn2+; can partially replace Mn2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*approx. 15% of the activity with Mn2+ at 5 mM; can partially replace Mn2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*at 5 mM about 10% of the activity with Mn2+; can partially replace Mn2+ in activation

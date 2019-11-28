@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*K+-activated enzyme

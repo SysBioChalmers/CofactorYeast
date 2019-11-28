@@ -1,0 +1,1 @@
+ecNumber*2.7.7.37#metalsIons*more#commentary*0.1-1 mM of Mg2+ or 1 mM of Zn2+ has no effect#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*643249#

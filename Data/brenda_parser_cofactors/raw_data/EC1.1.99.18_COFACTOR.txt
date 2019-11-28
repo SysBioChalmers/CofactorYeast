@@ -1,0 +1,1 @@
+ecNumber*1.1.99.18#cofactor*FMN#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*56#literature*673225#!ecNumber*1.1.99.18#cofactor*heme#commentary*heme b#organism*Saccharomyces cerevisiae#ligandStructureId*48#literature*673225#

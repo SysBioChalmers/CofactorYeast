@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+METALSIONS	Saccharomyces cerevisiae	more	*	*no divalent cations required, not activated by Mg2+ and Mn2+

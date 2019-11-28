@@ -1,0 +1,21 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*mutant Cdk1-as1 has an enlarged ATP binding site
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin B2	*	*i.e. Clb2
+COFACTOR	Saccharomyces cerevisiae	cyclin B5	*	*i.e. Clb5, specificity mechanism, overview
+COFACTOR	Saccharomyces cerevisiae	cyclin Clb5	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Clb6	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl1	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl10	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl2	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl3	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl4	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl5	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl6	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl7	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl8	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pcl9	*	*
+COFACTOR	Saccharomyces cerevisiae	cyclin Pho80	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*determination of cyclin specificity of Cdk1 during cell cycle and with different enzyme substrates, overview
+COFACTOR	Saccharomyces cerevisiae	more	*	*Pho85 associates with 10 Pho85 cyclins
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*

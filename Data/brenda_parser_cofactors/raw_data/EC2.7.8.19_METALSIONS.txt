@@ -1,0 +1,1 @@
+ecNumber*2.7.8.19#metalsIons*Ca2+#commentary*added in the activity assay at a final concentration of 5 mM#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*639428, 639429#

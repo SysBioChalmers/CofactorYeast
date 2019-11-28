@@ -1,0 +1,1 @@
+ecNumber*1.1.5.3#metalsIons*Ca2+#commentary*activated by Ca2+#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*695272#

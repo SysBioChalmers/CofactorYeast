@@ -1,0 +1,7 @@
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*0.1-0.4% of the activity with NADP+
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*preferred cofactor
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*activates

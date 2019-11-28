@@ -1,0 +1,9 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ may bring about an increase in the affinity of the enzyme for MgATP2-; required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ binding site
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can substitute for the physiological cofactor Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can substitute for the physiological cofactor Mg2+
+METALSIONS	Saccharomyces cerevisiae	K+	*	*small activation
+METALSIONS	Saccharomyces cerevisiae	Rb+	*	*small activation

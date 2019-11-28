@@ -1,0 +1,7 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, Mn2+ can fully substitute for Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cation required, Co2 can fully substitute for Mg2+
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*divalent cation required, Fe2+ can fully substitute for Mg2+
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*divalent cation required, Ni2+ can fully substitute for Mg2+
+METALSIONS	Saccharomyces cerevisiae	NaCl	*	*from 0-0.5 M does not affect activity

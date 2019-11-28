@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*maximal activity depends on 0.1 mM Mn2+, 0.3 mM Mg2+ or 1 mM Co2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity is dependent on 0.1 mM Mn2+, 0.3 mM Mg2+ or 1 mM Co2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*maximal activity depends on 0.1 mM Mn2+, 0.3 mM Mg2+ or 1 mM Co2+

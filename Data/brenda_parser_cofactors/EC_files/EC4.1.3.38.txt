@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent on, one molecule of cofactor is deeply buried in the cleft between domains I and II, pyridoxal 5'-phosphate adopts the re-face specificity facing the protein side and is covalently linked to the catalytic residue Lys251 by forming an internal aldimine bond, Schiff base linkage

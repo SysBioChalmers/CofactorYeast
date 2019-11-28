@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required for catalysis; required for catalysis; required for catalysis
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*Fe2+ is required
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*the Ni2+ ion at the active site is chelated by conserved residues and the cofactor 2-oxoglutarate

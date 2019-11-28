@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*fatty acid hydroxylase 1 has a Cb5-like domain at the N terminus and interacts with plant cryoprotective protein Bax inhibitor-1
+COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*a Cb5-like domain (Cb5LD)-containing protein

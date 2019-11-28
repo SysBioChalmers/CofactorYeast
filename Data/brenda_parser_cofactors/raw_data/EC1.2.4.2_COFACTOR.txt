@@ -1,0 +1,1 @@
+ecNumber*1.2.4.2#cofactor*thiamine diphosphate#commentary*required , 2-oxoglutarate dehydrogenase complex#organism*Saccharomyces cerevisiae#ligandStructureId*91#literature*349032#!ecNumber*1.2.4.2#cofactor*thiamine diphosphate#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*91#literature*349038, 349042#

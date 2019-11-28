@@ -1,0 +1,7 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*MgATP is the active substrate; most effective ion; required for activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*MgATP is the active substrate; required for activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*activation at low concentrations
+METALSIONS	Saccharomyces cerevisiae	more	*	*K-type allosteric enzyme; not activated by Na+ and Rb+

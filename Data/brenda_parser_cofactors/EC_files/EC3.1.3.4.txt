@@ -1,0 +1,11 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required for activity by all enzyme forms
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for the 45000 Da enzyme form, maximal activity at 1 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*two membrane-associated forms, 45000 Da and 104000 Da, of the Mg2+-dependent phosphatidate phosphatase
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*colorimetric assay
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*depends on
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*slight stimulation
+METALSIONS	Saccharomyces cerevisiae	more	*	*Mg2+-independent enzyme
+METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is Mg2+-independent and shows no divalent cation requirement for activity
+METALSIONS	Saccharomyces cerevisiae	more	*	*Lpp1p contains ten cysteine residues, whereas Dpp1p and Pah1p contain only three

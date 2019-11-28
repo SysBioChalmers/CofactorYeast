@@ -1,0 +1,1 @@
+ecNumber*4.2.1.12#cofactor*[4Fe-4S]-center#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*2697#literature*730093#

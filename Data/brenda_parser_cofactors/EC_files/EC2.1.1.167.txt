@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*Spb1p possesses a putative S-adenosyl-L-methionine-binding domain, which is common to the S-adenosyl-L-methionine-dependent methyltransferases

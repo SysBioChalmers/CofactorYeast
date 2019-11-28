@@ -1,0 +1,10 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulates activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*inhibitor and activator
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*inhibitor and activator
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*stimulates activity
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*inhibitor and activator
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*stimulates activity
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*stimulates activity
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*stimulates activity
+METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*stimulates activity
+METALSIONS	Saccharomyces cerevisiae	Sn2+	*	*stimulates activity

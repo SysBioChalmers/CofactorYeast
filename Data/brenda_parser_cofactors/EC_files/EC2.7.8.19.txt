@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*added in the activity assay at a final concentration of 5 mM

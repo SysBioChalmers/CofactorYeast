@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required

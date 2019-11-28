@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*stimulates at low concentration, inhibits at high concentrations
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulates
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*less effective than Mg2+; stimulates at low concentrations, inhibits at high concentrations
+METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for metal cations

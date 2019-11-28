@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inhibitory at high concentrations; required for maximum activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*highest activity when ratio Mg2+/diphosphate is 1/10 - 1/20; required for maximum activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+

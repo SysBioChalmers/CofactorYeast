@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*0.2 mM, partial activation
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.2 mM, activates; half-maximal activation at 0.01 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*0.2 mM, partial activation
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*0.2 mM, partial activation

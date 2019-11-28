@@ -1,0 +1,1 @@
+ecNumber*1.1.1.276#cofactor*NADP+#commentary*dependent on; NAD+ cannot replace NADP+#organism*Saccharomyces cerevisiae#ligandStructureId*10#literature*639084#

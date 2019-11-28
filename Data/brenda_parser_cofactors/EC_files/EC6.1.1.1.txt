@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*10 mM, can be replaced by Mn2+ with equal efficiency and by Ca2+, Co2+, Sr2+, Ba2+, spermine with reduced efficiency
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*0.15 M activates 12fold

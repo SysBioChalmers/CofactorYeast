@@ -1,0 +1,1 @@
+ecNumber*3.4.23.35#cofactor*more#commentary*no cofactor requirement#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*30806#!ecNumber*3.4.23.35#cofactor*more#commentary*no requirement for cofactors#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*668789#

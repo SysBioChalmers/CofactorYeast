@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*2 FAD per dimer
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*; one FAD molecule is incorporated in each subunit
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*

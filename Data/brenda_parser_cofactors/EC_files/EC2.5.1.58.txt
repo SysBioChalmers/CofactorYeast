@@ -1,0 +1,6 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*10 mM, required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.01 mM, required
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for activity

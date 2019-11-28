@@ -1,0 +1,22 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*cofactor binding mode
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*cofactor binding mode
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*kinetic study on the binding of monomeric and polymeric derivatives of NAD+
+COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with NADPH
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*CaCl2 and MgCl2 are able to stabilize the enzyme at millimolar concentrations. Ca2+ stabilizes yeast ADH I by preventing the dissociation of the reduced form of the enzyme and by preventing the unfolding of the oxidized form of the enzyme. Ca2+ is fixed by the Asp236 and Glu101 side chains in yeast ADH I
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*0.5 mM, substrate glycolaldehyde, 86.2% residual activity
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*construction of an active metal-substituted mutant by substituting Zn2+ for Cu2+ or Co2+, which maintain the same configuration as the native zinc ion, but possessing a wider pH range and a lower activity and substrate affinity than the wild-type enzyme, overview
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*construction of an active metal-substituted mutant by substituting Zn2+ for Cu2+ or Co2+, which maintain the same configuration as the native zinc ion, but possessing a wider pH range and a lower activity and substrate affinity than the wild-type enzyme, overview
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*0.25 mM, substrate glycolaldehyde, no residual activity
+METALSIONS	Saccharomyces cerevisiae	Fe3+	*	*0.5 mM, substrate glycolaldehyde, 92.2% residual activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.5 mM, substrate glycolaldehyde, 93.5% residual activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*0.5 mM, substrate glycolaldehyde, 89% residual activity
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*0.5 mM, substrate glycolaldehyde, 54.9% residual activity
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*included into the crystal strcuture
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*all isozymes, amino acid residues involved in zinc in binding are Cys46, Cys174, His67, Glu68, Asp49, and Thr48, binding mode
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*native enzyme contains catalytic zinc ions
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains Zn2+
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.5 mM, substrate glycolaldehyde, 32.9% residual activity

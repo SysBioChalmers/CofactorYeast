@@ -1,0 +1,1 @@
+ecNumber*1.4.3.13#cofactor*trihydroxyphenylalanine quinone#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*32740#literature*391742#

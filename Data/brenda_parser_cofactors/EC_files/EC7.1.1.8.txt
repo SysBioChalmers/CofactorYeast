@@ -1,0 +1,8 @@
+COFACTOR	Saccharomyces cerevisiae	cytochrome b	*	*
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*iron-sulfur protein, capturing and binding, performs a structural switch involved in the reaction mechanism, overview
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme complex contains a Rieske Fe-S protein which controls the rate of reduction of the cytochrome b
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme complex contains a [2Fe-2S] cluster
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme contains a Rieske [2Fe-2S] cluster required for activity
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme complex contains an iron-sulfur protein, and heme groups in the cytochrome molecules
+METALSIONS	Saccharomyces cerevisiae	Iron-sulfur cluster	*	*
+METALSIONS	Saccharomyces cerevisiae	more	*	*no Zn2+ in the native enzyme structure

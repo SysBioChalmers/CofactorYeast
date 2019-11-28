@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*required for 100% phosphorylation
+METALSIONS	Saccharomyces cerevisiae	Li+	*	*

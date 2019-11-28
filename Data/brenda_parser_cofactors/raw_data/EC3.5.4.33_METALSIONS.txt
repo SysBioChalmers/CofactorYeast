@@ -1,0 +1,1 @@
+ecNumber*3.5.4.33#metalsIons*Mg2+#commentary*optimum concentration2-5 mM, the enzyme does not require any cofactor, except magnesium ions, to deaminate adenosine 34 efficiently in tRNA. The dependence of the enzymatic reaction on magnesium ions probably reflects the need for a correct tRNA architecture#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*720220#

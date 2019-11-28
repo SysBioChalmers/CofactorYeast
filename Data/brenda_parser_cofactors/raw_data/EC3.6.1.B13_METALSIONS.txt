@@ -1,0 +1,1 @@
+ecNumber*3.6.1.B13#metalsIons*Mg2+#commentary*optimal activity with 4-10 mM Mg2+ or 0.2 mM Mn2+#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*715442#!ecNumber*3.6.1.B13#metalsIons*Mn2+#commentary*optimal activity with 4-10 mM Mg2+ or 0.2 mM Mn2+#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*715442#

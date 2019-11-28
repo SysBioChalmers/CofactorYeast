@@ -1,0 +1,6 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*800-900% activation by 0.5 mM; required
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*25fold enhancement of hydrolysis of Arg-7-amido-4-methylcoumarin and Lys-7-amido-4-methylcoumarin. Hydrolysis of substrates longer than tripeptide or dipeptide-7-amido-4-methylcoumarin is inhibited
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*can partly replace Co2+
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*can partly replace Co2+
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*contains about one atom of zinc per molecule

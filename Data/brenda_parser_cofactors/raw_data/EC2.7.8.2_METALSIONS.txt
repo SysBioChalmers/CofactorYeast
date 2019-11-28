@@ -1,0 +1,1 @@
+ecNumber*2.7.8.2#metalsIons*Mg2+#commentary*Ka: 0.7 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*644353#!ecNumber*2.7.8.2#metalsIons*Mn2+#commentary*2-5 mM; required#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*644361#!ecNumber*2.7.8.2#metalsIons*Mn2+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*644372#

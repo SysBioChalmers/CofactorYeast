@@ -1,0 +1,1 @@
+ecNumber*4.1.1.32#cofactor*GTP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*37#literature*691133#

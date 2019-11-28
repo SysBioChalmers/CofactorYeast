@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*no requirement
+METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for a divalent metal ion
+METALSIONS	Saccharomyces cerevisiae	more	*	*does not require Mg2+ for activity

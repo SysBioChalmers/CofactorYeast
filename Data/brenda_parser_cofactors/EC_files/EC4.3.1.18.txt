@@ -1,0 +1,8 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*PLP
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*Dsd adopts a fold that is characteristic of type III pyridoxal-dependent enzymes
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*reduction of the aldimine linkage tethering PLP to recombinant, tagged D-serine dehydratase by treatment with NaBH4 so as to yield an inactive form of the holoenzyme, DsdR, which is further treated with a protease in order to remove the amino-terminal purification tag. Fourier Transform infrared spectroscopic analysis reveals that both the reduced form DsdR and the reduced/detagged form DsdRD maintain the overall secondary structure of wild-type, but feature a significantly increased thermal stability. The observed Tm values for DsdR and for DsdRD shift to 71.5&deg;C and 73.3&deg;C, respectively, resulting in nearly 11&deg; and 13&deg; higher than the one measured for wild-type. Though catalytically inert, DsdRD retains the ability to enantioselectively bind its natural substrate
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*dependent on

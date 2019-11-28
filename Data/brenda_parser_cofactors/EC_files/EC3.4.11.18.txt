@@ -1,0 +1,9 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*1 mol of wild-type enzyme contains 2 mol of zinc ions and at least 1 mol of cobalt ion, whereas 1 mol of the truncated methionine aminopeptidase DELTA2-69 lacking the putative zinc fingers cotains only a trace amount of zinc ions but still contains one mol of cobalt ion
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*inhibitory above 0.031 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*1 mol of wild-type enzyme contains 2 mol of zinc ions and at least 1 mol of cobalt ion, whereas 1 mol of the truncated methionine aminopeptidase DELTA2-69 lacking the putative zinc fingers cotains only a trace amount of zinc ions but still contains one mol of cobalt ion; 1 mol of wild-type enzyme contains at least 1 mol of Co2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*the mutant enzyme contains 0.43 mol of Co2+ per mol. The wild-type enzyme contains 0.75 mol of Co2+ per mol of enzyme
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*inhibitory above 0.0625 mM
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*1 mol of wild-type enzyme contains 2 mol of Zn2+, zinc fingers are essential for normal MAP function
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*methionine aminopeptidase type 1 requires its N-terminal zinc finger domain for normal function in vivo
+METALSIONS	Saccharomyces cerevisiae	more	*	*not activating: Ni2+, Mg2+, Ca2+, Cd2+, Cu2+

@@ -1,0 +1,1 @@
+ecNumber*2.7.1.49#metalsIons*Mg2+#commentary*at 20 mM MgCl2#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*661537#!ecNumber*2.7.1.49#metalsIons*more#commentary*no metal requirement#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*641657#

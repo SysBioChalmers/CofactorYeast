@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+METALSIONS	Saccharomyces cerevisiae	NaCl	*	*specific HMGR activity is responsive to changes in NaCl concentrations. Minimal activity under optimal conditions and an increase in HMGR activities and protein levels under hyposaline and hypersaline conditions. HMGR activity is crucial for halotolerance as well as for the changes in protein prenylation in response to changing salinity

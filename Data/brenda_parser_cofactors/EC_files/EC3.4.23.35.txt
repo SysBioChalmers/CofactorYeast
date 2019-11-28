@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor requirement
+COFACTOR	Saccharomyces cerevisiae	more	*	*no requirement for cofactors
+METALSIONS	Saccharomyces cerevisiae	more	*	*no Ca2+ or other divalent cation required
+METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for divalent cations

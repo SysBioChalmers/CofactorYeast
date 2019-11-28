@@ -1,0 +1,1 @@
+ecNumber*1.1.1.195#cofactor*NADPH#commentary*dependent for, binding and specificity mechanism, interaction through Ser210, Arg211, and Lys215 and the terminal phosphate group#organism*Saccharomyces cerevisiae#ligandStructureId*5#literature*656540#!ecNumber*1.1.1.195#cofactor*NADH#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*8#literature*696846#

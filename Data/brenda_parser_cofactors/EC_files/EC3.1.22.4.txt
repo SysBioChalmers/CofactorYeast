@@ -1,0 +1,10 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*cannot replace Mg2+ or Mn2+ at concentrations between 1-500 mM
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Endo X3, 70% of the maximal activity obtained when Mg2+ is replaced by Ca2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*Endo X3 shows less than 10% of full activity at a concentration of 10 mM Co2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimum: 5-10 mM MgCl2
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Endo X3, optimum: 10 mM MgCl2, in presence of 10 mM MgCl2 the enzyme is salt sensitive
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*replacement of MgCl2 by equimolar amounts of MnCl2 results in a 50% loss of activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Endo X3, 70% of the maximal activity obtained when Mg2+ is replaced by Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*cannot replace Mg2+ or Mn2+ at concentrations between 1-500 mM

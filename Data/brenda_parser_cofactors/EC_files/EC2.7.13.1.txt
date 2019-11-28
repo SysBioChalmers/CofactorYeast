@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*2 mM, activation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*15-20 mM, activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*1.5 mM, activation
+METALSIONS	Saccharomyces cerevisiae	more	*	*not activated by Ca2+, Zn2+, Fe2+, Cu2+

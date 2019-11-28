@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*glutathione is used in vitro as redox system
+COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*

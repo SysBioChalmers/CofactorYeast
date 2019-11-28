@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*Fe/S cluster assembly of biotin synthase strongly depends on Isu1 and Isu2 proteins; Fe/S cluster assembly on Bio2 strongly depends on the Isu1 and Isu2 proteins, Isa proteins are crucial for the in vivo function of biotin synthase but not for the de novo synthesis of its Fe/S clusters.

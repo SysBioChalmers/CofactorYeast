@@ -1,0 +1,1 @@
+ecNumber*7.2.2.10#metalsIons*Mg2+#commentary*greatest activity at 10 mM Mg2+#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*656340#!ecNumber*7.2.2.10#metalsIons*Ca2+#commentary*dependent on#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*697976#

@@ -1,0 +1,1 @@
+ecNumber*2.1.1.167#cofactor*S-adenosyl-L-methionine#commentary*Spb1p possesses a putative S-adenosyl-L-methionine-binding domain, which is common to the S-adenosyl-L-methionine-dependent methyltransferases#organism*Saccharomyces cerevisiae#ligandStructureId*24#literature*700152#

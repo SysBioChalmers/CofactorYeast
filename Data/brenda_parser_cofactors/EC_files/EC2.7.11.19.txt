@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	ADP	*	*activation; allosteric effector; stimulates phosphorylase conversion and autophosphorylation, 8 mol ADP per mol (alphabetagammadelta)4
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*major role of Mg2+: cosubstrate in Mg2+-ATP complex; requirement
+METALSIONS	Saccharomyces cerevisiae	phosphate	*	*requirement, phosphate containing enzyme

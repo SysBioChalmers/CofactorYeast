@@ -1,0 +1,1 @@
+ecNumber*1.2.1.3#metalsIons*K+#commentary*K+-activated enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*39#literature*348724#

@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*slight activation
+METALSIONS	Saccharomyces cerevisiae	KH2PO4	*	*10-80% activation at various concentrations
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Na2SO4	*	*slight activation
+METALSIONS	Saccharomyces cerevisiae	NaCl	*	*slight activation

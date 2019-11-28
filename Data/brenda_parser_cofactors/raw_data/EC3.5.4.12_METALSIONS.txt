@@ -1,0 +1,1 @@
+ecNumber*3.5.4.12#metalsIons*Mg2+#commentary*required for activation by dCTP, Mg2+ in the absence of dCTP: no effect#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*289000#

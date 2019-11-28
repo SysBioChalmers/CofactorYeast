@@ -1,0 +1,1 @@
+ecNumber*2.7.11.19#cofactor*ADP#commentary*activation; allosteric effector; stimulates phosphorylase conversion and autophosphorylation, 8 mol ADP per mol (alphabetagammadelta)4#organism*Saccharomyces cerevisiae#ligandStructureId*13#literature*492101#

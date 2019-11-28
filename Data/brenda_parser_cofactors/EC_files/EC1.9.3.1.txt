@@ -1,0 +1,11 @@
+COFACTOR	Saccharomyces cerevisiae	hemin	*	*
+COFACTOR	Saccharomyces cerevisiae	Heme a	*	*
+COFACTOR	Saccharomyces cerevisiae	Heme a	*	*spectral studies
+COFACTOR	Saccharomyces cerevisiae	Heme a3	*	*
+METALSIONS	Saccharomyces cerevisiae	Fe	*	*
+METALSIONS	Saccharomyces cerevisiae	Cu	*	*discussion of Cu content
+METALSIONS	Saccharomyces cerevisiae	Cu	*	*location in subunits
+METALSIONS	Saccharomyces cerevisiae	Cu	*	*
+METALSIONS	Saccharomyces cerevisiae	Cu	*	*recombinant Cox19 binds 1 mol eq of Cu(I) per monomer. Cu(I) binding may be a transient property
+METALSIONS	Saccharomyces cerevisiae	Zn	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg	*	*

@@ -1,0 +1,7 @@
+COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*
+COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*class Ia RNRs
+COFACTOR	Saccharomyces cerevisiae	glutaredoxin	*	*class Ia RNRs
+COFACTOR	Saccharomyces cerevisiae	diferric(III)-tyrosyl radical cofactor	*	*class I enzymes
+COFACTOR	Saccharomyces cerevisiae	more	*	*cofactor specificity and binding, role in reaction, overview
+METALSIONS	Saccharomyces cerevisiae	Fe3+	*	*class I enzymes contain diferric(III)-tyrosyl radical cofactor
+METALSIONS	Saccharomyces cerevisiae	more	*	*Mg2+ is not required for activity in vitro

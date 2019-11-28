@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*non-heme enzyme
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*non-heme ferrous enzyme
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*two nickel binding sites per molecule. One of the bound nickel atoms occupies the proposed ferrous-coordinated active site

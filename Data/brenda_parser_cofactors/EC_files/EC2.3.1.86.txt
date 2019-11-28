@@ -1,0 +1,8 @@
+COFACTOR	Saccharomyces cerevisiae	4'-phosphopantetheine	*	*4.0-5.0 mol per mol enzyme; 4.0-5.0 mol per mol enzyme or about 1 mol per 2 subunits; alpha-subunit bears prosthetic group
+COFACTOR	Saccharomyces cerevisiae	4'-phosphopantetheine	*	*requirement, pantetheinate-free mutants have no beta-ketoacyl synthetase activity
+COFACTOR	Saccharomyces cerevisiae	4'-phosphopantetheine	*	*4.0-5.0 mol per mol enzyme or about 1 mol per 2 subunits
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*requirement, enoyl reductase activity, associated with beta-subunit, 6 mol per mol synthetase
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*4 mol FMN per mol of enzyme complex
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*requirement, 25% as efficient as NADPH
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*requirement
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*

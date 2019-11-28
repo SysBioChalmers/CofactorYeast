@@ -1,0 +1,7 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*inhibitory
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*inhibitory
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*very strong activation of enzyme
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*very weak activation
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*

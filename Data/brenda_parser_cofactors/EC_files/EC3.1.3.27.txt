@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*5 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*5 mM

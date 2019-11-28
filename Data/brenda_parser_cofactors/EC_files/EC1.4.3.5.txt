@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*1 mol of FMN per mol of enzyme
+METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for bivalent cations

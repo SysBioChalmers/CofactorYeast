@@ -1,0 +1,1 @@
+ecNumber*1.8.3.2#metalsIons*Iron#commentary*enzyme contains a FeS center#organism*Saccharomyces cerevisiae#ligandStructureId*46#literature*657645#

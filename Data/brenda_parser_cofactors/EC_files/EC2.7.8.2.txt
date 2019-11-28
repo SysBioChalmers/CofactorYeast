@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Ka: 0.7 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*2-5 mM; required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*

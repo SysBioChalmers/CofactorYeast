@@ -1,0 +1,15 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*stability of the enzyme's closed clamp conformation may influence DNA-stimulated ATP hydrolysis
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*all nonsupercoiling type II topoisomerases require ATP hydrolysis for relaxation
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*the N-terminal domain of the protein carries the ATP binding domain consisting of a GHKL fold
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*required
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*the K-loop couples DNA binding to ATPase activity
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*absolute requirement for a divalent cation, Mg2+ is the most effective. Mn2+, Ca2+, or Co2+ support the reaction to a lesser extent
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*absolute requirement for a divalent cation, Mg2+ is the most effective. Mn2+, Ca2+, or Co2+ support the reaction to a lesser extent
+METALSIONS	Saccharomyces cerevisiae	K+	*	*decatenation reaction proceedes efficiently only at concentrations above 150 mM KCl
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for a divalent cation, Mg2+ is the most effective. Mn2+, Ca2+, or Co2+ support the reaction to a lesser extent
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement for a divalent cation, Mg2+ is the most effective. Mn2+, Ca2+, or Co2+ support the reaction to a lesser extent
+METALSIONS	Saccharomyces cerevisiae	NaCl	*	*

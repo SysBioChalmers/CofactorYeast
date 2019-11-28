@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*stereospecific transfer of hydrogen from the A side of reduced pyridine to the ketohexose substrate

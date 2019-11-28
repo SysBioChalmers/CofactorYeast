@@ -1,0 +1,1 @@
+ecNumber*2.5.1.39#metalsIons*Mg2+#commentary*in yeast extracts the specificity for the chain length of the isoprenyl diphosphate substrate is influenced by Mg2+#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*705592#

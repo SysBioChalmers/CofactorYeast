@@ -1,0 +1,13 @@
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*4 Cd2+ sites per subunit, enzyme activity lower compared to Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*supports the hydrolysis of ATP and tripolyphosphate, very weak activation of diphosphate hydrolysis
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximum activation compared to other divalent ion activators
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, serves as physiological cofactor
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the pyrophosphatase requires four divalent metal cations for catalysis, magnesium provides the highest activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*supports the hydrolysis of ATP and tripolyphosphate, very weak activation of diphosphate hydrolysis
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace for Mg2+
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*higher activation than Co2+, Mn2+
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*supports the hydrolysis of ATP and tripolyphosphate, very weak activation of diphosphate hydrolysis

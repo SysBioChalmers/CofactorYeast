@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*reverses EDTA inhibition
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*reversal of EDTA inhibition, inhibition at high concentration
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*reverses EDTA inhibition

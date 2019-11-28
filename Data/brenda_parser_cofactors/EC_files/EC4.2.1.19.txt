@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activity dependent on
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Km: 0.0076 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*essential for assembly of subunits

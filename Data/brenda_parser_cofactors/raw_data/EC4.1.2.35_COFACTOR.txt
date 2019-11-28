@@ -1,0 +1,1 @@
+ecNumber*4.1.2.35#cofactor*thiamine diphosphate#commentary*10% stimulation at 0.16 mM, 65% stimulation at 0.4 mM#organism*Saccharomyces cerevisiae#ligandStructureId*91#literature*648385#

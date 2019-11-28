@@ -1,0 +1,1 @@
+ecNumber*1.5.1.5#metalsIons*K+#commentary*and other monovalent metal cations#organism*Saccharomyces cerevisiae#ligandStructureId*39#literature*1505, 392313#

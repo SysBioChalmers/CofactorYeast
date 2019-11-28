@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+-levels affect separase function, C-terminal region contains a Ca2+-binding motif

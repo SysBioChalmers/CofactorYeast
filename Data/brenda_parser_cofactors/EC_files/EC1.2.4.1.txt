@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*

@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*slight activation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*up to 20% activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*slight activiation
+METALSIONS	Saccharomyces cerevisiae	more	*	*Mg2+, H2PO4-, NH4-, and NO3- have no significant effect on enzyme activity at 5 mM

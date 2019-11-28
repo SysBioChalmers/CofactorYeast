@@ -1,0 +1,8 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*ATP binding is required for enzyme assembly, enzyme contains conserved Walker-type ATPase domain of approximately 230 amino acids, dependent on; dependent on, enzyme contains an ATPase domain with a Walker-type P-loop typical for the AAA protease family, hydrolysis induces conformational changes of the AAA domain driving substrate unfolding and dislocation from the membrane
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on, enzyme contains an ATPase domain with a Walker-type P-loop typical for the AAA protease family
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*intersubunit coordination of the ATP hydrolysis leads to an ordered ATP hydrolysis within the AAA ring, which ensures efficient substrate dislocation from the membrane and translocation to the proteolytic chamber
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	more	*	*conserved metal-binding motif HEXGH at the proteolytic centre
+METALSIONS	Saccharomyces cerevisiae	more	*	*a consensus metal-binding site represents the proteolytic centre, metallopeptidase of the M41 family

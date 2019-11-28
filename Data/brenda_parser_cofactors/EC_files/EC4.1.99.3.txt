@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	FADH2	*	*FADH2 cofactor
+COFACTOR	Saccharomyces cerevisiae	FADH2	*	*purified enzyme contains FAD
+COFACTOR	Saccharomyces cerevisiae	FADH2	*	*
+COFACTOR	Saccharomyces cerevisiae	pterin	*	*cofactor
+METALSIONS	Saccharomyces cerevisiae	Fe	*	*conserved Fe-S domain at the C-terminus of PriL

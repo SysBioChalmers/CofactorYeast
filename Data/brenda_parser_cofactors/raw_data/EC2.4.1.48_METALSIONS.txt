@@ -1,0 +1,1 @@
+ecNumber*2.4.1.48#metalsIons*Mn2+#commentary*essential for reaction, cannot be replaced by Mg2+#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*489242#

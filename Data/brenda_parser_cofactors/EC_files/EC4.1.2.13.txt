@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*

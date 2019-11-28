@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates; inhibition above; Km: 1.68 mM; optimum concentration: 5-7 mM

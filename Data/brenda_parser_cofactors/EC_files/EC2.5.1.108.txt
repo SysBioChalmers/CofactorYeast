@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*dependent on

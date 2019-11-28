@@ -1,0 +1,1 @@
+ecNumber*1.14.14.154#cofactor*cytochrome P450#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*285344, 285345, 285346, 285347, 285348, 285351, 285352, 285354#!ecNumber*1.14.14.154#cofactor*heme#commentary*heme-thiolate enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*48#literature*285344, 285345, 285346, 285347, 285348, 285351, 285352, 285354#

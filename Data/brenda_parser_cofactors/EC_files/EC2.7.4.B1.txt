@@ -1,0 +1,9 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*100% activity at 7.5 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*100% activity at 7.5 mM
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*14% activity at 7.5 mM
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*57% activity at 7.5 mM
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*11% activity at 7.5 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*99% activity at 7.5 mM
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*24% activity at 7.5 mM
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*84% activity at 7.5 mM
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*no activity at 7.5 mM

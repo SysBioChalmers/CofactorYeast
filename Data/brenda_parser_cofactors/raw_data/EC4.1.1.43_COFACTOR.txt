@@ -1,0 +1,1 @@
+ecNumber*4.1.1.43#cofactor*thiamine diphosphate#commentary*dependent on#organism*Saccharomyces cerevisiae#ligandStructureId*91#literature*714975#

@@ -1,0 +1,1 @@
+ecNumber*6.3.2.3#metalsIons*Mg2+#commentary*required, binding structure#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*653899#

@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*requirement, protects from thermal inactivation, Km value 0.5 mM

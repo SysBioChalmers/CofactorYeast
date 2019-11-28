@@ -1,0 +1,1 @@
+ecNumber*3.2.1.113#metalsIons*Ca2+#commentary*requirement, protects from thermal inactivation, Km value 0.5 mM#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*646594#

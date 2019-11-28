@@ -1,0 +1,1 @@
+ecNumber*2.7.1.150#metalsIons*Mg2+#commentary*maximal activity at 1.5 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*393215#!ecNumber*2.7.1.150#metalsIons*Mn2+#commentary*maximal activity at 1.5 mM#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*393215#

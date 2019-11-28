@@ -1,0 +1,1 @@
+ecNumber*7.6.2.3#metalsIons*Mg2+#commentary*required in form of MgATP#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*748144#

@@ -1,0 +1,1 @@
+ecNumber*2.7.1.67#cofactor*ATP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*4#literature*674864, 677233, 722857, 723790, 723791#!ecNumber*2.7.1.67#cofactor*frequenin 1#commentary*required for optimal activity of Pik1#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*675000#

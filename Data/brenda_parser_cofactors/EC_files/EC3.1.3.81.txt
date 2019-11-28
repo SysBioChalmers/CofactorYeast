@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme activity is independent of a divalent cation requirement, the phosphatidic acid phosphatase activity of the DGPP phosphatase is Mg2+-independent
+METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is Mg2+-independent and shows no divalent cation requirement for activity
+METALSIONS	Saccharomyces cerevisiae	more	*	*no Mg2+ or other divalent cations required
+METALSIONS	Saccharomyces cerevisiae	more	*	*no divalent metal ions required
+METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for Mg2+

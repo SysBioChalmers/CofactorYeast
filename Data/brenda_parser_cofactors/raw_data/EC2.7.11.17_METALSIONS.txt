@@ -1,0 +1,1 @@
+ecNumber*2.7.11.17#metalsIons*Ca2+#commentary*Ca2+/calmodulin-dependent; Ca2+/calmodulin-dependent#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*491260#

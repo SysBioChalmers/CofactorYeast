@@ -1,0 +1,1 @@
+ecNumber*3.6.1.9#metalsIons*Zn2+#commentary*tightly bound, contains 1 zinc atom per mol of enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*14#literature*246821#

@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at 1.5 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*maximal activity at 1.5 mM

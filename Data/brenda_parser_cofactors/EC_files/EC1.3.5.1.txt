@@ -1,0 +1,17 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*localized in Sdh1, i.e. the flavoprotein subunit
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*in Sdh1 subunit
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*flavoprotein, 41 pmol FAD per mg of protein in wild-type strain YPH499, possesses a flavoprotein subunit Sdh1p as part of the catalytic dimer of the tetrameric enzyme
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*flavoprotein
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*FAD of Sdh1 is covalently attached at an active site His residue, 8alpha-N3-histidyl-FAD linkage, involving Arg582, required for enzyme activity. Flavinylation and assembly of succinate dehydrogenase are dependent on the C-terminal tail of the flavoprotein subunit. FAD binding is important to stabilize the Sdh1 conformation enabling association with Sdh2 and the membrane anchor subunits
+COFACTOR	Saccharomyces cerevisiae	heme	*	*single heme localized between Sdh3 and Sdh4 subunits
+COFACTOR	Saccharomyces cerevisiae	2,6-dichlorophenolindophenol	*	*
+COFACTOR	Saccharomyces cerevisiae	ubiquinone	*	*
+COFACTOR	Saccharomyces cerevisiae	decylubiquinone	*	*
+COFACTOR	Saccharomyces cerevisiae	heme b562	*	*the enzyme has a heme b-containing membrane-anchoring dimer, comprising the Sdh3p and Sdh4p subunits, overview
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*non-heme iron in the iron-sulfur protein in subunit Sdh2p as part of the catalytic dimer of the tetrameric enzyme, and heme iron in a heme b-containing membrane-anchoring dimer, comprising the Sdh3p and Sdh4p subunits, overview
+METALSIONS	Saccharomyces cerevisiae	Fe-S cluster	*	*two electrons from succinate are transferred one at a time through a flavin cofactor and a chain of iron-sulfur clusters to reduce ubiquinone to an ubisemiquinone intermediate and to ubiquinol
+METALSIONS	Saccharomyces cerevisiae	Fe-S-clusters	*	*overview
+METALSIONS	Saccharomyces cerevisiae	Fe-S-clusters	*	*
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*Sdh2 subunit contains [2Fe-2S], 4[Fe-4S] and [3Fe-4S] clusters
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*[2Fe-2S], [3Fe-4S] and [4Fe-4S] clusters in Sdh2 subunit

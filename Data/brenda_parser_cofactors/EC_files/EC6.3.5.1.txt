@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ at 1 mM. At 5 mM inhibition of NAD+ formation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+, at 5 mM 30% of the activity relative to Mg2+
+METALSIONS	Saccharomyces cerevisiae	K+	*	*required
+METALSIONS	Saccharomyces cerevisiae	NH4+	*	*as effective as K+ in stimulating activity

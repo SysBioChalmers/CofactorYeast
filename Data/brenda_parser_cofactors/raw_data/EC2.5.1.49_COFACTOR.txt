@@ -1,0 +1,1 @@
+ecNumber*2.5.1.49#cofactor*pyridoxal 5'-phosphate#commentary*absolutely required for activity, Km 0.00294 mM#organism*Saccharomyces cerevisiae#ligandStructureId*32#literature*637825#!ecNumber*2.5.1.49#cofactor*pyridoxal 5'-phosphate#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*32#literature*637331, 637332, 637835, 671277#

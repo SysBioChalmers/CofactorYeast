@@ -1,0 +1,9 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required for maximal activity
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Divalent cations	*	*required
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*less than 10% activation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation, enzyme with Mn2+ is 60-95% as active as compared with Ca2+; in the presence of 10 mM Mn2+: 3fold activation of its activity toward UDP, but not GDP, compared to activation by 10 mM Ca2+
+METALSIONS	Saccharomyces cerevisiae	more	*	*
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*less than 10% activation
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*less than 10% activation

@@ -1,0 +1,7 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	flavin	*	*flavin-dependent enzyme
+COFACTOR	Saccharomyces cerevisiae	more	*	*wild-type shows no activity with NADH/NAD+
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*only active with the chimeric mutant enzyme, not with the wild-type
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*only active with the chimeric mutant enzyme, not with the wild-type
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*dependent on

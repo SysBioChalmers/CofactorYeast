@@ -1,0 +1,1 @@
+ecNumber*2.7.1.40#cofactor*ADP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*13#literature*671859#!ecNumber*2.7.1.40#cofactor*ATP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*4#literature*721988#

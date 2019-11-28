@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*1 mM; required
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*reactivates after EDTA or EGTA treatment
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*dependent
+METALSIONS	Saccharomyces cerevisiae	more	*	*no effect with Mg2+, Mn2+, Co3+, and Fe3+

@@ -1,0 +1,1 @@
+ecNumber*3.1.3.17#metalsIons*Mg2+#commentary*Km: 0.003 mM, activity is dependent on divalent metal ions, Mg2+ or Mn2+#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*94687#!ecNumber*3.1.3.17#metalsIons*Mn2+#commentary*Km: 0.006 mM, activity is dependent on divalent metal ions, Mg2+ or Mn2+#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*94687#

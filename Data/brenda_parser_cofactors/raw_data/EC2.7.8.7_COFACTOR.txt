@@ -1,0 +1,1 @@
+ecNumber*2.7.8.7#cofactor*4'-phosphopantetheine#commentary*prosthetic group#organism*Saccharomyces cerevisiae#ligandStructureId*1273#literature*645405#

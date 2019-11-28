@@ -1,0 +1,8 @@
+COFACTOR	Saccharomyces cerevisiae	ADP	*	*
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	biotin	*	*enzyme-bound
+COFACTOR	Saccharomyces cerevisiae	biotin	*	*
+COFACTOR	Saccharomyces cerevisiae	biotin	*	*dependent on, bound by the biotin carboxyl carrier protein
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme requires Mg2+ or Mn2+ for coordinating the ATP phosphates for catalysis
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*the enzyme requires Mg2+ or Mn2+ for coordinating the ATP phosphates for catalysis

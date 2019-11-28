@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required. Mn2+ or Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required. Mn2+ or Mg2+
+METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is independent of metals, Mg2+, Mn2+, Co2+, Ni2+, Li+, and Ca2+ show no effect on activity

@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*non-heme iron

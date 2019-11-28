@@ -1,0 +1,6 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*strictly dependent on a bivalent metal cation like Mg2+ which supports the highest rate of dUTP hydrolysis
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*strictly dependent on a bivalent metal cation like Mn2+
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*strictly dependent on a bivalent metal cation like Zn2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*strictly dependent on a bivalent metal cation like Co2+
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*strictly dependent on a bivalent metal cation like Ni2+

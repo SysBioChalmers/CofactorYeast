@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	CTP	*	*cytidine-5'-triphosphate
+COFACTOR	Saccharomyces cerevisiae	CTP	*	*

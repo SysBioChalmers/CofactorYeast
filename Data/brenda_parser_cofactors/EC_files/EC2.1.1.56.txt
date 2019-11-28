@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inactivation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*inhibition
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*no activation
+METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by NaCl

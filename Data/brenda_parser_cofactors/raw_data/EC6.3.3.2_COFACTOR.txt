@@ -1,0 +1,1 @@
+ecNumber*6.3.3.2#cofactor*MgATP2-#commentary*enzyme is inhibited by salt, therefore MgATP2- is used as cofactor instead of MgCl2 and NaATP-#organism*Saccharomyces cerevisiae#ligandStructureId*108#literature*652260#

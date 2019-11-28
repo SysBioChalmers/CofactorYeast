@@ -1,0 +1,1 @@
+ecNumber*1.3.1.88#cofactor*FAD#commentary*stimulates activity 25fold#organism*Saccharomyces cerevisiae#ligandStructureId*20#literature*713504#

@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*in yeast extracts the specificity for the chain length of the isoprenyl diphosphate substrate is influenced by Mg2+

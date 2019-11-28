@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*30% activation by 20-300 mM neutral salts such as KCl, NaNO3 and MnCl2, V-trehalase. C-trehalase is absolutely dependent on Ca2+ or Mn2+. 2fold activation of C-trehalase by MnCl2
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*C-trehalase is absolutely dependent on Ca2+ or Mn2+. 4fold activation of C-trehalase at 2.5 mM CaCl2
+METALSIONS	Saccharomyces cerevisiae	K+	*	*30% activation by 100 mM KCl, V-trehalase
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*30% activation by 20-300 mM neutral salts such as KCl, NaNO3 and MnCl2, V-trehalase

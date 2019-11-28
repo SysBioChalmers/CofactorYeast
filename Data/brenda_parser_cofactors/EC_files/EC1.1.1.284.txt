@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*no activity with NADP+

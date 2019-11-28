@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preferred cofactor
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*less effective cofactor
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*

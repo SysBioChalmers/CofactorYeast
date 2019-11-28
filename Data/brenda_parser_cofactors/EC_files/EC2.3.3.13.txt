@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	K+	*	*required
+METALSIONS	Saccharomyces cerevisiae	K+	*	*enzyme requires the presence of monovalent cations, K+ is most effective
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*contains approximately 4 gatoms of zinc per dimer of 130000 Da
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*enzyme of strain S288C contains 2 gatoms of zinc per subunit

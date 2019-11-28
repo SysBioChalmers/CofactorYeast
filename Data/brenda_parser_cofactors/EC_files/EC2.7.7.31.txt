@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*in the presence of Mn2+ yeast telomerase can switch to a template-independent mode of DNA synthesis as terminal transferase

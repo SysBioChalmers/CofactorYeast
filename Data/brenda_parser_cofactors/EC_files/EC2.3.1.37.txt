@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*required

@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*; 
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*either Mn2+ or Mg2+ activate at low concentrations. Km: Km: 1.0 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*either Mn2+ or Mg2+ activate at low concentrations

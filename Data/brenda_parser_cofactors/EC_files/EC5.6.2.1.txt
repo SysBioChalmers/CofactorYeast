@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation is not required. 7-10 mM Mg2+ stimulates 10fold to 20fold
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*25% as effective as Mg2+ in stimulation
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*divalent cation is not required. 7-10 mM Ca2+ stimulates 10fold to 20fold
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*no activity in absence of NaCl or at NaCl concentrations greater than 0.3 M, maximal activity at 0.15 M NaCl
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*maximal activity of wild-type enzyme at 150 mM, maximal activity of mutant enzyme N726D at 75-100 mM

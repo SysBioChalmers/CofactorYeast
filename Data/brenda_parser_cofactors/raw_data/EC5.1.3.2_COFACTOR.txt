@@ -1,0 +1,1 @@
+ecNumber*5.1.3.2#cofactor*NAD+#commentary*each dimer contains one molecule of NAD+ tightly bound#organism*Saccharomyces cerevisiae#ligandStructureId*7#literature*2309, 2311#

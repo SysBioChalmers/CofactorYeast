@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*specific for NADH as reductant
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	flavin	*	*iron-sulfur flavoprotein
+COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with NADPH
+METALSIONS	Saccharomyces cerevisiae	3Fe-4S-center	*	*iron-sulfur flavoprotein

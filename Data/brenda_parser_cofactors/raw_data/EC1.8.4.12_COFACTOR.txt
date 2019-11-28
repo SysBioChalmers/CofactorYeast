@@ -1,0 +1,1 @@
+ecNumber*1.8.4.12#cofactor*thioredoxin#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*121#literature*658212, 658213, 658217, 660379, 668357#

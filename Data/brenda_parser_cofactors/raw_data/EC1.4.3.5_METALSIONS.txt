@@ -1,0 +1,1 @@
+ecNumber*1.4.3.5#metalsIons*more#commentary*no requirement for bivalent cations#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*391900#

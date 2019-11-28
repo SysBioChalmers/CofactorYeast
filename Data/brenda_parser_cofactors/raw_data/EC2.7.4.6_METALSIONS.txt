@@ -1,0 +1,1 @@
+ecNumber*2.7.4.6#metalsIons*Mg2+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*642661#!ecNumber*2.7.4.6#metalsIons*Mn2+#commentary*equally effective as Mg2+; requirement#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*642661#

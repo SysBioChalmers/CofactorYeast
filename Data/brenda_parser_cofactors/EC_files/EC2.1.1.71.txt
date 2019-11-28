@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*leads to a stimulation of activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*leads to a stimulation of activity

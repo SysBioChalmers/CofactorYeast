@@ -1,0 +1,17 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation, P1,P4-bis(5'-adenosyl) tetraphosphate-synthesis; less effective than Mn2+ or Ca2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inhibitory in presence of phosphate for ADP/phosphate exchange reaction
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*requirement, Ap4A-synthesis
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*not NDP-arsenolysis or NDP/phosphate-exchange reaction
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*no effect
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*slight activation of P1,P4-bis(5'-adenosyl) tetraphosphate-synthesis
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*less effective than Mg2+; requirement, less effective than Mn2+
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*as good as Mn2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activation, less effective than Mn2+ or Ca2+ or Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*slight activation of P1,P4-bis(5'-adenosyl) tetraphosphate-synthesis
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*slight activation
+METALSIONS	Saccharomyces cerevisiae	divalent metal cations	*	*requirement
+METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by Ni2+
+METALSIONS	Saccharomyces cerevisiae	more	*	*Cu2+; no activation by Ni2+
+METALSIONS	Saccharomyces cerevisiae	more	*	*no divalent metal cation requirement for NDP-arsenolysis or NDP/phosphate-exchange reaction

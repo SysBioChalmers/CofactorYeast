@@ -1,0 +1,1 @@
+ecNumber*1.17.4.1#metalsIons*Fe3+#commentary*class I enzymes contain diferric(III)-tyrosyl radical cofactor#organism*Saccharomyces cerevisiae#ligandStructureId*70#literature*715085#!ecNumber*1.17.4.1#metalsIons*more#commentary*Mg2+ is not required for activity in vitro#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*437918#

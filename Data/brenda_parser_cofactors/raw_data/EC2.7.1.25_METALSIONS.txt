@@ -1,0 +1,1 @@
+ecNumber*2.7.1.25#metalsIons*Mg2+#commentary*activation#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*641219#!ecNumber*2.7.1.25#metalsIons*more#commentary*a divalent cation is required for activity#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*641219#

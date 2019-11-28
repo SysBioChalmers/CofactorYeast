@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*0.04 mM
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*

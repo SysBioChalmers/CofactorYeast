@@ -1,0 +1,10 @@
+COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*activation
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*requirement
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*forms a series of intermediates during the reaction, gem-diamine and external aldimine of aminoacrylate are the primary intermediates in the forward half-reaction with L-serine and the external aldimine of aminoacrylate or its complex with L-homocysteine is the primary intermediate in the reverse half-reaction with L-cystathionine
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*reacts with L-allothreonine to form a stable 3-methyl aminoacrylate intermediate
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+COFACTOR	Saccharomyces cerevisiae	heme	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*heme is no cofactor
+COFACTOR	Saccharomyces cerevisiae	more	*	*no dependence on heme
+COFACTOR	Saccharomyces cerevisiae	more	*	*yeast cystathionine beta-synthase does not have a heme cofactor

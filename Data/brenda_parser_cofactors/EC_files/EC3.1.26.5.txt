@@ -1,0 +1,8 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*preferred metal ion, absolutely required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*high activation, specific for
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on, binds to the pro-Rp nonbridging oxygen of the scissile bond, coordination
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for formation of the Pop6-Pop7-RNA complex
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can substitute for Mg2+, slightly lower activity
+METALSIONS	Saccharomyces cerevisiae	more	*	*divalent metal ions are important cofactors for the reaction
+METALSIONS	Saccharomyces cerevisiae	more	*	*divalent metal ions are absolutely required, reduced activity with Ca2+

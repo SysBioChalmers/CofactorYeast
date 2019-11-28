@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*tightly bound, contains 1 zinc atom per mol of enzyme

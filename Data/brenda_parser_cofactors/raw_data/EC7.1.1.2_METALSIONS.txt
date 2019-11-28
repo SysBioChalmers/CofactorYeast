@@ -1,0 +1,1 @@
+ecNumber*7.1.1.2#metalsIons*Iron#commentary*contains 0.08 mol Fe per mol of flavin after dialysis#organism*Saccharomyces cerevisiae#ligandStructureId*46#literature*392679#

@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement, optimal concentration at 8 mM
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*requirement, optimal concentration at 0.008 mM, zinc content: 0.7-0.12 mol/mol enzyme

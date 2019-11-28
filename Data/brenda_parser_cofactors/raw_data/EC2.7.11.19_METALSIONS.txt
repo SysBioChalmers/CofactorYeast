@@ -1,0 +1,1 @@
+ecNumber*2.7.11.19#metalsIons*Mg2+#commentary*major role of Mg2+: cosubstrate in Mg2+-ATP complex; requirement#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*492101, 492119#!ecNumber*2.7.11.19#metalsIons*phosphate#commentary*requirement, phosphate containing enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*16#literature*492101, 492119#

@@ -1,0 +1,15 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*specific affinity to tRNA imported into mitochondria, involved to direct mitochondrial tRNA import in vitro
+COFACTOR	Saccharomyces cerevisiae	more	*	*complex formation between active centers of enolase and phosphoglycerate mutase determined, interaction of enolase with C-terminal tail of phosphoglycerate mutase confirmed
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*two ions are necessary for activity, shows inhibition at high concentration
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activity depends on
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*physiological cofactor
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*enolase is activated by low concentrations of Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can replace Mg2+, mechanistic study using electron paramagnetic resonance
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*catalytic binding sites analyzed in vitro
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can also bind and activate the enzyme
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can replace Mg2+, mechanistic study using electron paramagnetic resonance
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*catalytic binding sites analyzed in vitro
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can also bind and activate the enzyme
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activates in 0.1 M KCl, maximum activity at 0.0035 mM. Maximum of 4 Co2+ ions are bound per dimer
+METALSIONS	Saccharomyces cerevisiae	more	*	*Ca2+, Ba2+, Sr2+, Hg2+, Pb2+, and Be2+ are not capable of activating the enzyme

@@ -1,0 +1,1 @@
+ecNumber*4.2.3.1#metalsIons*Zn2+#commentary*contains a zinc ribbon domain#organism*Saccharomyces cerevisiae#ligandStructureId*14#literature*747483#

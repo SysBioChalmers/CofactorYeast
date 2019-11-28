@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activity is progressively increased with increasing Zn2+ concentrations up to 0.1 mM, inhibition at high concentrations
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for catalysis, bound at the active site
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*8 Zn at metal binding site A and 8 Zn at metal binding site B are required for full activity per homooctamer

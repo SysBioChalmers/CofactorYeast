@@ -1,0 +1,1 @@
+ecNumber*1.14.18.5#metalsIons*Iron#commentary*a diiron binding enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*46#literature*719795#

@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*about 10fold less active than NADPH
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preferred cofactor
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*

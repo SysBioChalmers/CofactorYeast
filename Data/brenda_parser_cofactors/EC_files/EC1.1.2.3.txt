@@ -1,0 +1,27 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*the flavoenzyme possesses flavocytochrome b2 subunits, that each consists of an N-terminal cytochrome domain and a C-terminal flavodehydrogenase, FDH, domain
+COFACTOR	Saccharomyces cerevisiae	heme	*	*one heme per subunit
+COFACTOR	Saccharomyces cerevisiae	heme	*	*the N-terminal domain of the enzyme contains protohaem IX
+COFACTOR	Saccharomyces cerevisiae	heme	*	*the flavoenzyme possesses flavocytochrome b2 subunits, that each consists of an N-terminal cytochrome domain and a C-terminal flavodehydrogenase, FDH, domain
+COFACTOR	Saccharomyces cerevisiae	heme	*	*each enzyme subunit contains a cytochrome b5-like heme domain
+COFACTOR	Saccharomyces cerevisiae	heme	*	*flavohemoprotein, in the crystal structure, FMN and heme are face to face, and appear to be in a suitable orientation and at a suitable distance for exchanging electrons. But in one subunit out of two, the heme domain is disordered and invisible. The heme domains are mobile in solution
+COFACTOR	Saccharomyces cerevisiae	heme	*	*each of the four subunits contains a beta-type heme
+COFACTOR	Saccharomyces cerevisiae	heme	*	*
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*one FMN per subunit
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*the C-terminal domain of the enzyme contains FMN
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*each subunit of the tetramer is composed of two domains, one binding a heme and the other an FMN prosthetic group. The flavin binding domain contains a parallel beta8alpha8 barrel structure and is composed of residues 100 to 486. The FMN moiety, which is located at the C-terminal end of the central beta-barrel, is mostly sequestered from solvent. It forms hydrogen bond interactions with main- and side-chain atoms from six of the eight beta-strands. The interaction of Lys349 with atoms N-1 and O-2 of the flavin ring is probably responsible for stabilization of the anionic form of the flavin semiquinone and hydroquinone and enhancing the reactivity of atom N-5 toward sulfite. The binding of pyruvate at the active site in subunit 2 is stabilized by interaction of its carboxylate group with the side-chain atoms of Arg376 and Tyr143. Residues His373 and Tyr254 interact with the keto-oxygen atom and are involved in catalysis. In contrast, four water molecules occupy the substrate-binding site in subunit 1 and Tyr143 forms a hydrogen bond to the ordered heme propionate group. Otherwise the two flavin-binding domains are identical within experimental error
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*flavohemoprotein, in the crystal structure, FMN and heme are face to face, and appear to be in a suitable orientation and at a suitable distance for exchanging electrons
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*each of the four subunits contains a flavin mononucleotide prosthetic group
+COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*the flavoenzyme possesses flavocytochrome b2 subunits, that each consists of an N-terminal cytochrome domain and a C-terminal flavodehydrogenase, FDH, domain
+COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*
+COFACTOR	Saccharomyces cerevisiae	ferricytochrome c	*	*
+COFACTOR	Saccharomyces cerevisiae	cytochrome	*	*each subunit of the tetramer is composed of two domains, one binding a heme and the other an FMN prosthetic group. The cytochrome domain consists of residues 1 to 99
+COFACTOR	Saccharomyces cerevisiae	flavocytochrome b2	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*2,6-dichloroindophenol, ferricyanide, methylene blue, 1,2-naphthoquinone and cytochrome c can serve as electron acceptors; electron acceptors other than ferricytochrome c used
+COFACTOR	Saccharomyces cerevisiae	more	*	*2,6-dichlorophenolindophenol used as electron acceptor, 10-fold more sensitive than ferricyanide; electron acceptors other than ferricytochrome c used
+COFACTOR	Saccharomyces cerevisiae	more	*	*electron acceptors other than ferricytochrome c used
+COFACTOR	Saccharomyces cerevisiae	more	*	*electron acceptors other than ferricytochrome c used; ferricyanide used as electron acceptor
+COFACTOR	Saccharomyces cerevisiae	more	*	*binding studies and models of the complex between cytochrome c and Fcb2, E63 is involved in the interaction with cyt. c, overview. Cytochrome c mutants E63K/D72K and E63K/D72K show reduced activity, but neither the K296M nor the Y97F mutation show significantly alteration of the enzyme kinetics. Effect of mutations on heme and cytochrome binding, overview
+COFACTOR	Saccharomyces cerevisiae	more	*	*FMN and heme groups are localized in two different domains
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*bound to enzyme
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*heme cofactor

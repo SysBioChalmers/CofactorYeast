@@ -1,0 +1,1 @@
+ecNumber*7.1.1.8#cofactor*cytochrome b#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*439943, 439949, 440005, 440021#

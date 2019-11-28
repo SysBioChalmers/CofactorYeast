@@ -1,0 +1,1 @@
+ecNumber*2.7.1.23#metalsIons*Cu2+#commentary*POS5 is upregulated 3.4fold after treatment for 10 to 12 min with 2.5 mM#organism*Saccharomyces cerevisiae#ligandStructureId*19#literature*691390#

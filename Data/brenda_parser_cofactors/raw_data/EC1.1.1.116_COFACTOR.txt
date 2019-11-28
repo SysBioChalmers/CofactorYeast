@@ -1,0 +1,1 @@
+ecNumber*1.1.1.116#cofactor*NAD+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*7#literature*654283#!ecNumber*1.1.1.116#cofactor*NAD+#commentary*Ara2p is specific for NAD+, while Ara1p utilizes NADP+#organism*Saccharomyces cerevisiae#ligandStructureId*7#literature*668641#

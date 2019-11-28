@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km: 4.0 mM; required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*10 mM, 38% of the activity relative to Mg2+. Progressive inactivation of the enzyme by MnCl2 is not reversible by subsequent addition of MgCl2

@@ -1,0 +1,1 @@
+ecNumber*1.1.99.40#metalsIons*Zn2+#commentary*0.005 mM, about 3fold stimulation#organism*Saccharomyces cerevisiae#ligandStructureId*14#literature*740757#!ecNumber*1.1.99.40#metalsIons*Co2+#commentary*0.005 mM, about 3fold stimulation#organism*Saccharomyces cerevisiae#ligandStructureId*23#literature*740757#

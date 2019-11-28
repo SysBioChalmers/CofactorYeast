@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement for a divalent metal ion; Ka: 2.6 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required

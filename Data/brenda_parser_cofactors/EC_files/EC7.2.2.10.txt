@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*greatest activity at 10 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*dependent on

@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains a zinc ribbon domain

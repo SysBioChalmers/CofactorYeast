@@ -1,0 +1,8 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*mechanism; requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for substrate binding
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+-dependent activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation; mechanism
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*not activating
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*not activating

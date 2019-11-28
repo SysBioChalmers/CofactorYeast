@@ -1,0 +1,1 @@
+ecNumber*3.6.1.62#metalsIons*Mg2+#commentary*conserved glutamate residues E152, E153, and E198 coordinate a magnesium ion through a water mediated contact, while E149 directly contacts the metal#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*735287#

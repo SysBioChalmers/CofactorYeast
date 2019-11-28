@@ -1,0 +1,20 @@
+COFACTOR	Saccharomyces cerevisiae	ADP	*	*preference for ADP (or ATP) over other nucleotides
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*preference for ADP (or ATP) over other nucleotides
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*34% of the activation with Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can fulfill the free divalent cation requirement
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*it is shown that Mn2+ affinity increases as the pH increases
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activated by Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*the enzyme possesses one binding site for Mn2+ per enzyme monomer
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*61% of the activation with Mn2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*40% of the activation with Mn2+
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*25% of the activation with Mn2+
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can fulfill the free divalent cation requirement
+METALSIONS	Saccharomyces cerevisiae	more	*	*enzyme contains at least two binding sites, related to cation requirement. One binding a cation-nucleotide complex, the true substrate, and the latter site greatly enhances the affinity of the former for the cation nucleotide substrate

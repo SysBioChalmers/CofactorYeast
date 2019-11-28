@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*stereochemistry of hydride transfer to NAD, overview
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*best activator, 200 mM activates by 100%, increases the affinity of enzyme for NAD+ at high pH
+METALSIONS	Saccharomyces cerevisiae	NH4+	*	*200 mM activates by 80.9%
+METALSIONS	Saccharomyces cerevisiae	Rb+	*	*200 mM activates by 29.3%
+METALSIONS	Saccharomyces cerevisiae	more	*	*200 mM Cs+, Li+, and Na+ do not activate

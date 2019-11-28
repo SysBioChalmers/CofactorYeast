@@ -1,0 +1,1 @@
+ecNumber*3.2.1.21#metalsIons*more#commentary*the enzyme is not affected by Ca2+, Co2+, Mg2+, K+, Na+, and Zn2+#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*679566#

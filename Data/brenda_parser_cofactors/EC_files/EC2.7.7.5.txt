@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*strong inhibition
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*strong inhibition
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*strong inhibition
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*strong inhibition

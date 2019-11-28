@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*necessary for activity; optimum: 1.5 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*necessary for activity; optimum: 0.3 mM, stimulation about two-thirds the rate with Mg2+
+METALSIONS	Saccharomyces cerevisiae	K+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	NH4+	*	*activating; stimulates at pH 9.5 about 100%, optimum: 50 mM

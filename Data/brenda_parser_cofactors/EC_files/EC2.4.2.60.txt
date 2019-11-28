@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*iron-dependent sulfide transfer reaction from the protein to a reaction intermediate

@@ -1,0 +1,9 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	K+	*	*required
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*substrate affinity is enhanced under low-salt (10 mM KCl) conditions
+METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme requires a divalent metal ion for catalysis

@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ or Mn2+ stimulates; optimal stimulation at 7 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*2fold activation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, 10 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+ or Mn2+ stimulates

@@ -1,0 +1,9 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme is linked to FAD
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*firmly attached but nut covalently linked to the protein; one molecule of FAD per subunit
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on, N-terminal cysteine pair contributes to the correct arrangement of the FAD-binding fold
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*dithionite and photochemical reductions of Erv2p show full reduction of the flavin cofactor after the addition of 4 electrons with a midpoint potential of -200 mV at pH 7.5. No charge-transfer complex between a proximal thiolate and the oxidized flavin
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on. The three disulfides of the enzyme are not essential for FAD binding
+COFACTOR	Saccharomyces cerevisiae	more	*	*enzyme contains a thioredoxin and an ERV1 domain
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme contains a FeS center

@@ -1,0 +1,1 @@
+ecNumber*2.7.1.1#cofactor*ATP#commentary*activates, ATP-dependent enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*4#literature*640249#!ecNumber*2.7.1.1#cofactor*ATP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*4#literature*640218, 640222, 640224, 640225, 640231, 640235, 661952, 662244, 662581, 703436#

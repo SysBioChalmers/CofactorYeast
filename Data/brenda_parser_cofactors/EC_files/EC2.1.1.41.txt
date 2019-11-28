@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	AdoMet	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*5 mM, required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*

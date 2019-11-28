@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*2 mM, 2.2fold activation
+METALSIONS	Saccharomyces cerevisiae	more	*	*2 mM CuSO4 shows no effect
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*2 mM, 1.4fold activation

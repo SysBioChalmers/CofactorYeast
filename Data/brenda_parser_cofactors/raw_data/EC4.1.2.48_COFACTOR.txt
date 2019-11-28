@@ -1,0 +1,1 @@
+ecNumber*4.1.2.48#cofactor*pyridoxal 5'-phosphate#commentary*2 mol pyridoxal 5'-phosphate per 4 mol of subunit#organism*Saccharomyces cerevisiae#ligandStructureId*32#literature*5205#

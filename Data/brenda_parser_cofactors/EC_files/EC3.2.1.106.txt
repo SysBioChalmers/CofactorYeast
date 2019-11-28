@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	more	*	*metal ions not required
+METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for divalent cations

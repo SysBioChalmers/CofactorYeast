@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on, binds at a domain with a Rossmann fold, containing the 25GlyXGlyXXGly30 sequence

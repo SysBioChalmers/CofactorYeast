@@ -1,0 +1,1 @@
+ecNumber*1.14.11.B2#metalsIons*Fe2+#commentary*required for catalysis#organism*Saccharomyces cerevisiae#ligandStructureId*25#literature*744589, 746464#

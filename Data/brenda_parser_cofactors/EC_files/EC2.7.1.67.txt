@@ -1,0 +1,9 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	frequenin 1	*	*required for optimal activity of Pik1
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on, maximal activity at 10 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on 10 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*0.5 mM can substitute for Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can not substitute for Mg2+
+METALSIONS	Saccharomyces cerevisiae	more	*	*no direct effect by Ca2+

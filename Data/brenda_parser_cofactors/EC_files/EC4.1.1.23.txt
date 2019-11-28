@@ -1,0 +1,14 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*functions without cofactors
+COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor requirement
+COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactors required
+METALSIONS	Saccharomyces cerevisiae	more	*	*no metal cofactor, e.g. Zn2+ or other transition metal ions
+METALSIONS	Saccharomyces cerevisiae	more	*	*no metal cofactor
+METALSIONS	Saccharomyces cerevisiae	more	*	*no metal ion requirement
+METALSIONS	Saccharomyces cerevisiae	more	*	*functions without metals
+METALSIONS	Saccharomyces cerevisiae	more	*	*zinc-free fully active recombinant ODCase expressed in Escherichia coli, metals do not directly participate in the decarboxylation mechanism
+METALSIONS	Saccharomyces cerevisiae	more	*	*no metal cofactor requirement
+METALSIONS	Saccharomyces cerevisiae	more	*	*no metals required
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*zinc, rather than a proton may be largely responsible for neutralizing charge development in the transition state for OMP decarboxylation
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*no zinc detected
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*mechanism may include participation of Zn2+, which interacts at O4 with the substrate
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*native ODCase expressed in yeast contains zinc, but not recombinant ODCase expressed in Escherichia coli, zinc is not involved in substrate decarboxylation

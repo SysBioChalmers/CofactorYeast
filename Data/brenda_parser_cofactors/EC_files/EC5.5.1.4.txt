@@ -1,0 +1,8 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*cofactor, Km: 0.008 mM
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*slight stimulation
+METALSIONS	Saccharomyces cerevisiae	K+	*	*
+METALSIONS	Saccharomyces cerevisiae	NH4+	*	*
+METALSIONS	Saccharomyces cerevisiae	NH4+	*	*strong activation
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*slight stimulation

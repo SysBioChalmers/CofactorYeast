@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*hydrogen from B-side of nicotinamide ring is transferred to reduce keto substrates
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*hydrogen from B-side of nicotinamide ring is transferred to reduce keto substrates; specific for NADPH

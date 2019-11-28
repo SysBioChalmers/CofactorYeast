@@ -1,0 +1,1 @@
+ecNumber*2.7.6.2#metalsIons*Mg2+#commentary*required, maximal activation at 20 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*642742#!ecNumber*2.7.6.2#metalsIons*Mn2+#commentary*activates at low concentrations even more than Mg2+#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*642742#

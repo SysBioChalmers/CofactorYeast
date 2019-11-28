@@ -1,0 +1,1 @@
+ecNumber*2.5.1.47#cofactor*pyridoxal 5'-phosphate#commentary*stoichiometry, binds to Lys, protects against inactivation by heat, urea, and trypsin, four binding sites per mol apoenzyme, association constant#organism*Saccharomyces cerevisiae#ligandStructureId*32#literature*637331#

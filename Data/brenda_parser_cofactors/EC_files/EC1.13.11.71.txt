@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates by 14% at 5 mM
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activates by 17% at 5 mM
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates by 26% at 5 mM
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*activates by 23% at 5 mM
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*activates by 7% at 5 mM

@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal activity with 4-10 mM Mg2+ or 0.2 mM Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*optimal activity with 4-10 mM Mg2+ or 0.2 mM Mn2+

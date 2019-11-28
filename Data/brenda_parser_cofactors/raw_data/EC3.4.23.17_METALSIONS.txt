@@ -1,0 +1,1 @@
+ecNumber*3.4.23.17#metalsIons*Ca2+#commentary*1.4fold; 5 mM, stimulates#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*30551#

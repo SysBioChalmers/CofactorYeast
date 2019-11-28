@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at 3 mM; required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at 0.5 mM; required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*10% of the activity with Mg2+; can partially replace Mg2+ in activation; inhibits in presence of Mg2+; maximal activity at 1 mM

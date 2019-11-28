@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme is a FAD-dependent transhydrogenase using pyruvate as a hydrogen acceptor
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.005 mM, about 3fold stimulation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*0.005 mM, about 3fold stimulation

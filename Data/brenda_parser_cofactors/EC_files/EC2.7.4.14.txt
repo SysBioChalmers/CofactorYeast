@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required, Mg2+ is most effective
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, Mn2+ can substitute for Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cation required, Mn2+ can substitute for Mg2+

@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*dependent on; NAD+ cannot replace NADP+

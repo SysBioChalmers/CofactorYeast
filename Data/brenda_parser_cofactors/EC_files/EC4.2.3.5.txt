@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*required
+COFACTOR	Saccharomyces cerevisiae	FMNH2	*	*absolute requirement
+COFACTOR	Saccharomyces cerevisiae	FMNH2	*	*absolute requirement, Km: 42 nM
+COFACTOR	Saccharomyces cerevisiae	flavins	*	*required, reduced forms e.g. FMN, FAD

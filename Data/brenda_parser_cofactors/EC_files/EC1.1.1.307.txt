@@ -1,0 +1,7 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*prefers NADPH as the coenzyme by about 80fold over NADH
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*prefers NADPH as the coenzyme by about 80fold over NADH
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preferred cofactor

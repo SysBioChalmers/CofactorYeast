@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	ZnCl2	*	*5 mM, enhances activity 1.4fold

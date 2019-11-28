@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activated by Ca2+

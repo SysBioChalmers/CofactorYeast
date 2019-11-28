@@ -1,0 +1,1 @@
+ecNumber*3.5.1.19#metalsIons*Zn2+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*14#literature*677824#!ecNumber*3.5.1.19#metalsIons*Zn2+#commentary*contains tightly bound zinc. Addition of 2 mM ZnCl2 fails to increase the activity of the wild type enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*14#literature*718924#

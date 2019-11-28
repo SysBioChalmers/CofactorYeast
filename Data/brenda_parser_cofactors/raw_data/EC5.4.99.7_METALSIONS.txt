@@ -1,0 +1,1 @@
+ecNumber*5.4.99.7#metalsIons*potassium phosphate#commentary*high concentrations stimulate#organism*Saccharomyces cerevisiae#ligandStructureId*1510#literature*3603#

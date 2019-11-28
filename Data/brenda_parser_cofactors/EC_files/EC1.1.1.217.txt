@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*strong inhibition
+METALSIONS	Saccharomyces cerevisiae	Hg2+	*	*strong inhibition
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*strong inhibition
+METALSIONS	Saccharomyces cerevisiae	Ag+	*	*strong inhibition

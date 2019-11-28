@@ -1,0 +1,14 @@
+METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*forms complex with di- or trinucleotide; in decreasing order of efficiency: Mg2+, Ca2+, Mn2+, Ba2+; requirement
+METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*not
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*in decreasing order of efficiency: Mg2+, Ca2+ Mn2+, Ba2+; less effective than Mg2+; metal ion forms complex with di- or trinucleotide; requirement, as good as Mg2+
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*binding of substrates also takes place in the absence of metal ions; in decreasing order of efficiency: Mg2+ and Ca2+, equally efficient, Co2+, Mn2+, Ni2+; requirement, as good as Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can replace Mg2+, Mn2+ or Ca2+ less efficiently; requirement
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*requirement
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*not
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*enzymatic reaction resembles inorganic metal catalysis; forms complex with di- or trinucleotide; in decreasing order of efficiency: Mg2+, Ca2+, Mn2+, Ba2+; MgADP- is true substrate; MgATP2- is true substrate; requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*binding of substrates also takes place in the absence of metal ions; in decreasing order of efficiency: Mg2+ and Ca2+, equally efficient, Co2+, Mn2+, Ni2+; inhibits at high concentrations; requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*forms complex with di- or trinucleotide; in decreasing order of efficiency: Mg2+, Ca2+, Mn2+, Ba2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*binding of substrates also takes place in the absence of metal ions; Mg2+ and Ca2+, equally efficient, Co2+, Mn2+, Ni2+
+METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by Sr2+
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*not

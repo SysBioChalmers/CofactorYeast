@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*2fold activation at 25 mM, slight activation at 20 mM and above 50 mM

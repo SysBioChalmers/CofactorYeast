@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	myo-Inositol 1-diphosphate	*	*coenzyme
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, maximal activation at 20 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates at low concentrations even more than Mg2+

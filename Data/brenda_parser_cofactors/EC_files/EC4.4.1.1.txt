@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*1 molecule per subunit
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*Km value 0.003 mM
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*2 molecules per subunit
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*

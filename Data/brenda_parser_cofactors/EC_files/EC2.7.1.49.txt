@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*at 20 mM MgCl2
+METALSIONS	Saccharomyces cerevisiae	more	*	*no metal requirement

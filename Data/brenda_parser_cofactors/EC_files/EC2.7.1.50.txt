@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*10 mM, stimulates as effectively as Co2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*stimulates, 42.7% as effectively as Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*10 mM, stimulates as effectively as Mg2+

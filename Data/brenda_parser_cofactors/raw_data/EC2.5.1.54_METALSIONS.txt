@@ -1,0 +1,1 @@
+ecNumber*2.5.1.54#metalsIons*Fe2+#commentary*contains 0.6 mol of iron per mol of enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*25#literature*639770#!ecNumber*2.5.1.54#metalsIons*more#commentary*Tyr-sensitive isozyme, metal factor required#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*639766#

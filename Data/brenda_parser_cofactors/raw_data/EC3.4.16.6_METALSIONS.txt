@@ -1,0 +1,1 @@
+ecNumber*3.4.16.6#metalsIons*Mg2+#commentary*activates at low concentrations#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*647238#!ecNumber*3.4.16.6#metalsIons*Ca2+#commentary*activates at low concentrations#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*647238#

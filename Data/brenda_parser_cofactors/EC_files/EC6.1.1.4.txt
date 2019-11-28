@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*Mg2+, Mn2+, Ca2+ and Ba2+ similarly effective, optimal concentration: 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Mg2+, Mn2+, Ca2+ and Ba2+ similarly effective, optimal concentration: 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+, Mn2+, Ca2+ and Ba2+ similarly effective, optimal concentration: 0.1 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+, Mn2+, Ca2+ and Ba2+ similarly effective, optimal concentration: 0.1 mM

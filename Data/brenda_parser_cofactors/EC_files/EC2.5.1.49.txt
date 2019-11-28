@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*absolutely required for activity, Km 0.00294 mM
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*

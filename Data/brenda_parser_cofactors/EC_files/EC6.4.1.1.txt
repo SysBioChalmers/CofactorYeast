@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*as MgATP2-, dependent on
+COFACTOR	Saccharomyces cerevisiae	biotin	*	*activates through biotinylation of apoenzyme to holoenzyme
+COFACTOR	Saccharomyces cerevisiae	biotin	*	*dependent on, biotin is covalently attached to a specific lysine residue located about 35 residues from the C-terminus
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*as MgATP2-
+METALSIONS	Saccharomyces cerevisiae	Zinc	*	*each subunit contains one tightly bound Zn2+

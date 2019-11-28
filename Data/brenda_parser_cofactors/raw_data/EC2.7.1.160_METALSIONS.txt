@@ -1,0 +1,1 @@
+ecNumber*2.7.1.160#metalsIons*Mg2+#commentary*required for activity#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*669179#!ecNumber*2.7.1.160#metalsIons*more#commentary*Ca2+ and Zn2+ have no effect on activity#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*669179#

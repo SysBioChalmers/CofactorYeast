@@ -1,0 +1,1 @@
+ecNumber*2.7.6.2#cofactor*myo-Inositol 1-diphosphate#commentary*coenzyme#organism*Saccharomyces cerevisiae#ligandStructureId*94100#literature*642752#

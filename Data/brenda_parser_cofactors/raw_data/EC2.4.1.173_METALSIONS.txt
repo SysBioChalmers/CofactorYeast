@@ -1,0 +1,1 @@
+ecNumber*2.4.1.173#metalsIons*Mn2+#commentary*required#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*736786#

@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*required , 2-oxoglutarate dehydrogenase complex
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*no activation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, 2-oxoglutarate dehydrogenase complex

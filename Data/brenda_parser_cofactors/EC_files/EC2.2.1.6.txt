@@ -1,0 +1,16 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*Km: 0.0003 mM; required
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*required, presence of FAD in AHAS is an evolutionary relic of the ancestry of its sub-family of ThDP-dependent enzymes
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*the anabolic enzyme form is dependent on the presence of FAD, structure of the enamine-FAD adduct, reaction mechanism molecular modeling
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*Km: 0.11 mM; required as cofactor
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*required, ThDP is anchored in the active site by a divalent metal ion cofactor such as Mg2+
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*dependent on, upon removal of the cofactor, the activity of the enzyme is completely abolished and again restored by readdition of thiamine diphosphate. ThDP has a central role in the enzymes catalytic mechanism. In the active site of enzyme, it is located at its centre with a unique V-conformation at the dimer interface. Decarboxylation of pyruvate is carried out by ThDP
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km: 0.28 mM; required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme requires a divalent metal ion
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*a bivalent metal cation is required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	MgATP2-	*	*activates
+METALSIONS	Saccharomyces cerevisiae	more	*	*enzyme AHAS is not specific as far as metal ions are concerned. It is active in presence of any metal ion like Mn2+, Mg2+, Ca2+, Cd2+

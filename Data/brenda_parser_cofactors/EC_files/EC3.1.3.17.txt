@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km: 0.003 mM, activity is dependent on divalent metal ions, Mg2+ or Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Km: 0.006 mM, activity is dependent on divalent metal ions, Mg2+ or Mn2+

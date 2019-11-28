@@ -1,0 +1,1 @@
+ecNumber*3.1.1.29#metalsIons*Mg2+#commentary*0.001-0.01 MgCl2 activates#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*648107#

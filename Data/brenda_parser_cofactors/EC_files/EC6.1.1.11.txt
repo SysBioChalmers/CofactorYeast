@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*binding to the enzyme is not mediated by tRNA
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal Mg/ATP ratio is 1.5-2.5
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*

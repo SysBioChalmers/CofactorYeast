@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor is required

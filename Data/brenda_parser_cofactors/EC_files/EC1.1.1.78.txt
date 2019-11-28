@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*NADPH required
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*

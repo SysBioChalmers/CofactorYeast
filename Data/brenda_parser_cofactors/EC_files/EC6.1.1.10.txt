@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*2 binding sites, 0.14 mM tightly bound zinc is present in 1 mol of cytoplasmic isozyme, but not in the mitochondrial one, required for stability and activity of the cytoplasmic isozyme

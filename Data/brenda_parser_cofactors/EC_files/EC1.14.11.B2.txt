@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required for catalysis

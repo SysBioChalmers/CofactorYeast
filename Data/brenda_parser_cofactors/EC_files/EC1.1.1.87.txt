@@ -1,0 +1,19 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*NADP+ can replace NAD+
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*NADP+ can replace NAD+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulation of oxidative decarboxylation, required for reductive carboxylation
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation, 2fold activity at 5 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates, increase in the affinity of enzyme for Mg-HIc as a result of elimination of the inhibitory effect of Cl-
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, three conserved aspartate residues, D243, D267 and D271, coordinate Mg2+, which is also coordinated to the alpha-carboxylate and alpha-hydroxyl of homoisocitrate
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*stimulation of oxidative decarboxylation
+METALSIONS	Saccharomyces cerevisiae	K+	*	*required for optimal activity
+METALSIONS	Saccharomyces cerevisiae	K+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	K+	*	*dependent on
+METALSIONS	Saccharomyces cerevisiae	K+	*	*the enzyme requires a potassium ion as an activator, for optimal binding of NAD+
+METALSIONS	Saccharomyces cerevisiae	NH4+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Rb+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	more	*	*selectivity of the activator site for monovalent ions, K+ is the best activator, and NH4+ and Rb+ are also activators of the reaction, while Cs+, Li+, and Na+ are not, overview. Substitution of potassium acetate for KCl changes the kinetic mechanism of HIcDH from a steady state random to a fully ordered mechanism with the binding of Mg-HIc followed by K+ and NAD+

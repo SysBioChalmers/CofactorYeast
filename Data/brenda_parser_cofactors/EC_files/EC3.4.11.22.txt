@@ -1,0 +1,12 @@
+METALSIONS	Saccharomyces cerevisiae	Br-	*	*activation
+METALSIONS	Saccharomyces cerevisiae	Cl-	*	*activation
+METALSIONS	Saccharomyces cerevisiae	Cl-	*	*activation; no activation by NO3-, F-, SCN-
+METALSIONS	Saccharomyces cerevisiae	Cl-	*	*specific, strong activation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*CoCl2 activates
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*contains one essential binding site per subunit, Zn2+ and Co2+ have comparable activities
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*ZnCl2 has no influence on activity
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains one essential binding site per subunit, Zn2+ and Co2+ have comparable activities
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activation
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*specific, strong activation, 2 mol per mol of enzyme
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*zinc metalloproteinase which is activated by 1 mM Zn2+, zinc is part of the active center polarizing the water molecule, which hydrolyzes the peptide bond

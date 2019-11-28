@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	flavin	*	*
+COFACTOR	Saccharomyces cerevisiae	heme	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*

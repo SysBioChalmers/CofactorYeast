@@ -1,0 +1,1 @@
+ecNumber*5.3.4.1#cofactor*more#commentary*glutathione is used in vitro as redox system#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*650356#!ecNumber*5.3.4.1#cofactor*thioredoxin#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*121#literature*749143#

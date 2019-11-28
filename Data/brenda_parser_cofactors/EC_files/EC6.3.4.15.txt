@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	biotin	*	*bound to the biotin domain, structure, overview
+COFACTOR	Saccharomyces cerevisiae	biotin	*	*highly specific for
+COFACTOR	Saccharomyces cerevisiae	cis-propargyl biotin	*	*can substitute for biotin
+COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with biotin analogues desthiobiotin azide, trans-propargyl biotin, iminobiotin, diaminobiotin, nitrobenzoxadiazole gamma-butyric acid, iodouracil valeric acid, thiouracil valeric acid
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*

@@ -1,0 +1,1 @@
+ecNumber*2.6.1.1#cofactor*pyridoxal 5'-phosphate#commentary*1.7-1.9 mol per mol of enzyme; a pyridoxal 5'-phosphate protein#organism*Saccharomyces cerevisiae#ligandStructureId*32#literature*639864#

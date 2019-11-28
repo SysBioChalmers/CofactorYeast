@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*flavin-dependent enzyme
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*stimulates activity

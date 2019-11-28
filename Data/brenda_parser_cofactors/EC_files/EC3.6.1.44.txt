@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*113% activity compared to control, 10 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*149.5% activity compared to control, 10 mM
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*150% activity compared to control, 10 mM

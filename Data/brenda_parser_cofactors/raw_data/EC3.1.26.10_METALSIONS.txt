@@ -1,0 +1,1 @@
+ecNumber*3.1.26.10#metalsIons*K+#commentary*optimum enzyme activity at 50-100 mM#organism*Saccharomyces cerevisiae#ligandStructureId*39#literature*646296#!ecNumber*3.1.26.10#metalsIons*Mg2+#commentary*optimum enzyme activity at 0.3-0.5 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*646296#

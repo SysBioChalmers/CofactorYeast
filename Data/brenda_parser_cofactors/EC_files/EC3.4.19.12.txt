@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Divalent cations	*	*most divalent cations, except Mg2+ and Ca2+ are inhibitory

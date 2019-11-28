@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*1 metal ion is tightly bound to the active site, binding structure modeling, Fourier mapping
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*ligands are two cysteines, a histidine, and one water molecule

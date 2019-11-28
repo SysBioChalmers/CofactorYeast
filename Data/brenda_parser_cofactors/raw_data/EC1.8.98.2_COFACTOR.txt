@@ -1,0 +1,1 @@
+ecNumber*1.8.98.2#cofactor*ATP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*4#literature*670504, 698953#!ecNumber*1.8.98.2#cofactor*dithiothreitol#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*45#literature*698953#!ecNumber*1.8.98.2#cofactor*thioredoxin#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*121#literature*698953#

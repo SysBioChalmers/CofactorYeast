@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific for NADPH
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preferred cofactor, NADH gives only 4% of the activity with NADPH
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*
+COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*specific for NADPH

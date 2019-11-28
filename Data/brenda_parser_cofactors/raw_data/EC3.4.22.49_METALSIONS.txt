@@ -1,0 +1,1 @@
+ecNumber*3.4.22.49#metalsIons*Ca2+#commentary*Ca2+-levels affect separase function, C-terminal region contains a Ca2+-binding motif#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*638862#

@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	AMP	*	*activation, 0.025 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	phosphate	*	*
+METALSIONS	Saccharomyces cerevisiae	phosphate	*	*requirement

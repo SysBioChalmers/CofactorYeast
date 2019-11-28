@@ -1,0 +1,1 @@
+ecNumber*2.7.1.174#cofactor*CTP#commentary*dependent on#organism*Saccharomyces cerevisiae#ligandStructureId*60#literature*687738, 693092#!ecNumber*2.7.1.174#cofactor*CTP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*60#literature*738595#

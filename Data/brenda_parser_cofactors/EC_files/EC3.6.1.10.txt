@@ -1,0 +1,8 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme is most active at 1.5 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*in the presence of Mg2+, the enzyme shows a polyphosphate chain fragmentation activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*optimal activation at 2.5 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	more	*	*addition of 3 mM Mg2+ and 3 mM Co2+ has no effect on the cytosol endopolyphosphatase activity
+METALSIONS	Saccharomyces cerevisiae	more	*	*not stimulated by Ca2+

@@ -1,0 +1,1 @@
+ecNumber*4.2.1.1#metalsIons*Zn2+#commentary*a zinc ion is coordinated by the three highly conserved residues Cys57, His112 and Cys115#organism*Saccharomyces cerevisiae#ligandStructureId*14#literature*702932#

@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	Calmodulin	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*dependent, replacement of Mn2+ with other divalent cations lowers the activity of the enzyme
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*

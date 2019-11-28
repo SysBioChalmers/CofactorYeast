@@ -1,0 +1,1 @@
+ecNumber*2.3.1.48#cofactor*acetyl-CoA#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*29#literature*672263, 675311, 675799, 702497, 703397, 703622, 703867, 705685#

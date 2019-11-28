@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*relieves inhibition by guanosine diphosphate, some activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*relieves inhibition by guanosine diphosphate, some activation

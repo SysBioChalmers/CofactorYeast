@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*best stimulation
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*

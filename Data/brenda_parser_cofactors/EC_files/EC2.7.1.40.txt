@@ -1,0 +1,10 @@
+COFACTOR	Saccharomyces cerevisiae	ADP	*	*
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*Km-value: 50 mM in the presence of fructose diphosphate; requirement
+METALSIONS	Saccharomyces cerevisiae	K+	*	*
+METALSIONS	Saccharomyces cerevisiae	K+	*	*wild-type enzyme and the three mutant enzymes T298S, T298C and T298A show no measurable activity in the presence of K+ or Tl+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km-value 2 mM in the presence of fructose diphosphate; requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mn2+-activated T298C behaves like Mn2+-activated wild type enzyme with a Vmax that is 20% of that for the wild type enzyme with or without D-fructose-1,6-bisphosphate
+METALSIONS	Saccharomyces cerevisiae	Tl+	*	*wild-type enzyme and the three mutant enzymes T298S, T298C and T298A show no measurable activity in the presence of K+ or Tl+. Tl+ can activate wild-type enzyme to 85% the activity in the presence of K+. With T298S, T298, and T298A, Tl+ is 1.2-1.8fold better activator than is K+ based on the measured turnover number values

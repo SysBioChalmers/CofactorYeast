@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*2fold activation at 10 mM, dependent on, if 4-nitrophenyl phosphate is used as a substrate, protein phosphatase activity is not Mg2+-dependent
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*inhibition at 10 mM, activation at 1 mM
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*slight activation at 10 mM
+METALSIONS	Saccharomyces cerevisiae	more	*	*not affected by F- at 10 mM, protein phosphatase activity is not Mg2+-dependent

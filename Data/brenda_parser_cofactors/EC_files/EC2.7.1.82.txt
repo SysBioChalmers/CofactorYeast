@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*100% activity in the presence of 0.0015 mM Zn2+, depletion of zinc from the growth medium of wild type cells causes a 2fold increase in ethanolamine kinase activity when compared with cells grown in the presence of zinc

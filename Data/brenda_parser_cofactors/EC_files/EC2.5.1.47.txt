@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*stoichiometry, binds to Lys, protects against inactivation by heat, urea, and trypsin, four binding sites per mol apoenzyme, association constant

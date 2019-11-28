@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+ required. At 0.1 mM the enzyme hydrolyzes phosphatidylinositol 4,5-diphosphate at faster rate than phosphatidylinositol, at 0.005 mM Ca2+ it hydrolyzes phosphatidylinositol 4,5-diphosphate exclusively
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+-dependent
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*

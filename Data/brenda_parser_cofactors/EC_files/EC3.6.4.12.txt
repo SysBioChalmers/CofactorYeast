@@ -1,0 +1,11 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requires divent cation, Mg2+ or Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*MER3 ATPase activity requires a divalent cation. Maximal activity can be observed in the presence of either Ca2+, Mg2+, or Mn2+, whereas Zn2+ does not support the ATPase activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity is obtained with Mg2+, whereas Co2+ and Ca2+ are much less effective in this regard. No activity is observed with Mn2+ or Zn2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*ATP hydrolysis in the presence of MgCl2 is 2fold higher than in the presence of either MnCl2 or CaCl2
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can substitute for Mg2+, less effective
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*requires divent cation, Mg2+ or Mn2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*MER3 ATPase activity requires a divalent cation. Maximal activity can be observed in the presence of either Ca2+, Mg2+, or Mn2+, whereas Zn2+ does not support the ATPase activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*ATP hydrolysis in the presence of MgCl2 is 2fold higher than in the presence of either MnCl2 or CaCl2
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*MER3 ATPase activity requires a divalent cation. Maximal activity can be observed in the presence of either Ca2+, Mg2+, or Mn2+, whereas Zn2+ does not support the ATPase activity
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*ATP hydrolysis in the presence of MgCl2 is 2fold higher than in the presence of either MnCl2 or CaCl2

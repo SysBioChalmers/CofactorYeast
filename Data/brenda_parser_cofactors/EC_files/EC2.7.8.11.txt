@@ -1,0 +1,6 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*either Mg2+ or Mn2+ ions are necessary
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement, reaction is dependent on for maximum activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required

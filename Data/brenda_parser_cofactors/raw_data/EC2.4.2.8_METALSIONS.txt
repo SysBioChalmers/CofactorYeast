@@ -1,0 +1,1 @@
+ecNumber*2.4.2.8#metalsIons*Mg2+#commentary*maximal activity at: 1-10 mM; required#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*638394#

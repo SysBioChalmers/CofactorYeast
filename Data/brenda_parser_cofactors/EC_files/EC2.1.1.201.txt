@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*NAFH is required form optimal activity in in vitro assay with mitochondrial lysate. It is likely that the function of NADH is the reduction of the oxidized 2-methoxy-6-polyprenyl-1,4-benzoquinone substrate to the hydroquinone form (2-methoxy-6-polyprenyl-1,4-benzoquinol), which presumably acts as the methyl acceptor
+COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*

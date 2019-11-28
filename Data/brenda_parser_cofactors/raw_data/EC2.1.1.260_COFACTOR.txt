@@ -1,0 +1,1 @@
+ecNumber*2.1.1.260#cofactor*S-adenosyl-L-methionine#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*24#literature*719322, 720587, 721118#

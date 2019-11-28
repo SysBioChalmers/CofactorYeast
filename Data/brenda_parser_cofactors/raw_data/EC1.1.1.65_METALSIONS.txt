@@ -1,0 +1,1 @@
+ecNumber*1.1.1.65#metalsIons*ZnCl2#commentary*0.1 mM: activation, 10 mM: inhibition#organism*Saccharomyces cerevisiae#ligandStructureId*271#literature*287235#

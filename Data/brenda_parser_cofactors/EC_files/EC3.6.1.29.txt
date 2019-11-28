@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*

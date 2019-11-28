@@ -1,0 +1,1 @@
+ecNumber*1.3.3.12#metalsIons*Iron#commentary*enzyme contains an iron-sulfur cluster#organism*Saccharomyces cerevisiae#ligandStructureId*46#literature*389744#

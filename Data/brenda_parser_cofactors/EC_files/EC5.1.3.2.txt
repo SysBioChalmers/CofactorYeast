@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*each dimer contains one molecule of NAD+ tightly bound

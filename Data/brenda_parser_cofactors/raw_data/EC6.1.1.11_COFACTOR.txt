@@ -1,0 +1,1 @@
+ecNumber*6.1.1.11#cofactor*ATP#commentary*binding to the enzyme is not mediated by tRNA#organism*Saccharomyces cerevisiae#ligandStructureId*4#literature*651138#!ecNumber*6.1.1.11#cofactor*ATP#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*4#literature*650314, 673593, 676937#

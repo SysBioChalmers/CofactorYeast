@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*a zinc ion is coordinated by the three highly conserved residues Cys57, His112 and Cys115

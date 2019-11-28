@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*contains two FAD domains
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*binding domain structure, the enzyme contains two highly conserved motifs 1 and 2, which flank the FAD cofactor and form part of the interface between cofactor and substrate binding domains in the structure modelling, overview
+COFACTOR	Saccharomyces cerevisiae	more	*	*FAD is not essential for activity, 76.2% activity in the absence of FAD

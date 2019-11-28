@@ -1,0 +1,1 @@
+ecNumber*1.2.1.22#cofactor*NAD+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*7#literature*288132#!ecNumber*1.2.1.22#cofactor*more#commentary*NADP+ can not substitute for NAD+#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*288132#

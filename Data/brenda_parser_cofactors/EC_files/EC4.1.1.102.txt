@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*a modified form of FMN acts as cofactor
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*cofactor is prenylated FMN

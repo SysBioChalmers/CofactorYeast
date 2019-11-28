@@ -1,0 +1,1 @@
+ecNumber*2.4.2.7#metalsIons*Mg2+#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*638169#!ecNumber*2.4.2.7#metalsIons*Mg2+#commentary*Mg2+ is not bound at the catalytic site; Mg2+ ligand binding site#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*638171#

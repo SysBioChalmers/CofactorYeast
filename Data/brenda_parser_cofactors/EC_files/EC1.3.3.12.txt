@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme contains a covalently bound flavin; the covalently bound flavin is 8alpha-[N(1)histidyl]FAD
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme contains a covalently bound flavin
+METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme contains an iron-sulfur cluster

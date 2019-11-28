@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is not affected by Ca2+, Co2+, Mg2+, K+, Na+, and Zn2+

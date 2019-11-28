@@ -1,0 +1,1 @@
+ecNumber*6.4.1.1#metalsIons*Mg2+#commentary*as MgATP2-#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*690828#!ecNumber*6.4.1.1#metalsIons*Zinc#commentary*each subunit contains one tightly bound Zn2+#organism*Saccharomyces cerevisiae#ligandStructureId*150#literature*1792#

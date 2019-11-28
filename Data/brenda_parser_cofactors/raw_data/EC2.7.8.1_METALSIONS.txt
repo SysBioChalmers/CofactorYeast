@@ -1,0 +1,1 @@
+ecNumber*2.7.8.1#metalsIons*Mn2+#commentary*absolute requirement for a divalent metal ion; Ka: 2.6 mM#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*644347#!ecNumber*2.7.8.1#metalsIons*Mn2+#commentary*required#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*644361#

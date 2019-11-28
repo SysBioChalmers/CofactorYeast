@@ -1,0 +1,12 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*1 mol ATP is hydrolyzed to ADP plus phosphate per mol product formed; together with Mg2+
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*1 mol ATP is hydrolyzed to ADP plus phosphate per mol product formed
+COFACTOR	Saccharomyces cerevisiae	CTP	*	*one third the activity of ATP
+COFACTOR	Saccharomyces cerevisiae	GTP	*	*shows almost as much activity as ATP
+COFACTOR	Saccharomyces cerevisiae	ITP	*	*shows almost as much activity as ATP
+COFACTOR	Saccharomyces cerevisiae	TTP	*	*not
+COFACTOR	Saccharomyces cerevisiae	UTP	*	*one third the activity of ATP
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1-10 mM; requirement; synergism with ATP
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.5-15 mM; requirement
+METALSIONS	Saccharomyces cerevisiae	phosphate	*	*activation, 0.01-0.1 M, in the presence of Mg2+
+METALSIONS	Saccharomyces cerevisiae	phosphate	*	*50 mM, strongly stimulates
+METALSIONS	Saccharomyces cerevisiae	MgATP2-	*	*

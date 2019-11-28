@@ -1,0 +1,1 @@
+ecNumber*3.6.4.6#cofactor*more#commentary*Vps4 and its cofactor Vta1p/LIP5 function in membrane remodeling events that accompany cytokinesis, multivesicular body biogenesis, and retrovirus budding#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*699527#

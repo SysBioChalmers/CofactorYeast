@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*the enzyme contains a nonheme diiron active center that activates O2
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required, active site-bound
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required, essential structural role for iron binding in addition to its contribution to the catalysis of hypusine formation in the eIF-5A precursor. Lia1 is an iron metalloenzyme. Determination of metal contents in purified enzyme samples, overview. The apoenzyme has a larger hydrodynamic size than the holoenzyme
+METALSIONS	Saccharomyces cerevisiae	more	*	*Lia1 contains no cadmium, cobalt, chromium, copper, magnesium, manganese, nickel and zinc

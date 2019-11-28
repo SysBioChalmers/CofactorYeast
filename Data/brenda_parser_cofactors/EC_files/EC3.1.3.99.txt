@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*enzyme activity is absolutely dependent on bivalent metals with Mg2+ as most potent one
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*may substitute Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*may substitute Mg2+

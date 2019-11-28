@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	CTP	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	CTP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme requires Ca2+ or Mg2+ ions for activity. Maximum DAG kinase activity obtained with 1 mM Ca2+ ions is slightly greater than the maximum activity obtained with 10 mM Mg2+ ions
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*the enzyme requires Ca2+ or Mg2+ ions for activity. Maximum DAG kinase activity obtained with 1 mM Ca2+ ions is slightly greater than the maximum activity obtained with 10 mM Mg2+ ions
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required

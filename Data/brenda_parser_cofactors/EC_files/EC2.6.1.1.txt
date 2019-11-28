@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*1.7-1.9 mol per mol of enzyme; a pyridoxal 5'-phosphate protein

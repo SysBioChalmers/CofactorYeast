@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with NADPH
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*; 

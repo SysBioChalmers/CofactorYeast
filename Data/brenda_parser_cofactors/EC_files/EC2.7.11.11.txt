@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+COFACTOR	Saccharomyces cerevisiae	cAMP	*	*; 
+COFACTOR	Saccharomyces cerevisiae	cAMP	*	*
+COFACTOR	Saccharomyces cerevisiae	cAMP	*	*dependent
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required

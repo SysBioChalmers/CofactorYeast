@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activating
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*activating
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can replace Zn2+

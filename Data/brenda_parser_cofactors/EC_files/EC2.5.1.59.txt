@@ -1,0 +1,6 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*no requirement
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement, optimal activity at 0.5 mM in presence of 0.1 mM Zn2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, optimal activity of EDTA-treated enzyme at 0.5 mM, Mg2+ probably activates the diphosphate leaving group of enzyme, and is essential for transferring the bound peptide substrate
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*A zinc metalloenzyme. The Zn2+ is required for peptide, but not for isoprenoid, substrate binding
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*requirement, optimal activity of EDTA-treated enzyme at 0.01 mM in presence of 1 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*the zinc in enzyme can be replaced by Cd2+

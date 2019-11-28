@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*increases activity from 1-50 mM. 160% relative activity at 1 mM. Deglycosylation of the enzyme causes total loss of activity, which can be restored by addition of CoCl2
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*N-deglycosylation of Cda2p from Saccharomyces cerevisiae results in complete loss of enzyme activity which can be restored by addition of 1 mM Co2+
+METALSIONS	Saccharomyces cerevisiae	more	*	*Mg2+ and Mn2+ do not have activity restaurative effects

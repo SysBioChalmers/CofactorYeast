@@ -1,0 +1,1 @@
+ecNumber*1.4.3.5#cofactor*FMN#commentary*#organism*Saccharomyces cerevisiae#ligandStructureId*56#literature*391896#!ecNumber*1.4.3.5#cofactor*FMN#commentary*1 mol of FMN per mol of enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*56#literature*391899#

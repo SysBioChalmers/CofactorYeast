@@ -1,0 +1,7 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*20 mM MgCl2, 2.8fold stimulation of activity of ALDH1
+METALSIONS	Saccharomyces cerevisiae	K+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*120 mM: 40fold increase of activity of ALDH5 with NAD+. 16 mM: 20fold increase of activity of enzyme ALDH5 with NADP+. No stimulation of the activity of enzyme form ALDH1
+METALSIONS	Saccharomyces cerevisiae	CaCl2	*	*30 mM, 3.8fold stimulation of activity of ALDH1
+METALSIONS	Saccharomyces cerevisiae	MnCl2	*	*2 mM, 2.1fold stimulation of activity of ALDH1

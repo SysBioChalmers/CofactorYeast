@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement, hydrolysis of urea
+METALSIONS	Saccharomyces cerevisiae	K+	*	*requirement, hydrolysis of urea
+METALSIONS	Saccharomyces cerevisiae	HCO3-	*	*requirement, hydrolysis of urea
+METALSIONS	Saccharomyces cerevisiae	more	*	*requires divalent and monovalent ions

@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	copper	*	*contains 1 copper atom per enzyme molecule
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*contains 1 gatom of Cu2+ per enzyme molecule
+METALSIONS	Saccharomyces cerevisiae	more	*	*Urh1 activity is unaffected by the addition of MgCl2

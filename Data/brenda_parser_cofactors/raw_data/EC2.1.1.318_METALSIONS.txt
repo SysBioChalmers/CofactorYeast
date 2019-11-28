@@ -1,0 +1,1 @@
+ecNumber*2.1.1.318#metalsIons*ZnCl2#commentary*5 mM, enhances activity 1.4fold#organism*Saccharomyces cerevisiae#ligandStructureId*271#literature*729302#

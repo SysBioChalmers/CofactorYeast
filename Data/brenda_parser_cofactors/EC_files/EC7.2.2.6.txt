@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*induces the efflux of potassium ions from both cells and spheroplasts
+METALSIONS	Saccharomyces cerevisiae	Ag+	*	*induces the efflux of potassium ions from cells

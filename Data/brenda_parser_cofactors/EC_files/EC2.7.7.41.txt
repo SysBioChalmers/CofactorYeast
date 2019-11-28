@@ -1,0 +1,6 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at 20 mM Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the only divalent cation that supports activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required fro activity
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*about 30% of the activity with Mg2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*about 80% of the activity with Mg2+
+METALSIONS	Saccharomyces cerevisiae	K+	*	*stimulates

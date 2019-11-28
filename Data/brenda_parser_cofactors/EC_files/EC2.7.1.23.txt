@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*; 
+METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*POS5 is upregulated 3.4fold after treatment for 10 to 12 min with 2.5 mM

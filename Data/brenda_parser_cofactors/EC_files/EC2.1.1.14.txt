@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*vitamin-B12 independent enzyme
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*no stimulation
+METALSIONS	Saccharomyces cerevisiae	phosphate	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*requires zinc for activity

@@ -1,0 +1,1 @@
+ecNumber*2.7.7.31#metalsIons*Mn2+#commentary*in the presence of Mn2+ yeast telomerase can switch to a template-independent mode of DNA synthesis as terminal transferase#organism*Saccharomyces cerevisiae#ligandStructureId*11#literature*663255#

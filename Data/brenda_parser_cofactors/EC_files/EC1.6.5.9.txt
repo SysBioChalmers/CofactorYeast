@@ -1,0 +1,10 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*non-covalently linked
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*the mature enzyme contains FAD as prosthetic group
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*Ndi1 contains noncovalently bound FAD
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*binding site structure, overview. The isoalloxazine ring of the FAD is positioned between the two Rossmann domains, which define two channels along the interdomain plane that lead to the active site
+COFACTOR	Saccharomyces cerevisiae	more	*	*the enzyme contains no iron-sulfur clusters
+COFACTOR	Saccharomyces cerevisiae	more	*	*the mature enzyme contains no iron-sulfur clusters
+COFACTOR	Saccharomyces cerevisiae	more	*	*Ndi1 contains no iron-sulfur cluster
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*the enzyme is specific for NADH. NADPH or deamino-NADH show rates that are at least 250times lower than obtained with NADH at any pH between 5.5 and 8.5
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*binding site structure, overview

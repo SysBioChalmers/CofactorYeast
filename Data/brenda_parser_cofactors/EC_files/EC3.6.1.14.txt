@@ -1,0 +1,4 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cations activate hydrolysis of adenosine 5'-tetraphosphate in the order of decreasing effectiveness: Co2+, Mn2+, Mg2+, Ni2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cations activate hydrolysis of adenosine 5'-tetraphosphate in the order of decreasing effectiveness: Co2+, Mn2+, Mg2+, Ni2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cations activate hydrolysis of adenosine 5'-tetraphosphate in the order of decreasing effectiveness: Co2+, Mn2+, Mg2+, Ni2+
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*divalent cations activate hydrolysis of adenosine 5'-tetraphosphate in the order of decreasing effectiveness: Co2+, Mn2+, Mg2+, Ni2+

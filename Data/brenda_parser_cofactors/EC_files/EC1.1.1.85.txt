@@ -1,0 +1,10 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*specific for NAD+, activity drops to less than 5% when NADP+ is substituted for NAD+
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on, cofactor specificity-determining residues, overview
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*0.5 mM, very minor stimulatory effect
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*divalent cation required, Mn2+ and Cd2+ are about equally effective at 0.5 mM
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cations required 0.5 mM, Co2+ is 73% as effective as Mn2+ or Co2+
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*0.5 mM, very minor stimulatory effect
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cations required 0.5 mM Mg2+ is 62% as effective as Mn2+ or Co2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, Mn2+ and Cd2+ are about equally effective at 0.5 mM
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.5 mM, very minor stimulatory effect

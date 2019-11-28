@@ -1,0 +1,8 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	flavin	*	*2 FAD and 2 FMN per mol of enzyme
+COFACTOR	Saccharomyces cerevisiae	flavin	*	*treatment with ammonium sulfate causes dissociation of FMN but retetion of FAD and heme
+COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+COFACTOR	Saccharomyces cerevisiae	heme	*	*
+COFACTOR	Saccharomyces cerevisiae	iron-sulfur centre	*	*
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	siroheme	*	*

@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*the enzyme shows GSH-independent glyoxalase activity

@@ -1,0 +1,1 @@
+ecNumber*2.7.7.4#metalsIons*Mg2+#commentary*or an other divalent cation required#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*641219#!ecNumber*2.7.7.4#metalsIons*Mg2+#commentary*optimal concentration is 3 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*643271#

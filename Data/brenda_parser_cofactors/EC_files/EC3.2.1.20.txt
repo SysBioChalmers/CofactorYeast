@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*inhibitory assay is stopped by adding 0.1 M Na2CO3

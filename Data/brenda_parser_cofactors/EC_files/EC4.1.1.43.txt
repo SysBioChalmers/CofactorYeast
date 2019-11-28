@@ -1,0 +1,1 @@
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*dependent on

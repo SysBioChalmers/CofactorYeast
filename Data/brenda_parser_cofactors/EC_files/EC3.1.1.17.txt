@@ -1,0 +1,3 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme requires divalent cations such as Mn2+, Mg2+ or Co2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*the enzyme requires divalent cations such as Mn2+, Mg2+ or Co2+
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*the enzyme requires divalent cations such as Mn2+, Mg2+ or Co2+

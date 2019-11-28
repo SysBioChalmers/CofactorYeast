@@ -1,0 +1,8 @@
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*the in vitro N-terminal proteolysis of a-factor requires Zn2+ as metal cofactor, inhibition at higher Zn2+ concentrations e.g. 2 mM
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*probably Zn2+-dependent metalloprotease
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*Zn-dependent protease
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*restores Ste24 CAAX proteolytic activity after 1,10-phenanthroline treatment, reactivation with 0.25 mM Co2+ is 25% of that seen with 0.25 mM Zn2+
+METALSIONS	Saccharomyces cerevisiae	more	*	*Zn-metalloprotease consensus motif HEXXH
+METALSIONS	Saccharomyces cerevisiae	more	*	*
+METALSIONS	Saccharomyces cerevisiae	more	*	*C-terminal proteolytic activity of Ste24 requires metall ions

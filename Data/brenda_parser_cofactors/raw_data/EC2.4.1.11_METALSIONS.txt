@@ -1,0 +1,1 @@
+ecNumber*2.4.1.11#metalsIons*Li+#commentary*wild-type but not mutant enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*152#literature*488408#

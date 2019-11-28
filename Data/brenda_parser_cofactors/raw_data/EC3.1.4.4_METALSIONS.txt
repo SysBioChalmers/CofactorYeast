@@ -1,0 +1,1 @@
+ecNumber*3.1.4.4#metalsIons*Ca2+#commentary*Ca2+ dependent and independent enzymes#organism*Saccharomyces cerevisiae#ligandStructureId*15#literature*135446#

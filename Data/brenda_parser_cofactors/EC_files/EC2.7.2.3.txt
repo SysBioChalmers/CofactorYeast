@@ -1,0 +1,32 @@
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*required as phosphate donor; true substrate is the magnesium complexes of ATP
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*required as phosphate donor
+COFACTOR	Saccharomyces cerevisiae	ATP	*	*exhibits 2.5times higher activity with ATP compared with GTP
+COFACTOR	Saccharomyces cerevisiae	ADP	*	*true substrate is the magnesium complexes of ADP
+COFACTOR	Saccharomyces cerevisiae	ADP	*	*
+COFACTOR	Saccharomyces cerevisiae	GTP	*	*
+COFACTOR	Saccharomyces cerevisiae	UTP	*	*
+COFACTOR	Saccharomyces cerevisiae	dATP	*	*
+COFACTOR	Saccharomyces cerevisiae	dGTP	*	*
+COFACTOR	Saccharomyces cerevisiae	ITP	*	*
+COFACTOR	Saccharomyces cerevisiae	dITP	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; true substrate is the magnesium complexes of ATP
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*true substrate is the magnesium complexes of ATP
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can partially replace Mg2+ in activation; ZnATP2- is the true substrate, free metal ions inhibit
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*ZnATP2- is the true substrate, free metal ions inhibit
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*CaATP2- is the true substrate; can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+ in activation; CoATP2- is the true substrate
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*can partially replace Mg2+ in activation; NiATP2- is the true substrate; poor activator
+METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	NaCl	*	*inhibition at high concentration, acceleration of activity at low concentrations
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can partially replace Mg2+ in activation; CdATP2- is the true substrate
+METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can partially replace Mg2+ in activation
+METALSIONS	Saccharomyces cerevisiae	KH2PO4	*	*inhibition at high concentration, acceleration of activity at low concentrations
+METALSIONS	Saccharomyces cerevisiae	NaNO2	*	*inhibition at high concentration, acceleration of activity at low concentrations
+METALSIONS	Saccharomyces cerevisiae	divalent cation	*	*Mg2+ or Mn2+
+METALSIONS	Saccharomyces cerevisiae	divalent cation	*	*absolute requirement
+METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by Be2+; no activation by Fe2+

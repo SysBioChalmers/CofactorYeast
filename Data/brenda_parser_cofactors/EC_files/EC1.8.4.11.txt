@@ -1,0 +1,3 @@
+COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*dependent on
+COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*cytosolic thioredoxins 1 and 2 are involved in regulation of MsrA exression
+COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*

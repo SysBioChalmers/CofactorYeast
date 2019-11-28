@@ -1,0 +1,1 @@
+ecNumber*2.5.1.60#metalsIons*Mg2+#commentary*requirement, optimal concentration at 8 mM#organism*Saccharomyces cerevisiae#ligandStructureId*6#literature*638600#!ecNumber*2.5.1.60#metalsIons*Zn2+#commentary*requirement, optimal concentration at 0.008 mM, zinc content: 0.7-0.12 mol/mol enzyme#organism*Saccharomyces cerevisiae#ligandStructureId*14#literature*638600#

@@ -1,0 +1,1 @@
+ecNumber*4.1.99.3#metalsIons*Fe#commentary*conserved Fe-S domain at the C-terminus of PriL#organism*Saccharomyces cerevisiae#ligandStructureId*138#literature*706451#

@@ -1,0 +1,2 @@
+COFACTOR	Saccharomyces cerevisiae	more	*	*the cofactor of ScGAD is verified to be either pyridoxal 5'-phosphate (PLP) or pyridoxal. The optimal concentration of either cofactor is 50 mg/l. GAD requires a coenzyme for activity while inactive apo-GAD forms a GAD-PLP complex (holo-GAD) to obtain its activity
+COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*

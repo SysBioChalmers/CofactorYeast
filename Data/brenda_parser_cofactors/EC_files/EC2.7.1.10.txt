@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates, maximal activity at 1.5 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation

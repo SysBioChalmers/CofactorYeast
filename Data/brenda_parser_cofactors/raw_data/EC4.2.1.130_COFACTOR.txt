@@ -1,0 +1,1 @@
+ecNumber*4.2.1.130#cofactor*more#commentary*the enzyme shows GSH-independent glyoxalase activity#organism*Saccharomyces cerevisiae#ligandStructureId*#literature*729499#

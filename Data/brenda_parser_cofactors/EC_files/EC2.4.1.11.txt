@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Li+	*	*wild-type but not mutant enzyme

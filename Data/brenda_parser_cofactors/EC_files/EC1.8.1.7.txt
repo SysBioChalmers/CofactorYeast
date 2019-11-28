@@ -1,0 +1,7 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*4 thiol groups per FAD
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*FAD enzyme
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	flavin	*	*flavoprotein
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*absolute specificity for NADPH
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*glutathione reductase is non-competitively inhibited up to 2 mM and activated above this concentration

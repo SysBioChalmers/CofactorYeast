@@ -1,0 +1,4 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*B-specific hydrogen transfer
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*less active than NADPH at 0.1 mM
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*

@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*natural coenzyme
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADP+	*	*specific for
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates

@@ -1,0 +1,13 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*NADPH or NADH required for squalene synthase reaction
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preference for NADPH over NADH
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*NADH or NADPH required for squalene synthase reaction
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*preference for NADPH over NADH
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for squalene synthase reaction
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mn2+ is more effective than Mg2+ in activation of dehydrosqualene formation; most effective in stimulation of squalene formation, half-maximal activity at 2.5 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mn2+ is six times more effective in activation than Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mn2+ is more effective than Mg2+ in activation of dehydrosqualene formation; required for squalene synthase reaction
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*more effective than Mg2+ in activation of dehydrosqualene formation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*in presence of Mn2+ and Mg2+ the activity is reduced to one-third of that in presence of Mn2+ alone; six times more effective in activation than Mg2+
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*more effective than Mg2+ in activation of dehydrosqualene formation; stimulates, maximum stimulation at 0.1 mM

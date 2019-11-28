@@ -1,0 +1,5 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*more active in presence of Mn2+ than Mg2+; optimal concentration depends on ATP concentration
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*essential for activity
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*more active in presence of Mn2+ than Mg2+; optimal concentration depends on ATP concentration
+METALSIONS	Saccharomyces cerevisiae	KCl	*	*optimal concentration: 60 mM

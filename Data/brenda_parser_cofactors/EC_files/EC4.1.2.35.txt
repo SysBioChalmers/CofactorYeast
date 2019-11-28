@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*10% stimulation at 0.16 mM, 65% stimulation at 0.4 mM
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*37% stimulation at 0.08 mM, 47% stimulation at 0.16 mM
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*55% stimulation at 0.5 mM, 125% stimulation at 1.6 mM
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*23% stimulation at 0.32 mM
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*58% stimulation at 0.08 mM, 145% stimulation at 0.16 mM
+METALSIONS	Saccharomyces cerevisiae	Na+	*	*12% stimulation at 0.16 mM

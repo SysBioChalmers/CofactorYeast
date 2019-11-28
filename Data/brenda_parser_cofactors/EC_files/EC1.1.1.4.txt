@@ -1,0 +1,5 @@
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*no activity with NADP+ as cofactor
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation

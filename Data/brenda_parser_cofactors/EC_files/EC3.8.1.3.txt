@@ -1,0 +1,1 @@
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on

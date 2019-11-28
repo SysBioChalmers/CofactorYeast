@@ -1,0 +1,2 @@
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*metalloenzyme containing Co2+ in its structure
+METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activity is strictly dependent on, maximal activity at 0.5 mM CoCl2

@@ -1,0 +1,13 @@
+COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*cytochome c from horse-, beef- and tuna-heart more active than yeast cytochome c
+COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*
+COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*highly specific
+COFACTOR	Saccharomyces cerevisiae	2,6-dichlorophenolindophenol	*	*can substitute for cytochrome c
+COFACTOR	Saccharomyces cerevisiae	phenazine methosulfate	*	*can substitute for cytochrome c
+METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*inhibitory
+METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*restores activity after inhibition with o-phenanthroline
+METALSIONS	Saccharomyces cerevisiae	ferricyanide	*	*not suitable as electron acceptor
+METALSIONS	Saccharomyces cerevisiae	ferricyanide	*	*can substitute for cytochrome c
+METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inhibitory
+METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*restores activity after inhibition with o-phenanthroline
+METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*very tightly bound to enzyme

@@ -1,0 +1,6 @@
+COFACTOR	Saccharomyces cerevisiae	NADPH	*	*NADPH can substitute for NADH
+COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*A-stereospecific
+COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+COFACTOR	Saccharomyces cerevisiae	more	*	*not: NADP+; very low reaction rate with NADPH
+COFACTOR	Saccharomyces cerevisiae	more	*	*5% of NADH reaction
