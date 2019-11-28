@@ -6,22 +6,20 @@ load('enzymedata.mat');
 tic;
 
 %% Set model
-
 model = changeRxnBounds(model,'r_1714',-1000,'l'); %
 
 % block some reactions
 model = changeRxnBounds(model,'r_0886_1',0,'b'); % iso-reaction of PFK
+model = changeRxnBounds(model,'r_4262_fwd',0,'b'); % citrate hydroxymutase
+model = changeRxnBounds(model,'r_4262_rvs',0,'b'); % citrate hydroxymutase
 
 % block some reactions that done in PMID: 28779005.
 model = changeRxnBounds(model,'r_2045_rvs',0,'b'); % serine transport from [m] to [c]
 model = changeRxnBounds(model,'r_0659_fwd',0,'b'); % isocitrate dehydrogenase (NADP)
 model = changeRxnBounds(model,'r_0659_rvs',0,'b'); % isocitrate dehydrogenase (NADP)
 
-model = changeRxnBounds(model,'r_0725_fwd',0,'b'); % methenyltetrahydrofolate cyclohydrolase
-model = changeRxnBounds(model,'r_0918',0,'b'); % phosphoserine transaminase
-
-
-% model = changeRxnBounds(model,'r_1631',0,'b'); % acetaldehyde exchange
+% model = changeRxnBounds(model,'r_0725_fwd',0,'b'); % methenyltetrahydrofolate cyclohydrolase
+% model = changeRxnBounds(model,'r_0918',0,'b'); % phosphoserine transaminase
 
 
 %% Set optimization
@@ -50,7 +48,6 @@ for i = 1:length(mu_list)
     system(command,'-echo');
     [~,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
     disp(['solution status: ' sol_status]);
-    % dummy complex
     if strcmp(sol_status,'optimal')
         fluxes(:,i) = sol_full;
     end
@@ -82,7 +79,7 @@ plot(mu,o2,'-o','LineWidth',0.75,'Color',[77,175,74]/255);
 plot(mu,co2,'-o','LineWidth',0.75,'Color',[152,78,163]/255);
 % plot(mu,ac,'-o','LineWidth',0.75,'Color',[247,129,191]/255);
 % plot(mu,aldh,'-o','LineWidth',0.75,'Color',[247,129,191]/255);
-xlim([0 0.45]);
+xlim([0 0.5]);
 
 set(gca,'FontSize',12,'FontName','Helvetica');
 xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
@@ -100,7 +97,7 @@ figure('Name','dummy');
 hold on;
 box on;
 plot(mu,dummy,'-o','LineWidth',0.75,'Color',[82,82,82]/255);
-xlim([0 0.45]);
+xlim([0 0.5]);
 set(gca,'FontSize',12,'FontName','Helvetica');
 xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
 ylabel('Dummy (g/gCDW)','FontSize',14,'FontName','Helvetica');
