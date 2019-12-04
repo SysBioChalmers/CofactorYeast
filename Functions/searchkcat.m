@@ -9,8 +9,8 @@ function [finalkcat, conf_score] = searchkcat(ec,substrate,org_name,allkcats)
 %         conf_score, confidence score of the searched kcat value.
 % CONFIDENCE SCORE
 % 0:    No kcat reported for the EC number in BRENDA, then kcat = nan.
-% 1:    Neither substrates nor organism matched, then kcat = median of all reported kcats.
-% 2:    Substrates matched but organism not matched, then kcat = median of all substrates matched kcats.
+% 1:    No organism matched, then kcat = median of all reported kcats.
+% 2:    Organism matched but substrates not matched, then kcat = median of all substrates matched kcats.
 % 3:    Both substrates and organism matched, then kcat = max of matched kcats.
 
 % Note: if multiple EC numbers provided, then the kcat with highest
@@ -49,10 +49,10 @@ for i = 1:length(eclist)
             kcat = max(kcat_tmp(match_idx_combined)); %choose max
             conf = 3;
         else
-            if any(match_idx_sub) %only substrate matched
-                kcat = median(kcat_tmp(match_idx_sub)); %choose median
+            if any(match_idx_org) %only organism matched
+                kcat = median(kcat_tmp(match_idx_org)); %choose median
                 conf = 2;
-            else %if no substrate matched, then choose median of all kcats
+            else %if no organism matched, then choose median of all kcats
                 kcat = median(kcat_tmp);
                 conf = 1;
             end

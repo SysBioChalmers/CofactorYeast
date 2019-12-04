@@ -49,12 +49,12 @@ for i = 1:length(enzyme_list)
   	kcat = kcat_list(i);
     
 % Change kcats extremely low
-	if kcat < quantile(kcat_list,0.05,1)
-        kcat = quantile(kcat_list,0.05,1);
-	end
-% 	if kcat < 3600
-%         kcat = 3600;
+% 	if kcat < quantile(kcat_list,0.1,1)
+%         kcat = quantile(kcat_list,0.1,1);
 % 	end
+	if kcat < 3600
+        kcat = 3600;
+	end
     
     kcat = kcat*factor_k;
 
