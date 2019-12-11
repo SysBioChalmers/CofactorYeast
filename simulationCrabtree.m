@@ -35,7 +35,7 @@ f = tot_protein * f_modeled_protein;
 clear tot_protein f_modeled_protein;
 
 %% Solve LPs
-mu_list = 0.02:0.02:0.38;
+mu_list = 0.02:0.02:0.4;
 
 fluxes = zeros(length(model.rxns),length(mu_list));
 
