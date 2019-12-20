@@ -1,0 +1,1949 @@
+EC1.1.1.1	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*cofactor binding mode
+EC1.1.1.1	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.1	COFACTOR	Saccharomyces cerevisiae	NADH	*	*cofactor binding mode
+EC1.1.1.1	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.1	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.1	COFACTOR	Saccharomyces cerevisiae	more	*	*kinetic study on the binding of monomeric and polymeric derivatives of NAD+
+EC1.1.1.1	COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with NADPH
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*CaCl2 and MgCl2 are able to stabilize the enzyme at millimolar concentrations. Ca2+ stabilizes yeast ADH I by preventing the dissociation of the reduced form of the enzyme and by preventing the unfolding of the oxidized form of the enzyme. Ca2+ is fixed by the Asp236 and Glu101 side chains in yeast ADH I
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*0.5 mM, substrate glycolaldehyde, 86.2% residual activity
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*construction of an active metal-substituted mutant by substituting Zn2+ for Cu2+ or Co2+, which maintain the same configuration as the native zinc ion, but possessing a wider pH range and a lower activity and substrate affinity than the wild-type enzyme, overview
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*construction of an active metal-substituted mutant by substituting Zn2+ for Cu2+ or Co2+, which maintain the same configuration as the native zinc ion, but possessing a wider pH range and a lower activity and substrate affinity than the wild-type enzyme, overview
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*0.25 mM, substrate glycolaldehyde, no residual activity
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Fe3+	*	*0.5 mM, substrate glycolaldehyde, 92.2% residual activity
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.5 mM, substrate glycolaldehyde, 93.5% residual activity
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*0.5 mM, substrate glycolaldehyde, 89% residual activity
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*0.5 mM, substrate glycolaldehyde, 54.9% residual activity
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activates
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*included into the crystal strcuture
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*all isozymes, amino acid residues involved in zinc in binding are Cys46, Cys174, His67, Glu68, Asp49, and Thr48, binding mode
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*native enzyme contains catalytic zinc ions
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains Zn2+
+EC1.1.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.5 mM, substrate glycolaldehyde, 32.9% residual activity
+EC1.1.1.10	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.10	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.100	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.101	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*hydrogen from B-side of nicotinamide ring is transferred to reduce keto substrates
+EC1.1.1.101	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*hydrogen from B-side of nicotinamide ring is transferred to reduce keto substrates; specific for NADPH
+EC1.1.1.102	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.107	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.11	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.113	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.116	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.116	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*Ara2p is specific for NAD+, while Ara1p utilizes NADP+
+EC1.1.1.117	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.123	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.123	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*stereospecific transfer of hydrogen from the A side of reduced pyridine to the ketohexose substrate
+EC1.1.1.169	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*B-specific hydrogen transfer
+EC1.1.1.169	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.169	COFACTOR	Saccharomyces cerevisiae	NADH	*	*less active than NADPH at 0.1 mM
+EC1.1.1.169	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.170	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.184	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.195	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*dependent for, binding and specificity mechanism, interaction through Ser210, Arg211, and Lys215 and the terminal phosphate group
+EC1.1.1.195	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.195	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*2 zinc atoms per subunit
+EC1.1.1.2	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*prefered
+EC1.1.1.21	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.217	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.217	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*strong inhibition
+EC1.1.1.217	METALSIONS	Saccharomyces cerevisiae	Hg2+	*	*strong inhibition
+EC1.1.1.217	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*strong inhibition
+EC1.1.1.217	METALSIONS	Saccharomyces cerevisiae	Ag+	*	*strong inhibition
+EC1.1.1.260	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.265	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preferred cofactor
+EC1.1.1.265	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.265	COFACTOR	Saccharomyces cerevisiae	NADH	*	*less effective cofactor
+EC1.1.1.265	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.265	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.276	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*dependent on; NAD+ cannot replace NADP+
+EC1.1.1.279	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific for
+EC1.1.1.280	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific for
+EC1.1.1.283	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.283	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*dependent on
+EC1.1.1.283	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.284	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.284	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.284	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*no activity with NADP+
+EC1.1.1.286	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*stereochemistry of hydride transfer to NAD, overview
+EC1.1.1.286	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.286	METALSIONS	Saccharomyces cerevisiae	K+	*	*best activator, 200 mM activates by 100%, increases the affinity of enzyme for NAD+ at high pH
+EC1.1.1.286	METALSIONS	Saccharomyces cerevisiae	NH4+	*	*200 mM activates by 80.9%
+EC1.1.1.286	METALSIONS	Saccharomyces cerevisiae	Rb+	*	*200 mM activates by 29.3%
+EC1.1.1.286	METALSIONS	Saccharomyces cerevisiae	more	*	*200 mM Cs+, Li+, and Na+ do not activate
+EC1.1.1.3	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.3	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.3	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.303	COFACTOR	Saccharomyces cerevisiae	NADH	*	*enzyme is specific for NADH
+EC1.1.1.303	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.307	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.307	COFACTOR	Saccharomyces cerevisiae	NADH	*	*prefers NADPH as the coenzyme by about 80fold over NADH
+EC1.1.1.307	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.307	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.307	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*prefers NADPH as the coenzyme by about 80fold over NADH
+EC1.1.1.307	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.307	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preferred cofactor
+EC1.1.1.34	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.34	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*specific HMGR activity is responsive to changes in NaCl concentrations. Minimal activity under optimal conditions and an increase in HMGR activities and protein levels under hyposaline and hypersaline conditions. HMGR activity is crucial for halotolerance as well as for the changes in protein prenylation in response to changing salinity
+EC1.1.1.36	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.36	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific for
+EC1.1.1.37	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on; dependent on
+EC1.1.1.37	COFACTOR	Saccharomyces cerevisiae	NADH	*	*dependent on; dependent on
+EC1.1.1.37	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.38	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.38	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.38	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC1.1.1.381	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*no activity with NAD+
+EC1.1.1.4	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*no activity with NADP+ as cofactor
+EC1.1.1.4	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.4	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation
+EC1.1.1.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation
+EC1.1.1.41	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on
+EC1.1.1.41	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*specific for
+EC1.1.1.41	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*specific for, binding site at subunit IDH2
+EC1.1.1.41	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*specific for NAD+
+EC1.1.1.41	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.41	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on, one NAD+ site per enzyme tetramer, two functional NAD+ binding sites in the wild-type enzyme; two NAD+ binding sites located on subunit IDH2
+EC1.1.1.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*binding site at subunit IDH2, active site
+EC1.1.1.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC1.1.1.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC1.1.1.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, activates
+EC1.1.1.41	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*requires divalent cations
+EC1.1.1.42	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*natural coenzyme
+EC1.1.1.42	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.42	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*specific for
+EC1.1.1.42	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.42	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC1.1.1.42	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+EC1.1.1.49	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.65	METALSIONS	Saccharomyces cerevisiae	ZnCl2	*	*0.1 mM: activation, 10 mM: inhibition
+EC1.1.1.67	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.67	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.71	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.73	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*not NADP+
+EC1.1.1.73	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.78	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*NADPH required
+EC1.1.1.78	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.79	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific for NADPH
+EC1.1.1.79	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preferred cofactor, NADH gives only 4% of the activity with NADPH
+EC1.1.1.79	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.79	COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*
+EC1.1.1.79	COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*specific for NADPH
+EC1.1.1.8	COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with NADPH
+EC1.1.1.8	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on
+EC1.1.1.8	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.8	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.8	COFACTOR	Saccharomyces cerevisiae	NADH	*	*dependent on
+EC1.1.1.8	COFACTOR	Saccharomyces cerevisiae	NADH	*	*; 
+EC1.1.1.85	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*specific for NAD+, activity drops to less than 5% when NADP+ is substituted for NAD+
+EC1.1.1.85	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.85	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on, cofactor specificity-determining residues, overview
+EC1.1.1.85	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*0.5 mM, very minor stimulatory effect
+EC1.1.1.85	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*divalent cation required, Mn2+ and Cd2+ are about equally effective at 0.5 mM
+EC1.1.1.85	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cations required 0.5 mM, Co2+ is 73% as effective as Mn2+ or Co2+
+EC1.1.1.85	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*0.5 mM, very minor stimulatory effect
+EC1.1.1.85	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cations required 0.5 mM Mg2+ is 62% as effective as Mn2+ or Co2+
+EC1.1.1.85	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, Mn2+ and Cd2+ are about equally effective at 0.5 mM
+EC1.1.1.85	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.5 mM, very minor stimulatory effect
+EC1.1.1.86	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.86	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC1.1.1.87	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*NADP+ can replace NAD+
+EC1.1.1.87	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.87	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.87	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*NADP+ can replace NAD+
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulation of oxidative decarboxylation, required for reductive carboxylation
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation, 2fold activity at 5 mM
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates, increase in the affinity of enzyme for Mg-HIc as a result of elimination of the inhibitory effect of Cl-
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, three conserved aspartate residues, D243, D267 and D271, coordinate Mg2+, which is also coordinated to the alpha-carboxylate and alpha-hydroxyl of homoisocitrate
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*stimulation of oxidative decarboxylation
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	K+	*	*required for optimal activity
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	K+	*	*activates
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	K+	*	*dependent on
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	K+	*	*the enzyme requires a potassium ion as an activator, for optimal binding of NAD+
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	NH4+	*	*activates
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	Rb+	*	*activates
+EC1.1.1.87	METALSIONS	Saccharomyces cerevisiae	more	*	*selectivity of the activator site for monovalent ions, K+ is the best activator, and NH4+ and Rb+ are also activators of the reaction, while Cs+, Li+, and Na+ are not, overview. Substitution of potassium acetate for KCl changes the kinetic mechanism of HIcDH from a steady state random to a fully ordered mechanism with the binding of Mg-HIc followed by K+ and NAD+
+EC1.1.1.9	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.9	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.95	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.B20	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.1.1.B3	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.1.B35	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.1.1.B35	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.1.1.B4	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	FAD	*	*the flavoenzyme possesses flavocytochrome b2 subunits, that each consists of an N-terminal cytochrome domain and a C-terminal flavodehydrogenase, FDH, domain
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	heme	*	*one heme per subunit
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	heme	*	*the N-terminal domain of the enzyme contains protohaem IX
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	heme	*	*the flavoenzyme possesses flavocytochrome b2 subunits, that each consists of an N-terminal cytochrome domain and a C-terminal flavodehydrogenase, FDH, domain
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	heme	*	*each enzyme subunit contains a cytochrome b5-like heme domain
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	heme	*	*flavohemoprotein, in the crystal structure, FMN and heme are face to face, and appear to be in a suitable orientation and at a suitable distance for exchanging electrons. But in one subunit out of two, the heme domain is disordered and invisible. The heme domains are mobile in solution
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	heme	*	*each of the four subunits contains a beta-type heme
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	heme	*	*
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	FMN	*	*one FMN per subunit
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	FMN	*	*the C-terminal domain of the enzyme contains FMN
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	FMN	*	*each subunit of the tetramer is composed of two domains, one binding a heme and the other an FMN prosthetic group. The flavin binding domain contains a parallel beta8alpha8 barrel structure and is composed of residues 100 to 486. The FMN moiety, which is located at the C-terminal end of the central beta-barrel, is mostly sequestered from solvent. It forms hydrogen bond interactions with main- and side-chain atoms from six of the eight beta-strands. The interaction of Lys349 with atoms N-1 and O-2 of the flavin ring is probably responsible for stabilization of the anionic form of the flavin semiquinone and hydroquinone and enhancing the reactivity of atom N-5 toward sulfite. The binding of pyruvate at the active site in subunit 2 is stabilized by interaction of its carboxylate group with the side-chain atoms of Arg376 and Tyr143. Residues His373 and Tyr254 interact with the keto-oxygen atom and are involved in catalysis. In contrast, four water molecules occupy the substrate-binding site in subunit 1 and Tyr143 forms a hydrogen bond to the ordered heme propionate group. Otherwise the two flavin-binding domains are identical within experimental error
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	FMN	*	*flavohemoprotein, in the crystal structure, FMN and heme are face to face, and appear to be in a suitable orientation and at a suitable distance for exchanging electrons
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	FMN	*	*each of the four subunits contains a flavin mononucleotide prosthetic group
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*the flavoenzyme possesses flavocytochrome b2 subunits, that each consists of an N-terminal cytochrome domain and a C-terminal flavodehydrogenase, FDH, domain
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	ferricytochrome c	*	*
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	cytochrome	*	*each subunit of the tetramer is composed of two domains, one binding a heme and the other an FMN prosthetic group. The cytochrome domain consists of residues 1 to 99
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	flavocytochrome b2	*	*
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	more	*	*2,6-dichloroindophenol, ferricyanide, methylene blue, 1,2-naphthoquinone and cytochrome c can serve as electron acceptors; electron acceptors other than ferricytochrome c used
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	more	*	*2,6-dichlorophenolindophenol used as electron acceptor, 10-fold more sensitive than ferricyanide; electron acceptors other than ferricytochrome c used
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	more	*	*electron acceptors other than ferricytochrome c used
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	more	*	*electron acceptors other than ferricytochrome c used; ferricyanide used as electron acceptor
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	more	*	*binding studies and models of the complex between cytochrome c and Fcb2, E63 is involved in the interaction with cyt. c, overview. Cytochrome c mutants E63K/D72K and E63K/D72K show reduced activity, but neither the K296M nor the Y97F mutation show significantly alteration of the enzyme kinetics. Effect of mutations on heme and cytochrome binding, overview
+EC1.1.2.3	COFACTOR	Saccharomyces cerevisiae	more	*	*FMN and heme groups are localized in two different domains
+EC1.1.2.3	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*bound to enzyme
+EC1.1.2.3	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*heme cofactor
+EC1.1.2.4	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.1.2.4	COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*cytochome c from horse-, beef- and tuna-heart more active than yeast cytochome c
+EC1.1.2.4	COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*
+EC1.1.2.4	COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*highly specific
+EC1.1.2.4	COFACTOR	Saccharomyces cerevisiae	2,6-dichlorophenolindophenol	*	*can substitute for cytochrome c
+EC1.1.2.4	COFACTOR	Saccharomyces cerevisiae	phenazine methosulfate	*	*can substitute for cytochrome c
+EC1.1.2.4	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*inhibitory
+EC1.1.2.4	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*restores activity after inhibition with o-phenanthroline
+EC1.1.2.4	METALSIONS	Saccharomyces cerevisiae	ferricyanide	*	*not suitable as electron acceptor
+EC1.1.2.4	METALSIONS	Saccharomyces cerevisiae	ferricyanide	*	*can substitute for cytochrome c
+EC1.1.2.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inhibitory
+EC1.1.2.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*restores activity after inhibition with o-phenanthroline
+EC1.1.2.4	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*very tightly bound to enzyme
+EC1.1.3.8	COFACTOR	Saccharomyces cerevisiae	flavin	*	*covalently bound, flavoenzyme
+EC1.1.5.3	COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on
+EC1.1.5.3	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activated by Ca2+
+EC1.1.99.18	COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+EC1.1.99.18	COFACTOR	Saccharomyces cerevisiae	heme	*	*heme b
+EC1.1.99.40	COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme is a FAD-dependent transhydrogenase using pyruvate as a hydrogen acceptor
+EC1.1.99.40	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.005 mM, about 3fold stimulation
+EC1.1.99.40	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*0.005 mM, about 3fold stimulation
+EC1.11.1.11	COFACTOR	Saccharomyces cerevisiae	heme	*	*
+EC1.11.1.15	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*
+EC1.11.1.5	COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*holo CcP binds cytochrome c with micromolar affinity. For apo CcP, the interaction with cytochrome c is completely abolished
+EC1.11.1.5	COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*thermodynamic affinity constants for binding the first and second cytochrome c are KI 0.0000001 per M, KII 0.0001 per M. Cytochrome c binds at the weaker-binding site with relatively great affinity, and places upper bounds on the contributions of repulsion between the two cytochrome c of the ternary complex
+EC1.11.1.5	COFACTOR	Saccharomyces cerevisiae	cytochrome c	*	*study on both chemical shift perturbations and paramagnetic relaxation enhancements effects in the NMR spectrum of CcP generated in the presence of spin-labelled cytochrome c
+EC1.11.1.5	COFACTOR	Saccharomyces cerevisiae	heme	*	*
+EC1.11.1.5	COFACTOR	Saccharomyces cerevisiae	heme	*	*Fe(III) reduction to Fe(IV) in heme cofactor, pH dependence of the reduction potential and heme binding site structure analysis of wild-type and mutant enzymes using photoreduction and spectroscopic methods, respectively, overview
+EC1.11.1.5	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*heme
+EC1.11.1.5	METALSIONS	Saccharomyces cerevisiae	Iron	*	*heme prosthetic group
+EC1.11.1.5	METALSIONS	Saccharomyces cerevisiae	Iron	*	*heme
+EC1.11.1.5	METALSIONS	Saccharomyces cerevisiae	Iron	*	*heme iron Fe(III)
+EC1.11.1.5	METALSIONS	Saccharomyces cerevisiae	Iron	*	*Fe(III) reduction to Fe(IV) in heme cofactor
+EC1.11.1.6	COFACTOR	Saccharomyces cerevisiae	heme	*	*heme b
+EC1.13.11.52	COFACTOR	Saccharomyces cerevisiae	heme	*	*
+EC1.13.11.6	COFACTOR	Saccharomyces cerevisiae	more	*	*non-heme enzyme
+EC1.13.11.6	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*non-heme ferrous enzyme
+EC1.13.11.6	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*two nickel binding sites per molecule. One of the bound nickel atoms occupies the proposed ferrous-coordinated active site
+EC1.13.11.71	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates by 14% at 5 mM
+EC1.13.11.71	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activates by 17% at 5 mM
+EC1.13.11.71	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates by 26% at 5 mM
+EC1.13.11.71	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*activates by 23% at 5 mM
+EC1.13.11.71	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*activates by 7% at 5 mM
+EC1.14.11.27	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required for catalysis; required for catalysis; required for catalysis
+EC1.14.11.27	METALSIONS	Saccharomyces cerevisiae	Iron	*	*Fe2+ is required
+EC1.14.11.27	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*the Ni2+ ion at the active site is chelated by conserved residues and the cofactor 2-oxoglutarate
+EC1.14.11.B1	COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on
+EC1.14.11.B1	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required
+EC1.14.11.B2	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required for catalysis
+EC1.14.12.17	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.14.12.17	COFACTOR	Saccharomyces cerevisiae	flavin	*	*
+EC1.14.12.17	COFACTOR	Saccharomyces cerevisiae	heme	*	*
+EC1.14.12.17	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.14.12.17	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.14.13.8	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.14.13.8	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.14.13.9	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.14.13.9	COFACTOR	Saccharomyces cerevisiae	NADH	*	*less effective than NADPH
+EC1.14.13.9	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.14.14.154	COFACTOR	Saccharomyces cerevisiae	cytochrome P450	*	*
+EC1.14.14.154	COFACTOR	Saccharomyces cerevisiae	heme	*	*heme-thiolate enzyme
+EC1.14.14.17	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.14.14.17	COFACTOR	Saccharomyces cerevisiae	FAD	*	*contains two FAD domains
+EC1.14.14.17	COFACTOR	Saccharomyces cerevisiae	FAD	*	*binding domain structure, the enzyme contains two highly conserved motifs 1 and 2, which flank the FAD cofactor and form part of the interface between cofactor and substrate binding domains in the structure modelling, overview
+EC1.14.14.17	COFACTOR	Saccharomyces cerevisiae	more	*	*FAD is not essential for activity, 76.2% activity in the absence of FAD
+EC1.14.18.5	METALSIONS	Saccharomyces cerevisiae	Iron	*	*a diiron binding enzyme
+EC1.14.18.6	COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*expression of the FAH1 cytochrome b5 domain in Escherichia coli produces a soluble protein that exhibits the typical oxidized versus reduced differential absorbance spectra of cytochrome b5
+EC1.14.18.6	COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*protein contains a cytochrome b5-like domain and a domain that resembles the family of cytochrome b5-dependent enzymes that use iron and oxygen to catalyse desaturation or hydroxylation of fatty acids
+EC1.14.18.6	COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*the enzyme contains a cytochrome b5 domain fused to the catalytic domain at the N terminus of the enzyme
+EC1.14.18.6	COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*a Cb5-like domain (Cb5LD)-containing protein
+EC1.14.18.6	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*the enzyme contains two zinc atoms; the enzyme contains two zinc atoms coordinated by the side chains of 10 highly conserved histidines within a dimetal center located near the plane of the cytosolic membrane. The dimetal-binding site is located within the catalytic cap domain and is occupied by zinc atoms coordinated by the highly conserved histidine side chains from four histidine box motifs. Molecular dynamics simulations, allows modeling of a ceramide substrate below the dimetal center of scScs7p
+EC1.14.18.7	COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*fatty acid hydroxylase 1 has a Cb5-like domain at the N terminus and interacts with plant cryoprotective protein Bax inhibitor-1
+EC1.14.18.7	COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*a Cb5-like domain (Cb5LD)-containing protein
+EC1.14.18.9	COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*
+EC1.14.18.9	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.14.18.9	METALSIONS	Saccharomyces cerevisiae	Iron	*	*non-heme iron
+EC1.14.19.20	COFACTOR	Saccharomyces cerevisiae	cytochrome b5	*	*
+EC1.14.19.20	COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*
+EC1.14.19.41	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.14.99.29	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*the enzyme contains a nonheme diiron active center that activates O2
+EC1.14.99.29	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required, active site-bound
+EC1.14.99.29	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required, essential structural role for iron binding in addition to its contribution to the catalysis of hypusine formation in the eIF-5A precursor. Lia1 is an iron metalloenzyme. Determination of metal contents in purified enzyme samples, overview. The apoenzyme has a larger hydrodynamic size than the holoenzyme
+EC1.14.99.29	METALSIONS	Saccharomyces cerevisiae	more	*	*Lia1 contains no cadmium, cobalt, chromium, copper, magnesium, manganese, nickel and zinc
+EC1.14.99.7	COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on, binds at a domain with a Rossmann fold, containing the 25GlyXGlyXXGly30 sequence
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*2 mol of Cu per mol of enzyme
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Iron	*	*when mitochondrial iron homeostasis is disrupted, iron accumulates in a reactive form and competes with manganese, inactivating the enzyme. The ability to control the iron pool within mitochondria is critical to maintaining enzyme activity
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Manganese	*	*
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Manganese	*	*mitochondrial localization is essential for insertion of manganese to protein. Insertion is only possible with a newly synthesized polypeptide and seems to be driven by the protein unfolding process associated with mitochondrial import
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*4 mol per mol of enzyme
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*1 atom per subunit
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Mn	*	*Mn-SOD
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	more	*	*enzyme from eukaryotes contains both copper and zinc, enzymes from most prokaryotes contain manganese or iron; overview: metal content
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*1.8 mol of Zn per mol of enzyme
+EC1.15.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*2 mol of Zn2+ per mol of enzyme
+EC1.16.3.1	METALSIONS	Saccharomyces cerevisiae	Cu	*	*4 atoms per protein
+EC1.16.3.1	METALSIONS	Saccharomyces cerevisiae	Fe(II)	*	*wild-type, Km value 0.005 mM, mutant D283A, 0.019 mM, mutant E185A, 0.036 mM, mutant D409A, 0.019 mm, mutant E185A/D409A, 4 mM, respectively. The protein provides a binding site for Fe(II) that actually favors Fe(III), this coordination sphere places the bound Fe(II) in a state of entasis that can be relieved by loss of an electron. The EO of the bound Fe(II) is lowered relative to that of aqueous ferrous iron making electron transfer thermodynamically favorable. Carboxylates within this coordination sphere provide an electronic coupling pathway for the electron transfer via their H-bond network with type 1 Cu-histidine ligands thus making electron transfer kinetically efficient
+EC1.17.1.9	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*wild-type enzyme shows no activity with NADP+, mutant enzyme D196A/Y197R shows higher activity with NADP+ than with NAD+
+EC1.17.1.9	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.17.1.9	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*wild-type enzyme shows no activity with NADP+, mutant enzyme D196A/Y197R shows higher activity with NADP+ than with NAD+
+EC1.17.4.1	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*
+EC1.17.4.1	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*class Ia RNRs
+EC1.17.4.1	COFACTOR	Saccharomyces cerevisiae	glutaredoxin	*	*class Ia RNRs
+EC1.17.4.1	COFACTOR	Saccharomyces cerevisiae	diferric(III)-tyrosyl radical cofactor	*	*class I enzymes
+EC1.17.4.1	COFACTOR	Saccharomyces cerevisiae	more	*	*cofactor specificity and binding, role in reaction, overview
+EC1.17.4.1	METALSIONS	Saccharomyces cerevisiae	Fe3+	*	*class I enzymes contain diferric(III)-tyrosyl radical cofactor
+EC1.17.4.1	METALSIONS	Saccharomyces cerevisiae	more	*	*Mg2+ is not required for activity in vitro
+EC1.2.1.11	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.2.1.11	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.2.1.12	COFACTOR	Saccharomyces cerevisiae	3-acetylpyridine-NAD+	*	*
+EC1.2.1.12	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*activity with D-glyceraldehyde 3-phosphate in presence of 0.0006-0.006 mM NAD+: activity of the monomeric form is negligible or absent, high activity of the tetramer. 0.02-0.06 mM NAD+: markedly higher catalytic activity of the monomer. 2 mM NAD+: specific activities of monomeric and tetrameric forms are similar and equal to 0.06 mM/min. Activity with 3-phospho-D-glyceroyl phosphate: activity of the monomer is considerably higher than that of the tetramer
+EC1.2.1.12	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*weak binding of NAD+ to the enzyme
+EC1.2.1.12	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*binding structure analysis: the NAD+ molecule inserts its pyrimidine ring into a narrow hydrophobic binding pocket on the positively charged surface of GAPDH3. The residues Asn7, Gly8, Phe9, Gly10, Asp33, Pro34, Phe35, The97, Gly98, and Phe100 tightly enclose the pyrimidine ring of NAD+. Because of a common adenine head, adenosine can also bind tightly to this hydrophobic binding pocket. There are two consecutive positively charged regions that contain an NAD+-binding site, one of which is located on each side of the tetramer
+EC1.2.1.12	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.2.1.12	COFACTOR	Saccharomyces cerevisiae	NADH	*	*cofactor
+EC1.2.1.16	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*2.5fold better activity than with NADP+ at 0.2 mM concentration
+EC1.2.1.16	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.2.1.16	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.2.1.22	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.2.1.22	COFACTOR	Saccharomyces cerevisiae	more	*	*NADP+ can not substitute for NAD+
+EC1.2.1.22	METALSIONS	Saccharomyces cerevisiae	Cl-	*	*activates
+EC1.2.1.22	METALSIONS	Saccharomyces cerevisiae	Br-	*	*activates
+EC1.2.1.22	METALSIONS	Saccharomyces cerevisiae	I-	*	*activates
+EC1.2.1.3	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.2.1.3	METALSIONS	Saccharomyces cerevisiae	K+	*	*K+-activated enzyme
+EC1.2.1.31	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC1.2.1.31	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.2.1.31	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC1.2.1.38	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.2.1.4	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*0.1-0.4% of the activity with NADP+
+EC1.2.1.4	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.2.1.4	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*preferred cofactor
+EC1.2.1.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+EC1.2.1.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates
+EC1.2.1.4	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates
+EC1.2.1.4	METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*activates
+EC1.2.1.41	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.2.1.5	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.2.1.5	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.2.1.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*20 mM MgCl2, 2.8fold stimulation of activity of ALDH1
+EC1.2.1.5	METALSIONS	Saccharomyces cerevisiae	K+	*	*activates
+EC1.2.1.5	METALSIONS	Saccharomyces cerevisiae	KCl	*	*120 mM: 40fold increase of activity of ALDH5 with NAD+. 16 mM: 20fold increase of activity of enzyme ALDH5 with NADP+. No stimulation of the activity of enzyme form ALDH1
+EC1.2.1.5	METALSIONS	Saccharomyces cerevisiae	CaCl2	*	*30 mM, 3.8fold stimulation of activity of ALDH1
+EC1.2.1.5	METALSIONS	Saccharomyces cerevisiae	MnCl2	*	*2 mM, 2.1fold stimulation of activity of ALDH1
+EC1.2.1.88	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.2.1.88	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.2.4.1	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.2.4.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+EC1.2.4.2	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*required , 2-oxoglutarate dehydrogenase complex
+EC1.2.4.2	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+EC1.2.4.2	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*no activation
+EC1.2.4.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, 2-oxoglutarate dehydrogenase complex
+EC1.2.4.4	COFACTOR	Saccharomyces cerevisiae	CoA	*	*
+EC1.2.4.4	COFACTOR	Saccharomyces cerevisiae	CoA	*	*extraordinarily tightly bound
+EC1.2.4.4	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.3.1.10	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific for form B, i.e. hydrogen in position HB is transferred to substrate
+EC1.3.1.10	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*dependent on
+EC1.3.1.12	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*preferred cofactor
+EC1.3.1.12	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.3.1.31	COFACTOR	Saccharomyces cerevisiae	NAD(P)H	*	*
+EC1.3.1.6	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.3.1.70	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*best stimulation
+EC1.3.1.70	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.3.1.71	COFACTOR	Saccharomyces cerevisiae	NADH	*	*about 10fold less active than NADPH
+EC1.3.1.71	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preferred cofactor
+EC1.3.1.71	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.3.1.76	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*beta-NAD+-dependent dehydrogenation of precorrin-2
+EC1.3.1.88	COFACTOR	Saccharomyces cerevisiae	FAD	*	*stimulates activity 25fold
+EC1.3.1.91	COFACTOR	Saccharomyces cerevisiae	FAD	*	*flavin-dependent enzyme
+EC1.3.1.91	COFACTOR	Saccharomyces cerevisiae	FAD	*	*stimulates activity
+EC1.3.1.93	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.3.3.12	COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme contains a covalently bound flavin; the covalently bound flavin is 8alpha-[N(1)histidyl]FAD
+EC1.3.3.12	COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme contains a covalently bound flavin
+EC1.3.3.12	METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme contains an iron-sulfur cluster
+EC1.3.3.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*only for anaerobic activity, optimal activity at 2 mM
+EC1.3.3.3	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*only anaerobic activity, 30% of the activity compared to NADP+
+EC1.3.3.3	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*strong specificity for anaerobic oxidation
+EC1.3.3.3	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*50% activation of anaerobic enzyme at 5 mM
+EC1.3.3.3	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*optimal activation only for anaerobic enzyme at 0.1 mM
+EC1.3.3.3	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*2 atoms per native molecule
+EC1.3.3.3	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*optimal activation only for anaerobic enzyme at 0.1 mM
+EC1.3.3.3	METALSIONS	Saccharomyces cerevisiae	Fe3+	*	*80% activation of anaerobic enzyme at 0.5 mM
+EC1.3.3.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*50% activation of anaerobic enzyme at 5 mM
+EC1.3.3.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*optimal activation only for anaerobic enzyme at 0.2 mM
+EC1.3.3.3	METALSIONS	Saccharomyces cerevisiae	more	*	*30% activation of aerobic oxidation by divalent ions
+EC1.3.3.4	COFACTOR	Saccharomyces cerevisiae	flavin	*	*
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	FAD	*	*localized in Sdh1, i.e. the flavoprotein subunit
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	FAD	*	*in Sdh1 subunit
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	FAD	*	*flavoprotein, 41 pmol FAD per mg of protein in wild-type strain YPH499, possesses a flavoprotein subunit Sdh1p as part of the catalytic dimer of the tetrameric enzyme
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	FAD	*	*flavoprotein
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	FAD	*	*FAD of Sdh1 is covalently attached at an active site His residue, 8alpha-N3-histidyl-FAD linkage, involving Arg582, required for enzyme activity. Flavinylation and assembly of succinate dehydrogenase are dependent on the C-terminal tail of the flavoprotein subunit. FAD binding is important to stabilize the Sdh1 conformation enabling association with Sdh2 and the membrane anchor subunits
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	heme	*	*single heme localized between Sdh3 and Sdh4 subunits
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	2,6-dichlorophenolindophenol	*	*
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	ubiquinone	*	*
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	decylubiquinone	*	*
+EC1.3.5.1	COFACTOR	Saccharomyces cerevisiae	heme b562	*	*the enzyme has a heme b-containing membrane-anchoring dimer, comprising the Sdh3p and Sdh4p subunits, overview
+EC1.3.5.1	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*non-heme iron in the iron-sulfur protein in subunit Sdh2p as part of the catalytic dimer of the tetrameric enzyme, and heme iron in a heme b-containing membrane-anchoring dimer, comprising the Sdh3p and Sdh4p subunits, overview
+EC1.3.5.1	METALSIONS	Saccharomyces cerevisiae	Fe-S cluster	*	*two electrons from succinate are transferred one at a time through a flavin cofactor and a chain of iron-sulfur clusters to reduce ubiquinone to an ubisemiquinone intermediate and to ubiquinol
+EC1.3.5.1	METALSIONS	Saccharomyces cerevisiae	Fe-S-clusters	*	*overview
+EC1.3.5.1	METALSIONS	Saccharomyces cerevisiae	Fe-S-clusters	*	*
+EC1.3.5.1	METALSIONS	Saccharomyces cerevisiae	Iron	*	*Sdh2 subunit contains [2Fe-2S], 4[Fe-4S] and [3Fe-4S] clusters
+EC1.3.5.1	METALSIONS	Saccharomyces cerevisiae	Iron	*	*[2Fe-2S], [3Fe-4S] and [4Fe-4S] clusters in Sdh2 subunit
+EC1.3.98.1	COFACTOR	Saccharomyces cerevisiae	FMN	*	*flavoprotein, 1 FMN per subunit
+EC1.3.98.1	COFACTOR	Saccharomyces cerevisiae	flavin	*	*contains 0.5 mol flavin per mol protein
+EC1.4.1.14	COFACTOR	Saccharomyces cerevisiae	NADH	*	*specific for NADH as reductant
+EC1.4.1.14	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.4.1.14	COFACTOR	Saccharomyces cerevisiae	flavin	*	*iron-sulfur flavoprotein
+EC1.4.1.14	COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with NADPH
+EC1.4.1.14	METALSIONS	Saccharomyces cerevisiae	3Fe-4S-center	*	*iron-sulfur flavoprotein
+EC1.4.1.2	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.4.1.2	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.4.1.4	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.4.1.4	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.4.3.13	COFACTOR	Saccharomyces cerevisiae	trihydroxyphenylalanine quinone	*	*
+EC1.4.3.5	COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+EC1.4.3.5	COFACTOR	Saccharomyces cerevisiae	FMN	*	*1 mol of FMN per mol of enzyme
+EC1.4.3.5	METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for bivalent cations
+EC1.5.1.10	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*NAD+ and NADP+ equally effective in 2-aminoadipate 6-semialdehyde formation
+EC1.5.1.10	COFACTOR	Saccharomyces cerevisiae	NADH	*	*NADPH far more effective than NADH in saccaropine formation
+EC1.5.1.10	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*NAD+ and NADP+ equally effective in 2-aminoadipate 6-semialdehyde formation
+EC1.5.1.10	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.5.1.10	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*far more effective than NADH in saccharopine formation
+EC1.5.1.10	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.5.1.15	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.5.1.20	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.5.1.20	COFACTOR	Saccharomyces cerevisiae	flavin	*	*flavin-dependent enzyme
+EC1.5.1.20	COFACTOR	Saccharomyces cerevisiae	more	*	*wild-type shows no activity with NADH/NAD+
+EC1.5.1.20	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*only active with the chimeric mutant enzyme, not with the wild-type
+EC1.5.1.20	COFACTOR	Saccharomyces cerevisiae	NADH	*	*only active with the chimeric mutant enzyme, not with the wild-type
+EC1.5.1.20	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.5.1.20	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*dependent on
+EC1.5.1.3	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific
+EC1.5.1.5	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.5.1.5	METALSIONS	Saccharomyces cerevisiae	K+	*	*and other monovalent metal cations
+EC1.5.1.7	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*NADPH can substitute for NADH
+EC1.5.1.7	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.5.1.7	COFACTOR	Saccharomyces cerevisiae	NADH	*	*A-stereospecific
+EC1.5.1.7	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.5.1.7	COFACTOR	Saccharomyces cerevisiae	more	*	*not: NADP+; very low reaction rate with NADPH
+EC1.5.1.7	COFACTOR	Saccharomyces cerevisiae	more	*	*5% of NADH reaction
+EC1.5.3.16	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.5.3.17	COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on
+EC1.6.2.2	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FAD	*	*1 mol per subunit
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FAD	*	*ratio FAD : FMN 1 : 1; tightly bound
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FAD	*	*loosely bound
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FMN	*	*loosely bound; ratio FAD : FMN 1 : 1
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FMN	*	*loosely bound
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FMN	*	*second FMN binding site is detected at the interface of the connecting and FMN binding domains. The two FMN binding sites have different accessibilities to the bulk solvent and different amino acid environments, suggesting stabilization of different electronic structures of the reduced flavin. Since only one FMN cofactor is required for function, a hypothetical mechanism of electron transfer is discussed that proposes shuttling of a single FMN between these two sites coupled with the transition between two semiquinone forms, neutral and anionic
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+EC1.6.2.4	COFACTOR	Saccharomyces cerevisiae	FMN	*	*binding affinity for FMN is in the submicromolar range, 30times higher than that for FAD
+EC1.6.5.2	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.6.5.2	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.6.5.2	COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+EC1.6.5.5	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*completely specific for NADPH as cofactor
+EC1.6.5.5	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*interference of NADPH on Zta1p binding to RNA is much lower than that of NADPH on human zeta-crystallin, consistent with a weaker binding of NADPH to the yeast enzyme
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	FAD	*	*non-covalently linked
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	FAD	*	*the mature enzyme contains FAD as prosthetic group
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	FAD	*	*Ndi1 contains noncovalently bound FAD
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	FAD	*	*binding site structure, overview. The isoalloxazine ring of the FAD is positioned between the two Rossmann domains, which define two channels along the interdomain plane that lead to the active site
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	more	*	*the enzyme contains no iron-sulfur clusters
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	more	*	*the mature enzyme contains no iron-sulfur clusters
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	more	*	*Ndi1 contains no iron-sulfur cluster
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	NADH	*	*the enzyme is specific for NADH. NADPH or deamino-NADH show rates that are at least 250times lower than obtained with NADH at any pH between 5.5 and 8.5
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.6.5.9	COFACTOR	Saccharomyces cerevisiae	NADH	*	*binding site structure, overview
+EC1.6.99.1	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.7.1.1	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.7.1.1	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.8.1.10	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*NADPH-dependent
+EC1.8.1.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.8.1.2	COFACTOR	Saccharomyces cerevisiae	flavin	*	*2 FAD and 2 FMN per mol of enzyme
+EC1.8.1.2	COFACTOR	Saccharomyces cerevisiae	flavin	*	*treatment with ammonium sulfate causes dissociation of FMN but retetion of FAD and heme
+EC1.8.1.2	COFACTOR	Saccharomyces cerevisiae	FMN	*	*
+EC1.8.1.2	COFACTOR	Saccharomyces cerevisiae	heme	*	*
+EC1.8.1.2	COFACTOR	Saccharomyces cerevisiae	iron-sulfur centre	*	*
+EC1.8.1.2	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.8.1.2	COFACTOR	Saccharomyces cerevisiae	siroheme	*	*
+EC1.8.1.4	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC1.8.1.4	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.8.1.4	COFACTOR	Saccharomyces cerevisiae	FAD	*	*contains 1 FAD per subunit
+EC1.8.1.6	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC1.8.1.7	COFACTOR	Saccharomyces cerevisiae	FAD	*	*4 thiol groups per FAD
+EC1.8.1.7	COFACTOR	Saccharomyces cerevisiae	FAD	*	*FAD enzyme
+EC1.8.1.7	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.8.1.7	COFACTOR	Saccharomyces cerevisiae	flavin	*	*flavoprotein
+EC1.8.1.7	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*absolute specificity for NADPH
+EC1.8.1.7	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.8.1.7	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*glutathione reductase is non-competitively inhibited up to 2 mM and activated above this concentration
+EC1.8.1.9	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC1.8.1.9	COFACTOR	Saccharomyces cerevisiae	NADP+	*	*
+EC1.8.1.9	COFACTOR	Saccharomyces cerevisiae	FAD	*	*2 FAD per dimer
+EC1.8.1.9	COFACTOR	Saccharomyces cerevisiae	FAD	*	*; one FAD molecule is incorporated in each subunit
+EC1.8.1.9	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.8.3.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme is linked to FAD
+EC1.8.3.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*firmly attached but nut covalently linked to the protein; one molecule of FAD per subunit
+EC1.8.3.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on, N-terminal cysteine pair contributes to the correct arrangement of the FAD-binding fold
+EC1.8.3.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on
+EC1.8.3.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*dithionite and photochemical reductions of Erv2p show full reduction of the flavin cofactor after the addition of 4 electrons with a midpoint potential of -200 mV at pH 7.5. No charge-transfer complex between a proximal thiolate and the oxidized flavin
+EC1.8.3.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC1.8.3.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*dependent on. The three disulfides of the enzyme are not essential for FAD binding
+EC1.8.3.2	COFACTOR	Saccharomyces cerevisiae	more	*	*enzyme contains a thioredoxin and an ERV1 domain
+EC1.8.3.2	METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme contains a FeS center
+EC1.8.4.11	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*dependent on
+EC1.8.4.11	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*cytosolic thioredoxins 1 and 2 are involved in regulation of MsrA exression
+EC1.8.4.11	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*
+EC1.8.4.12	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*
+EC1.8.4.12	METALSIONS	Saccharomyces cerevisiae	selenium	*	*selenoprotein
+EC1.8.4.12	METALSIONS	Saccharomyces cerevisiae	more	*	*the major isozyme of MsrB, MsrB1, is a selenoprotein, selenium affects the expression of MsrB
+EC1.8.4.13	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*specific for
+EC1.8.98.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC1.8.98.2	COFACTOR	Saccharomyces cerevisiae	dithiothreitol	*	*
+EC1.8.98.2	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*
+EC1.8.98.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC1.8.98.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC1.9.3.1	COFACTOR	Saccharomyces cerevisiae	hemin	*	*
+EC1.9.3.1	COFACTOR	Saccharomyces cerevisiae	Heme a	*	*
+EC1.9.3.1	COFACTOR	Saccharomyces cerevisiae	Heme a	*	*spectral studies
+EC1.9.3.1	COFACTOR	Saccharomyces cerevisiae	Heme a3	*	*
+EC1.9.3.1	METALSIONS	Saccharomyces cerevisiae	Fe	*	*
+EC1.9.3.1	METALSIONS	Saccharomyces cerevisiae	Cu	*	*discussion of Cu content
+EC1.9.3.1	METALSIONS	Saccharomyces cerevisiae	Cu	*	*location in subunits
+EC1.9.3.1	METALSIONS	Saccharomyces cerevisiae	Cu	*	*
+EC1.9.3.1	METALSIONS	Saccharomyces cerevisiae	Cu	*	*recombinant Cox19 binds 1 mol eq of Cu(I) per monomer. Cu(I) binding may be a transient property
+EC1.9.3.1	METALSIONS	Saccharomyces cerevisiae	Zn	*	*
+EC1.9.3.1	METALSIONS	Saccharomyces cerevisiae	Mg	*	*
+EC2.1.1.10	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activating
+EC2.1.1.10	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for activity
+EC2.1.1.10	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*activating
+EC2.1.1.10	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can replace Zn2+
+EC2.1.1.100	METALSIONS	Saccharomyces cerevisiae	more	*	*metal ions are required
+EC2.1.1.14	COFACTOR	Saccharomyces cerevisiae	more	*	*vitamin-B12 independent enzyme
+EC2.1.1.14	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*no stimulation
+EC2.1.1.14	METALSIONS	Saccharomyces cerevisiae	phosphate	*	*
+EC2.1.1.14	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*requires zinc for activity
+EC2.1.1.167	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*Spb1p possesses a putative S-adenosyl-L-methionine-binding domain, which is common to the S-adenosyl-L-methionine-dependent methyltransferases
+EC2.1.1.168	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.201	COFACTOR	Saccharomyces cerevisiae	NADH	*	*NAFH is required form optimal activity in in vitro assay with mitochondrial lysate. It is likely that the function of NADH is the reduction of the oxidized 2-methoxy-6-polyprenyl-1,4-benzoquinone substrate to the hydroquinone form (2-methoxy-6-polyprenyl-1,4-benzoquinol), which presumably acts as the methyl acceptor
+EC2.1.1.201	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.202	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.214	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.214	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.1.1.214	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*the enzyme is composed of at least two subunits that are associated in vivo: Trm11p, which is the catalytic subunit, and Trm112p, a putative zinc-binding protein
+EC2.1.1.220	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.221	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*binding structure, overview
+EC2.1.1.221	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.221	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.1.1.229	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.229	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.1.1.233	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*dependent on
+EC2.1.1.244	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.260	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.290	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.290	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*dependent on
+EC2.1.1.309	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.309	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required
+EC2.1.1.310	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.318	METALSIONS	Saccharomyces cerevisiae	ZnCl2	*	*5 mM, enhances activity 1.4fold
+EC2.1.1.33	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.35	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.1.1.35	METALSIONS	Saccharomyces cerevisiae	more	*	*no divalent cations required, not activated by Mg2+ and Mn2+
+EC2.1.1.41	COFACTOR	Saccharomyces cerevisiae	AdoMet	*	*
+EC2.1.1.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*5 mM, required
+EC2.1.1.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.1.1.56	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inactivation
+EC2.1.1.56	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*inhibition
+EC2.1.1.56	METALSIONS	Saccharomyces cerevisiae	KCl	*	*no activation
+EC2.1.1.56	METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by NaCl
+EC2.1.1.71	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*leads to a stimulation of activity
+EC2.1.1.71	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*leads to a stimulation of activity
+EC2.1.1.B109	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*the conserved S-adenosyl-L-methionine binding motif in ABP140 is required for m3C formation
+EC2.1.2.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC2.1.2.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*important role in maintaining the structural integrity of the enzyme by preventing the dissociation of the enzyme into subunits, in addition to its function in catalysis; one mol/subunit bound to the epsilon-amino group of lysine
+EC2.1.2.1	COFACTOR	Saccharomyces cerevisiae	tetrahydrofolate	*	*requirement with L-serine or L-2-methylserine as substrate
+EC2.1.2.1	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activation at 0.5-10 mM
+EC2.1.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation at 0.5-10 mM
+EC2.1.2.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation at 0.5-10 mM
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*not thiamine, thiamine mono-or triphosphate
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*2 catalytic sites per enzyme molecule; i.e. functional form of vitamin B1
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*2 mol thiamine diphosphate per mol enzyme; with different affinities for the cofactor
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*negative cooperativity between apoenzyme and thiamine diphosphate in presence of Ca2+ or Mg2+
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*donor substrates (e.g. hydroxypyruvate or dihydroxyacetone) increase the affiniffty of the coenzyme for transketolase, whereas acceptor substrates do not. The effect of the substrate on the interaction of the coenzyme with apotransketolase and on stability of the reconstituted holoenzyme is caused by generation of 2-(alpha,beta-dihydroxyethyl)thiamine diphosphate (an intermediate product of the transketolase reaction), which has higher affinity for apotransketolase than thiamine diphosphate
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*theoretical analysis of interaction between thiamine diphosphate-binding sites of transketolase and determination of equilibrium and kinetic constants of individual stages of the interaction between thiamine diphosphate and the apoenzyme in the presence of Ca2+
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*application of a theoretical model of interactions between ligand-binding sites in a dimeric protein for the analysis of thiamine diphosphate binding to yeast transketolase
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*interaction with the coenzyme binding site of the enzyme is described
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*thiamine diphosphate increases the stability of the apoenzyme regardless of wether Mg2+ or Ca2+ is present in the medium
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*in the presence of Ca2+, the active centers of transketolase differ in their affinity for thiamine diphosphate by approximately one order of magnitude. Hemiholotransketolase 1 is the enzyme in which the only functional active center is the one exhibiting higher affinity for thiamine diphosphate. When adding an equimolar amount of thiamine diphosphate to apotransketolase, it becomes completely bound to the 1 active center and is not dissociated from it in the course of subsequent experiments. Hemiholotransketolase 2 is the enzyme in which the only functional active center is the one exhibiting lower affinity for the coenzyme. In order to obtain this species of transketolase, active center 1, the affinity of which for thiamine diphosphate is higher, is to be blocked by an inactive analogue of the coenzyme, hydroxythiamine diphosphate
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*two-step mechanism of interaction of thiamine diphosphate with transketolase. Formation of inactive intermediate complex followed by its transformation into catalytically active holoenzyme
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+EC2.2.1.1	COFACTOR	Saccharomyces cerevisiae	more	*	*as opposed to the kinetically stabilized carbanion/enamine intermediate in transketolase when reconstituted with the native cofactor, 2-(1,2-dihydroxyethyl)-4'-monomethylaminothiamin diphosphate is rapidly released from the active centers during turnover and accumulates in the medium on a preparative scale
+EC2.2.1.2	COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor requirement
+EC2.2.1.5	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+EC2.2.1.6	COFACTOR	Saccharomyces cerevisiae	FAD	*	*Km: 0.0003 mM; required
+EC2.2.1.6	COFACTOR	Saccharomyces cerevisiae	FAD	*	*required, presence of FAD in AHAS is an evolutionary relic of the ancestry of its sub-family of ThDP-dependent enzymes
+EC2.2.1.6	COFACTOR	Saccharomyces cerevisiae	FAD	*	*the anabolic enzyme form is dependent on the presence of FAD, structure of the enamine-FAD adduct, reaction mechanism molecular modeling
+EC2.2.1.6	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC2.2.1.6	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*Km: 0.11 mM; required as cofactor
+EC2.2.1.6	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+EC2.2.1.6	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*required, ThDP is anchored in the active site by a divalent metal ion cofactor such as Mg2+
+EC2.2.1.6	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*dependent on, upon removal of the cofactor, the activity of the enzyme is completely abolished and again restored by readdition of thiamine diphosphate. ThDP has a central role in the enzymes catalytic mechanism. In the active site of enzyme, it is located at its centre with a unique V-conformation at the dimer interface. Decarboxylation of pyruvate is carried out by ThDP
+EC2.2.1.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km: 0.28 mM; required
+EC2.2.1.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme requires a divalent metal ion
+EC2.2.1.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*a bivalent metal cation is required
+EC2.2.1.6	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates
+EC2.2.1.6	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates
+EC2.2.1.6	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*activates
+EC2.2.1.6	METALSIONS	Saccharomyces cerevisiae	MgATP2-	*	*activates
+EC2.2.1.6	METALSIONS	Saccharomyces cerevisiae	more	*	*enzyme AHAS is not specific as far as metal ions are concerned. It is active in presence of any metal ion like Mn2+, Mg2+, Ca2+, Cd2+
+EC2.3.1.231	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC2.3.1.234	METALSIONS	Saccharomyces cerevisiae	more	*	*presence of metal ions in the crystal structures
+EC2.3.1.255	COFACTOR	Saccharomyces cerevisiae	acetyl-CoA	*	*
+EC2.3.1.26	COFACTOR	Saccharomyces cerevisiae	CoA	*	*required by the in-situ acyl-CoA production
+EC2.3.1.37	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC2.3.1.37	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*required
+EC2.3.1.48	COFACTOR	Saccharomyces cerevisiae	acetyl-CoA	*	*
+EC2.3.1.48	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.3.1.48	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*
+EC2.3.1.48	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*7fold decrease in activity between 0.15 and 1 M
+EC2.3.1.50	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*required for activity
+EC2.3.1.84	COFACTOR	Saccharomyces cerevisiae	acetyl-CoA	*	*
+EC2.3.1.84	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1 mM, 10% activation
+EC2.3.1.86	COFACTOR	Saccharomyces cerevisiae	4'-phosphopantetheine	*	*4.0-5.0 mol per mol enzyme; 4.0-5.0 mol per mol enzyme or about 1 mol per 2 subunits; alpha-subunit bears prosthetic group
+EC2.3.1.86	COFACTOR	Saccharomyces cerevisiae	4'-phosphopantetheine	*	*requirement, pantetheinate-free mutants have no beta-ketoacyl synthetase activity
+EC2.3.1.86	COFACTOR	Saccharomyces cerevisiae	4'-phosphopantetheine	*	*4.0-5.0 mol per mol enzyme or about 1 mol per 2 subunits
+EC2.3.1.86	COFACTOR	Saccharomyces cerevisiae	FMN	*	*requirement, enoyl reductase activity, associated with beta-subunit, 6 mol per mol synthetase
+EC2.3.1.86	COFACTOR	Saccharomyces cerevisiae	FMN	*	*4 mol FMN per mol of enzyme complex
+EC2.3.1.86	COFACTOR	Saccharomyces cerevisiae	NADH	*	*requirement, 25% as efficient as NADPH
+EC2.3.1.86	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*requirement
+EC2.3.1.86	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC2.3.1.97	METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for divalent cations
+EC2.3.2.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.3.2.B11	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required
+EC2.3.2.B11	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Asr1p is involved in calcium signalling. The interaction with calmodulin occurs in vivo and depends on physiological concentrations of Ca2+. A plataeu is reached at 100-500 nM CaCl2
+EC2.3.3.13	METALSIONS	Saccharomyces cerevisiae	K+	*	*required
+EC2.3.3.13	METALSIONS	Saccharomyces cerevisiae	K+	*	*enzyme requires the presence of monovalent cations, K+ is most effective
+EC2.3.3.13	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*contains approximately 4 gatoms of zinc per dimer of 130000 Da
+EC2.3.3.13	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*enzyme of strain S288C contains 2 gatoms of zinc per subunit
+EC2.3.3.14	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.002 mM MgCl2 has no effect
+EC2.3.3.14	METALSIONS	Saccharomyces cerevisiae	Na+	*	*activator at low concentrations, inhibitor at high concentrations, inhibition and activation can occur simultaneously, inhibition by Na+ is eliminated at high concentrations of acetyl-CoA
+EC2.3.3.14	METALSIONS	Saccharomyces cerevisiae	Na+	*	*activity is simultaneously inhibited and activated. Activation by Na+ binding to the active enzyme conformer at an allosteric site. Inhibition by binding to the active site
+EC2.3.3.14	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*bound in the active site
+EC2.3.3.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*binding of acetyl-CoA to the synthase is independent of Mg2+ but that of glyoxylate is strictly dependent on the presence of Mg2+
+EC2.3.3.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*causes no structurel effects, suggesting the metal ion to be involved in enzymatic catalysis rather than structural alternations
+EC2.3.3.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km: 0.5 mM; required
+EC2.3.3.9	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation
+EC2.4.1.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*requirement
+EC2.4.1.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*1 pyridoxal 5'-phosphate/subunit
+EC2.4.1.109	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ or Mn2+ stimulates; optimal stimulation at 7 mM
+EC2.4.1.109	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*2fold activation
+EC2.4.1.109	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.4.1.109	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, 10 mM
+EC2.4.1.109	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+ or Mn2+ stimulates
+EC2.4.1.11	METALSIONS	Saccharomyces cerevisiae	Li+	*	*wild-type but not mutant enzyme
+EC2.4.1.15	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal concentration is 1-2 mM
+EC2.4.1.15	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*2fold stimulation at 5 mM
+EC2.4.1.15	METALSIONS	Saccharomyces cerevisiae	ZnCl2	*	*stimulation
+EC2.4.1.15	METALSIONS	Saccharomyces cerevisiae	MnCl2	*	*stimulation
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*in stimulation of Chs2 Co2+ is twice as effective on an enzyme activated by trypsin
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*absolute requirement for a divalent cation. Mg2+, Mn2+ or Co2+
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cation required, chitin synthase 2 shows highest activity with chitin synthase 2
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*chitin synthase 2 requires Co2+ rather than Mg2+
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*best stimulator of Chs1. Mg2+ and Mn2+ lead to similar maximal stimulation of Chs2
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for a divalent cation. Mg2+, Mn2+ or Co2+. Optimum concentration for Mg2+ is 1-10 mM
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the best divalent cation stimulator of chitin synthase 1 and 2
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required, chitin synthase 1 and 3 have a preference for Mg2+
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*significant chitin synthase activity in the presence of Mg2+ or Mn2+, even without trypsin treatment
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates mutant Chs2DELTAN222
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+ and Mn2+ lead to similar maximal stimulation of Chs2
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement for a divalent cation. Mg2+, Mn2+ or Co2+
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*significant chitin synthase activity in the presence of Mg2+ or Mn2+, even without trypsin treatment
+EC2.4.1.16	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates the wild-type Chs2 and mutant Chs2DELTAN222
+EC2.4.1.173	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required
+EC2.4.1.232	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement, optimum concentration: 10 mM, Ca2+, Mg2+, Co2+ or Zn2+ cannot substitute for Mn2+
+EC2.4.1.232	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*no activity without addition of Mn2+
+EC2.4.1.232	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required, enzyme complex binding structure, overview
+EC2.4.1.232	METALSIONS	Saccharomyces cerevisiae	more	*	*Ni2+, Mg2+, Ca2+, and Zn2+ cannot substitute for Mn2+
+EC2.4.1.258	METALSIONS	Saccharomyces cerevisiae	more	*	*is independent of metal ions
+EC2.4.1.34	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*stimulates at low concentration, inhibits at high concentrations
+EC2.4.1.34	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulates
+EC2.4.1.34	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*less effective than Mg2+; stimulates at low concentrations, inhibits at high concentrations
+EC2.4.1.34	METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for metal cations
+EC2.4.1.48	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*essential for reaction, cannot be replaced by Mg2+
+EC2.4.1.83	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ and Mn2+ up to a concentration of 5 mM result in the same activation
+EC2.4.1.83	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+ and Mn2+ up to a concentration of 5 mM result in the same activation
+EC2.4.1.94	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*2fold activation at 25 mM, slight activation at 20 mM and above 50 mM
+EC2.4.2.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*mechanism; requirement
+EC2.4.2.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement
+EC2.4.2.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for substrate binding
+EC2.4.2.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+-dependent activity
+EC2.4.2.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.4.2.10	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation; mechanism
+EC2.4.2.10	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*not activating
+EC2.4.2.10	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*not activating
+EC2.4.2.18	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC2.4.2.19	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.4.2.60	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC2.4.2.60	METALSIONS	Saccharomyces cerevisiae	Iron	*	*iron-dependent sulfide transfer reaction from the protein to a reaction intermediate
+EC2.4.2.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.4.2.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ is not bound at the catalytic site; Mg2+ ligand binding site
+EC2.4.2.8	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at: 1-10 mM; required
+EC2.4.2.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.4.99.18	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required. Mg2+, at concentration of 10 mM yields only one third the activity observed with Mn2+
+EC2.4.99.18	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for divalent cations that can adopt an octahedral coordination geometry with preference for Mn2+ over Mg2+
+EC2.4.99.18	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, 1 mM Mn2+ is optimal
+EC2.4.99.18	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement for divalent cations that can adopt an octahedral coordination geometry with preference for Mn2+ over Mg2+
+EC2.5.1.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*contains 3 Mg2+ ions
+EC2.5.1.108	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*dependent on
+EC2.5.1.148	COFACTOR	Saccharomyces cerevisiae	NADH	*	*preference for NADPH over NADH
+EC2.5.1.148	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preference for NADPH over NADH
+EC2.5.1.148	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mn2+ or Mg2+ are effective at low concentration as cofactors for synthesis of lycopersene, for the synthesis of prelycopersene diphosphate, Mn2+ is most effective at very low concentrations, Mg2+ is more effective at higher concentrations
+EC2.5.1.148	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mn2+ or Mg2+ are effective at low concentration as cofactors for synthesis of lycopersene, for the synthesis of prelycopersene diphosphate, Mn2+ is most effective at very low concentrations, Mg2+ is more effective at higher concentrations
+EC2.5.1.16	COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor requirement
+EC2.5.1.16	METALSIONS	Saccharomyces cerevisiae	more	*	*no metal ion requirement
+EC2.5.1.21	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*NADPH or NADH required for squalene synthase reaction
+EC2.5.1.21	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*preference for NADPH over NADH
+EC2.5.1.21	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*
+EC2.5.1.21	COFACTOR	Saccharomyces cerevisiae	NADH	*	*NADH or NADPH required for squalene synthase reaction
+EC2.5.1.21	COFACTOR	Saccharomyces cerevisiae	NADH	*	*preference for NADPH over NADH
+EC2.5.1.21	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC2.5.1.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for squalene synthase reaction
+EC2.5.1.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mn2+ is more effective than Mg2+ in activation of dehydrosqualene formation; most effective in stimulation of squalene formation, half-maximal activity at 2.5 mM
+EC2.5.1.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mn2+ is six times more effective in activation than Mg2+
+EC2.5.1.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mn2+ is more effective than Mg2+ in activation of dehydrosqualene formation; required for squalene synthase reaction
+EC2.5.1.21	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*more effective than Mg2+ in activation of dehydrosqualene formation
+EC2.5.1.21	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*in presence of Mn2+ and Mg2+ the activity is reduced to one-third of that in presence of Mn2+ alone; six times more effective in activation than Mg2+
+EC2.5.1.21	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*more effective than Mg2+ in activation of dehydrosqualene formation; stimulates, maximum stimulation at 0.1 mM
+EC2.5.1.29	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.5.1.29	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.5.1.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.5.1.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1 mM, 3-6fold stimulation; required
+EC2.5.1.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*half as effective as Mg2+
+EC2.5.1.39	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*in yeast extracts the specificity for the chain length of the isoprenyl diphosphate substrate is influenced by Mg2+
+EC2.5.1.4	COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor is required
+EC2.5.1.46	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC2.5.1.46	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC2.5.1.47	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*stoichiometry, binds to Lys, protects against inactivation by heat, urea, and trypsin, four binding sites per mol apoenzyme, association constant
+EC2.5.1.49	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*absolutely required for activity, Km 0.00294 mM
+EC2.5.1.49	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC2.5.1.54	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*contains 0.6 mol of iron per mol of enzyme
+EC2.5.1.54	METALSIONS	Saccharomyces cerevisiae	more	*	*Tyr-sensitive isozyme, metal factor required
+EC2.5.1.58	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.5.1.58	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*10 mM, required
+EC2.5.1.58	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC2.5.1.58	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required
+EC2.5.1.58	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.01 mM, required
+EC2.5.1.58	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for activity
+EC2.5.1.59	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*no requirement
+EC2.5.1.59	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement, optimal activity at 0.5 mM in presence of 0.1 mM Zn2+
+EC2.5.1.59	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, optimal activity of EDTA-treated enzyme at 0.5 mM, Mg2+ probably activates the diphosphate leaving group of enzyme, and is essential for transferring the bound peptide substrate
+EC2.5.1.59	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*A zinc metalloenzyme. The Zn2+ is required for peptide, but not for isoprenoid, substrate binding
+EC2.5.1.59	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*requirement, optimal activity of EDTA-treated enzyme at 0.01 mM in presence of 1 mM Mg2+
+EC2.5.1.59	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*the zinc in enzyme can be replaced by Cd2+
+EC2.5.1.6	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.5.1.6	METALSIONS	Saccharomyces cerevisiae	K+	*	*slight activation
+EC2.5.1.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*up to 20% activation
+EC2.5.1.6	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*slight activiation
+EC2.5.1.6	METALSIONS	Saccharomyces cerevisiae	more	*	*Mg2+, H2PO4-, NH4-, and NO3- have no significant effect on enzyme activity at 5 mM
+EC2.5.1.60	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement, optimal concentration at 8 mM
+EC2.5.1.60	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*requirement, optimal concentration at 0.008 mM, zinc content: 0.7-0.12 mol/mol enzyme
+EC2.5.1.75	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal concentration: 5 mM; required
+EC2.5.1.75	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation
+EC2.6.1.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*1.7-1.9 mol per mol of enzyme; a pyridoxal 5'-phosphate protein
+EC2.6.1.2	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC2.6.1.39	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC2.6.1.42	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC2.6.1.43	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC2.6.1.44	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*0.04 mM
+EC2.6.1.44	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC2.7.1.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*activates, ATP-dependent enzyme
+EC2.7.1.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates, maximal activity at 1.5 mM
+EC2.7.1.10	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation
+EC2.7.1.105	COFACTOR	Saccharomyces cerevisiae	AMP	*	*activation, 0.025 mM
+EC2.7.1.105	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.105	METALSIONS	Saccharomyces cerevisiae	phosphate	*	*
+EC2.7.1.105	METALSIONS	Saccharomyces cerevisiae	phosphate	*	*requirement
+EC2.7.1.108	COFACTOR	Saccharomyces cerevisiae	CTP	*	*cytidine-5'-triphosphate
+EC2.7.1.108	COFACTOR	Saccharomyces cerevisiae	CTP	*	*
+EC2.7.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*MgATP is the active substrate; most effective ion; required for activity
+EC2.7.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*MgATP is the active substrate; required for activity
+EC2.7.1.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation
+EC2.7.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+EC2.7.1.11	METALSIONS	Saccharomyces cerevisiae	K+	*	*
+EC2.7.1.11	METALSIONS	Saccharomyces cerevisiae	K+	*	*activation at low concentrations
+EC2.7.1.11	METALSIONS	Saccharomyces cerevisiae	more	*	*K-type allosteric enzyme; not activated by Na+ and Rb+
+EC2.7.1.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates; inhibition above; Km: 1.68 mM; optimum concentration: 5-7 mM
+EC2.7.1.127	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.127	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.137	COFACTOR	Saccharomyces cerevisiae	ATP	*	*binding site structure, a single conserved residue I670 of VPS34 and L2129 of PI3-K-related protein MEC1, termed the gatekeeper, controls the sensitivity to a wide range of small molecule inhibitors, inhibitor resistance id conferred by a large resiude at this position, e.g. isoleucine, whereas a small amino acid at this position like alanine, glycine, or threonine renders the enzyme sensitive for inhibition by small molecule drugs
+EC2.7.1.137	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.150	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at 1.5 mM
+EC2.7.1.150	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*maximal activity at 1.5 mM
+EC2.7.1.151	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.151	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.158	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal concentration is 10 mM
+EC2.7.1.160	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*heatstable
+EC2.7.1.160	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC2.7.1.160	COFACTOR	Saccharomyces cerevisiae	more	*	*UMP, SAMP, cAMP, UTP, CTP, GTP, ATP and derivatives of NAD+ like NMN, ADP-ribose, ATP-ribose, NADPH, NADP+, NADH do not support dephosphorylation
+EC2.7.1.160	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC2.7.1.160	METALSIONS	Saccharomyces cerevisiae	more	*	*Ca2+ and Zn2+ have no effect on activity
+EC2.7.1.17	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.17	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.173	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.173	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.1.174	COFACTOR	Saccharomyces cerevisiae	CTP	*	*dependent on
+EC2.7.1.174	COFACTOR	Saccharomyces cerevisiae	CTP	*	*
+EC2.7.1.174	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme requires Ca2+ or Mg2+ ions for activity. Maximum DAG kinase activity obtained with 1 mM Ca2+ ions is slightly greater than the maximum activity obtained with 10 mM Mg2+ ions
+EC2.7.1.174	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.1.174	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*the enzyme requires Ca2+ or Mg2+ ions for activity. Maximum DAG kinase activity obtained with 1 mM Ca2+ ions is slightly greater than the maximum activity obtained with 10 mM Mg2+ ions
+EC2.7.1.174	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required
+EC2.7.1.23	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC2.7.1.23	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*; 
+EC2.7.1.23	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*POS5 is upregulated 3.4fold after treatment for 10 to 12 min with 2.5 mM
+EC2.7.1.25	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation
+EC2.7.1.25	METALSIONS	Saccharomyces cerevisiae	more	*	*a divalent cation is required for activity
+EC2.7.1.32	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.32	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required
+EC2.7.1.32	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.1.33	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.35	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*0.2 mM, partial activation
+EC2.7.1.35	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.2 mM, activates; half-maximal activation at 0.01 mM
+EC2.7.1.35	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*0.2 mM, partial activation
+EC2.7.1.35	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*0.2 mM, partial activation
+EC2.7.1.36	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ becomes increasingly active at higher concentrations and at sufficiently high concentrations the most active metal ion
+EC2.7.1.36	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*substrate MgATP
+EC2.7.1.36	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required for activity; higher activation than with Mg2+ at concentrations below approx. 0.008 mM, lower activation than with Mg2+ above
+EC2.7.1.36	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*at 5 mM about 30% of the activity of Mn2+; can partially replace Mn2+ in activation
+EC2.7.1.36	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*at 5 mM 10% of the activity with Mn2+; can partially replace Mn2+ in activation
+EC2.7.1.36	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*approx. 15% of the activity with Mn2+ at 5 mM; can partially replace Mn2+ in activation
+EC2.7.1.36	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*at 5 mM about 10% of the activity with Mn2+; can partially replace Mn2+ in activation
+EC2.7.1.40	COFACTOR	Saccharomyces cerevisiae	ADP	*	*
+EC2.7.1.40	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.40	METALSIONS	Saccharomyces cerevisiae	K+	*	*Km-value: 50 mM in the presence of fructose diphosphate; requirement
+EC2.7.1.40	METALSIONS	Saccharomyces cerevisiae	K+	*	*
+EC2.7.1.40	METALSIONS	Saccharomyces cerevisiae	K+	*	*wild-type enzyme and the three mutant enzymes T298S, T298C and T298A show no measurable activity in the presence of K+ or Tl+
+EC2.7.1.40	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km-value 2 mM in the presence of fructose diphosphate; requirement
+EC2.7.1.40	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.40	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.1.40	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mn2+-activated T298C behaves like Mn2+-activated wild type enzyme with a Vmax that is 20% of that for the wild type enzyme with or without D-fructose-1,6-bisphosphate
+EC2.7.1.40	METALSIONS	Saccharomyces cerevisiae	Tl+	*	*wild-type enzyme and the three mutant enzymes T298S, T298C and T298A show no measurable activity in the presence of K+ or Tl+. Tl+ can activate wild-type enzyme to 85% the activity in the presence of K+. With T298S, T298, and T298A, Tl+ is 1.2-1.8fold better activator than is K+ based on the measured turnover number values
+EC2.7.1.49	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.49	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*at 20 mM MgCl2
+EC2.7.1.49	METALSIONS	Saccharomyces cerevisiae	more	*	*no metal requirement
+EC2.7.1.50	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.1.50	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*10 mM, stimulates as effectively as Co2+
+EC2.7.1.50	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*stimulates, 42.7% as effectively as Mg2+
+EC2.7.1.50	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*10 mM, stimulates as effectively as Mg2+
+EC2.7.1.6	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.67	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.67	COFACTOR	Saccharomyces cerevisiae	frequenin 1	*	*required for optimal activity of Pik1
+EC2.7.1.67	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on, maximal activity at 10 mM
+EC2.7.1.67	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on 10 mM Mg2+
+EC2.7.1.67	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC2.7.1.67	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.1.67	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*0.5 mM can substitute for Mg2+
+EC2.7.1.67	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can not substitute for Mg2+
+EC2.7.1.67	METALSIONS	Saccharomyces cerevisiae	more	*	*no direct effect by Ca2+
+EC2.7.1.68	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.68	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.82	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.82	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.1.82	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*100% activity in the presence of 0.0015 mM Zn2+, depletion of zinc from the growth medium of wild type cells causes a 2fold increase in ethanolamine kinase activity when compared with cells grown in the presence of zinc
+EC2.7.1.86	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.1.86	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*; 
+EC2.7.1.86	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC2.7.1.86	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*either Mn2+ or Mg2+ activate at low concentrations. Km: Km: 1.0 mM
+EC2.7.1.86	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*either Mn2+ or Mg2+ activate at low concentrations
+EC2.7.1.91	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.10.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.10.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*requirement, 1-10 mM, can replace Mg2+ to some extent, inhibits above 30 mM
+EC2.7.11.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inhibits above 30 mM; requirement
+EC2.7.11.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC2.7.11.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.11.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can replace Mg2+ to some extent; inhibits above 30 mM; requirement, 1-10 mM
+EC2.7.11.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can substitute for Mg2+
+EC2.7.11.11	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.11	COFACTOR	Saccharomyces cerevisiae	cAMP	*	*; 
+EC2.7.11.11	COFACTOR	Saccharomyces cerevisiae	cAMP	*	*
+EC2.7.11.11	COFACTOR	Saccharomyces cerevisiae	cAMP	*	*dependent
+EC2.7.11.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.11.13	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.13	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.17	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+/calmodulin-dependent; Ca2+/calmodulin-dependent
+EC2.7.11.19	COFACTOR	Saccharomyces cerevisiae	ADP	*	*activation; allosteric effector; stimulates phosphorylase conversion and autophosphorylation, 8 mol ADP per mol (alphabetagammadelta)4
+EC2.7.11.19	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*major role of Mg2+: cosubstrate in Mg2+-ATP complex; requirement
+EC2.7.11.19	METALSIONS	Saccharomyces cerevisiae	phosphate	*	*requirement, phosphate containing enzyme
+EC2.7.11.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.20	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.21	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.11.21	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	ATP	*	*mutant Cdk1-as1 has an enlarged ATP binding site
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin B2	*	*i.e. Clb2
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin B5	*	*i.e. Clb5, specificity mechanism, overview
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Clb5	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Clb6	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl1	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl10	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl2	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl3	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl4	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl5	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl6	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl7	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl8	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pcl9	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	cyclin Pho80	*	*
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	more	*	*determination of cyclin specificity of Cdk1 during cell cycle and with different enzyme substrates, overview
+EC2.7.11.22	COFACTOR	Saccharomyces cerevisiae	more	*	*Pho85 associates with 10 Pho85 cyclins
+EC2.7.11.22	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.23	COFACTOR	Saccharomyces cerevisiae	ATP	*	*; ATP-dependent dissociation of holo-RNAPII by TFIIH
+EC2.7.11.23	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.23	COFACTOR	Saccharomyces cerevisiae	more	*	*
+EC2.7.11.23	COFACTOR	Saccharomyces cerevisiae	more	*	*no activation by calmodulin and cGMP; no activation by cAMP
+EC2.7.11.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement
+EC2.7.11.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*above 1 mM; requirement
+EC2.7.11.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required; required
+EC2.7.11.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required
+EC2.7.11.23	METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by Ca2+
+EC2.7.11.24	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.24	COFACTOR	Saccharomyces cerevisiae	ATP	*	*; 
+EC2.7.11.24	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.24	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*; 
+EC2.7.11.25	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.25	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.31	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.11.31	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.11.31	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required
+EC2.7.12.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.12.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.12.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.12.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.13.1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*2 mM, activation
+EC2.7.13.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*15-20 mM, activation
+EC2.7.13.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*1.5 mM, activation
+EC2.7.13.1	METALSIONS	Saccharomyces cerevisiae	more	*	*not activated by Ca2+, Zn2+, Fe2+, Cu2+
+EC2.7.2.11	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*required as phosphate donor; true substrate is the magnesium complexes of ATP
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*required as phosphate donor
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*exhibits 2.5times higher activity with ATP compared with GTP
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	ADP	*	*true substrate is the magnesium complexes of ADP
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	ADP	*	*
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	GTP	*	*
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	UTP	*	*
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	dATP	*	*
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	dGTP	*	*
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	ITP	*	*
+EC2.7.2.3	COFACTOR	Saccharomyces cerevisiae	dITP	*	*
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; true substrate is the magnesium complexes of ATP
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*true substrate is the magnesium complexes of ATP
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can partially replace Mg2+ in activation; ZnATP2- is the true substrate, free metal ions inhibit
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*ZnATP2- is the true substrate, free metal ions inhibit
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*CaATP2- is the true substrate; can partially replace Mg2+ in activation
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*can partially replace Mg2+ in activation
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+ in activation; CoATP2- is the true substrate
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+ in activation
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*can partially replace Mg2+ in activation; NiATP2- is the true substrate; poor activator
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*can partially replace Mg2+ in activation
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*inhibition at high concentration, acceleration of activity at low concentrations
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can partially replace Mg2+ in activation; CdATP2- is the true substrate
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can partially replace Mg2+ in activation
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	KH2PO4	*	*inhibition at high concentration, acceleration of activity at low concentrations
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	NaNO2	*	*inhibition at high concentration, acceleration of activity at low concentrations
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	divalent cation	*	*Mg2+ or Mn2+
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	divalent cation	*	*absolute requirement
+EC2.7.2.3	METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by Be2+; no activation by Fe2+
+EC2.7.2.4	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*can partially replace Mg2+, but to a smaller extent than Mn2+
+EC2.7.2.4	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*
+EC2.7.2.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*essential for enzyme activity, can be partially replaced by Mn2+ and to a smaller extent by Fe2+
+EC2.7.2.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.2.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+
+EC2.7.2.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC2.7.4.13	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dAMP reacts only with ATP after ATP forms the bivalent metal-ion complex MgATP2-, Mg2+ orients and directs ATP and dAMP to the corresponding active sites; dCMP reacts only with ATP after ATP forms the bivalent metal-ion complex MgATP2-, Mg2+ orients and directs ATP and dCMP to the corresponding active sites; dGMP reacts only with ATP after ATP forms the bivalent metal-ion complex MgATP2-, Mg2+ orients and directs ATP and dGMP to the corresponding active sites; dTMP reacts only with ATP after ATP forms the bivalent metal-ion complex MgATP2-, Mg2+ orients and directs ATP and dTMP to the corresponding active sites
+EC2.7.4.14	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required, Mg2+ is most effective
+EC2.7.4.14	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, Mn2+ can substitute for Mg2+
+EC2.7.4.14	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cation required, Mn2+ can substitute for Mg2+
+EC2.7.4.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required, Mg2+ most efficient
+EC2.7.4.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on, maximal activity achieved at concentrations of 10 mM or greater
+EC2.7.4.2	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ in activation
+EC2.7.4.2	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can partially replace Mg2+ in activation
+EC2.7.4.2	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+ in activation
+EC2.7.4.2	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*can partially replace Mg2+ in activation
+EC2.7.4.20	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement, maximal activity at 2 mM
+EC2.7.4.24	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.4.24	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*forms complex with di- or trinucleotide; in decreasing order of efficiency: Mg2+, Ca2+, Mn2+, Ba2+; requirement
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*not
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*in decreasing order of efficiency: Mg2+, Ca2+ Mn2+, Ba2+; less effective than Mg2+; metal ion forms complex with di- or trinucleotide; requirement, as good as Mg2+
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*binding of substrates also takes place in the absence of metal ions; in decreasing order of efficiency: Mg2+ and Ca2+, equally efficient, Co2+, Mn2+, Ni2+; requirement, as good as Mg2+
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can replace Mg2+, Mn2+ or Ca2+ less efficiently; requirement
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*requirement
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*not
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*enzymatic reaction resembles inorganic metal catalysis; forms complex with di- or trinucleotide; in decreasing order of efficiency: Mg2+, Ca2+, Mn2+, Ba2+; MgADP- is true substrate; MgATP2- is true substrate; requirement
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*binding of substrates also takes place in the absence of metal ions; in decreasing order of efficiency: Mg2+ and Ca2+, equally efficient, Co2+, Mn2+, Ni2+; inhibits at high concentrations; requirement
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*forms complex with di- or trinucleotide; in decreasing order of efficiency: Mg2+, Ca2+, Mn2+, Ba2+
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*binding of substrates also takes place in the absence of metal ions; Mg2+ and Ca2+, equally efficient, Co2+, Mn2+, Ni2+
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by Sr2+
+EC2.7.4.3	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*not
+EC2.7.4.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.4.6	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*equally effective as Mg2+; requirement
+EC2.7.4.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC2.7.4.7	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*may substitute for Mg2+
+EC2.7.4.8	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.4.8	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+
+EC2.7.4.8	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.4.8	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.4.8	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*requirement
+EC2.7.4.9	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC2.7.4.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required
+EC2.7.4.9	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, Mn2+ can fully substitute for Mg2+
+EC2.7.4.9	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cation required, Co2 can fully substitute for Mg2+
+EC2.7.4.9	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*divalent cation required, Fe2+ can fully substitute for Mg2+
+EC2.7.4.9	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*divalent cation required, Ni2+ can fully substitute for Mg2+
+EC2.7.4.9	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*from 0-0.5 M does not affect activity
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*100% activity at 7.5 mM
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*100% activity at 7.5 mM
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*14% activity at 7.5 mM
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*57% activity at 7.5 mM
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*11% activity at 7.5 mM
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*99% activity at 7.5 mM
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*24% activity at 7.5 mM
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*84% activity at 7.5 mM
+EC2.7.4.B1	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*no activity at 7.5 mM
+EC2.7.6.2	COFACTOR	Saccharomyces cerevisiae	myo-Inositol 1-diphosphate	*	*coenzyme
+EC2.7.6.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, maximal activation at 20 mM
+EC2.7.6.2	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates at low concentrations even more than Mg2+
+EC2.7.6.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*metal ion required. Order of decreasing effectiveness: Co2+, Ni2+, Mg2+, Zn2+, Mn2+, isoform yNMNAT-2; metal ion required. Order of decreasing effectiveness: Ni2+, Zn2+, Co2+, Mg2+, Mn2+, isoform yNMNAT-1
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Divalent cations	*	*
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*metal ion required. Order of decreasing effectiveness: Co2+, Ni2+, Mg2+, Zn2+, Mn2+, isoform yNMNAT-2; metal ion required. Order of decreasing effectiveness: Ni2+, Zn2+, Co2+, Mg2+, Mn2+, isoform yNMNAT-1
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*metal ion required. Order of decreasing effectiveness: Co2+, Ni2+, Mg2+, Zn2+, Mn2+, isoform yNMNAT-2; metal ion required. Order of decreasing effectiveness: Ni2+, Zn2+, Co2+, Mg2+, Mn2+, isoform yNMNAT-1
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*optimal activity at 5 mM
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*metal ion required. Order of decreasing effectiveness: Co2+, Ni2+, Mg2+, Zn2+, Mn2+, isoform yNMNAT-2; metal ion required. Order of decreasing effectiveness: Ni2+, Zn2+, Co2+, Mg2+, Mn2+, isoform yNMNAT-1
+EC2.7.7.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*metal ion required. Order of decreasing effectiveness: Co2+, Ni2+, Mg2+, Zn2+, Mn2+, isoform yNMNAT-2; metal ion required. Order of decreasing effectiveness: Ni2+, Zn2+, Co2+, Mg2+, Mn2+, isoform yNMNAT-1
+EC2.7.7.18	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement
+EC2.7.7.19	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*more active in presence of Mn2+ than Mg2+; optimal concentration depends on ATP concentration
+EC2.7.7.19	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*essential for activity
+EC2.7.7.19	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC2.7.7.19	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*more active in presence of Mn2+ than Mg2+; optimal concentration depends on ATP concentration
+EC2.7.7.19	METALSIONS	Saccharomyces cerevisiae	KCl	*	*optimal concentration: 60 mM
+EC2.7.7.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*no FAD synthesis in absence of ATP, ADP cannot replace ATP
+EC2.7.7.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for FAD synthesis, optimal concentration 1.5 mM, inhibition at higher levels
+EC2.7.7.2	METALSIONS	Saccharomyces cerevisiae	more	*	*Zn2+ cannot replace Mg2+
+EC2.7.7.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inhibitory at high concentrations; required for maximum activity
+EC2.7.7.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*highest activity when ratio Mg2+/diphosphate is 1/10 - 1/20; required for maximum activity
+EC2.7.7.23	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+
+EC2.7.7.23	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+
+EC2.7.7.31	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*in the presence of Mn2+ yeast telomerase can switch to a template-independent mode of DNA synthesis as terminal transferase
+EC2.7.7.37	METALSIONS	Saccharomyces cerevisiae	more	*	*0.1-1 mM of Mg2+ or 1 mM of Zn2+ has no effect
+EC2.7.7.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*or an other divalent cation required
+EC2.7.7.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal concentration is 3 mM
+EC2.7.7.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at 20 mM Mg2+
+EC2.7.7.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the only divalent cation that supports activity
+EC2.7.7.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required fro activity
+EC2.7.7.41	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*about 30% of the activity with Mg2+
+EC2.7.7.41	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*about 80% of the activity with Mg2+
+EC2.7.7.41	METALSIONS	Saccharomyces cerevisiae	K+	*	*stimulates
+EC2.7.7.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*strong inhibition
+EC2.7.7.5	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*strong inhibition
+EC2.7.7.5	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*strong inhibition
+EC2.7.7.5	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*strong inhibition
+EC2.7.7.50	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.7.50	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at 3 mM; required
+EC2.7.7.50	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity at 0.5 mM; required
+EC2.7.7.50	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*10% of the activity with Mg2+; can partially replace Mg2+ in activation; inhibits in presence of Mg2+; maximal activity at 1 mM
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation, P1,P4-bis(5'-adenosyl) tetraphosphate-synthesis; less effective than Mn2+ or Ca2+
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*inhibitory in presence of phosphate for ADP/phosphate exchange reaction
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*requirement, Ap4A-synthesis
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*not NDP-arsenolysis or NDP/phosphate-exchange reaction
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*no effect
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*slight activation of P1,P4-bis(5'-adenosyl) tetraphosphate-synthesis
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*less effective than Mg2+; requirement, less effective than Mn2+
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*as good as Mn2+
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activation, less effective than Mn2+ or Ca2+ or Mg2+
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*slight activation of P1,P4-bis(5'-adenosyl) tetraphosphate-synthesis
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*slight activation
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	divalent metal cations	*	*requirement
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	more	*	*no activation by Ni2+
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	more	*	*Cu2+; no activation by Ni2+
+EC2.7.7.53	METALSIONS	Saccharomyces cerevisiae	more	*	*no divalent metal cation requirement for NDP-arsenolysis or NDP/phosphate-exchange reaction
+EC2.7.7.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*facilitates RNA polymerization
+EC2.7.7.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.7.6	METALSIONS	Saccharomyces cerevisiae	Iron	*	*RNA polymerase is a member of the iron-sulfur cluster protein family
+EC2.7.7.7	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*required, in [4Fe-4S] clusters, that are bound to the CysB motif in all yeast B family DNA polymerases, assembly of the essential Fe-S cluster is strictly dependent on the function of mitochondrial Nfs1 and cytosolic Nbp35. The C-terminal domain of the catalytic subunit binds the Fe-S cluster in the CysB motif requiring all Cys residues of motif Cysb
+EC2.7.7.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.7.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*enzyme prefers Mn2+ over Mg2+ for RTHI activity; enzyme prefers Mn2+ over Mg2+ for RTHI nuclease activity
+EC2.7.7.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.7.7	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*enzyme prefers Mn2+ over Mg2+ for RTHI nuclease activity
+EC2.7.7.7	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*increases enzymatic activity, no absolute dependence on zinc
+EC2.7.7.7	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required, Zn2+ is bound to the CysA motif in yeast B family DNA polymerases
+EC2.7.7.79	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the requirement for a divalent metal ion can be satisfied by Mg2+, Mn2+, and to a lesser extent by Co2+ and Zn2+. Maximal activity by 10 mM Mg2+
+EC2.7.7.79	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*the requirement for a divalent metal ion can be satisfied by Mg2+, Mn2+, and to a lesser extent by Co2+ and Zn2+. Activity in presence of 10 mM Mn2+ is 70% compared to the activity in presence of 10 mM Mg2+
+EC2.7.7.79	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*the requirement for a divalent metal ion can be satisfied by Mg2+, Mn2+, and to a lesser extent by Co2+ and Zn2+. Activity in presence of 10 mM Zn2+ is 15% compared to the activity in presence of 10 mM Mg2+
+EC2.7.7.79	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*the requirement for a divalent metal ion can be satisfied by Mg2+, Mn2+, and to a lesser extent by Co2+ and Zn2+. Activity in presence of 10 mM Co2+ is 13% compared to the activity in presence of 10 mM Mg2+
+EC2.7.7.87	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*stimulating effect, it increases the yield of the reaction to 38%
+EC2.7.7.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement
+EC2.7.7.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.7.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.7.9	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*about 25% as effective as Mg2+; activation
+EC2.7.7.9	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*about 25% as effective as Mg2+
+EC2.7.7.9	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*about 25% as effective as Mg2+
+EC2.7.8.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement for a divalent metal ion; Ka: 2.6 mM
+EC2.7.8.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required
+EC2.7.8.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*either Mg2+ or Mn2+ ions are necessary
+EC2.7.8.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC2.7.8.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC2.7.8.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement, reaction is dependent on for maximum activity
+EC2.7.8.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC2.7.8.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required
+EC2.7.8.15	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent metal required, optimal activity in presence of Mg2+
+EC2.7.8.15	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent metal required, Mn2+ is less effective than Mg2+
+EC2.7.8.15	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*divalent metal required, Ca2+ is less effective than Mg2+
+EC2.7.8.19	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*added in the activity assay at a final concentration of 5 mM
+EC2.7.8.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Ka: 0.7 mM
+EC2.7.8.2	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*2-5 mM; required
+EC2.7.8.2	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC2.7.8.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity is obtained in the presence of 20 mM Mg2+
+EC2.7.8.41	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1.7 m required for half-maximal activity
+EC2.7.8.5	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*maximal activity depends on 0.1 mM Mn2+, 0.3 mM Mg2+ or 1 mM Co2+
+EC2.7.8.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity is dependent on 0.1 mM Mn2+, 0.3 mM Mg2+ or 1 mM Co2+
+EC2.7.8.5	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*maximal activity depends on 0.1 mM Mn2+, 0.3 mM Mg2+ or 1 mM Co2+
+EC2.7.8.7	COFACTOR	Saccharomyces cerevisiae	4'-phosphopantetheine	*	*prosthetic group
+EC2.7.8.B13	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*required
+EC2.8.1.6	METALSIONS	Saccharomyces cerevisiae	Iron	*	*Fe/S cluster assembly of biotin synthase strongly depends on Isu1 and Isu2 proteins; Fe/S cluster assembly on Bio2 strongly depends on the Isu1 and Isu2 proteins, Isa proteins are crucial for the in vivo function of biotin synthase but not for the de novo synthesis of its Fe/S clusters.
+EC2.8.1.7	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent on
+EC2.8.1.7	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC3.1.1.17	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme requires divalent cations such as Mn2+, Mg2+ or Co2+
+EC3.1.1.17	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*the enzyme requires divalent cations such as Mn2+, Mg2+ or Co2+
+EC3.1.1.17	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*the enzyme requires divalent cations such as Mn2+, Mg2+ or Co2+
+EC3.1.1.29	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.001-0.01 MgCl2 activates
+EC3.1.1.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.11.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.1.11.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, optimal concentration around 3-12 mM
+EC3.1.13.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*necessary for activity; optimum: 1.5 mM
+EC3.1.13.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC3.1.13.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*necessary for activity; optimum: 0.3 mM, stimulation about two-thirds the rate with Mg2+
+EC3.1.13.1	METALSIONS	Saccharomyces cerevisiae	K+	*	*required for activity
+EC3.1.13.1	METALSIONS	Saccharomyces cerevisiae	NH4+	*	*activating; stimulates at pH 9.5 about 100%, optimum: 50 mM
+EC3.1.14.1	METALSIONS	Saccharomyces cerevisiae	KCl	*	*slight activation
+EC3.1.14.1	METALSIONS	Saccharomyces cerevisiae	KH2PO4	*	*10-80% activation at various concentrations
+EC3.1.14.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.14.1	METALSIONS	Saccharomyces cerevisiae	Na2SO4	*	*slight activation
+EC3.1.14.1	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*slight activation
+EC3.1.21.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for wild-type activity
+EC3.1.21.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required for activity of mutant which carries an insertion of the Green Fluorescence Protein into a loop which is located between the endonuclease and splicing domains of the Sce VMA1 intein
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*cannot replace Mg2+ or Mn2+ at concentrations between 1-500 mM
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Endo X3, 70% of the maximal activity obtained when Mg2+ is replaced by Ca2+
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*Endo X3 shows less than 10% of full activity at a concentration of 10 mM Co2+
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimum: 5-10 mM MgCl2
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Endo X3, optimum: 10 mM MgCl2, in presence of 10 mM MgCl2 the enzyme is salt sensitive
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*replacement of MgCl2 by equimolar amounts of MnCl2 results in a 50% loss of activity
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Endo X3, 70% of the maximal activity obtained when Mg2+ is replaced by Mn2+
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.1.22.4	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*cannot replace Mg2+ or Mn2+ at concentrations between 1-500 mM
+EC3.1.26.10	METALSIONS	Saccharomyces cerevisiae	K+	*	*optimum enzyme activity at 50-100 mM
+EC3.1.26.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimum enzyme activity at 0.3-0.5 mM
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activates
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activates
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*activates
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	K+	*	*required
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	KCl	*	*substrate affinity is enhanced under low-salt (10 mM KCl) conditions
+EC3.1.26.3	METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme requires a divalent metal ion for catalysis
+EC3.1.26.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for divalent cations, preferably Mg2+, optimal activity at 25 mM
+EC3.1.26.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ activates more than Mn2+, RNase H(70); Mn2+ activates more than Mg2+, RNase H(42)
+EC3.1.26.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for Mg2+, optimal activity at 2-6 mM MgCl2
+EC3.1.26.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.26.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*cation requirement can be fullfilled to some extent by 2 mM Mn2+
+EC3.1.26.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+ activates more than Mn2+, RNase H(70); Mn2+ activates more than Mg2+, RNase H(42)
+EC3.1.26.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required; Mn2+ is preferred over Mg2+
+EC3.1.26.4	METALSIONS	Saccharomyces cerevisiae	KCl	*	*
+EC3.1.26.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*preferred metal ion, absolutely required
+EC3.1.26.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*high activation, specific for
+EC3.1.26.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on, binds to the pro-Rp nonbridging oxygen of the scissile bond, coordination
+EC3.1.26.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.1.26.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for formation of the Pop6-Pop7-RNA complex
+EC3.1.26.5	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can substitute for Mg2+, slightly lower activity
+EC3.1.26.5	METALSIONS	Saccharomyces cerevisiae	more	*	*divalent metal ions are important cofactors for the reaction
+EC3.1.26.5	METALSIONS	Saccharomyces cerevisiae	more	*	*divalent metal ions are absolutely required, reduced activity with Ca2+
+EC3.1.3.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*2fold activation at 10 mM, dependent on, if 4-nitrophenyl phosphate is used as a substrate, protein phosphatase activity is not Mg2+-dependent
+EC3.1.3.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*inhibition at 10 mM, activation at 1 mM
+EC3.1.3.1	METALSIONS	Saccharomyces cerevisiae	Na+	*	*slight activation at 10 mM
+EC3.1.3.1	METALSIONS	Saccharomyces cerevisiae	more	*	*not affected by F- at 10 mM, protein phosphatase activity is not Mg2+-dependent
+EC3.1.3.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required. Mn2+ or Mg2+
+EC3.1.3.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required. Mn2+ or Mg2+
+EC3.1.3.11	METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is independent of metals, Mg2+, Mn2+, Co2+, Ni2+, Li+, and Ca2+ show no effect on activity
+EC3.1.3.16	COFACTOR	Saccharomyces cerevisiae	Calmodulin	*	*
+EC3.1.3.16	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.3.16	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*dependent, replacement of Mn2+ with other divalent cations lowers the activity of the enzyme
+EC3.1.3.16	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required for activity
+EC3.1.3.16	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*
+EC3.1.3.17	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km: 0.003 mM, activity is dependent on divalent metal ions, Mg2+ or Mn2+
+EC3.1.3.17	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Km: 0.006 mM, activity is dependent on divalent metal ions, Mg2+ or Mn2+
+EC3.1.3.18	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.3.18	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.1.3.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.3.27	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*5 mM
+EC3.1.3.27	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*5 mM
+EC3.1.3.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.3.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.1.3.32	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.1.3.37	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*no requirement
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required for activity by all enzyme forms
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for the 45000 Da enzyme form, maximal activity at 1 mM
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*two membrane-associated forms, 45000 Da and 104000 Da, of the Mg2+-dependent phosphatidate phosphatase
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*colorimetric assay
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*depends on
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*slight stimulation
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	more	*	*Mg2+-independent enzyme
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is Mg2+-independent and shows no divalent cation requirement for activity
+EC3.1.3.4	METALSIONS	Saccharomyces cerevisiae	more	*	*Lpp1p contains ten cysteine residues, whereas Dpp1p and Pah1p contain only three
+EC3.1.3.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.3.5	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.1.3.5	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activation
+EC3.1.3.5	METALSIONS	Saccharomyces cerevisiae	Br-	*	*activation
+EC3.1.3.54	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*dimer contains 1.3 mol copper per mol of subunit
+EC3.1.3.54	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, half-maximal activity at 0.15 mM
+EC3.1.3.54	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*dimer contains 1.5 mol zinc per mol of subunit
+EC3.1.3.56	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.3.68	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, maximal activation with 10 mM
+EC3.1.3.68	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.3.68	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can replace Mg2+ in activation, with less than 15% of the efficiency
+EC3.1.3.68	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can replace Mg2+ in activation, with less than 15% of the efficiency
+EC3.1.3.68	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can replace Mg2+ in activation, with 65% of the efficiency
+EC3.1.3.68	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*can replace Mg2+ in activation, with 35% of the efficiency
+EC3.1.3.68	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can replace Mg2+ in activation, with less than 15% of the efficiency
+EC3.1.3.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.1.3.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependend on
+EC3.1.3.81	METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme activity is independent of a divalent cation requirement, the phosphatidic acid phosphatase activity of the DGPP phosphatase is Mg2+-independent
+EC3.1.3.81	METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is Mg2+-independent and shows no divalent cation requirement for activity
+EC3.1.3.81	METALSIONS	Saccharomyces cerevisiae	more	*	*no Mg2+ or other divalent cations required
+EC3.1.3.81	METALSIONS	Saccharomyces cerevisiae	more	*	*no divalent metal ions required
+EC3.1.3.81	METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for Mg2+
+EC3.1.3.99	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*enzyme activity is absolutely dependent on bivalent metals with Mg2+ as most potent one
+EC3.1.3.99	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*may substitute Mg2+
+EC3.1.3.99	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*may substitute Mg2+
+EC3.1.4.11	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+ required. At 0.1 mM the enzyme hydrolyzes phosphatidylinositol 4,5-diphosphate at faster rate than phosphatidylinositol, at 0.005 mM Ca2+ it hydrolyzes phosphatidylinositol 4,5-diphosphate exclusively
+EC3.1.4.11	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+-dependent
+EC3.1.4.11	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*
+EC3.1.4.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.1.4.12	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.1.4.12	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC3.1.4.4	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+ dependent and independent enzymes
+EC3.1.7.6	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*2 mM, 2.2fold activation
+EC3.1.7.6	METALSIONS	Saccharomyces cerevisiae	more	*	*2 mM CuSO4 shows no effect
+EC3.1.7.6	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*2 mM, 1.4fold activation
+EC3.2.1.106	METALSIONS	Saccharomyces cerevisiae	more	*	*metal ions not required
+EC3.2.1.106	METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for divalent cations
+EC3.2.1.113	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*requirement, protects from thermal inactivation, Km value 0.5 mM
+EC3.2.1.20	METALSIONS	Saccharomyces cerevisiae	Na+	*	*inhibitory assay is stopped by adding 0.1 M Na2CO3
+EC3.2.1.21	METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is not affected by Ca2+, Co2+, Mg2+, K+, Na+, and Zn2+
+EC3.2.1.24	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*50% stimulation at 0.1 mM
+EC3.2.1.24	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*30% stimulation of the EGTA-inhibited enzyme at 0.1 mM
+EC3.2.1.24	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*90% stimulation at 0.1 mM
+EC3.2.1.24	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*inhibition by EGTA can be 90% restored after addition of 0.1 mM
+EC3.2.1.24	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*28% stimulation at 0.1 mM
+EC3.2.1.28	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*30% activation by 20-300 mM neutral salts such as KCl, NaNO3 and MnCl2, V-trehalase. C-trehalase is absolutely dependent on Ca2+ or Mn2+. 2fold activation of C-trehalase by MnCl2
+EC3.2.1.28	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*C-trehalase is absolutely dependent on Ca2+ or Mn2+. 4fold activation of C-trehalase at 2.5 mM CaCl2
+EC3.2.1.28	METALSIONS	Saccharomyces cerevisiae	K+	*	*30% activation by 100 mM KCl, V-trehalase
+EC3.2.1.28	METALSIONS	Saccharomyces cerevisiae	Na+	*	*30% activation by 20-300 mM neutral salts such as KCl, NaNO3 and MnCl2, V-trehalase
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulates activity
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*inhibitor and activator
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*inhibitor and activator
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*stimulates activity
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*inhibitor and activator
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*stimulates activity
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*stimulates activity
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Na+	*	*stimulates activity
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*stimulates activity
+EC3.2.1.3	METALSIONS	Saccharomyces cerevisiae	Sn2+	*	*stimulates activity
+EC3.2.1.42	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*relieves inhibition by guanosine diphosphate, some activation
+EC3.2.1.42	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*relieves inhibition by guanosine diphosphate, some activation
+EC3.2.2.3	METALSIONS	Saccharomyces cerevisiae	copper	*	*contains 1 copper atom per enzyme molecule
+EC3.2.2.3	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*contains 1 gatom of Cu2+ per enzyme molecule
+EC3.2.2.3	METALSIONS	Saccharomyces cerevisiae	more	*	*Urh1 activity is unaffected by the addition of MgCl2
+EC3.3.2.6	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*three putative zinc-binding ligands: His340, His344 and Glu363, zinc atom is catalytic and also involved in the maintenance of the structural integrity of the enzyme; zinc protein
+EC3.3.2.6	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*zinc protein
+EC3.3.2.6	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC3.4.11.15	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*required
+EC3.4.11.15	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*800-900% activation by 0.5 mM; required
+EC3.4.11.15	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*25fold enhancement of hydrolysis of Arg-7-amido-4-methylcoumarin and Lys-7-amido-4-methylcoumarin. Hydrolysis of substrates longer than tripeptide or dipeptide-7-amido-4-methylcoumarin is inhibited
+EC3.4.11.15	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*can partly replace Co2+
+EC3.4.11.15	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*can partly replace Co2+
+EC3.4.11.15	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*contains about one atom of zinc per molecule
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*1 mol of wild-type enzyme contains 2 mol of zinc ions and at least 1 mol of cobalt ion, whereas 1 mol of the truncated methionine aminopeptidase DELTA2-69 lacking the putative zinc fingers cotains only a trace amount of zinc ions but still contains one mol of cobalt ion
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*inhibitory above 0.031 mM
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*1 mol of wild-type enzyme contains 2 mol of zinc ions and at least 1 mol of cobalt ion, whereas 1 mol of the truncated methionine aminopeptidase DELTA2-69 lacking the putative zinc fingers cotains only a trace amount of zinc ions but still contains one mol of cobalt ion; 1 mol of wild-type enzyme contains at least 1 mol of Co2+
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*the mutant enzyme contains 0.43 mol of Co2+ per mol. The wild-type enzyme contains 0.75 mol of Co2+ per mol of enzyme
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*inhibitory above 0.0625 mM
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*1 mol of wild-type enzyme contains 2 mol of Zn2+, zinc fingers are essential for normal MAP function
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*methionine aminopeptidase type 1 requires its N-terminal zinc finger domain for normal function in vivo
+EC3.4.11.18	METALSIONS	Saccharomyces cerevisiae	more	*	*not activating: Ni2+, Mg2+, Ca2+, Cd2+, Cu2+
+EC3.4.11.2	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for activity, best at 0.05 mM
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Br-	*	*activation
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Cl-	*	*activation
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Cl-	*	*activation; no activation by NO3-, F-, SCN-
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Cl-	*	*specific, strong activation
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*CoCl2 activates
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*contains one essential binding site per subunit, Zn2+ and Co2+ have comparable activities
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activates
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*ZnCl2 has no influence on activity
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains one essential binding site per subunit, Zn2+ and Co2+ have comparable activities
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activation
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*specific, strong activation, 2 mol per mol of enzyme
+EC3.4.11.22	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*zinc metalloproteinase which is activated by 1 mM Zn2+, zinc is part of the active center polarizing the water molecule, which hydrolyzes the peptide bond
+EC3.4.11.24	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*metalloenzyme containing Co2+ in its structure
+EC3.4.11.24	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activity is strictly dependent on, maximal activity at 0.5 mM CoCl2
+EC3.4.11.3	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*reverses EDTA inhibition
+EC3.4.11.3	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*reversal of EDTA inhibition, inhibition at high concentration
+EC3.4.11.3	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*reverses EDTA inhibition
+EC3.4.13.18	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*complex pattern of inhibition or activation with different dipeptide substrates
+EC3.4.13.18	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*complex pattern of inhibition or activation with different dipeptide substrates
+EC3.4.14.4	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*zinc-dependent enzyme
+EC3.4.14.4	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*10 micromol, strong inhibition
+EC3.4.14.4	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*increase of activity
+EC3.4.14.4	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*10-100 micromol, potent activation
+EC3.4.16.5	COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor requirement
+EC3.4.16.5	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*stimulates activity
+EC3.4.16.5	METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme does not require metals for activity
+EC3.4.16.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates at low concentrations
+EC3.4.16.6	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates at low concentrations
+EC3.4.17.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can reverse the inhibition by chelating agents
+EC3.4.17.4	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can reverse the inhibition by chelating agents at a concentration of 0.1 mM, reactivation of 88%, inhibits the enzyme at higher concentrations, 10 mM
+EC3.4.17.4	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can reverse the inhibition by chelating agents at a concentration of 0.1 mM, reactivation of 62%, inhibits the enzyme at higher concentrations, 10 mM
+EC3.4.17.4	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can reverse the inhibition by chelating agents
+EC3.4.19.12	METALSIONS	Saccharomyces cerevisiae	Divalent cations	*	*most divalent cations, except Mg2+ and Ca2+ are inhibitory
+EC3.4.21.53	COFACTOR	Saccharomyces cerevisiae	ATP	*	*ATP-dependent protease
+EC3.4.21.53	COFACTOR	Saccharomyces cerevisiae	ATP	*	*ATP-dependent
+EC3.4.21.53	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC3.4.21.53	COFACTOR	Saccharomyces cerevisiae	more	*	*maintenance of the holoenzyme does not require the addition of ATP. ATP binding induces conformational changes in the holoenzyme
+EC3.4.21.53	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*; requirement
+EC3.4.21.53	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*ATP hydrolysis and protease activity; requirement
+EC3.4.21.53	METALSIONS	Saccharomyces cerevisiae	more	*	*maintenance of the holoenzyme does not require the addition of Mg2+
+EC3.4.21.61	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*1 mM; required
+EC3.4.21.61	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*reactivates after EDTA or EGTA treatment
+EC3.4.21.61	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required
+EC3.4.21.61	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*dependent
+EC3.4.21.61	METALSIONS	Saccharomyces cerevisiae	more	*	*no effect with Mg2+, Mn2+, Co3+, and Fe3+
+EC3.4.22.49	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Ca2+-levels affect separase function, C-terminal region contains a Ca2+-binding motif
+EC3.4.23.17	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*1.4fold; 5 mM, stimulates
+EC3.4.23.35	COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor requirement
+EC3.4.23.35	COFACTOR	Saccharomyces cerevisiae	more	*	*no requirement for cofactors
+EC3.4.23.35	METALSIONS	Saccharomyces cerevisiae	more	*	*no Ca2+ or other divalent cation required
+EC3.4.23.35	METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for divalent cations
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activation of chelator-inactivated enzyme; metalloprotease
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*metalloprotease; requirement (in vitro, in vivo not identified yet)
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*metalloprotease; requirement; requirement (in vitro, in vivo not identified yet)
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	more	*	*metalloendopeptidase that does not contain His-Glu-X-X-His zinc-binding motif, cf. human insulinase or E. coli protease III
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	more	*	*atomic absorption spectroscopy: purified MAS1/MAS2-holoenzyme lacks significant amounts of zinc, manganese or cobalt, probably lost during purification
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	more	*	*consensus metal-binding motif HEliH, formed by amino acid residues 167-171 of Atp23
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activation of chelator-inactivated enzyme
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*zinc binding motif in beta-MPP
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*localized in the active site cavity
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*MPP is a zinc-metalloendopeptidase
+EC3.4.24.64	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains zinc
+EC3.4.24.84	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*the in vitro N-terminal proteolysis of a-factor requires Zn2+ as metal cofactor, inhibition at higher Zn2+ concentrations e.g. 2 mM
+EC3.4.24.84	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC3.4.24.84	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*probably Zn2+-dependent metalloprotease
+EC3.4.24.84	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*Zn-dependent protease
+EC3.4.24.84	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*restores Ste24 CAAX proteolytic activity after 1,10-phenanthroline treatment, reactivation with 0.25 mM Co2+ is 25% of that seen with 0.25 mM Zn2+
+EC3.4.24.84	METALSIONS	Saccharomyces cerevisiae	more	*	*Zn-metalloprotease consensus motif HEXXH
+EC3.4.24.84	METALSIONS	Saccharomyces cerevisiae	more	*	*
+EC3.4.24.84	METALSIONS	Saccharomyces cerevisiae	more	*	*C-terminal proteolytic activity of Ste24 requires metall ions
+EC3.4.24.B18	COFACTOR	Saccharomyces cerevisiae	ATP	*	*ATP binding is required for enzyme assembly, enzyme contains conserved Walker-type ATPase domain of approximately 230 amino acids, dependent on; dependent on, enzyme contains an ATPase domain with a Walker-type P-loop typical for the AAA protease family, hydrolysis induces conformational changes of the AAA domain driving substrate unfolding and dislocation from the membrane
+EC3.4.24.B18	COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on, enzyme contains an ATPase domain with a Walker-type P-loop typical for the AAA protease family
+EC3.4.24.B18	COFACTOR	Saccharomyces cerevisiae	ATP	*	*intersubunit coordination of the ATP hydrolysis leads to an ordered ATP hydrolysis within the AAA ring, which ensures efficient substrate dislocation from the membrane and translocation to the proteolytic chamber
+EC3.4.24.B18	COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on
+EC3.4.24.B18	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC3.4.24.B18	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*dependent on
+EC3.4.24.B18	METALSIONS	Saccharomyces cerevisiae	more	*	*conserved metal-binding motif HEXGH at the proteolytic centre
+EC3.4.24.B18	METALSIONS	Saccharomyces cerevisiae	more	*	*a consensus metal-binding site represents the proteolytic centre, metallopeptidase of the M41 family
+EC3.4.24.B19	COFACTOR	Saccharomyces cerevisiae	ATP	*	*ATP binding is not necessary for enzyme assembly, enzyme contains conserved Walker-type ATPase domain of approximately 230 amino acids, dependent on, hydrolysis induces conformational changes; dependent on, enzyme contains an ATPase domain with a Walker-type P-loop typical for the AAA protease family, hydrolysis induces conformational changes of the AAA domain driving substrate unfolding and dislocation from the membrane
+EC3.4.24.B19	COFACTOR	Saccharomyces cerevisiae	ATP	*	*required, contains ATP-binding site spanning from residues 316 to 328, GVLLTGPPGTGKT
+EC3.4.24.B19	COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on
+EC3.4.24.B19	COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent
+EC3.4.24.B19	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC3.4.24.B19	COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with beta-gamma-imidoadenosine 5'-phosphate, i.e. AMP-PNP
+EC3.4.24.B19	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*dependent on
+EC3.4.24.B19	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*dependent on, 2 zinc ligands are the conserved His540 and His546
+EC3.4.24.B19	METALSIONS	Saccharomyces cerevisiae	more	*	*conserved metal-binding motif HEXGH at the proteolytic centre
+EC3.4.25.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on
+EC3.4.99.B1	METALSIONS	Saccharomyces cerevisiae	more	*	*probably a metallo-dependent enzyme
+EC3.5.1.19	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC3.5.1.19	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains tightly bound zinc. Addition of 2 mM ZnCl2 fails to increase the activity of the wild type enzyme
+EC3.5.1.41	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*increases activity from 1-50 mM. 160% relative activity at 1 mM. Deglycosylation of the enzyme causes total loss of activity, which can be restored by addition of CoCl2
+EC3.5.1.41	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activates
+EC3.5.1.41	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*N-deglycosylation of Cda2p from Saccharomyces cerevisiae results in complete loss of enzyme activity which can be restored by addition of 1 mM Co2+
+EC3.5.1.41	METALSIONS	Saccharomyces cerevisiae	more	*	*Mg2+ and Mn2+ do not have activity restaurative effects
+EC3.5.1.52	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*zinc metalloenzyme
+EC3.5.1.9	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent
+EC3.5.2.9	METALSIONS	Saccharomyces cerevisiae	more	*	*enzyme requires ATP, a monovalent cation such as K+ or NH4+ and a divalent cation such as Mg2+ or Mn2+
+EC3.5.3.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activating
+EC3.5.4.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*1 metal ion is tightly bound to the active site, binding structure modeling, Fourier mapping
+EC3.5.4.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*ligands are two cysteines, a histidine, and one water molecule
+EC3.5.4.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activation by dCTP, Mg2+ in the absence of dCTP: no effect
+EC3.5.4.33	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimum concentration2-5 mM, the enzyme does not require any cofactor, except magnesium ions, to deaminate adenosine 34 efficiently in tRNA. The dependence of the enzymatic reaction on magnesium ions probably reflects the need for a correct tRNA architecture
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*4 Cd2+ sites per subunit, enzyme activity lower compared to Mg2+
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*supports the hydrolysis of ATP and tripolyphosphate, very weak activation of diphosphate hydrolysis
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximum activation compared to other divalent ion activators
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, serves as physiological cofactor
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the pyrophosphatase requires four divalent metal cations for catalysis, magnesium provides the highest activity
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*supports the hydrolysis of ATP and tripolyphosphate, very weak activation of diphosphate hydrolysis
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace for Mg2+
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*higher activation than Co2+, Mn2+
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC3.6.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*supports the hydrolysis of ATP and tripolyphosphate, very weak activation of diphosphate hydrolysis
+EC3.6.1.10	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+EC3.6.1.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+EC3.6.1.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme is most active at 1.5 mM Mg2+
+EC3.6.1.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*in the presence of Mg2+, the enzyme shows a polyphosphate chain fragmentation activity
+EC3.6.1.10	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*optimal activation at 2.5 mM
+EC3.6.1.10	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.6.1.10	METALSIONS	Saccharomyces cerevisiae	more	*	*addition of 3 mM Mg2+ and 3 mM Co2+ has no effect on the cytosol endopolyphosphatase activity
+EC3.6.1.10	METALSIONS	Saccharomyces cerevisiae	more	*	*not stimulated by Ca2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulates
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, optimal activity at 5 mM
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1-10 mM, about 7fold activation
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation required, order of decreasing stimulation: Co2+, Mn2+, Mg2+, Ni2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*2.5 mM, 15fold activity enhancement
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.1 mM MgSO4, 5% activity loss; 1 mM, 2fold activity enhancement; 2fold activation at 0.1 mM
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*single tight binding site for Mg2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1.6fold activation
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*poor activation
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*1-10 mM, 3-5fold stimulation
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cation required, order of decreasing stimulation: Co2+, Mn2+, Mg2+, Ni2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*poor activition
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*stimulates
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*0.1 mM ZnSO4, 76% activity loss; 1.5fold activation at 0.1 mM
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*stimulated by divalent cations, Co2+ is the best stimulator, 6fold at 0.05 mM
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*5 mM, 108% of the activation by Mg2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*2 mM CoCl2, 2.5fold stimulation
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cation required, order of decreasing stimulation: Co2+, Mn2+, Mg2+, Ni2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*0.1 mM, 31fold activity enhancement; best activator
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*0.1 mM, 6fold activity stimulation; 6fold activation at 0.1 mM
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*2.5fold activation
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*best activator, maximum activation at 0.1 mM
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*Co2+ stimulates phosphate release from the polyphosphate chain end
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*5 mM, 34% of the activation by Mg2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*5 mM, 32% of the activation by Mg2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*divalent cation required, order of decreasing stimulation: Co2+, Mn2+, Mg2+, Ni2+
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	K+	*	*100 mM, 30% activity enhancement; slight activation
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*50 and 200 mM, 46 and 42% activity enhancement, respectively
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	NH4+	*	*100 mM, 35% activity enhancement; slight activation
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	KCl	*	*50 and 200 mM, 39 and 38% activity enhancement, respectively
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	NH4Cl	*	*50 and 200 mM, 42 and 67% activity enhancement, respectively
+EC3.6.1.11	METALSIONS	Saccharomyces cerevisiae	more	*	*stimulated by divalent cations to a lesser extent
+EC3.6.1.14	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cations activate hydrolysis of adenosine 5'-tetraphosphate in the order of decreasing effectiveness: Co2+, Mn2+, Mg2+, Ni2+
+EC3.6.1.14	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*divalent cations activate hydrolysis of adenosine 5'-tetraphosphate in the order of decreasing effectiveness: Co2+, Mn2+, Mg2+, Ni2+
+EC3.6.1.14	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*divalent cations activate hydrolysis of adenosine 5'-tetraphosphate in the order of decreasing effectiveness: Co2+, Mn2+, Mg2+, Ni2+
+EC3.6.1.14	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*divalent cations activate hydrolysis of adenosine 5'-tetraphosphate in the order of decreasing effectiveness: Co2+, Mn2+, Mg2+, Ni2+
+EC3.6.1.15	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.6.1.2	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+EC3.6.1.2	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*inhibitory
+EC3.6.1.2	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*inhibitory
+EC3.6.1.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*very strong activation of enzyme
+EC3.6.1.2	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.6.1.2	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*very weak activation
+EC3.6.1.2	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC3.6.1.22	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*strong activation
+EC3.6.1.22	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*strong activation
+EC3.6.1.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.6.1.23	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*strictly dependent on a bivalent metal cation like Mg2+ which supports the highest rate of dUTP hydrolysis
+EC3.6.1.23	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*strictly dependent on a bivalent metal cation like Mn2+
+EC3.6.1.23	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*strictly dependent on a bivalent metal cation like Zn2+
+EC3.6.1.23	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*strictly dependent on a bivalent metal cation like Co2+
+EC3.6.1.23	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*strictly dependent on a bivalent metal cation like Ni2+
+EC3.6.1.29	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*
+EC3.6.1.29	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*
+EC3.6.1.29	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+EC3.6.1.29	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.6.1.29	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*required for maximal activity
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	Divalent cations	*	*required
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*less than 10% activation
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activation
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation, enzyme with Mn2+ is 60-95% as active as compared with Ca2+; in the presence of 10 mM Mn2+: 3fold activation of its activity toward UDP, but not GDP, compared to activation by 10 mM Ca2+
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	more	*	*
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*less than 10% activation
+EC3.6.1.42	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*less than 10% activation
+EC3.6.1.44	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*113% activity compared to control, 10 mM
+EC3.6.1.44	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*149.5% activity compared to control, 10 mM
+EC3.6.1.44	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*150% activity compared to control, 10 mM
+EC3.6.1.62	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*conserved glutamate residues E152, E153, and E198 coordinate a magnesium ion through a water mediated contact, while E149 directly contacts the metal
+EC3.6.1.9	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*tightly bound, contains 1 zinc atom per mol of enzyme
+EC3.6.1.B13	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal activity with 4-10 mM Mg2+ or 0.2 mM Mn2+
+EC3.6.1.B13	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*optimal activity with 4-10 mM Mg2+ or 0.2 mM Mn2+
+EC3.6.3.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC3.6.4.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requires divent cation, Mg2+ or Mn2+
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*MER3 ATPase activity requires a divalent cation. Maximal activity can be observed in the presence of either Ca2+, Mg2+, or Mn2+, whereas Zn2+ does not support the ATPase activity
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*maximal activity is obtained with Mg2+, whereas Co2+ and Ca2+ are much less effective in this regard. No activity is observed with Mn2+ or Zn2+
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*ATP hydrolysis in the presence of MgCl2 is 2fold higher than in the presence of either MnCl2 or CaCl2
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can substitute for Mg2+, less effective
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*requires divent cation, Mg2+ or Mn2+
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*MER3 ATPase activity requires a divalent cation. Maximal activity can be observed in the presence of either Ca2+, Mg2+, or Mn2+, whereas Zn2+ does not support the ATPase activity
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*ATP hydrolysis in the presence of MgCl2 is 2fold higher than in the presence of either MnCl2 or CaCl2
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*MER3 ATPase activity requires a divalent cation. Maximal activity can be observed in the presence of either Ca2+, Mg2+, or Mn2+, whereas Zn2+ does not support the ATPase activity
+EC3.6.4.12	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*ATP hydrolysis in the presence of MgCl2 is 2fold higher than in the presence of either MnCl2 or CaCl2
+EC3.6.4.13	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required
+EC3.6.4.6	COFACTOR	Saccharomyces cerevisiae	more	*	*Vps4 and its cofactor Vta1p/LIP5 function in membrane remodeling events that accompany cytokinesis, multivesicular body biogenesis, and retrovirus budding
+EC3.6.4.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC3.6.4.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.6.4.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required
+EC3.6.4.B10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.6.5.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.6.5.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC3.8.1.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, located at the active site at the interface of the alpha and gamma domains
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, mode of active site binding
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, bound at the interface created by 2 subunits that form a tight dimer, mode of binding
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, cofactor is located between the alpha and the gamma domains
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, active center, at the interface of the alpha and gamma domains
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*thiamine diphosphate-dependent enzyme, a diphosphate-binding domain and a pyrimidine-binding domain serve to anchor the cofactor with its thiazolium C2-H bond directed toward the presumed pyruvate binding site, catalytic mechanism
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*coenzyme, bound in the interface between two subunits, binds pH-dependently
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*requirement, tetramer binds 4 molecules, at the interface between two monomers involving the alpha and gamma domains, tightly bound at pH 6, dissociates reversibly above pH 7
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*prosthetic group
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*enzyme forms covalent intermediate C2-alpha-lactylthiamine diphosphate
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*bound to the active site located at the interface of the alpha and gamma domains
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*dependent on, bound tightly, but not covalently, at the interface of two monomers
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*0.1 mM, required for activity
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*required, the Ser/Thr protein phosphatase SIT4 reduces Pdc1p activity by altering the apparent affinity for the cofactor thiamine pyrophosphate
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*bound in the V conformation in the active sites of the ezyme, side chains of residues Glu51, Glu477, Asp28, His114, and His 115 potentially participate in proton transfer steps
+EC4.1.1.1	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*dependent on
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*cofactor, requirement
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*essential for activity, coordinated in the active site at the diphosphate moiety of the coenzyme thiamine diphosphate, also able to coordinate to other specific functional groups than in the active site region, stabilizes the monomeric state of enzyme
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*cofactor
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*cofactor, tetramer binds 4 Mg2+ ions, tightly bound at pH 6, dissociates reversibly above pH 7
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on, bound tightly, but not covalently, at the interface of two monomers
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required; required; required
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC4.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC4.1.1.102	COFACTOR	Saccharomyces cerevisiae	FMN	*	*a modified form of FMN acts as cofactor
+EC4.1.1.102	COFACTOR	Saccharomyces cerevisiae	FMN	*	*cofactor is prenylated FMN
+EC4.1.1.15	COFACTOR	Saccharomyces cerevisiae	more	*	*the cofactor of ScGAD is verified to be either pyridoxal 5'-phosphate (PLP) or pyridoxal. The optimal concentration of either cofactor is 50 mg/l. GAD requires a coenzyme for activity while inactive apo-GAD forms a GAD-PLP complex (holo-GAD) to obtain its activity
+EC4.1.1.15	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC4.1.1.17	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*required
+EC4.1.1.17	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC4.1.1.23	COFACTOR	Saccharomyces cerevisiae	more	*	*functions without cofactors
+EC4.1.1.23	COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactor requirement
+EC4.1.1.23	COFACTOR	Saccharomyces cerevisiae	more	*	*no cofactors required
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	more	*	*no metal cofactor, e.g. Zn2+ or other transition metal ions
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	more	*	*no metal cofactor
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	more	*	*no metal ion requirement
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	more	*	*functions without metals
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	more	*	*zinc-free fully active recombinant ODCase expressed in Escherichia coli, metals do not directly participate in the decarboxylation mechanism
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	more	*	*no metal cofactor requirement
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	more	*	*no metals required
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*zinc, rather than a proton may be largely responsible for neutralizing charge development in the transition state for OMP decarboxylation
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*no zinc detected
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*mechanism may include participation of Zn2+, which interacts at O4 with the substrate
+EC4.1.1.23	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*native ODCase expressed in yeast contains zinc, but not recombinant ODCase expressed in Escherichia coli, zinc is not involved in substrate decarboxylation
+EC4.1.1.32	COFACTOR	Saccharomyces cerevisiae	GTP	*	*
+EC4.1.1.33	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC4.1.1.43	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*dependent on
+EC4.1.1.49	COFACTOR	Saccharomyces cerevisiae	ADP	*	*preference for ADP (or ATP) over other nucleotides
+EC4.1.1.49	COFACTOR	Saccharomyces cerevisiae	ATP	*	*preference for ADP (or ATP) over other nucleotides
+EC4.1.1.49	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*34% of the activation with Mn2+
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activation
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can fulfill the free divalent cation requirement
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*it is shown that Mn2+ affinity increases as the pH increases
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activated by Mn2+
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*the enzyme possesses one binding site for Mn2+ per enzyme monomer
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*required for activity
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*61% of the activation with Mn2+
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*40% of the activation with Mn2+
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*25% of the activation with Mn2+
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	Cd2+	*	*can fulfill the free divalent cation requirement
+EC4.1.1.49	METALSIONS	Saccharomyces cerevisiae	more	*	*enzyme contains at least two binding sites, related to cation requirement. One binding a cation-nucleotide complex, the true substrate, and the latter site greatly enhances the affinity of the former for the cation nucleotide substrate
+EC4.1.1.50	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC4.1.1.50	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*no requirement
+EC4.1.1.50	METALSIONS	Saccharomyces cerevisiae	more	*	*no requirement for a divalent metal ion
+EC4.1.1.50	METALSIONS	Saccharomyces cerevisiae	more	*	*does not require Mg2+ for activity
+EC4.1.1.65	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*stimulation up to 2-fold
+EC4.1.2.13	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC4.1.2.13	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*
+EC4.1.2.27	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*pyridoxal 5'-phosphate-dependent enzyme
+EC4.1.2.27	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent on
+EC4.1.2.27	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC4.1.2.35	COFACTOR	Saccharomyces cerevisiae	thiamine diphosphate	*	*10% stimulation at 0.16 mM, 65% stimulation at 0.4 mM
+EC4.1.2.35	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*37% stimulation at 0.08 mM, 47% stimulation at 0.16 mM
+EC4.1.2.35	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*55% stimulation at 0.5 mM, 125% stimulation at 1.6 mM
+EC4.1.2.35	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*23% stimulation at 0.32 mM
+EC4.1.2.35	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*58% stimulation at 0.08 mM, 145% stimulation at 0.16 mM
+EC4.1.2.35	METALSIONS	Saccharomyces cerevisiae	Na+	*	*12% stimulation at 0.16 mM
+EC4.1.2.48	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*2 mol pyridoxal 5'-phosphate per 4 mol of subunit
+EC4.1.3.17	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*required, best activating metal ion
+EC4.1.3.17	METALSIONS	Saccharomyces cerevisiae	more	*	*the enzyme is a class II divalent metal ion-dependent aldolase
+EC4.1.3.38	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent on, one molecule of cofactor is deeply buried in the cleft between domains I and II, pyridoxal 5'-phosphate adopts the re-face specificity facing the protein side and is covalently linked to the catalytic residue Lys251 by forming an internal aldimine bond, Schiff base linkage
+EC4.1.3.44	COFACTOR	Saccharomyces cerevisiae	[4Fe-4S]-center	*	*
+EC4.1.99.17	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*
+EC4.1.99.3	COFACTOR	Saccharomyces cerevisiae	FAD	*	*
+EC4.1.99.3	COFACTOR	Saccharomyces cerevisiae	FADH2	*	*FADH2 cofactor
+EC4.1.99.3	COFACTOR	Saccharomyces cerevisiae	FADH2	*	*purified enzyme contains FAD
+EC4.1.99.3	COFACTOR	Saccharomyces cerevisiae	FADH2	*	*
+EC4.1.99.3	COFACTOR	Saccharomyces cerevisiae	pterin	*	*cofactor
+EC4.1.99.3	METALSIONS	Saccharomyces cerevisiae	Fe	*	*conserved Fe-S domain at the C-terminus of PriL
+EC4.2.1.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*a zinc ion is coordinated by the three highly conserved residues Cys57, His112 and Cys115
+EC4.2.1.11	COFACTOR	Saccharomyces cerevisiae	more	*	*specific affinity to tRNA imported into mitochondria, involved to direct mitochondrial tRNA import in vitro
+EC4.2.1.11	COFACTOR	Saccharomyces cerevisiae	more	*	*complex formation between active centers of enolase and phosphoglycerate mutase determined, interaction of enolase with C-terminal tail of phosphoglycerate mutase confirmed
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*two ions are necessary for activity, shows inhibition at high concentration
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activity depends on
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required for activity
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*physiological cofactor
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*enolase is activated by low concentrations of Mg2+
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can replace Mg2+, mechanistic study using electron paramagnetic resonance
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*catalytic binding sites analyzed in vitro
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can also bind and activate the enzyme
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can replace Mg2+, mechanistic study using electron paramagnetic resonance
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*catalytic binding sites analyzed in vitro
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can also bind and activate the enzyme
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*activates in 0.1 M KCl, maximum activity at 0.0035 mM. Maximum of 4 Co2+ ions are bound per dimer
+EC4.2.1.11	METALSIONS	Saccharomyces cerevisiae	more	*	*Ca2+, Ba2+, Sr2+, Hg2+, Pb2+, and Be2+ are not capable of activating the enzyme
+EC4.2.1.12	COFACTOR	Saccharomyces cerevisiae	[4Fe-4S]-center	*	*
+EC4.2.1.130	COFACTOR	Saccharomyces cerevisiae	more	*	*the enzyme shows GSH-independent glyoxalase activity
+EC4.2.1.19	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*activity dependent on
+EC4.2.1.19	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Km: 0.0076 mM
+EC4.2.1.19	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*essential for assembly of subunits
+EC4.2.1.20	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*Km: 0.18 mM
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	S-adenosyl-L-methionine	*	*activation
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*requirement
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*forms a series of intermediates during the reaction, gem-diamine and external aldimine of aminoacrylate are the primary intermediates in the forward half-reaction with L-serine and the external aldimine of aminoacrylate or its complex with L-homocysteine is the primary intermediate in the reverse half-reaction with L-cystathionine
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*reacts with L-allothreonine to form a stable 3-methyl aminoacrylate intermediate
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	heme	*	*
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	more	*	*heme is no cofactor
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	more	*	*no dependence on heme
+EC4.2.1.22	COFACTOR	Saccharomyces cerevisiae	more	*	*yeast cystathionine beta-synthase does not have a heme cofactor
+EC4.2.1.24	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activity is progressively increased with increasing Zn2+ concentrations up to 0.1 mM, inhibition at high concentrations
+EC4.2.1.24	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for catalysis, bound at the active site
+EC4.2.1.24	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*8 Zn at metal binding site A and 8 Zn at metal binding site B are required for full activity per homooctamer
+EC4.2.1.3	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*
+EC4.2.1.70	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*essential for its native conformation and tRNA recognition
+EC4.2.1.93	COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on
+EC4.2.1.93	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC4.2.1.93	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*most effective
+EC4.2.1.93	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC4.2.1.93	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*or Mg2+ required
+EC4.2.1.93	METALSIONS	Saccharomyces cerevisiae	more	*	*Ca2+ has no effect
+EC4.2.3.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC4.2.3.1	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains a zinc ribbon domain
+EC4.2.3.5	COFACTOR	Saccharomyces cerevisiae	NADPH	*	*required
+EC4.2.3.5	COFACTOR	Saccharomyces cerevisiae	FMNH2	*	*absolute requirement
+EC4.2.3.5	COFACTOR	Saccharomyces cerevisiae	FMNH2	*	*absolute requirement, Km: 42 nM
+EC4.2.3.5	COFACTOR	Saccharomyces cerevisiae	flavins	*	*required, reduced forms e.g. FMN, FAD
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ or Mn2+ required
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal concentration: 2 mM (endonuclease D4); optimal concentration: 4 mM for endonuclease D1 and D2; optimal concentration: 6 mM, endonuclease E; optimal concentration: 8 mM, endonuclease D3; required
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mn2+ or Mg2+ required
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*His83 coordinates one of three Zn2+ ions in Apn1's active site, structure comparisons. Structure of enzyme mutant H83A Apn1-substrate DNA complex with three Zn2+ ions containing Zn2+ ions per molecule of mutant enzyme, overview. Zn2+ ions are involved in catalysis
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for catalysis, molecular dynamics. The active site of H83A Apn1 contains only two Zn2+ ions, with their positions being changed versus a trinuclear Zn2+ cluster of wild-type Apn1
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*50 mM, 50% stimulation
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*150 mM, higher concentrations inhibit
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	Iron	*	*Scr2 but not Scr1 is an iron-sulfur protein
+EC4.2.99.18	METALSIONS	Saccharomyces cerevisiae	more	*	*the nucleotide incision repair of the enzyme in presence of Mg2+ is unaltered, Mg2+ does not affect yeast Ape1 activity
+EC4.3.1.18	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*PLP
+EC4.3.1.18	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*Dsd adopts a fold that is characteristic of type III pyridoxal-dependent enzymes
+EC4.3.1.18	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*reduction of the aldimine linkage tethering PLP to recombinant, tagged D-serine dehydratase by treatment with NaBH4 so as to yield an inactive form of the holoenzyme, DsdR, which is further treated with a protease in order to remove the amino-terminal purification tag. Fourier Transform infrared spectroscopic analysis reveals that both the reduced form DsdR and the reduced/detagged form DsdRD maintain the overall secondary structure of wild-type, but feature a significantly increased thermal stability. The observed Tm values for DsdR and for DsdRD shift to 71.5&deg;C and 73.3&deg;C, respectively, resulting in nearly 11&deg; and 13&deg; higher than the one measured for wild-type. Though catalytically inert, DsdRD retains the ability to enantioselectively bind its natural substrate
+EC4.3.1.18	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC4.3.1.18	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent on
+EC4.3.1.18	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC4.3.1.18	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required
+EC4.3.1.18	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*dependent on
+EC4.3.2.3	METALSIONS	Saccharomyces cerevisiae	Ni2+	*	*nickel-dependent urea-release activity
+EC4.4.1.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*1 molecule per subunit
+EC4.4.1.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*Km value 0.003 mM
+EC4.4.1.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*2 molecules per subunit
+EC4.4.1.1	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*
+EC4.4.1.13	COFACTOR	Saccharomyces cerevisiae	pyridoxal 5'-phosphate	*	*dependent on
+EC4.4.1.5	COFACTOR	Saccharomyces cerevisiae	glutathione	*	*
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*restores activity after EDTA treatment
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*activates
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*at least one iron per enzyme molecule, the second metal is zinc or manganese, apparantly depending on growth conditions
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*restores activity after EDTA treatment
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can replace Zn2+
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*metalloenzyme with one Zn2+ per subunit
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required for activity, 1 Zn2+ per subunit
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*
+EC4.4.1.5	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*activates, Zn2+ -activation class
+EC5.1.3.2	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*each dimer contains one molecule of NAD+ tightly bound
+EC5.2.1.8	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*at least 3fold stimulation; stimulation
+EC5.3.1.8	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can reverse inhibition by EDTA
+EC5.3.1.8	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*can reverse inhibition by EDTA
+EC5.3.1.8	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*contains 1 gatom per mol of enzyme
+EC5.3.1.8	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*
+EC5.3.1.8	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*can reverse inhibition by EDTA
+EC5.3.4.1	COFACTOR	Saccharomyces cerevisiae	more	*	*glutathione is used in vitro as redox system
+EC5.3.4.1	COFACTOR	Saccharomyces cerevisiae	thioredoxin	*	*
+EC5.4.2.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal activity with 1.0-3.0 mM
+EC5.4.2.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC5.4.2.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC5.4.2.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC5.4.99.27	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC5.4.99.7	METALSIONS	Saccharomyces cerevisiae	potassium phosphate	*	*high concentrations stimulate
+EC5.4.99.B22	METALSIONS	Saccharomyces cerevisiae	KCl	*	*the complex of Pus1 with tRNA is sensitive to high ionic strength. The optimal concentration of KCl for Pus1 binding is 100 mM. Above 400 mM KCl, no complex is detected
+EC5.4.99.B22	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*contains one atom of zinc per 63000 Da monomer. This zinc ion could not be removed by treatment with EDTA or urea. However, a zinc-depleted enzyme is obtained after prolonged dialysis against the specific chelating agent 1,10-phenanthroline. Removal of the zinc ion results in inactivation of the enzyme with concomitant loss of its ability to bind tRNA. Structural role for the zinc in the tRNA-pseudouridine synthetase Pus1
+EC5.5.1.4	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*cofactor, Km: 0.008 mM
+EC5.5.1.4	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*dependent on
+EC5.5.1.4	COFACTOR	Saccharomyces cerevisiae	NAD+	*	*
+EC5.5.1.4	METALSIONS	Saccharomyces cerevisiae	K+	*	*slight stimulation
+EC5.5.1.4	METALSIONS	Saccharomyces cerevisiae	K+	*	*
+EC5.5.1.4	METALSIONS	Saccharomyces cerevisiae	NH4+	*	*
+EC5.5.1.4	METALSIONS	Saccharomyces cerevisiae	NH4+	*	*strong activation
+EC5.5.1.4	METALSIONS	Saccharomyces cerevisiae	Na+	*	*slight stimulation
+EC5.6.1.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC5.6.1.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC5.6.1.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC5.6.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*divalent cation is not required. 7-10 mM Mg2+ stimulates 10fold to 20fold
+EC5.6.2.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*25% as effective as Mg2+ in stimulation
+EC5.6.2.1	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*divalent cation is not required. 7-10 mM Ca2+ stimulates 10fold to 20fold
+EC5.6.2.1	METALSIONS	Saccharomyces cerevisiae	Na+	*	*no activity in absence of NaCl or at NaCl concentrations greater than 0.3 M, maximal activity at 0.15 M NaCl
+EC5.6.2.1	METALSIONS	Saccharomyces cerevisiae	KCl	*	*maximal activity of wild-type enzyme at 150 mM, maximal activity of mutant enzyme N726D at 75-100 mM
+EC5.6.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*stability of the enzyme's closed clamp conformation may influence DNA-stimulated ATP hydrolysis
+EC5.6.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*all nonsupercoiling type II topoisomerases require ATP hydrolysis for relaxation
+EC5.6.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC5.6.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*the N-terminal domain of the protein carries the ATP binding domain consisting of a GHKL fold
+EC5.6.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*required
+EC5.6.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*the K-loop couples DNA binding to ATPase activity
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*absolute requirement for a divalent cation, Mg2+ is the most effective. Mn2+, Ca2+, or Co2+ support the reaction to a lesser extent
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*absolute requirement for a divalent cation, Mg2+ is the most effective. Mn2+, Ca2+, or Co2+ support the reaction to a lesser extent
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	K+	*	*decatenation reaction proceedes efficiently only at concentrations above 150 mM KCl
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	KCl	*	*
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolute requirement for a divalent cation, Mg2+ is the most effective. Mn2+, Ca2+, or Co2+ support the reaction to a lesser extent
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*absolute requirement for a divalent cation, Mg2+ is the most effective. Mn2+, Ca2+, or Co2+ support the reaction to a lesser extent
+EC5.6.2.2	METALSIONS	Saccharomyces cerevisiae	NaCl	*	*
+EC6.1.1.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*10 mM, can be replaced by Mn2+ with equal efficiency and by Ca2+, Co2+, Sr2+, Ba2+, spermine with reduced efficiency
+EC6.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.1	METALSIONS	Saccharomyces cerevisiae	K+	*	*0.15 M activates 12fold
+EC6.1.1.10	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.10	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*2 binding sites, 0.14 mM tightly bound zinc is present in 1 mol of cytoplasmic isozyme, but not in the mitochondrial one, required for stability and activity of the cytoplasmic isozyme
+EC6.1.1.11	COFACTOR	Saccharomyces cerevisiae	ATP	*	*binding to the enzyme is not mediated by tRNA
+EC6.1.1.11	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal Mg/ATP ratio is 1.5-2.5
+EC6.1.1.11	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.12	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.14	COFACTOR	Saccharomyces cerevisiae	ATP	*	*; 
+EC6.1.1.14	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.14	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.14	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*optimal MgCl2/ATP ratio is 1.5; required
+EC6.1.1.15	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.15	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.17	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.17	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.17	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.18	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.18	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.19	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.20	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.20	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*inhibition of tRNAPhe aminoacylation; required for conversion of ATP into diadenosine 5',5'''-P1,P4-tetraphosphate
+EC6.1.1.21	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.24	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.3	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*contains a Zn2+ ion
+EC6.1.1.4	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.4	METALSIONS	Saccharomyces cerevisiae	Ba2+	*	*Mg2+, Mn2+, Ca2+ and Ba2+ similarly effective, optimal concentration: 0.1 mM
+EC6.1.1.4	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*Mg2+, Mn2+, Ca2+ and Ba2+ similarly effective, optimal concentration: 0.1 mM
+EC6.1.1.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+, Mn2+, Ca2+ and Ba2+ similarly effective, optimal concentration: 0.1 mM
+EC6.1.1.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.4	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*Mg2+, Mn2+, Ca2+ and Ba2+ similarly effective, optimal concentration: 0.1 mM
+EC6.1.1.5	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.5	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.5	METALSIONS	Saccharomyces cerevisiae	Zn2+	*	*required
+EC6.1.1.6	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.1.1.7	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.7	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.1.1.9	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.1.1.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.2.1.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.2.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Km: 4.0 mM; required
+EC6.2.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.2.1.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*10 mM, 38% of the activity relative to Mg2+. Progressive inactivation of the enzyme by MnCl2 is not reversible by subsequent addition of MgCl2
+EC6.2.1.12	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.2.1.12	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.2.1.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.2.1.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, 10 mM
+EC6.2.1.8	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.3.1.14	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.3.1.14	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.3.1.4	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.3.1.5	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.3.2.17	METALSIONS	Saccharomyces cerevisiae	K+	*	*maximal activity at 20 mM; required form maximal activity
+EC6.3.2.17	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.3.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.3.2.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on, binding structure
+EC6.3.2.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required, binding structure
+EC6.3.2.6	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.3.2.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.3.3.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*absolutely required
+EC6.3.3.1	METALSIONS	Saccharomyces cerevisiae	K+	*	*absolutely required
+EC6.3.3.2	COFACTOR	Saccharomyces cerevisiae	MgATP2-	*	*enzyme is inhibited by salt, therefore MgATP2- is used as cofactor instead of MgCl2 and NaATP-
+EC6.3.4.15	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.3.4.15	COFACTOR	Saccharomyces cerevisiae	biotin	*	*bound to the biotin domain, structure, overview
+EC6.3.4.15	COFACTOR	Saccharomyces cerevisiae	biotin	*	*highly specific for
+EC6.3.4.15	COFACTOR	Saccharomyces cerevisiae	cis-propargyl biotin	*	*can substitute for biotin
+EC6.3.4.15	COFACTOR	Saccharomyces cerevisiae	more	*	*no activity with biotin analogues desthiobiotin azide, trans-propargyl biotin, iminobiotin, diaminobiotin, nitrobenzoxadiazole gamma-butyric acid, iodouracil valeric acid, thiouracil valeric acid
+EC6.3.4.15	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.3.4.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*dependent on
+EC6.3.4.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dUTP-dependent activity is dependent on Mg2+, maximal activity at 4 mM
+EC6.3.4.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on 4 mM Mg2+ for maximal activity
+EC6.3.4.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.3.4.21	COFACTOR	Saccharomyces cerevisiae	ATP	*	*1 mol ATP is hydrolyzed to ADP plus phosphate per mol product formed; together with Mg2+
+EC6.3.4.21	COFACTOR	Saccharomyces cerevisiae	ATP	*	*1 mol ATP is hydrolyzed to ADP plus phosphate per mol product formed
+EC6.3.4.21	COFACTOR	Saccharomyces cerevisiae	CTP	*	*one third the activity of ATP
+EC6.3.4.21	COFACTOR	Saccharomyces cerevisiae	GTP	*	*shows almost as much activity as ATP
+EC6.3.4.21	COFACTOR	Saccharomyces cerevisiae	ITP	*	*shows almost as much activity as ATP
+EC6.3.4.21	COFACTOR	Saccharomyces cerevisiae	TTP	*	*not
+EC6.3.4.21	COFACTOR	Saccharomyces cerevisiae	UTP	*	*one third the activity of ATP
+EC6.3.4.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*1-10 mM; requirement; synergism with ATP
+EC6.3.4.21	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*0.5-15 mM; requirement
+EC6.3.4.21	METALSIONS	Saccharomyces cerevisiae	phosphate	*	*activation, 0.01-0.1 M, in the presence of Mg2+
+EC6.3.4.21	METALSIONS	Saccharomyces cerevisiae	phosphate	*	*50 mM, strongly stimulates
+EC6.3.4.21	METALSIONS	Saccharomyces cerevisiae	MgATP2-	*	*
+EC6.3.4.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.3.4.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*stimulates formate kinase reaction, Km: 0.88 mM
+EC6.3.4.3	METALSIONS	Saccharomyces cerevisiae	K+	*	*
+EC6.3.4.3	METALSIONS	Saccharomyces cerevisiae	K+	*	*stimulates formate kinase reaction, Km: 8.7 mM
+EC6.3.4.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*requirement, hydrolysis of urea
+EC6.3.4.6	METALSIONS	Saccharomyces cerevisiae	K+	*	*requirement, hydrolysis of urea
+EC6.3.4.6	METALSIONS	Saccharomyces cerevisiae	HCO3-	*	*requirement, hydrolysis of urea
+EC6.3.4.6	METALSIONS	Saccharomyces cerevisiae	more	*	*requires divalent and monovalent ions
+EC6.3.5.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.3.5.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC6.3.5.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can partially replace Mg2+ at 1 mM. At 5 mM inhibition of NAD+ formation
+EC6.3.5.1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can partially replace Mg2+, at 5 mM 30% of the activity relative to Mg2+
+EC6.3.5.1	METALSIONS	Saccharomyces cerevisiae	K+	*	*required
+EC6.3.5.1	METALSIONS	Saccharomyces cerevisiae	NH4+	*	*as effective as K+ in stimulating activity
+EC6.4.1.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*as MgATP2-, dependent on
+EC6.4.1.1	COFACTOR	Saccharomyces cerevisiae	biotin	*	*activates through biotinylation of apoenzyme to holoenzyme
+EC6.4.1.1	COFACTOR	Saccharomyces cerevisiae	biotin	*	*dependent on, biotin is covalently attached to a specific lysine residue located about 35 residues from the C-terminus
+EC6.4.1.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*as MgATP2-
+EC6.4.1.1	METALSIONS	Saccharomyces cerevisiae	Zinc	*	*each subunit contains one tightly bound Zn2+
+EC6.4.1.2	COFACTOR	Saccharomyces cerevisiae	ADP	*	*
+EC6.4.1.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC6.4.1.2	COFACTOR	Saccharomyces cerevisiae	biotin	*	*enzyme-bound
+EC6.4.1.2	COFACTOR	Saccharomyces cerevisiae	biotin	*	*
+EC6.4.1.2	COFACTOR	Saccharomyces cerevisiae	biotin	*	*dependent on, bound by the biotin carboxyl carrier protein
+EC6.4.1.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*the enzyme requires Mg2+ or Mn2+ for coordinating the ATP phosphates for catalysis
+EC6.4.1.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC6.4.1.2	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*the enzyme requires Mg2+ or Mn2+ for coordinating the ATP phosphates for catalysis
+EC6.5.1.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC7.1.1.2	COFACTOR	Saccharomyces cerevisiae	NADH	*	*
+EC7.1.1.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*contains a single molecule of FAD per subunit
+EC7.1.1.2	COFACTOR	Saccharomyces cerevisiae	FAD	*	*enzyme contains FAD
+EC7.1.1.2	METALSIONS	Saccharomyces cerevisiae	Iron	*	*contains 0.08 mol Fe per mol of flavin after dialysis
+EC7.1.1.8	COFACTOR	Saccharomyces cerevisiae	cytochrome b	*	*
+EC7.1.1.8	METALSIONS	Saccharomyces cerevisiae	Fe2+	*	*iron-sulfur protein, capturing and binding, performs a structural switch involved in the reaction mechanism, overview
+EC7.1.1.8	METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme complex contains a Rieske Fe-S protein which controls the rate of reduction of the cytochrome b
+EC7.1.1.8	METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme complex contains a [2Fe-2S] cluster
+EC7.1.1.8	METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme contains a Rieske [2Fe-2S] cluster required for activity
+EC7.1.1.8	METALSIONS	Saccharomyces cerevisiae	Iron	*	*enzyme complex contains an iron-sulfur protein, and heme groups in the cytochrome molecules
+EC7.1.1.8	METALSIONS	Saccharomyces cerevisiae	Iron-sulfur cluster	*	*
+EC7.1.1.8	METALSIONS	Saccharomyces cerevisiae	more	*	*no Zn2+ in the native enzyme structure
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ may bring about an increase in the affinity of the enzyme for MgATP2-; required
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*Mg2+ binding site
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	Mn2+	*	*can substitute for the physiological cofactor Mg2+
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	Co2+	*	*can substitute for the physiological cofactor Mg2+
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	K+	*	*small activation
+EC7.1.2.1	METALSIONS	Saccharomyces cerevisiae	Rb+	*	*small activation
+EC7.1.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC7.1.2.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC7.1.2.2	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC7.1.2.2	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*activates
+EC7.2.2.10	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*greatest activity at 10 mM Mg2+
+EC7.2.2.10	METALSIONS	Saccharomyces cerevisiae	Ca2+	*	*dependent on
+EC7.2.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC7.2.2.3	METALSIONS	Saccharomyces cerevisiae	Na+	*	*
+EC7.2.2.3	METALSIONS	Saccharomyces cerevisiae	Na+	*	*required for 100% phosphorylation
+EC7.2.2.3	METALSIONS	Saccharomyces cerevisiae	Li+	*	*
+EC7.2.2.6	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC7.2.2.6	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*activates
+EC7.2.2.6	METALSIONS	Saccharomyces cerevisiae	Cu2+	*	*induces the efflux of potassium ions from both cells and spheroplasts
+EC7.2.2.6	METALSIONS	Saccharomyces cerevisiae	Ag+	*	*induces the efflux of potassium ions from cells
+EC7.2.2.9	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC7.2.2.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC7.2.2.9	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC7.4.2.1	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC7.4.2.2	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC7.4.2.3	COFACTOR	Saccharomyces cerevisiae	ATP	*	*
+EC7.4.2.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required
+EC7.4.2.3	METALSIONS	Saccharomyces cerevisiae	K+	*	*activates
+EC7.6.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*dependent on
+EC7.6.2.1	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*
+EC7.6.2.3	METALSIONS	Saccharomyces cerevisiae	Mg2+	*	*required in form of MgATP
+EC7.6.2.4	COFACTOR	Saccharomyces cerevisiae	ATP	*	*

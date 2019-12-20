@@ -22,6 +22,8 @@ model = changeRxnBounds(model,'r_0659_rvs',0,'b'); % isocitrate dehydrogenase (N
 % model = changeRxnBounds(model,'r_0918',0,'b'); % phosphoserine transaminase
 
 
+model = changeRxnBounds(model,'r_4235',0,'b'); % weird reaction from glc to g6p
+
 %% Set optimization
 rxnID = 'r_1714'; %minimize glucose uptake rate
 osenseStr = 'Maximize';
