@@ -1,7 +1,7 @@
 %% pdbe_parser
 %  Extract information of protein stoichiometry and cofactors from the PDBe
 %  database.
-
+tic;
 %% Main code
 
 % Download a list of pdb ids of Saccharomyces cerevisiae from PDBe, and
@@ -32,7 +32,7 @@ retrieve_molecules = 'https://www.ebi.ac.uk/pdbe/api/pdb/entry/molecules/';
 retrieve_ligand = 'https://www.ebi.ac.uk/pdbe/api/pdb/entry/ligand_monomers/';
 
 
-for i = 2000:length(pdbeids)
+for i = 1:length(pdbeids)
     disp([num2str(i) '/' num2str(length(pdbeids))]);
     pdbid = pdbeids{i};
     data_summary = webread(strcat(retrieve_summary,pdbid));
@@ -212,6 +212,12 @@ for i = 2000:length(pdbeids)
                     else
                         tmp_asymchain = tmp_asymchain(1);
                     end
+                elseif maxstr_tmp > 2 && maxstr == 1
+                    if ~ischar(tmp_asymchain)
+                        tmp_asymchain = cellfun(@(x) x(1),tmp_asymchain,'UniformOutput',false);
+                    else
+                        tmp_asymchain = tmp_asymchain(1);
+                    end
                 else
                     msg = strcat('Check_length_of_chain_id_in_',pdbid);
                     error(msg);
@@ -261,7 +267,8 @@ for i = 2000:length(pdbeids)
         end
     end
 end
-
+save('pdb.mat','pdb');
+toc;
 % pdbid = '6oaa'
 % pdbid = '3fwc'
 % pdbid = '6cp7'
