@@ -32,7 +32,7 @@ retrieve_molecules = 'https://www.ebi.ac.uk/pdbe/api/pdb/entry/molecules/';
 retrieve_ligand = 'https://www.ebi.ac.uk/pdbe/api/pdb/entry/ligand_monomers/';
 
 
-for i = 1:length(pdbeids)
+for i = 2000:length(pdbeids)
     disp([num2str(i) '/' num2str(length(pdbeids))]);
     pdbid = pdbeids{i};
     data_summary = webread(strcat(retrieve_summary,pdbid));
@@ -56,10 +56,8 @@ for i = 1:length(pdbeids)
 	tmp = struct2table(tmp);
     if length(tmp_summary.assemblies) > 1
         assembly_id = cell2mat(tmp.assembly_id(tmp.preferred == true));
-        form = strcat(tmp.form{tmp.preferred == true},tmp.name{tmp.preferred == true});
     else
-        assembly_id = tmp.assembly_id; 
-        form = strcat(tmp.form,tmp.name);
+        assembly_id = tmp.assembly_id;
     end
     
     % extract assembly information
@@ -159,48 +157,49 @@ for i = 1:length(pdbeids)
         end
 
         % map chain id with struct asym id
-        if isempty(data_ligand)
-            chainlist_chainasym = cell(0,1);
-            asymlist_chainasym = cell(0,1);
-            for j = 1:length(peptd_entityid)
-                tmp = peptd_entityid(j);
-                read_struct = strcat('data_tmp = entity_',mat2str(peptd_entityid(j)),';');
-                eval(read_struct);
+        chainlist_chainasym = cell(0,1);
+        asymlist_chainasym = cell(0,1);
+        for j = 1:length(peptd_entityid)
+            tmp = peptd_entityid(j);
+            read_struct = strcat('data_tmp = entity_',mat2str(peptd_entityid(j)),';');
+            eval(read_struct);
+            if strcmp(data_tmp.molecule_type,'polypeptide(L)')
                 chainlist_chainasym = [chainlist_chainasym;data_tmp.in_chains];
                 asymlist_chainasym = [asymlist_chainasym;data_tmp.in_struct_asyms];
             end
-        else
+        end
+        maxstr = max(cell2mat(cellfun(@(x) length(x),asymlist_chainasym,'UniformOutput',false)));
+        
+        % count cofactors in each peptide
+        if ~isempty(data_ligand)
             tmp_ligand = getfield(data_ligand,name);
             if isfield(tmp_ligand,'author_insertion_code')
                 tmp_ligand = rmfield(tmp_ligand,'author_insertion_code');
             end
             tmp_ligand = struct2table(tmp_ligand);
-            chainlist_chainasym = tmp_ligand.chain_id;
-            asymlist_chainasym = tmp_ligand.struct_asym_id;
-            for j = 1:length(peptd_entityid)
-                tmp = peptd_entityid(j);
-                read_struct = strcat('data_tmp = entity_',mat2str(peptd_entityid(j)),';');
-                eval(read_struct);
-                chainlist_chainasym = [chainlist_chainasym;data_tmp.in_chains];
-                asymlist_chainasym = [asymlist_chainasym;data_tmp.in_struct_asyms];
+            tmp_cofactor_id = cell(0,1);
+            tmp_cofactor_chain = cell(0,1);
+            tmp_cofactor_num = zeros(0,1);
+            if ischar(tmp_ligand.chem_comp_name)
+                chem_tmp = {tmp_ligand.chem_comp_name};
+            else
+                chem_tmp = unique(tmp_ligand.chem_comp_name);
+            end
+            for j = 1:length(chem_tmp)
+                chain_tmp = tmp_ligand.chain_id(ismember(tmp_ligand.chem_comp_name,chem_tmp(j)));
+                unq_chain_tmp = unique(chain_tmp);
+                tmp_cofactor_id = [tmp_cofactor_id;repelem(chem_tmp(j),length(unq_chain_tmp))'];
+                for k = 1:length(unq_chain_tmp)
+                    tmp_cofactor_chain = [tmp_cofactor_chain;unq_chain_tmp(k)];
+                    tmp_cofactor_num = [tmp_cofactor_num;sum(ismember(chain_tmp,unq_chain_tmp(k)))];
+                end
             end
         end
-
-        if ismember('Bound',tmp_assembly.molecule_type)
-            idx_bound = ismember(tmp_assembly.molecule_type,{'Bound'});
-            bound_name = tmp_assembly.molecule_name(idx_bound);
-            bound_copies = tmp_assembly.number_of_copies(idx_bound);
-            bound_entity = tmp_assembly.entity_id(idx_bound);
-        else
-            bound_name = [];
-            bound_copies = [];
-            bound_entity = [];
-        end
-
+        
+        
         % add gene id, chains and cofactors
         for j = 1:length(peptd_entityid)
             tmp_asymchain = peptd_pdb_chain{j};
-            maxstr = max(cell2mat(cellfun(@(x) length(x),asymlist_chainasym,'UniformOutput',false)));
             if ~ischar(tmp_asymchain)
                 maxstr_tmp = max(cell2mat(cellfun(@(x) length(x),tmp_asymchain,'UniformOutput',false)));
             else
@@ -213,7 +212,9 @@ for i = 1:length(pdbeids)
                     else
                         tmp_asymchain = tmp_asymchain(1);
                     end
-                elseif maxstr_tmp == 3%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                else
+                    msg = strcat('Check_length_of_chain_id_in_',pdbid);
+                    error(msg);
                 end
             end
             [~, b] = ismember(tmp_asymchain,asymlist_chainasym);
@@ -230,43 +231,24 @@ for i = 1:length(pdbeids)
             pdb.all_pdb_chains = [pdb.all_pdb_chains;{strjoin(tmp_all_pdb_chains,'; ')}];
 
             % add cofactors
-            if ~isempty(bound_name)
-                bounds_cell = cell(0,1);
-                bounds_copies = zeros(0,1);
-                for k = 1:length(bound_name)
-                    tmp_b = bound_name(k);
-                    [~, b] = ismember(tmp_b,tmp_assembly.molecule_name);
-                    tmp_tmp = tmp_assembly.in_chains{b};
-                    if ~ischar(tmp_tmp)
-                        maxstr_tmp_tmp = max(cell2mat(cellfun(@(x) length(x),tmp_tmp,'UniformOutput',false)));
-                    else
-                        maxstr_tmp_tmp = length(tmp_tmp);
-                    end
-                    if maxstr_tmp_tmp > maxstr
-                        if maxstr_tmp_tmp == 2
-                            if ~ischar(tmp_tmp)
-                                tmp_tmp = cellfun(@(x) x(1),tmp_tmp,'UniformOutput',false);
-                            else
-                                tmp_tmp = tmp_tmp(1);
-                            end
-                        elseif maxstr_tmp_tmp == 3%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-                        end
-                    end
-                    tmp_c = 0;
-                    for m = 1:length(tmp_tmp)
-                        tmp_tmp_tmp = chainlist_chainasym(ismember(asymlist_chainasym,tmp_tmp(m)));
-                        if ismember(tmp_tmp_tmp,tmp_pdb_chain)
-                            tmp_c = tmp_c + 1;
-                        end
-                    end
-                    if tmp_c > 0
-                        bounds_cell = [bounds_cell;tmp_b];
-                        bounds_copies = [bounds_copies;tmp_c];
+            if ~isempty(data_ligand)
+                cofactor_id_tmp = cell(0,1);
+                cofactor_copy_tmp = zeros(0,1);
+                for k = 1:length(tmp_pdb_chain)
+                    if ismember(tmp_pdb_chain(k),tmp_cofactor_chain)
+                        idx_tmp = ismember(tmp_cofactor_chain,tmp_pdb_chain(k));
+                        cofactor_id_tmp = [cofactor_id_tmp;tmp_cofactor_id(idx_tmp)];
+                        cofactor_copy_tmp = [cofactor_copy_tmp;tmp_cofactor_num(idx_tmp)];
                     end
                 end
-                if ~isempty(bounds_cell)
+                if ~isempty(cofactor_id_tmp)
+                    bounds_id = unique(cofactor_id_tmp);
+                    bounds_copies = zeros(length(bounds_id),1);
+                    for m = 1:length(bounds_id)
+                        bounds_copies(m) = sum(cofactor_copy_tmp(ismember(cofactor_id_tmp,bounds_id(m))));
+                    end
                     tmp_bound_copies = strjoin(cellstr(num2str(bounds_copies)),'; ');
-                    pdb.cofactor = [pdb.cofactor;{strjoin(bounds_cell,'; ')}];
+                    pdb.cofactor = [pdb.cofactor;{strjoin(bounds_id,'; ')}];
                     pdb.cofactor_stoic = [pdb.cofactor_stoic;tmp_bound_copies];
                 else
                     pdb.cofactor = [pdb.cofactor;{'NA'}];
@@ -286,7 +268,7 @@ end
 % pdbid = '1a6r'
 % pdbid = '6b8h'
 % pdbid = '1ld4'
-% pdbid = '1fnt'
+% pdbid = '3jro'
 % webread('https://www.ebi.ac.uk/pdbe/api/pdb/entry/binding_sites/117e');
 
 
