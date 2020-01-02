@@ -1,6 +1,8 @@
 %% pdbe_parser
 %  Extract information of protein stoichiometry and cofactors from the PDBe
 %  database.
+
+% Timing: ~ 4500 s
 tic;
 %% Main code
 
@@ -21,7 +23,7 @@ pdb.name = cell(0,1);
 pdb.cofactor = cell(0,1);
 pdb.peptide_entityid = zeros(0,1);
 pdb.prot_stoic = zeros(0,1); % number of peptides per complex
-pdb.cofactor_stoic = cell(0,1); % number of cofactors per peptide
+pdb.cofactor_stoic = cell(0,1); % number of cofactors in the complex
 pdb.pdb_chains = cell(0,1);
 pdb.all_pdb_chains = cell(0,1);
 

@@ -4,7 +4,7 @@
 % Timing: ~ 160 s
 
 tic;
-% "pdb_seqres.txt"
+% "pdb_seqres.txt" (downloaded 2020.01.02)
 % PDB sequences should be first downloaded from the website:
 % (https://www.rcsb.org/pages/general/summaries).
 
