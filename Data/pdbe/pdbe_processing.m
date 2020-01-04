@@ -1,4 +1,4 @@
-%% pdbe_processer
+%% pdbe_processing
 %  Process data obtained from pdbe.
 
 % The pdbe dataset was obtained 2019.12.30.
@@ -17,6 +17,8 @@
 % dataset but their homologues are.
 % 3. The remaining genes are assumed to be monomer with no factors bound.
 
+% Timing: ~ 1500+ s
+
 tic;
 
 %% Load data
@@ -24,18 +26,22 @@ tic;
 % load pdbe dataset
 load('pdb.mat');%obtained 2019.12.30
 
+% load yeast homologue genes
+[~,txt,~] = xlsread('Yeast_homologue_genes.xlsx');%obtained 2020.01.02
+list_gene = txt(2:end,2);
+list_homologuegene = txt(2:end,5);
+clear txt;
+
 % load blastp result
 [num,txt,~] = xlsread('blastp_res.xlsx');%obtained 2020.01.02
-% filter by identity >= 30% and coverage >= 80%
-idx_filtered = num(:,1) >= 30 & num(:,2) >= 80;
-num_new = num(idx_filtered,:);
-txt_new = txt(idx_filtered,:);
-clear idx_filtered;
-% choose the highest bit score with lowest evalue
-id_list = txt_new(:,1);
-pdb_list = txt_new(:,2);
-evalue_list = num_new(:,3);
-bit_list = num_new(:,4);
+blastp = struct;
+blastp.protein = txt(:,1);
+blastp.pdb = txt(:,2);
+blastp.identity = num(:,1);
+blastp.coverage = num(:,2);
+blastp.evalue = num(:,3);
+blastp.bit = num(:,4);
+clear num txt;
 
 %% Process data
 
@@ -72,7 +78,7 @@ for i = 1:length(pdb.pdbid)
         end
     end
 end
-
+save('pdb_processing_1.mat','pdb_processing_1');
 % 2. select gene-pdb pairs with highest blastp scores or highest coverage
 
 genes_collected = unique(pdb_processing_1.geneid);
@@ -134,17 +140,99 @@ genes_collected = unique(pdb_processing_1.geneid);
 pdb_processing_2 = struct();
 pdb_processing_2.pdbid = cell(0,1);
 pdb_processing_2.geneid = cell(0,1);
-pdb_processing_2.name = cell(0,1);
+% pdb_processing_2.name = cell(0,1);
 pdb_processing_2.cofactor = cell(0,1);
-pdb_processing_2.peptide_entityid = zeros(0,1);
+% pdb_processing_2.peptide_entityid = zeros(0,1);
 pdb_processing_2.prot_stoic = zeros(0,1); % number of peptides per complex
 pdb_processing_2.cofactor_stoic = cell(0,1); % number of cofactors in the complex
-pdb_processing_2.pdb_chains = cell(0,1);
-pdb_processing_2.all_pdb_chains = cell(0,1);
+% pdb_processing_2.pdb_chains = cell(0,1);
+% pdb_processing_2.all_pdb_chains = cell(0,1);
+
+blastp_all_pdb = strcat(blastp.pdb,':',blastp.protein);
+
 for i = 1:length(genes_collected)
     disp(['Stage 2: ' num2str(i) '/' num2str(length(genes_collected))]);
     gene_tmp = genes_collected(i);
+    idx_tmp = ismember(pdb_processing_1.geneid,gene_tmp);
+	loc_tmp = find(idx_tmp);
+    
+    if length(loc_tmp) == 1
+        pdb_processing_2.pdbid = [pdb_processing_2.pdbid;pdb_processing_1.pdbid(loc_tmp)];
+        pdb_processing_2.geneid = [pdb_processing_2.geneid;gene_tmp];
+        pdb_processing_2.cofactor = [pdb_processing_2.cofactor;pdb_processing_1.cofactor(loc_tmp)];
+        pdb_processing_2.prot_stoic = [pdb_processing_2.prot_stoic;pdb_processing_1.prot_stoic(loc_tmp)];
+        pdb_processing_2.cofactor_stoic = [pdb_processing_2.cofactor_stoic;pdb_processing_1.cofactor_stoic(loc_tmp)];
+    else
+        cmp_num_tmp = zeros(0,4);
+        cmp_txt_tmp = cell(0,1);
+        for j = 1:length(loc_tmp)
+            pdbid_tmp = pdb_processing_1.pdbid(loc_tmp(j));
+            pdbchain_tmp = pdb_processing_1.all_pdb_chains(loc_tmp(j));
+            pdbchain_tmp = split(pdbchain_tmp,'; ');
+            for k = 1:length(pdbchain_tmp)
+                str_tmp = strcat(pdbid_tmp,'_',pdbchain_tmp(k),':',gene_tmp);
+                if ismember(str_tmp,blastp_all_pdb)
+                    idx_blastp_tmp = ismember(blastp_all_pdb,str_tmp);
+                    n_tmp = length(find(idx_blastp_tmp));
+                    identity_tmp = blastp.identity(idx_blastp_tmp);
+                    coverage_tmp = blastp.coverage(idx_blastp_tmp);
+                    evalue_tmp = blastp.evalue(idx_blastp_tmp);
+                    bit_tmp = blastp.bit(idx_blastp_tmp);
+                    row_tmp = [identity_tmp coverage_tmp evalue_tmp bit_tmp];
+                    cmp_num_tmp = [cmp_num_tmp;row_tmp];
+                    cmp_txt_tmp = [cmp_txt_tmp;repelem(str_tmp,n_tmp)'];
+                else
+                    cmp_num_tmp = [cmp_num_tmp;[0 0 1000 0]];
+                    cmp_txt_tmp = [cmp_txt_tmp;str_tmp];
+                end
+            end
+        end
+        % select min evalue
+%         idx_cmp_tmp = cmp_num_tmp(:,4) == max(cmp_num_tmp(:,4)) & cmp_num_tmp(:,3) == min(cmp_num_tmp(:,3));
+        idx_cmp_tmp = cmp_num_tmp(:,3) == min(cmp_num_tmp(:,3));
+        strlist_tmp = cmp_txt_tmp(idx_cmp_tmp);
+        strlist_tmp = unique(cellfun(@(x) x(1:4),strlist_tmp,'UniformOutput',false));
+        idx_tmp_tmp = ismember(pdb_processing_1.pdbid,strlist_tmp) & ismember(pdb_processing_1.geneid,gene_tmp);
+        tmp_pdbid = pdb_processing_1.pdbid(idx_tmp_tmp);
+        tmp_cofactor = pdb_processing_1.cofactor(idx_tmp_tmp);
+        tmp_prot_stoic = pdb_processing_1.prot_stoic(idx_tmp_tmp);
+        tmp_cofactor_stoic = pdb_processing_1.cofactor_stoic(idx_tmp_tmp);
+        unique_prot_stoic = unique(tmp_prot_stoic);
+        for j = 1:length(unique_prot_stoic)
+            tmp_idx = tmp_prot_stoic == unique_prot_stoic(j);
+            pdb_processing_2.pdbid = [pdb_processing_2.pdbid;{strjoin(tmp_pdbid(tmp_idx),'/')}];
+            pdb_processing_2.geneid = [pdb_processing_2.geneid;gene_tmp];
+            pdb_processing_2.prot_stoic = [pdb_processing_2.prot_stoic;unique_prot_stoic(j)];
+            pdb_processing_2.cofactor = [pdb_processing_2.cofactor;{strjoin(tmp_cofactor(tmp_idx),'/')}];
+            pdb_processing_2.cofactor_stoic = [pdb_processing_2.cofactor_stoic;{strjoin(tmp_cofactor_stoic(tmp_idx),'/')}];
+        end
+    end
 end
+
+save('pdb_processing_2.mat','pdb_processing_2');
+
+
+
+i=128
+
+toc;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
