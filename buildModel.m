@@ -37,8 +37,8 @@ model = addCofactorRxns(model);
 
 %% Add complex formation reactions based on protein stoichiometry
 % promiscuous = findPromiscuous(model_split);
-load('Determined_stoichiometry.mat');
-model = addComplexFormationRxns(model,Determined_stoichiometry);
+load('Protein_stoichiometry.mat');
+model = addComplexFormationRxns(model,Protein_stoichiometry);
 
 % manually update complex formation reactions for some complexes.
 model = updateComplexformation(model);

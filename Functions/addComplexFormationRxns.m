@@ -1,5 +1,5 @@
 %% addComplexFormationRxns 
-function model = addComplexFormationRxns(model,Determined_stoichiometry)
+function model = addComplexFormationRxns(model,Protein_stoichiometry)
 
 % find reactions with GPR
 idx = ~ismember(model.grRules,'');
@@ -19,10 +19,10 @@ for i = 1:length(metrxnid_list)
     subs_id = cellfun(@(x) strcat(x,'_cofactorbound'),gpr_tmp_tmp,'UniformOutput',false);
     
     % check if protein stoichiometry is determined
-    idx_tmp = ismember(gpr_tmp,Determined_stoichiometry.protein);
+    idx_tmp = ismember(gpr_tmp,Protein_stoichiometry.protein);
     determined = gpr_tmp(idx_tmp);
     determined_subs_id = subs_id(idx_tmp);
-    determined_stoich = Determined_stoichiometry.coefficient(ismember(Determined_stoichiometry.protein,determined));
+    determined_stoich = Protein_stoichiometry.stoichiometry(ismember(Protein_stoichiometry.protein,determined));
     undetermined_subs_id = subs_id(~idx_tmp);
     undetermined_stoich = ones(length(undetermined_subs_id),1); % assumed to be 1 if not determined
     

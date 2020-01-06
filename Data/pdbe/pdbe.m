@@ -271,14 +271,6 @@ for i = 1:length(pdbeids)
 end
 save('pdb.mat','pdb');
 toc;
-% pdbid = '6oaa'
-% pdbid = '3fwc'
-% pdbid = '6cp7'
-% pdbid = '1a6r'
-% pdbid = '6b8h'
-% pdbid = '1ld4'
-% pdbid = '3jro'
-% webread('https://www.ebi.ac.uk/pdbe/api/pdb/entry/binding_sites/117e');
 
 
 
