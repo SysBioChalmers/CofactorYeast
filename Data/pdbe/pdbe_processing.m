@@ -252,32 +252,32 @@ end
 save('Protein_stoichiometry.mat','Protein_stoichiometry');
 
 % Add cofactors for homologue proteins
-Cofactor = struct;
-Cofactor.protein = pdb_cofactor.protein;
-Cofactor.type = pdb_cofactor.cofactor_type;
-Cofactor.copy = pdb_cofactor.cofactor_copy;
-Cofactor.note = pdb_cofactor.pdbid;
-Cofactor.note = cellfun(@(x) strcat('PDBid:',x),Cofactor.note,'UniformOutput',false);
-protein_list = list_gene(~ismember(list_gene,Cofactor.protein));
+pdbeCofactor = struct;
+pdbeCofactor.protein = pdb_cofactor.protein;
+pdbeCofactor.type = pdb_cofactor.cofactor_type;
+pdbeCofactor.copy = pdb_cofactor.cofactor_copy;
+pdbeCofactor.note = pdb_cofactor.pdbid;
+pdbeCofactor.note = cellfun(@(x) strcat('PDBid:',x),pdbeCofactor.note,'UniformOutput',false);
+protein_list = list_gene(~ismember(list_gene,pdbeCofactor.protein));
 for i = 1:length(protein_list)
     proteinid = protein_list(i);
     homol_protein = list_homologuegene(ismember(list_gene,proteinid));
-    idx_tmp = ismember(homol_protein,Cofactor.protein);
+    idx_tmp = ismember(homol_protein,pdbeCofactor.protein);
     if any(idx_tmp)
         list_homol_protein = homol_protein(idx_tmp);
         if length(list_homol_protein) == 1
-            list_homol_type = Cofactor.type(ismember(Cofactor.protein,list_homol_protein));
-            list_homol_copy = Cofactor.copy(ismember(Cofactor.protein,list_homol_protein));
-            list_homol_pdbid = Cofactor.note(ismember(Cofactor.protein,list_homol_protein));
+            list_homol_type = pdbeCofactor.type(ismember(pdbeCofactor.protein,list_homol_protein));
+            list_homol_copy = pdbeCofactor.copy(ismember(pdbeCofactor.protein,list_homol_protein));
+            list_homol_pdbid = pdbeCofactor.note(ismember(pdbeCofactor.protein,list_homol_protein));
             list_homol_note = strcat('Paralog:',list_homol_protein);
-            Cofactor.protein = [Cofactor.protein;proteinid];
-            Cofactor.type = [Cofactor.type;list_homol_type];
-            Cofactor.copy = [Cofactor.copy;list_homol_copy];
-            Cofactor.note = [Cofactor.note;list_homol_note];
+            pdbeCofactor.protein = [pdbeCofactor.protein;proteinid];
+            pdbeCofactor.type = [pdbeCofactor.type;list_homol_type];
+            pdbeCofactor.copy = [pdbeCofactor.copy;list_homol_copy];
+            pdbeCofactor.note = [pdbeCofactor.note;list_homol_note];
         end
     end
 end
-save('Cofactor.mat','Cofactor');
+save('pdbeCofactor.mat','pdbeCofactor');
 
 toc;
 
