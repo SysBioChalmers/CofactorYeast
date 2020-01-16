@@ -52,7 +52,8 @@ for i = 1:length(proteinlist)
     end
 end
 
-
+save('CofactorUniProt.mat','CofactorUniProt');
+clear;
 
 
 

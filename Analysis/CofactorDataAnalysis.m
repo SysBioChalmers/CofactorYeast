@@ -2,7 +2,7 @@
 %  analysis of the collected cofactor dataset
 
 
-% Timing: ~ 1500 s
+% Timing: ~  s
 
 tic;
 
@@ -55,7 +55,7 @@ proteinlist = txt(2:end,1);
 abundancelist = num;
 clear num txt;
 
-idx_mg = ismember(CofactorDataset.cofactor,'COBALT (II) ION');
+idx_mg = ismember(CofactorDataset.cofactor,'MG');
 proteins = CofactorDataset.protein(idx_mg);
 copies = CofactorDataset.copy(idx_mg);
 
@@ -74,7 +74,7 @@ M_cofactor = CofactorDataset.cofactor(idx_M);
 M_protein = CofactorDataset.protein(idx_M);
 M_copy = CofactorDataset.copy(idx_M);
 
-idx_mg = ismember(M_cofactor,'COBALT (II) ION');
+idx_mg = ismember(M_cofactor,'MG');
 proteins = M_protein(idx_mg);
 copies = M_copy(idx_mg);
 
