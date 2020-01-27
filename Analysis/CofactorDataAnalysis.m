@@ -47,15 +47,12 @@ end
 
 
 %% Cofactor abundance
-
-
-
-[num,txt,~] = xlsread('Data.xlsx','Sheet6');
+[num,txt,~] = xlsread('ProteomicsData.xlsx');
 proteinlist = txt(2:end,1);
 abundancelist = num;
 clear num txt;
 
-idx_mg = ismember(CofactorDataset.cofactor,'MG');
+idx_mg = ismember(CofactorDataset.cofactor,'ZN');
 proteins = CofactorDataset.protein(idx_mg);
 copies = CofactorDataset.copy(idx_mg);
 
@@ -67,14 +64,14 @@ for i = 1:length(proteins)
         abundance_mg = abundance_mg + abund_tmp * copies(i);
     end
 end
-    
+abundance_mg
 
 idx_M = ismember(CofactorDataset.protein,org_model.genes);
 M_cofactor = CofactorDataset.cofactor(idx_M);
 M_protein = CofactorDataset.protein(idx_M);
 M_copy = CofactorDataset.copy(idx_M);
 
-idx_mg = ismember(M_cofactor,'MG');
+idx_mg = ismember(M_cofactor,'ZN');
 proteins = M_protein(idx_mg);
 copies = M_copy(idx_mg);
 
@@ -86,7 +83,7 @@ for i = 1:length(proteins)
         abundance_mg = abundance_mg + abund_tmp * copies(i);
     end
 end
-
+abundance_mg
 
 
 

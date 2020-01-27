@@ -21,8 +21,16 @@ model = changeRxnBounds(model,'r_0659_rvs',0,'b'); % isocitrate dehydrogenase (N
 % model = changeRxnBounds(model,'r_0725_fwd',0,'b'); % methenyltetrahydrofolate cyclohydrolase
 % model = changeRxnBounds(model,'r_0918',0,'b'); % phosphoserine transaminase
 
-
 model = changeRxnBounds(model,'r_4235',0,'b'); % weird reaction from glc to g6p
+
+model = changeRxnBounds(model,'r_4216_rvs',0,'b'); % block the reaction to produce FMN without ATP
+
+%% Add transport and exchange reactions
+model = addReaction(model,'exchange_cd','reactionFormula','s_3783[e] -> ','reversible',true);
+model = changeRxnBounds(model,'exchange_cd',-1000,'l');
+model = addReaction(model,'transport_cd','reactionFormula','s_3783[e] -> s_3782[c]','reversible',true);
+
+
 
 %% Set optimization
 rxnID = 'r_1714'; %minimize glucose uptake rate

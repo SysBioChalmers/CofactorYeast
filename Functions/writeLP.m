@@ -101,9 +101,18 @@ end
 
 % dummy complex
 idx = find(strcmp(model.rxns,'dilute_dummy'));
-eq = sprintf('%s + %.15f X%d%c',eq,1,idx,sep);
+eq = sprintf('%s + %.15f X%d%c',eq,460/1000,idx,sep); %460 is MW of dummy complex (g/mol)
 
 fprintf(fptr,'Ctotprot: %s = %.15f\n',eq,mu*f);
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 4) Dilution of cofactors on the dummy complex
+
+idx_dmycplx = find(strcmp(model.rxns,'dilute_dummy'));
+idx_dmycofactor = find(strcmp(model.rxns,'dilute_dummy_cofactor'));
+coef = 1000*f/460;
+fprintf(fptr,'Cdummycofactor: X%d - %.15f X%d = 0\n',...
+    idx_dmycplx,coef,idx_dmycofactor);
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Set lower and upper bounds.

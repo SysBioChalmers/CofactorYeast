@@ -1,6 +1,5 @@
 %% addDummy 
 function model = addDummy(model,pseudo_protein_rxn_id,protein_id)
-
 %% Add translation for the dummy complex
 % Assuming that the dummy complex has the same AA composition as biomass
 % protein, then we can just copy the protein pseudoreaction from the GEM
