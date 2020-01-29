@@ -89,5 +89,8 @@ enzymedata = updatekcats(enzymedata);
 %% Calculate molecular weight for each enzyme
 enzymedata = calculateMW(enzymedata,ProteinSequence);
 
+%% Collect cofactors for each enzyme
+enzymedata = calculateCofactor(enzymedata,model);
+
 save('enzymedata.mat','enzymedata');
 toc;
