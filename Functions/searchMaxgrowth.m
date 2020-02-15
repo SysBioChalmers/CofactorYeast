@@ -1,5 +1,5 @@
 %% searchMaxgrowth
-function [mu,sol_full] = searchMaxgrowth(model,f,osenseStr,rxnID,enzymedata,precision,factor_k)
+function [mu,fluxes] = searchMaxgrowth(model,f,osenseStr,rxnID,enzymedata,precision,factor_k)
 
 if exist('factor_k', 'var')
     if isempty(factor_k)
@@ -27,18 +27,15 @@ while mu_high-mu_low > precision
     fileName = writeLP(model_tmp,mu_mid,f,osenseStr,rxnID,enzymedata,factor_k);
     command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s',fileName,fileName);
     system(command,'-echo');
-    [~,sol_status,~] = readSoplexResult('Simulation.lp.out',model_tmp);
+    [~,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
     disp(['solution status: ' sol_status]);
     
     if strcmp(sol_status,'optimal')
         mu_low = mu_mid;
+        flux_tmp = sol_full;
     else
         mu_high = mu_mid;
     end
 end
-model = changeRxnBounds(model,'r_2111',mu_low,'b');
-fileName = writeLP(model,mu_low,f,osenseStr,rxnID,enzymedata,factor_k);
-command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 %s > %s.out %s',fileName,fileName);
-system(command,'-echo');
-[~,~,sol_full] = readSoplexResult('Simulation.lp.out',model);
 mu = mu_low;
+fluxes = flux_tmp;

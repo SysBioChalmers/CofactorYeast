@@ -56,6 +56,7 @@ sCS_res.fluxes = zeros(length(model.rxns),length(sCS_res.cslist));
 
 for i = 1:length(sCS_res.cslist)
     exrxn = exch_rxn_list{i};
+    disp(['carbon source: ' sCS_res.cslist{i}]);
     model_tmp = changeRxnBounds(model,exrxn,-1000,'l');
     [mu_tmp,sol_full_tmp] = searchMaxgrowth(model_tmp,f,osenseStr,rxnID,enzymedata,1e-3);
     sCS_res.mulist(1,i) = mu_tmp;

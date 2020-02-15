@@ -33,12 +33,8 @@ model = addReaction(model,'transport_cd','reactionFormula','s_3783[e] -> s_3782[
 
 
 %% Set optimization
-% rxnID = 'r_4596'; %minimize Zn uptake rate
-% rxnID = 'r_1654'; % N source
-rxnID = 'r_1714'; % C source
-osenseStr = 'Maximize';
-% osenseStr = 'Minimize';
-
+mu = 0.1;
+model = changeRxnBounds(model,'r_2111',mu,'b');
 tot_protein = 0.46; %g/gCDW, estimated from the original GEM.
 f_modeled_protein = extractModeledprotein(model,'r_4041','s_3717[c]'); %g/gProtein
 % r_4041 is pseudo_biomass_rxn_id in the GEM
@@ -48,30 +44,72 @@ f = tot_protein * f_modeled_protein;
 clear tot_protein f_modeled_protein;
 
 %% Solve LPs
-% mu_list = 0.02:0.02:0.4;
-mu_list = 0.02;
-fluxes = zeros(length(model.rxns),length(mu_list));
+% Minimize glucose uptake as reference
+% rxnID = 'r_1654'; % N source
+rxnID = 'r_1714'; % C source
+% rxnID = 'r_4596'; %minimize Zn uptake rate
+osenseStr = 'Maximize';
+model_tmp = model;
+fileName = writeLP(model_tmp,mu,f,osenseStr,rxnID,enzymedata,1);
+command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s',fileName,fileName);
+system(command,'-echo');
+[~,~,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
+glc = sol_full(strcmp(model_tmp.rxns,'r_1714'));
+eth = sol_full(strcmp(model_tmp.rxns,'r_1761'));
+co2 = sol_full(strcmp(model_tmp.rxns,'r_1672'));
+o2 = sol_full(strcmp(model_tmp.rxns,'r_1992'));
+[list, concentration] = simulatedCofactor(model_tmp,enzymedata,sol_full);
 
-for i = 1:length(mu_list)
-    mu = mu_list(i);
-    model_tmp = changeRxnBounds(model,'r_2111',mu,'b');
-    disp(['mu = ' num2str(mu)]);
-    fileName = writeLP(model_tmp,mu,f,osenseStr,rxnID,enzymedata,1);
-    command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 %s > %s.out %s',fileName,fileName);
-    system(command,'-echo');
-    [~,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
-    disp(['solution status: ' sol_status]);
-    if strcmp(sol_status,'optimal')
-        fluxes(:,i) = sol_full;
-    end
-end
+newzn = sol_full(strcmp(model_tmp.rxns,'r_1714'));
+rxnID = 'r_4596'; 
+osenseStr = 'Maximize';
+model_tmp = model;
+model_tmp = changeRxnBounds(model_tmp,'r_1714',newzn*1.000001,'b');
+fileName = writeLP(model_tmp,mu,f,osenseStr,rxnID,enzymedata,1);
+command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s',fileName,fileName);
+system(command,'-echo');
+[~,~,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
+glc = sol_full(strcmp(model_tmp.rxns,'r_1714'));
+eth = sol_full(strcmp(model_tmp.rxns,'r_1761'));
+co2 = sol_full(strcmp(model_tmp.rxns,'r_1672'));
+o2 = sol_full(strcmp(model_tmp.rxns,'r_1992'));
+[list, concentration] = simulatedCofactor(model_tmp,enzymedata,sol_full);
 
-mu = fluxes(strcmp(model.rxns,'r_2111'),:);
-glc = -1*fluxes(strcmp(model.rxns,'r_1714'),:);
-etoh = fluxes(strcmp(model.rxns,'r_1761'),:);
-o2 = -1*fluxes(strcmp(model.rxns,'r_1992'),:);
-co2 = fluxes(strcmp(model.rxns,'r_1672'),:);
-% ac = fluxes(strcmp(model.rxns,'r_1634'),:);
-% aldh = fluxes(strcmp(model.rxns,'r_1631'),:);
+% Fix glucose uptake of reference and maximize dummy protein
+% rxnID = 'dilute_dummy';
+% osenseStr = 'Maximize';
+% model_tmp = changeRxnBounds(model,'r_1714',-1.1-0.11,'l');
+% model_tmp = changeRxnBounds(model_tmp,'r_1714',-1.1+0.11,'u');
+% % model_tmp = changeRxnBounds(model_tmp,'r_1992',-3.1,'l');
+% % model_tmp = changeRxnBounds(model_tmp,'r_1992',-2.5,'u');
+% % model_tmp = changeRxnBounds(model_tmp,'r_1672',2.5,'l');
+% % model_tmp = changeRxnBounds(model_tmp,'r_1672',3.1,'u');
+% disp('Maximize dummy protein');
+% fileName = writeLP(model_tmp,mu,f,osenseStr,rxnID,enzymedata,1);
+% command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s',fileName,fileName);
+% system(command,'-echo');
+% [~,~,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
+% dummy_ref = sol_full(strcmp(model_tmp.rxns,'dilute_dummy'),:);
+
+% % Minimize Zn uptake
+% % rxnID = 'r_4596'; %minimize Zn uptake rate
+% rxnID = 'r_1714'; %minimize glucose uptake rate
+% osenseStr = 'Maximize';
+% % model_tmp = changeRxnBounds(model,'dilute_dummy',0.0328,'b');
+% model_tmp = changeRxnBounds(model,'dilute_dummy',0.0347,'b');
+% disp('Minimize Zn uptake');
+% fileName = writeLP(model_tmp,mu,f,osenseStr,rxnID,enzymedata,1);
+% command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-18 -o1e-18 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s',fileName,fileName);
+% system(command,'-echo');
+% [~,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
+% 
+% mu = sol_full(strcmp(model_tmp.rxns,'r_2111'),:);
+% glc = -1*sol_full(strcmp(model_tmp.rxns,'r_1714'),:);
+% etoh = sol_full(strcmp(model_tmp.rxns,'r_1761'),:);
+% o2 = -1*sol_full(strcmp(model_tmp.rxns,'r_1992'),:);
+% co2 = sol_full(strcmp(model_tmp.rxns,'r_1672'),:);
+% % ac = fluxes(strcmp(model_tmp.rxns,'r_1634'),:);
+% % aldh = fluxes(strcmp(model_tmp.rxns,'r_1631'),:);
+
 
 toc;
