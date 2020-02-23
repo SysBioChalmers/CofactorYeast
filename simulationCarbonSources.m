@@ -1,5 +1,5 @@
 %% simulationCS
-% Timing: ~  s
+% Timing: ~ 10000 s
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
@@ -58,7 +58,7 @@ for i = 1:length(sCS_res.cslist)
     exrxn = exch_rxn_list{i};
     disp(['carbon source: ' sCS_res.cslist{i}]);
     model_tmp = changeRxnBounds(model,exrxn,-1000,'l');
-    [mu_tmp,sol_full_tmp] = searchMaxgrowth(model_tmp,f,osenseStr,rxnID,enzymedata,1e-3);
+    [mu_tmp,sol_full_tmp] = searchMaxgrowth(model_tmp,f,osenseStr,rxnID,enzymedata,1e-6);
     sCS_res.mulist(1,i) = mu_tmp;
     sCS_res.fluxes(:,i) = sol_full_tmp;
 end
@@ -67,9 +67,6 @@ cd Results/;
 save('sCS_res.mat','sCS_res');
 cd ../;
 clear;
-
-
-%% Plot
 
 toc;
 

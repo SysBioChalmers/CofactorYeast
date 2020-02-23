@@ -78,6 +78,8 @@ x = other_cs;
 y = model.metNames(Locb);
 y = cellfun(@(x) strrep(x,' [cytoplasm]',''),y,'UniformOutput',false);
 
+data = data([1:5,7:end],:);
+y = y([1:5,7:end],:);
 
 maxclr = [103,0,31]/255;
 mdlclr = [255,255,255]/255;
