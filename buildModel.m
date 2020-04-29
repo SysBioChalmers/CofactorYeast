@@ -1,20 +1,23 @@
 %% buildModel
 % Timing: ~ 500 s
 
+% Before run this script, please 1) run "excludeCofactors" to get a list of
+% cofactors/proteins, which should be excluded from the cofactor dataset
+% due to the fact that the proteins are catalysts for the reactions that
+% contain the corresponding cofactors; 2) go to Data/pdbe to collect the
+% latest cofactor information; 3) run "updateCofactorDataset" to update the
+% collected data based on manual curation.
+
 tic;
-%% Import yeast 7.6
-
-% load('Yeast7.6.mat');
-
 %% Import yeast8
-% cd GEMs/yeast_8.3.4/;
+% cd Yeast8/8.3.5/;
 % org_model = readCbModel('yeastGEM.xml');
 % cd ../../;
 % save('Yeast8.mat','org_model');
 load('Yeast8.mat');
 
 %% Modify the original model
-model_updated = org_model;
+[model_updated,energyResults,redoxResults] = modifyYeast8(org_model);
 clear org_model;
 
 %% Reformulate the orginal model
@@ -34,7 +37,7 @@ model = addCofactorRxns(model);
 
 %% Add complex formation reactions based on protein stoichiometry
 % promiscuous = findPromiscuous(model_split);
-load('Protein_stoichiometry.mat');
+load('Protein_stoichiometry.mat');% obtained from pdbe
 model = addComplexFormationRxns(model,Protein_stoichiometry);
 
 % manually update complex formation reactions for some complexes.
@@ -76,7 +79,10 @@ model = addDummycofactor(model,cofactor_info);
 %% Save model
 
 save('CofactorYeast.mat','model');
-writeCbModel(model,'xls','CofactorYeast.xls');
+model_excel = model;
+model_excel.subSystems = cell(length(model_excel.rxns),1);
+writeCbModel(model_excel,'xls','CofactorYeast.xls');
+clear model_excel;
 
 %% Collect kcats for enzymes
 

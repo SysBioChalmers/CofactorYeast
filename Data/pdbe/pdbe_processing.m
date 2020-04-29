@@ -1,14 +1,14 @@
 %% pdbe_processing
 %  Process data obtained from pdbe.
 
-% The pdbe dataset was obtained 2019.12.30.
+% The pdbe dataset was obtained 2020.04.26.
 
 % 1. Different pdb ids even with the same corresponding protein id could
 % have different cofactor and protein stoichiometry information. 
 % Regarding cofactor, all types of cofactors would be selected for each
 % protein from all its pdb ids, and the max copy number would be selected.
 % Regarding protein stoichiometry, the pdb id with the highest coverage
-% would be selected if a protein has multiple pdb ids. IF this still leads
+% would be selected if a protein has multiple pdb ids. If this still leads
 % to multiple stoichiometry result, then the highest stoichiometry would be
 % selected.
 % 2. Given that the collected pdbe information do not include all yeast
@@ -18,14 +18,14 @@
 % dataset but their homologues are.
 % 3. The remaining genes are assumed to be monomer with no factors bound.
 
-% Timing: ~ 1500 s
+% Timing: ~ 1700 s
 
 tic;
 
 %% Load data
 
 % load pdbe dataset
-load('pdb.mat');%obtained 2019.12.30
+load('pdb.mat');%obtained 2020.04.26
 
 % load yeast homologue genes
 [~,txt,~] = xlsread('Yeast_homologue_genes.xlsx');%obtained 2020.01.02
@@ -146,7 +146,7 @@ for i = 1:length(genes_collected)
     end
 end
 
-save('pdb_cofactor.mat','pdb_cofactor');
+save('raw_pdb_cofactor.mat','pdb_cofactor');
 
 %% 3. Collect protein stoichiometry information
 
@@ -210,7 +210,7 @@ for i = 1:length(genes_collected)
     pdb_protein_stoichiometry.pdbid = [pdb_protein_stoichiometry.pdbid;unique_pdbid];
     
 end
-save('pdb_protein_stoichiometry.mat','pdb_protein_stoichiometry');
+save('raw_pdb_protein_stoichiometry.mat','pdb_protein_stoichiometry');
 
 %% 4. Process the collected pdb data
 Protein_stoichiometry = struct;

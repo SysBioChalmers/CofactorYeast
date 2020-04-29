@@ -1,6 +1,7 @@
 %% splitModel 
 function new_model = splitModel(model)
 
+disp('Splitting reactions...');
 % Change gene ID in the model.rules into that in the model.genes.
 for i = 1:length(model.genes)
     old = strcat('x(',num2str(i),')');

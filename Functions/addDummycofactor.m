@@ -5,7 +5,9 @@ function model = addDummycofactor(model,cofactor_info)
 
 rxnid = 'dilute_dummy_cofactor';
 
-metlist = cofactor_info.metid';
+[~,idx] = ismember(cofactor_info.metid,model.metNames);
+
+metlist = model.mets(idx)';
 coeflist = -1*cofactor_info.mol_modeled';
 
 model = addReaction(model,rxnid,'metaboliteList',metlist,'stoichCoeffList',coeflist,'reversible',false);

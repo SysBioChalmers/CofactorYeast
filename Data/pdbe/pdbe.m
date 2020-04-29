@@ -2,19 +2,17 @@
 %  Extract information of protein stoichiometry and cofactors from the PDBe
 %  database.
 
-% Timing: ~ 4500 s
+% Timing: ~ 5000 s
 tic;
 %% Main code
 
-% Download a list of pdb ids of Saccharomyces cerevisiae from PDBe, and
-% save as "pdbe_yeast_ids.xlsx".
-
-[~,txt,~] = xlsread('pdbe_yeast_ids.xlsx');
-
-txt = txt(2:end,1);
-txt = cellfun(@(x) x(1:4),txt,'UniformOutput',false);
-pdbeids = unique(txt);
-clear txt;
+fid2 = fopen('PDBe_search.csv'); % downloaded from PDBe 20200426
+format = repmat('%s ',1,2);
+format = strtrim(format);
+rawdata = textscan(fid2,format,'Delimiter',',','HeaderLines',1);
+pdbeids = rawdata{1};
+pdbeids = unique(pdbeids);
+clear fid2 format rawdata;
 
 pdb = struct;
 pdb.pdbid = cell(0,1);
