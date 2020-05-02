@@ -53,3 +53,36 @@ cofactor_info.abund_total = tot_abundance;
 cofactor_info.abund_modeled = modeled_abundance;
 cofactor_info.mol_total = tot_mol;
 cofactor_info.mol_modeled = modeled_mol;
+
+% Calculate element abundance
+% remove CU and FE
+cofactor_info.element_id = cofactor_info.id(~contains(cofactor_info.id,{'CU_';'FE_';'HEME_';'ISC_'}));
+cofactor_info.element_abund_total = cofactor_info.abund_total(~contains(cofactor_info.id,{'CU';'FE';'HEME'}));
+cofactor_info.element_abund_modeled = cofactor_info.abund_modeled(~contains(cofactor_info.id,{'CU';'FE';'HEME'}));
+% add CU
+cofactor_info.element_id = [cofactor_info.element_id;{'CU'}];
+cu_abund_total = sum(cofactor_info.abund_total(contains(cofactor_info.id,'CU_')));
+cu_abund_modeled = sum(cofactor_info.abund_modeled(contains(cofactor_info.id,'CU_')));
+cofactor_info.element_abund_total = [cofactor_info.element_abund_total;cu_abund_total];
+cofactor_info.element_abund_modeled = [cofactor_info.element_abund_modeled;cu_abund_modeled];
+% add FE
+cofactor_info.element_id = [cofactor_info.element_id;{'FE'}];
+fe_abund_total_1 = sum(cofactor_info.abund_total(contains(cofactor_info.id,{'FE_','HEME_'})));
+fe_abund_total_2 = cofactor_info.abund_total(contains(cofactor_info.id,'ISC_2FE'))*2+...
+                   cofactor_info.abund_total(contains(cofactor_info.id,'ISC_3FE'))*3+...
+                   cofactor_info.abund_total(contains(cofactor_info.id,'ISC_4FE'))*4;
+fe_abund_total = fe_abund_total_1 + fe_abund_total_2;
+fe_abund_modeled_1 = sum(cofactor_info.abund_modeled(contains(cofactor_info.id,{'FE_','HEME_'})));
+fe_abund_modeled_2 = cofactor_info.abund_modeled(contains(cofactor_info.id,'ISC_2FE'))*2+...
+                   cofactor_info.abund_modeled(contains(cofactor_info.id,'ISC_3FE'))*3+...
+                   cofactor_info.abund_modeled(contains(cofactor_info.id,'ISC_4FE'))*4;
+fe_abund_modeled = fe_abund_modeled_1 + fe_abund_modeled_2;
+cofactor_info.element_abund_total = [cofactor_info.element_abund_total;fe_abund_total];
+cofactor_info.element_abund_modeled = [cofactor_info.element_abund_modeled;fe_abund_modeled];
+
+
+
+
+
+
+

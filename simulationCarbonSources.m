@@ -11,23 +11,15 @@ sCS_res.cslist = {'Glucose' 'Acetate' 'Ethanol' 'Fructose' 'Galactose' 'Glycerol
 exch_rxn_list = {'r_1714'  'r_1634'  'r_1761'  'r_1709'   'r_1710'    'r_1808'   'r_1931'  'r_2058'};
 
 %% Set model
-
-% block some reactions
-model = changeRxnBounds(model,'r_0886_1',0,'b'); % iso-reaction of PFK
-model = changeRxnBounds(model,'r_4262_fwd',0,'b'); % citrate hydroxymutase
-model = changeRxnBounds(model,'r_4262_rvs',0,'b'); % citrate hydroxymutase
-
-% block some reactions that done in PMID: 28779005.
-model = changeRxnBounds(model,'r_2045_rvs',0,'b'); % serine transport from [m] to [c]
-model = changeRxnBounds(model,'r_0659_fwd',0,'b'); % isocitrate dehydrogenase (NADP)
-model = changeRxnBounds(model,'r_0659_rvs',0,'b'); % isocitrate dehydrogenase (NADP)
-
-% model = changeRxnBounds(model,'r_0725_fwd',0,'b'); % methenyltetrahydrofolate cyclohydrolase
-% model = changeRxnBounds(model,'r_0918',0,'b'); % phosphoserine transaminase
-
-model = changeRxnBounds(model,'r_4235',0,'b'); % weird reaction from glc to g6p
-
-model = changeRxnBounds(model,'r_4216_rvs',0,'b'); % block the reaction to produce FMN without ATP
+% set medium
+model = setMedia(model,2);% yeast nitrogen base without amino acids
+% set carbon source
+% SKIP...
+% set oxygen
+model = changeRxnBounds(model,'r_1992',-1000,'l');
+% block reactions
+model = blockRxns(model);
+model = changeRxnBounds(model,'r_1631',0,'b');% acetaldehyde production
 
 %% Set optimization
 rxnID = 'dilute_dummy';
@@ -42,7 +34,7 @@ f = tot_protein * f_modeled_protein;
 clear tot_protein f_modeled_protein;
 
 %% Solve LPs
-model = changeRxnBounds(model,'r_1714',0,'b'); % block default glucose uptake
+% model = changeRxnBounds(model,'r_1714',0,'b'); % block default glucose uptake
 
 sCS_res.mulist = zeros(1,length(sCS_res.cslist));
 sCS_res.fluxes = zeros(length(model.rxns),length(sCS_res.cslist));

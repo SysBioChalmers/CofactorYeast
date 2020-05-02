@@ -54,6 +54,9 @@ for i = 1:length(model.rxns)
         matrix1.LBList(x+1:x+n,1) = LBList;
         matrix1.UBList(x+1:x+n,1) = UBList;
     else%if is enzymatic reaction
+        z = strrep(z,'(','');
+        z = strrep(z,')','');
+        z = strtrim(z);%delete leading and trailing whitespace if it has
         if ~contains(z,' | ') && ~contains(z,' & ')%if has a single enzyme
             matrix1.RxnList(x+1:x+n,1) = RxnList;
             matrix1.CompoList(x+1:x+n,1) = CompoList;
@@ -62,8 +65,6 @@ for i = 1:length(model.rxns)
             matrix1.LBList(x+1:x+n,1) = LBList;
             matrix1.UBList(x+1:x+n,1) = UBList;
         else%if has multiple genes, either isozymes or complexes
-            z = z(2:length(z)-1);%delete parentheses
-            z = strtrim(z);%delete leading and trailing whitespace if it has
             if ~contains(z,' | ')%if only has complex
                 matrix1.RxnList(x+1:x+n,1) = RxnList;
                 matrix1.CompoList(x+1:x+n,1) = CompoList;
@@ -77,6 +78,7 @@ for i = 1:length(model.rxns)
                     for j = 1:length(z)%change reaction ID
                         rxnname_tmp = strcat(model.rxns{i},'_',num2str(j));
                         catalyst_tmp = z{j};
+                        catalyst_tmp = strtrim(catalyst_tmp);
                         matrix1.RxnList(x+1:x+n,1) = repmat({rxnname_tmp},n,1);
                         matrix1.CompoList(x+1:x+n,1) = CompoList;
                         matrix1.CoeffList(x+1:x+n,1) = CoeffList;
@@ -92,10 +94,7 @@ for i = 1:length(model.rxns)
                         for j = 1:length(z)%change reaction ID
                             rxnname_tmp = strcat(model.rxns{i},'_',num2str(j));
                             catalyst_tmp = z{j};
-                            if contains(catalyst_tmp,' & ')
-                                catalyst_tmp = catalyst_tmp(2:length(catalyst_tmp)-1);%delete parentheses
-                                catalyst_tmp = strtrim(catalyst_tmp);%delete leading and trailing whitespace if it has
-                            end
+                            catalyst_tmp = strtrim(catalyst_tmp);
                             matrix1.RxnList(x+1:x+n,1) = repmat({rxnname_tmp},n,1);
                             matrix1.CompoList(x+1:x+n,1) = CompoList;
                             matrix1.CoeffList(x+1:x+n,1) = CoeffList;

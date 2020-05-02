@@ -160,13 +160,15 @@ clear abund_tmp abundance_tmp copies i j idx_tmp proteinid proteins;
 
 % color
 unq_sources = unique(exp_source);
-clr_sources = [ 228,26,28;
-                55,126,184;
-                77,175,74;
-                152,78,163;
-                255,127,0;
-                166,86,40;
-                247,129,191]/255;
+clr_sources = [ 228,26,28
+                55,126,184
+                77,175,74
+                152,78,163
+                255,127,0
+                255,255,51
+                166,86,40
+                247,129,191
+                153,153,153]/255;
 % clr_sources = repmat(linspace(0,200,length(unq_sources))',1,3)/255;
 
 figure();
@@ -180,8 +182,8 @@ for i = 1:length(exp_cofactor)
 end
 scatter(1:1:length(cftrlist),log10(atomlist),30,'kx','LineWidth',1);
 ylim([4 11]);
-xlim([0.1 10.9]);
-xticks(1:1:10);
+xlim([0.1 length(cftrlist)+0.9]);
+xticks(1:1:length(cftrlist));
 set(gca, 'XColor','k');
 set(gca, 'YColor','k');
 set(gca,'XTickLabel',cftrlist);
@@ -197,9 +199,9 @@ load('cofactor_info.mat');
 
 figure();
 subplot(2,1,1);
-c = categorical(cofactor_info.id);
-c = reordercats(c,cofactor_info.id);
-b = bar(c,log10(cofactor_info.abund_total),'FaceColor',[1 1 1],'EdgeColor',[0 0 0]);
+c = categorical(cofactor_info.element_id);
+c = reordercats(c,cofactor_info.element_id);
+b = bar(c,log10(cofactor_info.element_abund_total),'FaceColor',[1 1 1],'EdgeColor',[0 0 0]);
 b.BarWidth = 0.5;
 ylim([4 8]);
 set(gca,'FontSize',6,'FontName','Helvetica');
@@ -208,7 +210,7 @@ ylabel('log10(abundance/cell)','FontSize',6,'FontName','Helvetica','Color','k');
 
 
 subplot(2,1,2);
-modeled = cofactor_info.abund_modeled./cofactor_info.abund_total;
+modeled = cofactor_info.element_abund_modeled./cofactor_info.element_abund_total;
 unmodeled = 1-modeled;
 y = [modeled unmodeled];
 bb = bar(c,y,'stacked');

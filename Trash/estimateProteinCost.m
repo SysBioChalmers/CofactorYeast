@@ -2,12 +2,7 @@ load('CofactorYeast.mat');
 load('enzymedata.mat');
 
 % block some reactions
-model = changeRxnBounds(model,'r_0886_1',0,'b'); % iso-reaction of PFK
-model = changeRxnBounds(model,'r_4262_fwd',0,'b'); % citrate hydroxymutase
-model = changeRxnBounds(model,'r_4262_rvs',0,'b'); % citrate hydroxymutase
-
-% block some reactions that done in PMID: 28779005.
-model = changeRxnBounds(model,'r_2045_rvs',0,'b'); % serine transport from [m] to [c]
+model = blockRxns(model);
 
 %% Produce co2
 model_tmp = model;
