@@ -76,6 +76,24 @@ exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
 exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
 exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
 
+[~,~,tmp] = xlsread('Exp_cofactor_abundance.xlsx','Sheet8');
+cftrid_tmp = tmp(2:end,ismember(tmp(1,:),'ID'));
+atom_tmp = tmp(2:end,ismember(tmp(1,:),'atom/cell'));
+atom_tmp = cell2mat(atom_tmp);
+idx_tmp =  ~ismember(cftrid_tmp,'-') & ~isnan(atom_tmp);
+exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
+exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
+exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
+
+[~,~,tmp] = xlsread('Exp_cofactor_abundance.xlsx','Sheet9');
+cftrid_tmp = tmp(2:end,ismember(tmp(1,:),'ID'));
+atom_tmp = tmp(2:end,ismember(tmp(1,:),'atom/cell'));
+atom_tmp = cell2mat(atom_tmp);
+idx_tmp =  ~ismember(cftrid_tmp,'-') & ~isnan(atom_tmp);
+exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
+exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
+exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
+
 clear atom_tmp idx_tmp cftrid_tmp tmp;
 
 %% Estimate collected cofactors

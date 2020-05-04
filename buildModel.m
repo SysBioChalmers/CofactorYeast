@@ -1,5 +1,5 @@
 %% buildModel
-% Timing: ~ 450 s
+% Timing: ~ 460 s
 
 % Before run this script, please 1) run "excludeCofactors" to get a list of
 % cofactors/proteins, which should be excluded from the cofactor dataset

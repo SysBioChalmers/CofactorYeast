@@ -37,5 +37,13 @@ while mu_high-mu_low > precision
         mu_high = mu_mid;
     end
 end
-mu = mu_low;
-fluxes = flux_tmp;
+
+if mu_low > precision
+    mu = mu_low;
+    fluxes = flux_tmp;
+else
+    mu = 0;
+    fluxes = zeros(length(model.rxns),1);
+end
+
+

@@ -15,8 +15,11 @@ model = buildRxnGeneMat(org_model);
 excludedata.cofactorid = cofactorid;
 excludedata.geneid = cell(length(cofactorid),1);
 for i = 1:length(cofactorid)
-    metid = cofactormetid(i);
-    rxnidx = (model.S(ismember(model.metNames,metid),:) ~= 0)';
+    metid = cofactormetid{i};
+    metid = strsplit(metid,' [');
+    metid = metid(1);
+    metlist = strcat(metid,' [',model.compNames,']');
+    rxnidx = any(model.S(ismember(model.metNames,metlist),:),1);
     genelist = model.genes(any(model.rxnGeneMat(rxnidx,:),1));
     excludedata.geneid(i) = join(genelist);
 end
