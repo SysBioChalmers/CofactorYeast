@@ -8,7 +8,7 @@ load('enzymedata.mat');
 % set medium
 model = setMedia(model,1);% minimal media (Delft media)
 % set carbon source
-model = changeRxnBounds(model,'r_1714',-1000,'l'); %glucose
+model = changeRxnBounds(model,'r_1714',-1000,'l');% glucose
 % set oxygen
 model = changeRxnBounds(model,'r_1992',-1000,'l');
 % block reactions

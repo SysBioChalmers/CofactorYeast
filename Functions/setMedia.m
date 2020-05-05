@@ -3,6 +3,7 @@ function model = setMedia(model,type)
 
 % type  = 1: minimal media (Delft media) (default)
 %       = 2: yeast nitrogen base without amino acids
+%       = 3: YNB+CSM-Ura (DOI: 10.1039/B803529F)
 
 exchangeRxns = findExcRxns(model);
 model.lb(exchangeRxns) = 0;
@@ -57,6 +58,20 @@ desiredExchanges_2 = {'r_1654'; ... % ammonium exchange
                       'r_1548'; ... % (R)-pantothenate exchange
                       'r_1792'; ... % folic acid exchange
                       'r_2038'};    % riboflavin exchange
+% 3: CSM-Ura
+CSM_Ura_Exchanges =  {'r_1893'; ... % L-histidine exchange
+                      'r_1902'; ... % L-methionine exchange
+                      'r_1912'; ... % L-tryptophan exchange
+                      'r_1639'; ... % adenine exchange
+                      'r_1879'; ... % L-arginine exchange
+                      'r_1881'; ... % L-aspartate exchange
+                      'r_1897'; ... % L-isoleucine exchange
+                      'r_1899'; ... % L-leucine exchange
+                      'r_1900'; ... % L-lysine exchange
+                      'r_1903'; ... % L-phenylalanine exchange
+                      'r_1911'; ... % L-threonine exchange
+                      'r_1913'; ... % L-tyrosine exchange
+                      'r_1914'};    % L-valine exchange
 
 if type == 1
     desiredExchanges = desiredExchanges_1;
@@ -66,10 +81,17 @@ elseif type == 2
     desiredExchanges = desiredExchanges(~ismember(desiredExchanges,'r_1861'));
     %add iron(3+)
     desiredExchanges = [desiredExchanges;model.rxns(ismember(model.rxnNames,'iron(3+) exchange'))];
+elseif type == 3
+    desiredExchanges = desiredExchanges_2;
+    %remove iron(2+)
+    desiredExchanges = desiredExchanges(~ismember(desiredExchanges,'r_1861'));
+    %add iron(3+)
+    desiredExchanges = [desiredExchanges;model.rxns(ismember(model.rxnNames,'iron(3+) exchange'))];
 end
 
 uptakeRxnIndexes     = findRxnIDs(model,desiredExchanges);
 blockedRxnIndex      = findRxnIDs(model,blockedExchanges);
+CSM_Ura_RxnIndex     = findRxnIDs(model,CSM_Ura_Exchanges);
 
 if length(find(uptakeRxnIndexes~= 0)) ~= length(desiredExchanges)
     warning('Not all exchange reactions were found.');
@@ -79,4 +101,8 @@ model.lb(uptakeRxnIndexes(uptakeRxnIndexes~=0)) = -1000;
 
 model.lb(blockedRxnIndex) = 0;
 model.ub(blockedRxnIndex) = 0;
+
+if type == 3
+    model.lb(CSM_Ura_RxnIndex) = -0.3; % max coefficiency of AA in biomass times max mu
+end
 
