@@ -32,6 +32,7 @@ gene_list = model.genes;
 % gene_list = model.genes(~sGE_tf);
 
 fluxes = zeros(length(model.rxns),b-a+1);
+genes = cell(1,b-a+1);
 
 for i = a:b
     geneid_tmp = gene_list{i};
@@ -40,11 +41,14 @@ for i = a:b
     model_tmp = changeRxnBounds(model,rxnid_tmp,0,'b');% block translation
     [~,flux_tmp] = searchMaxgrowth(model_tmp,f,osenseStr,rxnID,enzymedata,1e-6);
     fluxes(:,i) = flux_tmp;
+    genes(1,i) = gene_list(i);
 end
 
-filename = strcat('sGK_fluxes_',num2str(a),'.mat');
+filename_1 = strcat('sGK_fluxes_',num2str(a),'.mat');
+filename_2 = strcat('sGK_genes_',num2str(a),'.mat');
 cd Results/;
-save(filename,'fluxes');
+save(filename_1,'fluxes');
+save(filename_2,'genes');
 cd ../;
 end
 
