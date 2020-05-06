@@ -1,5 +1,6 @@
 %% simulationGeneKnockout
 function simulationGeneKnockout(a,b)
+Startme
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 

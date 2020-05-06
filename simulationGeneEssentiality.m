@@ -1,5 +1,5 @@
 %% simulationGeneEssentiality
-% Timing: ~ 21000 s
+% Timing: ~ 65000 s
 tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
