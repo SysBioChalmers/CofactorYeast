@@ -46,5 +46,41 @@ xlabel('Growth rate (/h)','FontSize',14,'FontName','Helvetica');
 ylabel('Dummy (g/gCDW)','FontSize',14,'FontName','Helvetica');
 set(gcf,'position',[0 0 240 140]);
 set(gca,'position',[0.17 0.28 0.76 0.63]);
-clear;
+
+% Plot ions
+ion_id_list = {'K';'MG';'FE';'ZN';'CA';'MN';'CU';'NA'};
+ion_ex_list = {'r_2020'; ... % potassium exchange
+               'r_4597'; ... % Mg(2+) exchange
+               'r_1861'; ... % iron(2+) exchange
+               'r_4596'; ... % Zn(2+) exchange
+               'r_4600'; ... % Ca(2+) exchange
+               'r_4595'; ... % Mn(2+) exchange
+               'r_4594'; ... % Cu(2+) exchange
+               'r_2049'}; ... % sodium exchange
+
+figure('Name','ion');
+for i = 1:length(ion_ex_list)
+    ion_id = ion_id_list{i};
+    ion_exR = ion_ex_list{i};
+    ion_exR_flux = fluxes(ismember(model.rxns,ion_exR),:);
+    ion_conc = -1 * ion_exR_flux ./ mu;
+    ion_num = ion_conc*0.001*6.02e23*13e-12;
+    
+    subplot(length(ion_id_list)/2,2,i);
+    hold on;
+    box on;
+    plot(mu,log10(ion_num));
+    
+    xlim([0 0.42]);
+    ylim([5 8]);
+    set(gca, 'XColor','k');
+    set(gca, 'YColor','k');
+    set(gca,'FontSize',6,'FontName','Helvetica');
+    xlabel('Growth','FontSize',6,'FontName','Helvetica');
+	ylabel('log10(atoms/cell)','FontSize',6,'FontName','Helvetica');
+    title(ion_id,'FontSize',7,'FontName','Helvetica','Color','k');
+end
+set(gcf,'position',[800 500 180 350]);
+
+
 

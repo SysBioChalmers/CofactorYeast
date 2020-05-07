@@ -83,7 +83,7 @@ for i = a:b
         model_tmp = changeRxnBounds(model_tmp,cell2mat(exRxnID),-1*bound_tmp,'l');
     end
     
-    [~,flux_tmp] = searchMaxgrowthSpecial(model_tmp,label_tmp,f,osenseStr,rxnID,enzymedata,1e-6);
+    [~,flux_tmp] = searchMaxgrowthSpecial(model_tmp,cell2mat(label_tmp),f,osenseStr,rxnID,enzymedata,1e-6);
     fluxes(:,i-a+1) = flux_tmp;
     labels(1,i-a+1) = label_tmp;
 end
