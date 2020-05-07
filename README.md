@@ -9,7 +9,7 @@ This repository contains files for CofactorYeast. Cofactors will be integrated w
 * Last update: 2020-04-29
 
 
-Contributor
+Contact
 -------------------------------
 
 * Yu Chen ([@Yu-sysbio](https://github.com/Yu-sysbio)), Chalmers University of Technology, Gothenburg, Sweden
