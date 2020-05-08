@@ -1,6 +1,14 @@
 %% simulationGeneKnockout
 function simulationGeneKnockout(a,b)
-Startme
+addpath(genpath('../../CofactorYeast/')); %add to path
+addpath(genpath('/cephyr/users/feiranl/Hebbe/tools/libSBML-5.15.0-matlab'))
+addpath(genpath('/cephyr/users/feiranl/Hebbe/tools'))
+workdir = pwd;
+cd '/cephyr/users/feiranl/Hebbe/tools/cobratoolbox'
+initCobraToolbox
+savepath '~/pathdef.m'
+cd(workdir)
+
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
