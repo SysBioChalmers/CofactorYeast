@@ -1,5 +1,8 @@
 %% combineFiles
 cd tmp_results/;
+
+
+%% simulationBiolog
 % sB_res.fluxes = zeros(0,0);
 % sB_res.labels = cell(0,0);
 % k = 1:1:116;
@@ -19,6 +22,7 @@ cd tmp_results/;
 % cd ../;
 
 
+%% simulationLowerUptake
 sLU_res.fluxes = zeros(0,0);
 sLU_res.labels = cell(0,0);
 ion_list = {'K' 'MG' 'FE' 'ZN' 'CA' 'MN' 'CU' 'NA'};

@@ -1,5 +1,5 @@
 %% simulationCrabtree
-% Timing: ~ 600 s
+% Timing: ~ 700 s
 tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
@@ -37,7 +37,7 @@ for i = 1:length(mu_list)
     model_tmp = changeRxnBounds(model,'r_2111',mu,'b');
     disp(['mu = ' num2str(mu)]);
     fileName = writeLP(model_tmp,mu,f,osenseStr,rxnID,enzymedata,1);
-    command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-16 -o1e-16 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s',fileName,fileName);
+    command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-20 -o1e-20 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s',fileName,fileName);
     system(command,'-echo');
     [~,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp);
     disp(['solution status: ' sol_status]);
