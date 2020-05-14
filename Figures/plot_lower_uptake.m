@@ -23,9 +23,9 @@ for i = 1:length(lbl)
     mu = fluxes_tmp(ismember(model.rxns,'r_2111'),:);
     glc = -1*fluxes_tmp(ismember(model.rxns,'r_1714'),:);
     etoh = fluxes_tmp(ismember(model.rxns,'r_1761'),:);
-    yield = mu./(glc*180/1000); %26.9 g/Cmol (https://doi.org/10.1002/bit.10054)
+    yield = mu./(glc*180/1000);
     
-    plotidx = 1:2:length(lower_values);
+    plotidx = 1:1:length(lower_values);
     
     subplot(3,length(lbl),i);
     hold on;
@@ -71,7 +71,7 @@ for i = 1:length(lbl)
     
 end
 
-set(gcf,'position',[300 500 450 180]);
+set(gcf,'position',[300 500 550 180]);
 
 
 

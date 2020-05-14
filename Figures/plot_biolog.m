@@ -88,7 +88,7 @@ S_clr = [152,78,163]/255;
 for i = 1:length(ion_id_list)
     ion_rel = log2_ref_ion_conc_list(i,:);
     
-    subplot(length(ion_id_list)/4,4,i);
+    subplot(1,length(ion_id_list),i);
     hold on;
     box on;
     scatter(mu_list(C_idx),ion_rel(C_idx),10,'filled',...
@@ -105,15 +105,17 @@ for i = 1:length(ion_id_list)
         'MarkerEdgeAlpha',0,'MarkerFaceAlpha',0.6);
     
     xlim([0 0.5]);
-    ylim([-2.8 2.8]);
+    ylim([-2.2 2.2]);
     set(gca, 'XColor','k');
     set(gca, 'YColor','k');
     set(gca,'FontSize',6,'FontName','Helvetica');
-    xlabel('Growth','FontSize',6,'FontName','Helvetica');
-	ylabel('Log2FC','FontSize',6,'FontName','Helvetica');
+    xlabel('Growth (/h)','FontSize',6,'FontName','Helvetica');
+    if i == 1
+        ylabel('Log2FC','FontSize',6,'FontName','Helvetica');
+    end
     title(ion_id_list{i},'FontSize',7,'FontName','Helvetica','Color','k');
 end
-set(gcf,'position',[800 500 350 150]);
+set(gcf,'position',[800 500 550 80]);
 
 % heatmap
 % colormap
