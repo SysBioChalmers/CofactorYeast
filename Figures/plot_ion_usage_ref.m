@@ -41,7 +41,7 @@ ion_ex_list = {'r_4600'; ... % Ca(2+) exchange
                'r_2049'; ... % sodium exchange
                'r_4596'};... % Zn(2+) exchange
 
-top_proteins = 5;
+top_proteins = 10;
 top_pathways = 5;
 
 color_proteins = [142,1,82]/255;

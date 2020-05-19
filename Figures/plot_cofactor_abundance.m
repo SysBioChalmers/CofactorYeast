@@ -215,6 +215,11 @@ set(gca,'position',[0.13 0.2 0.85 0.6]);
 %% Plot modeled and unmodeled cofactors
 load('cofactor_info.mat');
 
+[B,I] = sort(cofactor_info.element_id);
+cofactor_info.element_id = B;
+cofactor_info.element_abund_total = cofactor_info.element_abund_total(I);
+cofactor_info.element_abund_modeled = cofactor_info.element_abund_modeled(I);
+
 figure();
 subplot(2,1,1);
 c = categorical(cofactor_info.element_id);
@@ -230,7 +235,7 @@ ylabel('log10(abundance/cell)','FontSize',6,'FontName','Helvetica','Color','k');
 subplot(2,1,2);
 modeled = cofactor_info.element_abund_modeled./cofactor_info.element_abund_total;
 unmodeled = 1-modeled;
-y = [modeled unmodeled];
+y = [modeled unmodeled]*100;
 bb = bar(c,y,'stacked');
 bb(1).FaceColor = [239,138,98]/255;
 % bb(1).FaceAlpha = 0.6;
@@ -238,10 +243,10 @@ bb(1).BarWidth = 0.5;
 bb(2).FaceColor = [128,128,128]/255;
 % bb(2).FaceAlpha = 0.6;
 bb(2).BarWidth = 0.5;
-ylim([0 1]);
+ylim([0 100]);
 set(gca,'FontSize',6,'FontName','Helvetica');
 % set(gca,'ycolor','k');
-ylabel('Fraction in total abundance','FontSize',6,'FontName','Helvetica','Color','k');
+ylabel('Fraction in total (%)','FontSize',6,'FontName','Helvetica','Color','k');
 
 set(gcf,'position',[400 0 200 230]);
 

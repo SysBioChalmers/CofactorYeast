@@ -30,16 +30,22 @@ lbl = unique(lbl);
 
 top_proteins = 6;
 
+% color_set = [153,153,153
+%              228,26,28
+%              55,126,184
+%              152,78,163
+%              255,127,0
+%              77,175,74
+%              247,129,191
+%              255,255,51
+%              166,86,40]/255;
 color_set = [153,153,153
-             228,26,28
-             55,126,184
-             152,78,163
-             255,127,0
-             77,175,74
-             247,129,191
-             255,255,51
-             166,86,40]/255;
-
+             197,86,89
+             91,183,205
+             203,180,123
+             117,184,181
+             71,120,185
+             84,172,117]/255;
 
 for i = 1:length(lbl)
     ion = lbl{i};
@@ -68,7 +74,7 @@ for i = 1:length(lbl)
     end
     perc_list_tmp = conc_list_tmp./tot_modeled_tmp*100;
     
-    max_tmp = max(perc_list_tmp,[],2);
+    max_tmp = max(perc_list_tmp(:,1),[],2);
     
     if length(find(max_tmp)) >= top_proteins
         top = top_proteins;
@@ -93,7 +99,7 @@ for i = 1:length(lbl)
     
     for k = 1:length(b)
         b(k).FaceColor = color_set(k,:);
-        b(k).FaceAlpha = 0.8;
+        b(k).FaceAlpha = 1;
         b(k).EdgeColor = 'w';
         b(k).EdgeAlpha = 0;
     end

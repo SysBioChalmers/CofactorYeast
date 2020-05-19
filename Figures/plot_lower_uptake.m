@@ -25,12 +25,16 @@ for i = 1:length(lbl)
     etoh = fluxes_tmp(ismember(model.rxns,'r_1761'),:);
     yield = mu./(glc*180/1000);
     
-    plotidx = 1:1:length(lower_values);
+    if strcmp(ion,'CU')
+        plotidx = [1:1:length(lower_values)-3,length(lower_values)-1,length(lower_values)];
+    else
+        plotidx = 1:1:length(lower_values);
+    end
     
     subplot(3,length(lbl),i);
     hold on;
     box on;
-    plot(lower_values(plotidx),mu(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[140,81,10]/255);
+    plot(lower_values(plotidx),mu(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[79,89,109]/255);
     xlim([0 1]);
     ylim([0 0.45]);
     set(gca, 'XColor','k');
@@ -44,8 +48,8 @@ for i = 1:length(lbl)
     subplot(3,length(lbl),i+length(lbl));
     hold on;
     box on;
-    plot(lower_values(plotidx),glc(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[55,126,184]/255);
-    plot(lower_values(plotidx),etoh(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[255,127,0]/255);
+    plot(lower_values(plotidx),glc(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[213,62,79]/255);
+    plot(lower_values(plotidx),etoh(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[50,136,189]/255);
     xlim([0 1]);
     ylim([0 40]);
     set(gca, 'XColor','k');
@@ -58,7 +62,7 @@ for i = 1:length(lbl)
     subplot(3,length(lbl),i+2*length(lbl));
     hold on;
     box on;
-    plot(lower_values(plotidx),yield(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[1,102,94]/255);
+    plot(lower_values(plotidx),yield(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[79,89,109]/255);
     xlim([0 1]);
     ylim([0 0.55]);
     set(gca, 'XColor','k');

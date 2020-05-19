@@ -6,7 +6,7 @@ Introduction
 
 This repository contains files for CofactorYeast. Cofactors will be integrated with proteome-constrained model of yeast to investigate how these small molecules would affect metabolism.
 
-* Last update: 2020-05-08
+* Last update: 2020-05-19
 
 
 Contact
