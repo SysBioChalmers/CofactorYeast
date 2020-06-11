@@ -48,8 +48,14 @@ for i = 1:length(lbl)
     subplot(3,length(lbl),i+length(lbl));
     hold on;
     box on;
-    plot(lower_values(plotidx),glc(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[213,62,79]/255);
-    plot(lower_values(plotidx),etoh(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[50,136,189]/255);
+    plot(lower_values(plotidx),glc(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[27,158,119]/255);
+    plot(lower_values(plotidx),etoh(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[217,95,2]/255);
+    
+    if strcmp(ion,'MG')
+        pyr = fluxes_tmp(ismember(model.rxns,'r_2033'),:);
+        plot(lower_values(plotidx),pyr(plotidx),'-o','MarkerSize',1,'LineWidth',0.75,'Color',[117,112,179]/255);
+    end 
+    
     xlim([0 1]);
     ylim([0 40]);
     set(gca, 'XColor','k');

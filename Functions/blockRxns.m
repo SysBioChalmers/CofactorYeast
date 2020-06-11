@@ -2,6 +2,9 @@
 function model = blockRxns(model)
 % Some reactions should be block to avoid weird flux distributions.
 
+% block newly added isozyme
+model = changeRxnBounds(model,'r_0438_5',0,'b'); % ferrocytochrome-c:oxygen oxidoreductase
+
 % Fe(3+) secretion should be blocked to avoid unlimited ATP and NADH
 model.ub(ismember(model.rxnNames,'iron(3+) exchange')) = 0;
 

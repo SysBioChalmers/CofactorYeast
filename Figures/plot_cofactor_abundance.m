@@ -94,6 +94,24 @@ exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
 exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
 exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
 
+[~,~,tmp] = xlsread('Exp_cofactor_abundance.xlsx','Sheet10');
+cftrid_tmp = tmp(2:end,ismember(tmp(1,:),'ID'));
+atom_tmp = tmp(2:end,ismember(tmp(1,:),'atom/cell'));
+atom_tmp = cell2mat(atom_tmp);
+idx_tmp =  ~ismember(cftrid_tmp,'-') & ~isnan(atom_tmp);
+exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
+exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
+exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
+
+[~,~,tmp] = xlsread('Exp_cofactor_abundance.xlsx','Sheet11');
+cftrid_tmp = tmp(2:end,ismember(tmp(1,:),'ID'));
+atom_tmp = tmp(2:end,ismember(tmp(1,:),'atom/cell'));
+atom_tmp = cell2mat(atom_tmp);
+idx_tmp =  ~ismember(cftrid_tmp,'-') & ~isnan(atom_tmp);
+exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
+exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
+exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
+
 clear atom_tmp idx_tmp cftrid_tmp tmp;
 
 %% Estimate collected cofactors
@@ -178,15 +196,17 @@ clear abund_tmp abundance_tmp copies i j idx_tmp proteinid proteins;
 
 % color
 unq_sources = unique(exp_source);
-clr_sources = [ 228,26,28
-                55,126,184
-                77,175,74
-                152,78,163
+clr_sources = [ 166,206,227
+                31,120,180
+                178,223,138
+                51,160,44
+                251,154,153
+                227,26,28
+                253,191,111
                 255,127,0
-                255,255,51
-                166,86,40
-                247,129,191
-                153,153,153]/255;
+                202,178,214
+                106,61,154
+                255,255,153]/255;
 % clr_sources = repmat(linspace(0,200,length(unq_sources))',1,3)/255;
 
 figure();

@@ -83,4 +83,50 @@ end
 set(gcf,'position',[800 500 180 350]);
 
 
-
+% figure('Name','new');
+% lower_values = glc/glc(end);
+% yield = mu./(glc*180/1000);
+% 
+% subplot(3,1,1);
+% hold on;
+% box on;
+% plot(lower_values,mu,'-o','MarkerSize',1,'LineWidth',0.75,'Color',[79,89,109]/255);
+% xlim([0 1]);
+% ylim([0 0.45]);
+% set(gca, 'XColor','k');
+% set(gca, 'YColor','k');
+% set(gca,'FontSize',6,'FontName','Helvetica');
+% if i == 1
+%     ylabel('Growth (/h)','FontSize',6,'FontName','Helvetica');
+% end
+% title('Glcucose','FontSize',7,'FontName','Helvetica','Color','k');
+% 
+% subplot(3,1,2);
+% hold on;
+% box on;
+% plot(lower_values,glc,'-o','MarkerSize',1,'LineWidth',0.75,'Color',[27,158,119]/255);
+% plot(lower_values,etoh,'-o','MarkerSize',1,'LineWidth',0.75,'Color',[217,95,2]/255);
+% 
+% xlim([0 1]);
+% ylim([0 40]);
+% set(gca, 'XColor','k');
+% set(gca, 'YColor','k');
+% set(gca,'FontSize',6,'FontName','Helvetica');
+% if i == 1
+%     ylabel('Exchange rate','FontSize',6,'FontName','Helvetica');
+% end
+% 
+% subplot(3,1,3);
+% hold on;
+% box on;
+% plot(lower_values,yield,'-o','MarkerSize',1,'LineWidth',0.75,'Color',[79,89,109]/255);
+% xlim([0 1]);
+% ylim([0 0.55]);
+% set(gca, 'XColor','k');
+% set(gca, 'YColor','k');
+% set(gca,'FontSize',6,'FontName','Helvetica');
+% if i == 1
+%     ylabel('Biomass yield','FontSize',6,'FontName','Helvetica');
+% end
+% xlabel('Relative uptake','FontSize',6,'FontName','Helvetica');
+% set(gcf,'position',[300 500 80 180]);
