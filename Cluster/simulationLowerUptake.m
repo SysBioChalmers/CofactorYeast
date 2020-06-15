@@ -21,7 +21,7 @@ model = changeRxnBounds(model,'r_1714',-1000,'l');% glucose
 model = changeRxnBounds(model,'r_1992',-1000,'l');
 % block reactions
 model = blockRxns(model);
-model = changeRxnBounds(model,'r_1631',0,'b');% acetaldehyde production ???????
+% model = changeRxnBounds(model,'r_1631',0,'b');% acetaldehyde production ???????
 
 %% Set optimization
 rxnID = 'dilute_dummy';
