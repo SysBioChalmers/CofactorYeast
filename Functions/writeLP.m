@@ -43,19 +43,20 @@ end
 enzyme_list = enzymedata.enzyme;
 kcat_list = enzymedata.kcat;
 
+% newly added pathway reactions
+newidx = contains(enzyme_list,'new_r_');
+lowkcat = quantile(kcat_list(~newidx),0.05,1);
 
 for i = 1:length(enzyme_list)
     enzyme = enzyme_list{i};
   	kcat = kcat_list(i);
     
-% Change kcats extremely low
-	if kcat < quantile(kcat_list,0.05,1)
-        kcat = quantile(kcat_list,0.05,1);
-	end
-% 	if kcat < 3600
-%         kcat = 3600;
-% 	end
-    
+    % Change kcats extremely low for original enzymes
+    if ismember(enzyme,enzyme_list(~newidx))
+        if kcat < lowkcat
+            kcat = lowkcat;
+        end
+    end
     kcat = kcat*factor_k;
 
     %find enzyme formation reaction id
