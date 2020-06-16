@@ -1,12 +1,12 @@
 %% simulationCrabtree
-% Timing: ~ 1400 s
+% Timing: ~ 700 s
 tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
 %% Set model
 % set medium
-model = setMedia(model,1);% minimal media (Delft media)
+model = setMedia(model,2);% yeast nitrogen base without amino acids
 % set carbon source
 model = changeRxnBounds(model,'r_1714',-1000,'l');% glucose
 % set oxygen

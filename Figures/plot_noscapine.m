@@ -110,12 +110,17 @@ xlabel('Growth rate (/h)','FontSize',7,'FontName','Helvetica');
 ylabel('Yield (mol/mol)','FontSize',7,'FontName','Helvetica');
 
 subplot(2,1,2);
+load('sC_fluxes.mat');
+load('CofactorYeast.mat');
+mu_tmp = fluxes(strcmp(model.rxns,'r_2111'),:);
+fe_tmp = -1*fluxes(ismember(model.rxnNames,'iron(3+) exchange'),:);
 hold on;
 box on;
 plot(mu,fe,'-o','MarkerSize',2,'LineWidth',0.75,'Color',[55,126,184]/255);
+plot(mu_tmp,fe_tmp,'-o','MarkerSize',2,'LineWidth',0.75,'Color',[135,135,135]/255);
 xlim([0 0.4]);
 set(gca,'FontSize',6,'FontName','Helvetica');
 xlabel('Growth rate (/h)','FontSize',7,'FontName','Helvetica');
 ylabel('Iron uptake flux (mmol/gCDW/h)','FontSize',7,'FontName','Helvetica');
 
-set(gcf,'position',[300 600 180 250]);
+set(gcf,'position',[300 400 180 250]);
