@@ -1,18 +1,19 @@
 %% simulationNoscapine
 
-% Timing: ~ 700 s
+% Timing: ~ 1400 s
 tic;
 
+%% add new pathway
 % load original model
 load('CofactorYeast.mat');
 load('enzymedata.mat');
-
-%% add new pathway
 [model,enzymedata] = addNewPathway(model,enzymedata,'New_pathway_noscapine.xlsx');
+save('modelNoscapine.mat','model');
+save('enzymedataNoscapine.mat','enzymedata');
 
 %% Set model
 % set medium
-model = setMedia(model,1);% minimal media (Delft media)
+model = setMedia(model,2);% yeast nitrogen base without amino acids
 % set carbon source
 model = changeRxnBounds(model,'r_1714',-1000,'l');% glucose
 % set oxygen
@@ -34,8 +35,7 @@ f = tot_protein * f_modeled_protein;
 clear tot_protein f_modeled_protein;
 
 %% Solve LPs
-% mu_list = 0.1:0.1:0.4;
-mu_list = 0.01;
+mu_list = 0.01:0.01:0.4;
 fluxes = zeros(length(model.rxns),length(mu_list));
 
 for i = 1:length(mu_list)
@@ -52,7 +52,10 @@ for i = 1:length(mu_list)
     end
 end
 
+cd Results/;
+save('sN_fluxes.mat','fluxes');
+cd ../;
+clear;
 
 toc;
-
 

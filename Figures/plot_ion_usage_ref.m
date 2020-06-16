@@ -3,7 +3,7 @@
 load('sR1.mat');
 flux = fluxes;
 load('CofactorYeast.mat');
-load('CofactorDataset.mat')
+load('CofactorDataset.mat');
 
 [~,txt1,~] = xlsread('kegg_pathway.xlsx','Sheet1');
 [~,txt2,~] = xlsread('kegg_pathway.xlsx','Sheet2');

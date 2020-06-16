@@ -121,7 +121,7 @@ for i = 1:length(unq_ezm_list)
     rxn_fmt_id = strcat(ezm_tmp,'_enzyme_formation');
     rxn_dil_id = strcat(ezm_tmp,'_enzyme_dilution');
     
-    subunit_tmp = ezm_gprlst(ismember(ezm_idlst,ezm_tmp));
+    subunit_tmp = strcat(ezm_gprlst(ismember(ezm_idlst,ezm_tmp)),'_cofactorbound');
     subunit_s_tmp = ezm_gprslst(ismember(ezm_idlst,ezm_tmp));
     metlist = [subunit_tmp' ezm_id_tmp];
     coeflist = [-1*subunit_s_tmp' 1];
