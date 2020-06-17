@@ -1,4 +1,4 @@
-%% simulationNoscapine
+%% simulationNoscapine1
 
 % Timing: ~ 1400 s
 tic;
@@ -53,7 +53,7 @@ for i = 1:length(mu_list)
 end
 
 cd Results/;
-save('sN_fluxes.mat','fluxes');
+save('sN1_fluxes.mat','fluxes');
 cd ../;
 clear;
 
