@@ -19,9 +19,9 @@ mu = flux(ismember(model.rxns,'r_2111'),:);
 
 for i = 1:length(protein_list)
     protein_id = protein_list{i};
-    tansl_rxn_id = strcat('r_',strrep(protein_id,'-','_'),'_translated');
-    if ismember(tansl_rxn_id,model.rxns)
-        flux_tmp = flux(ismember(model.rxns,tansl_rxn_id),:);
+    cofactorbinding_rxn_id = strcat('r_',strrep(protein_id,'-','_'),'_cofactorbound');
+    if ismember(cofactorbinding_rxn_id,model.rxns)
+        flux_tmp = flux(ismember(model.rxns,cofactorbinding_rxn_id),:);
         idx_tmp = ismember(CofactorDataset.protein,protein_id) & ismember(CofactorDataset.cofactor,cofactor_type);
         cofactor_tmp = CofactorDataset.cofactor(idx_tmp);
         copy_tmp = CofactorDataset.copy(idx_tmp);

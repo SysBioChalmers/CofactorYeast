@@ -1,5 +1,5 @@
 %% buildModel
-% Timing: ~ 460 s
+% Timing: ~ 650 s
 
 % Before run this script, please 1) run "excludeCofactors" to get a list of
 % cofactors/proteins, which should be excluded from the cofactor dataset
@@ -76,14 +76,6 @@ model = addDummy(model,'r_4047','s_3717[c]');
 
 model = addDummycofactor(model,cofactor_info);
 
-%% Save model
-
-save('CofactorYeast.mat','model');
-model_excel = model;
-model_excel.subSystems = cell(length(model_excel.rxns),1);
-writeCbModel(model_excel,'xls','CofactorYeast.xls');
-clear model_excel;
-
 %% Collect kcats for enzymes
 
 enzymedata = collectkcats(model);
@@ -98,5 +90,16 @@ enzymedata = calculateMW(enzymedata,ProteinSequence);
 %% Collect cofactors for each enzyme
 enzymedata = calculateCofactor(enzymedata,model);
 
+%% Expand the model
+% add new reactions for the assumed enzymes without cofactors.
+[model,enzymedata] = expandModel(model,enzymedata);
+save('CofactorYeast.mat','model');
 save('enzymedata.mat','enzymedata');
+
+%% Save model
+model_excel = model;
+model_excel.subSystems = cell(length(model_excel.rxns),1);
+writeCbModel(model_excel,'xls','CofactorYeast.xls');
+clear model_excel;
+
 toc;

@@ -1,10 +1,12 @@
 %% plot ion distribution for lower uptake
 
 load('sLU_res.mat');
-load('CofactorYeast.mat');
-load('CofactorDataset.mat')
-load('enzymedata.mat');
+load('CofactorDataset.mat');
 load('cofactor_info.mat');
+% load('CofactorYeast.mat');
+% load('enzymedata.mat');
+load('CofactorYeastExpand.mat');
+load('enzymedataExpand.mat');
 
 [~,txt,~] = xlsread('Yeast8_Modification.xlsx','SGDgeneNames');
 gname_1 = txt(2:end,1);
@@ -45,7 +47,8 @@ color_set = [153,153,153
              203,180,123
              117,184,181
              71,120,185
-             84,172,117]/255;
+             84,172,117
+             220,220,220]/255;
 
 for i = 1:length(lbl)
     ion = lbl{i};
@@ -63,7 +66,7 @@ for i = 1:length(lbl)
     idx_ion = ismember(cofactor_info.element_id,ion);
     tot_unmodeled_tmp = cofactor_info.element_abund_total(idx_ion) - cofactor_info.element_abund_modeled(idx_ion);
     tot_unmodeled_tmp = tot_unmodeled_tmp * 1e3 / (6.02e23*13e-12);
-    tot_modeled_tmp = tot_tmp - tot_unmodeled_tmp;
+%     tot_modeled_tmp = tot_tmp - tot_unmodeled_tmp;
     
     % individual proteins
     conc_list_tmp = zeros(length(model.genes),length(lower_values));
@@ -72,7 +75,7 @@ for i = 1:length(lbl)
         conc_tmp = calculateCofactorUsage4protein(model,ion,protein_list_tmp,CofactorDataset,fluxes_tmp);
         conc_list_tmp(j,:) = conc_tmp;
     end
-    perc_list_tmp = conc_list_tmp./tot_modeled_tmp*100;
+    perc_list_tmp = conc_list_tmp./tot_tmp*100;
     
     max_tmp = max(perc_list_tmp(:,1),[],2);
     
@@ -85,13 +88,14 @@ for i = 1:length(lbl)
     [~,I] = sort(max_tmp,'descend');
     proteinid = model.genes(I(1:top));
     value = perc_list_tmp(I(1:top),:);
-    others = 100-sum(value);
+	perc_unmodeled_fe = tot_unmodeled_tmp./tot_tmp*100;
+    others = 100-perc_unmodeled_fe-sum(value);
     [~,b] = ismember(proteinid,gname_1);
     proteinname = gname_2(b);
     
-    data = [others;value];
+    data = [others;value;perc_unmodeled_fe];
     
-    plotidx = 1:2:length(lower_values);
+    plotidx = 1:1:length(lower_values);
     
     subplot(2,length(lbl),i);
     hold on;
@@ -104,7 +108,7 @@ for i = 1:length(lbl)
         b(k).EdgeAlpha = 0;
     end
     
-    legend(['Others';proteinname],'FontSize',6,'FontName','Helvetica','location','se');
+    legend(['Others';proteinname;'Unmodeled'],'FontSize',6,'FontName','Helvetica','location','se');
     legend('boxoff');
     ylim([0 100]);
     set(gca,'XColor','k');

@@ -10,10 +10,16 @@ model.S(metidx,rxnidx) = full(model.S(metidx,rxnidx)) * (1-f_modeled_protein);
 % change ion coefficient
 metidx = ismember(model.mets,ion_id);
 model.S(metidx,rxnidx) = 0;
-% change cofactor coefficient
-metidx = ismember(model.mets,cofactor_id);
-model.S(metidx,rxnidx) = 0;
 % add coefficient for unmodeled cofactor
 metidx = ismember(model.mets,unmodeled_cofactor_id);
 model.S(metidx,rxnidx) = -1;
+
+% change cofactor coefficient
+% metidx = ismember(model.mets,cofactor_id);
+% model.S(metidx,rxnidx) = 0;
+metidx = ismember(model.mets,cofactor_id);
+model.S(ismember(model.metNames,'heme a [cytoplasm]'),model.S(metidx,:) > 0) = 0;
+
+
+
 

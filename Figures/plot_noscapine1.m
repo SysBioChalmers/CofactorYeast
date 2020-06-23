@@ -1,7 +1,7 @@
 load('sN1_fluxes.mat');
-load('modelNoscapine.mat');
+load('modelNoscapineExpand.mat');
 load('CofactorDataset.mat');
-load('enzymedataNoscapine.mat');
+load('enzymedataNoscapineExpand.mat');
 
 [~,txt,~] = xlsread('Yeast8_Modification.xlsx','SGDgeneNames');
 gname_1 = txt(2:end,1);
@@ -100,7 +100,7 @@ set(gca,'position',[0.17 0.28 0.36 0.63]);
 
 
 figure('Name','2');
-subplot(2,1,1);
+subplot(3,1,1);
 hold on;
 box on;
 plot(mu,Noscapine./glc,'-o','MarkerSize',2,'LineWidth',0.75,'Color',[55,126,184]/255);
@@ -109,18 +109,27 @@ set(gca,'FontSize',6,'FontName','Helvetica');
 xlabel('Growth rate (/h)','FontSize',7,'FontName','Helvetica');
 ylabel('Yield (mol/mol)','FontSize',7,'FontName','Helvetica');
 
-subplot(2,1,2);
-load('sC_fluxes.mat');
-load('CofactorYeast.mat');
-mu_tmp = fluxes(strcmp(model.rxns,'r_2111'),:);
-fe_tmp = -1*fluxes(ismember(model.rxnNames,'iron(3+) exchange'),:);
+subplot(3,1,2);
 hold on;
 box on;
-% plot(mu,fe,'-o','MarkerSize',2,'LineWidth',0.75,'Color',[55,126,184]/255);
-plot(mu_tmp,fe_tmp,'-o','MarkerSize',2,'LineWidth',0.75,'Color',[135,135,135]/255);
+plot(mu,Noscapine,'-o','MarkerSize',2,'LineWidth',0.75,'Color',[55,126,184]/255);
 xlim([0 0.4]);
 set(gca,'FontSize',6,'FontName','Helvetica');
 xlabel('Growth rate (/h)','FontSize',7,'FontName','Helvetica');
-ylabel('Iron uptake flux (mmol/gCDW/h)','FontSize',7,'FontName','Helvetica');
+ylabel(['Noscapine production flux',char(13,10)','(mmol/gCDW/h)'],'FontSize',7,'FontName','Helvetica');
 
-set(gcf,'position',[300 400 180 250]);
+subplot(3,1,3);
+% load('sC_fluxes.mat');
+% load('CofactorYeast.mat');
+% mu_tmp = fluxes(strcmp(model.rxns,'r_2111'),:);
+% fe_tmp = -1*fluxes(ismember(model.rxnNames,'iron(3+) exchange'),:);
+hold on;
+box on;
+plot(mu,fe,'-o','MarkerSize',2,'LineWidth',0.75,'Color',[55,126,184]/255);
+% plot(mu_tmp,fe_tmp,'-o','MarkerSize',2,'LineWidth',0.75,'Color',[135,135,135]/255);
+xlim([0 0.4]);
+set(gca,'FontSize',6,'FontName','Helvetica');
+xlabel('Growth rate (/h)','FontSize',7,'FontName','Helvetica');
+ylabel(['Iron uptake flux',char(13,10)','(mmol/gCDW/h)'],'FontSize',7,'FontName','Helvetica');
+
+set(gcf,'position',[300 400 180 350]);

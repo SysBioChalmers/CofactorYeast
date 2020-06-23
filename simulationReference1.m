@@ -24,12 +24,14 @@ f_modeled_protein = extractModeledprotein(model,'r_4041','s_3717[c]'); %g/gProte
 % s_3717[c] is protein id
 
 f = tot_protein * f_modeled_protein;
+f_mito = 0.1;
 clear tot_protein f_modeled_protein;
+
+factor_k_withoutcofator = 0;
 
 %% Solve LPs
 
-[~,fluxes] = searchMaxgrowth(model,f,osenseStr,rxnID,enzymedata,1e-6);
-
+[~,fluxes] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
 cd Results/;
 save('sR1','fluxes');
 cd ../;

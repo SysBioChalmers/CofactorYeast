@@ -1,8 +1,8 @@
 %% Plot lower uptake
 load('sLU_res.mat');
 
-load('CofactorYeast.mat');
-load('enzymedata.mat');
+load('CofactorYeastExpand.mat');
+load('enzymedataExpand.mat');
 
 %% Data
 lbl = sLU_res.labels;

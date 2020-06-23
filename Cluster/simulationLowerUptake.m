@@ -9,8 +9,11 @@ initCobraToolbox
 savepath '~/pathdef.m'
 cd(workdir)
 
-load('CofactorYeast.mat');
-load('enzymedata.mat');
+% load('CofactorYeast.mat');
+% load('enzymedata.mat');
+load('CofactorYeastExpand.mat');
+load('enzymedataExpand.mat');
+factor_k_withoutcofator = 0.1;
 
 %% Set model
 % set medium
@@ -46,7 +49,7 @@ rxnName_list = {'potassium exchange'; ...
                 'Mn(2+) exchange'; ...
                 'Cu2(+) exchange'; ...
                 'sodium exchange'};
-decrease_value = 0.95:-0.05:0;
+decrease_value = 0.9:-0.1:0;
 
 i = ion_mw_list == ion_mw;
 ion = ion_list{i};
@@ -55,7 +58,7 @@ fluxes = zeros(length(model.rxns),length(decrease_value)+1);
 labels = cell(1,length(decrease_value)+1);
 
 % reference
-[~,fluxes_ref] = searchMaxgrowthSpecial(model,strcat(ion,'_1'),f,osenseStr,rxnID,enzymedata,1e-6);
+[~,fluxes_ref] = searchMaxgrowth4ExpandSpecial(model,strcat(ion,'_1'),f,osenseStr,rxnID,enzymedata,1e-6,1,factor_k_withoutcofator);
 fluxes(:,1) = fluxes_ref;
 labels(1,1) = {strcat(ion,'_1')};
 
@@ -71,7 +74,8 @@ for j = 1:length(decrease_value)
     str_tmp = num2str(decrease_value(j));
     str_tmp = strrep(str_tmp,'.','_');
     label_tmp = strcat(ion,'_',str_tmp);
-    [~,fluxes_tmp] = searchMaxgrowthSpecial(model_tmp,label_tmp,f,osenseStr,rxnID,enzymedata,1e-6);
+%     [~,fluxes_tmp] = searchMaxgrowthSpecial(model_tmp,label_tmp,f,osenseStr,rxnID,enzymedata,1e-6);
+    [~,fluxes_tmp] = searchMaxgrowth4ExpandSpecial(model_tmp,label_tmp,f,osenseStr,rxnID,enzymedata,1e-6,1,factor_k_withoutcofator);
     fluxes(:,j+1) = fluxes_tmp;
     labels(1,j+1) = {label_tmp};
 end
