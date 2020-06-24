@@ -27,11 +27,13 @@ f_modeled_protein = extractModeledprotein(model,'r_4041','s_3717[c]'); %g/gProte
 % s_3717[c] is protein id
 
 f = tot_protein * f_modeled_protein;
+f_mito = 0.1;
 clear tot_protein f_modeled_protein;
+
+factor_k_withoutcofator = 0;
 
 %% Solve LPs
 q_fe_list = -3.5e-4*(0.05:0.05:1);
-factor_k_withoutcofator = 0.2;
 init_mu = 0;
 step_mu = 0.02;
 fluxes = zeros(length(model.rxns),0);
@@ -47,7 +49,7 @@ for i = 1:length(q_fe_list)
         mu = mu + step_mu;
         model_tmp_tmp = changeRxnBounds(model_tmp,'r_2111',mu,'b');
         disp(['q_Fe = ' num2str(q_fe) '; mu = ' num2str(mu)]);
-        fileName = writeLP4Expand(model_tmp_tmp,mu,f,osenseStr,rxnID,enzymedata,1,factor_k_withoutcofator);
+        fileName = writeLP(model_tmp_tmp,mu,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator);
         command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-20 -o1e-20 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-9 --real:fpopttol=1e-9 %s > %s.out %s',fileName,fileName);
         system(command,'-echo');
         [~,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp_tmp);
@@ -60,9 +62,8 @@ end
 sN2_res.fluxes = fluxes;
 sN2_res.record = record;
 
-cd Results/;
 save('sN2_res.mat','sN2_res');
-cd ../;
+
 clear;
 
 toc;

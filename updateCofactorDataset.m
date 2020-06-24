@@ -229,6 +229,15 @@ CofactorDataset.protein = CofactorDataset.protein(idx);
 CofactorDataset.source = CofactorDataset.source(idx);
 
 
+%% Manual adjust
+
+% delete FE_II of Ole1 collected from uniprot
+idx = ismember(CofactorDataset.cofactor,'FE_II') & ismember(CofactorDataset.protein,'YGL055W') & contains(CofactorDataset.source,'UniProt');
+CofactorDataset.cofactor = CofactorDataset.cofactor(~idx);
+CofactorDataset.copy = CofactorDataset.copy(~idx);
+CofactorDataset.protein = CofactorDataset.protein(~idx);
+CofactorDataset.source = CofactorDataset.source(~idx);
+
 save('CofactorDataset.mat','CofactorDataset');
 
 

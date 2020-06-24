@@ -10,6 +10,11 @@ else
     factor_k = 1;
 end
 
+if factor_k_withoutcofator == 0 
+    model.ub(contains(model.rxns,'withoutcofactor')) = 0;
+    model.lb(contains(model.rxns,'withoutcofactor')) = 0;
+end % it is also not needed to add this but would lead to different results if the precision of the solver is not high.
+
 fileNametmp = strcat('Simulation_',label_tmp,'.lp');
 fileName = sprintf(fileNametmp);
 fptr = fopen(fileName,'w');
