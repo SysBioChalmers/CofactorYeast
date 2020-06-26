@@ -1,6 +1,6 @@
 load('sI_res.mat');
-load('CofactorYeastExpand.mat');
-load('enzymedataExpand.mat');
+load('CofactorYeast.mat');
+load('enzymedata.mat');
 
 %% plot fluxes
 fluxes = [sI_res.fluxes sI_res.flux_ref];

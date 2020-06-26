@@ -1,4 +1,5 @@
 %% Exclude cofactors
+function excludeCofactors
 % Some enzymes are reported to contain cofactor just because they are
 % catalysts of the synthesise of the cofactor. Therefore, here we will find
 % out all the enzymes whose reactions contain the corresponding cofactor as

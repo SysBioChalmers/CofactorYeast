@@ -22,7 +22,8 @@ for i = 1:length(metrxnid_list)
     idx_tmp = ismember(gpr_tmp,Protein_stoichiometry.protein);
     determined = gpr_tmp(idx_tmp);
     determined_subs_id = subs_id(idx_tmp);
-    determined_stoich = Protein_stoichiometry.stoichiometry(ismember(Protein_stoichiometry.protein,determined));
+    [~,b] = ismember(determined,Protein_stoichiometry.protein);
+    determined_stoich = Protein_stoichiometry.stoichiometry(b);
     undetermined_subs_id = subs_id(~idx_tmp);
     undetermined_stoich = ones(length(undetermined_subs_id),1); % assumed to be 1 if not determined
     

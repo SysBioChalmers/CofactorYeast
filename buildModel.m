@@ -1,5 +1,5 @@
 %% buildModel
-% Timing: ~ 650 s
+% Timing: ~ 600 s
 
 % Before run this script, please 1) run "excludeCofactors" to get a list of
 % cofactors/proteins, which should be excluded from the cofactor dataset
@@ -7,6 +7,8 @@
 % contain the corresponding cofactors; 2) go to Data/pdbe to collect the
 % latest cofactor information; 3) run "updateCofactorDataset" to update the
 % collected data based on manual curation.
+excludeCofactors;
+updateCofactorDataset;
 
 tic;
 %% Import yeast8

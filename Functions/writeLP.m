@@ -59,7 +59,7 @@ kcat_list = enzymedata.kcat;
 % newly added pathway reactions
 newidx = contains(enzyme_list,'new_r_');
 expandidx = contains(enzyme_list,'withoutcofactor');
-lowkcat = quantile(kcat_list(~(newidx|expandidx)),0.05,1);
+lowkcat = quantile(kcat_list(~(newidx|expandidx)),0.01,1);
 
 for i = 1:length(enzyme_list)
     enzyme = enzyme_list{i};
@@ -71,6 +71,12 @@ for i = 1:length(enzyme_list)
             kcat = lowkcat;
         end
     end
+    
+%     ole1 = {'r_2182_enzyme';'r_2183_enzyme';'r_2182_withoutcofactor_enzyme';'r_2183_withoutcofactor_enzyme'};
+%     if ismember(enzyme,ole1)
+%         kcat = enzymedata.kcat(ismember(enzymedata.enzyme,enzyme))*0.1;
+%     end
+    
 	if contains(enzyme,'withoutcofactor')
         kcat = kcat*factor_k_withoutcofator;
 	end

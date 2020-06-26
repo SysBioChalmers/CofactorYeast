@@ -1,0 +1,4 @@
+Note
+If one wants to add vitamins
+1. change the function changBiomass
+2. change the Excel cofactorList.xlsx.

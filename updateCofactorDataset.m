@@ -1,5 +1,5 @@
 %% updatetmpDataset
-
+function updateCofactorDataset
 % update the collected pdbe cofactor dataset by adding more information
 % from other databases, e.g., UniProt and BRENDA.
 
@@ -233,6 +233,13 @@ CofactorDataset.source = CofactorDataset.source(idx);
 
 % delete FE_II of Ole1 collected from uniprot
 idx = ismember(CofactorDataset.cofactor,'FE_II') & ismember(CofactorDataset.protein,'YGL055W') & contains(CofactorDataset.source,'UniProt');
+CofactorDataset.cofactor = CofactorDataset.cofactor(~idx);
+CofactorDataset.copy = CofactorDataset.copy(~idx);
+CofactorDataset.protein = CofactorDataset.protein(~idx);
+CofactorDataset.source = CofactorDataset.source(~idx);
+
+% delete ISC of YPL252C as it is an enzyme involved in ISC biogenesis.
+idx = ismember(CofactorDataset.cofactor,'ISC_2FE2S') & ismember(CofactorDataset.protein,'YPL252C');
 CofactorDataset.cofactor = CofactorDataset.cofactor(~idx);
 CofactorDataset.copy = CofactorDataset.copy(~idx);
 CofactorDataset.protein = CofactorDataset.protein(~idx);
