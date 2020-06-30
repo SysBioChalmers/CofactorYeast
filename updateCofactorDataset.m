@@ -59,19 +59,23 @@ for i = 1:length(tmpDataset.cofactor)
 end
 
 % add new rows into CofactorDataset from UniProt database
+% but iron and copper will be added in another manual file
+cufe_list = {'ISC_2FE2S' 'ISC_3FE4S' 'ISC_4FE4S' 'FE_III' 'FE_II' 'HEME_A' 'HEME_B' 'HEME_C' 'CU_I' 'CU_II'};
+
 for i = 1:length(CofactorUniProt.cofactor)
     tmpcofactor = CofactorUniProt.cofactor(i);
     if ismember(tmpcofactor,uniprotold)
         tmpcofactor = uniprotnew(ismember(uniprotold,tmpcofactor));
-        tmpprotein = CofactorUniProt.protein(i);
-        
-        if ~any(ismember(CofactorDataset.cofactor,tmpcofactor)&ismember(CofactorDataset.protein,tmpprotein))
-        % if the cofactor of the protein has been reported in pdbe then it
-        % would not be added.
-            CofactorDataset.cofactor = [CofactorDataset.cofactor;tmpcofactor];
-            CofactorDataset.protein = [CofactorDataset.protein;tmpprotein];
-            CofactorDataset.copy = [CofactorDataset.copy;CofactorUniProt.copy(i)];
-            CofactorDataset.source = [CofactorDataset.source;CofactorUniProt.source(i)];
+        if ~ismember(tmpcofactor,cufe_list)
+            tmpprotein = CofactorUniProt.protein(i);
+            if ~any(ismember(CofactorDataset.cofactor,tmpcofactor)&ismember(CofactorDataset.protein,tmpprotein))
+            % if the cofactor of the protein has been reported in pdbe then it
+            % would not be added.
+                CofactorDataset.cofactor = [CofactorDataset.cofactor;tmpcofactor];
+                CofactorDataset.protein = [CofactorDataset.protein;tmpprotein];
+                CofactorDataset.copy = [CofactorDataset.copy;CofactorUniProt.copy(i)];
+                CofactorDataset.source = [CofactorDataset.source;CofactorUniProt.source(i)];
+            end
         end
     end
 end
@@ -238,12 +242,18 @@ CofactorDataset.copy = CofactorDataset.copy(~idx);
 CofactorDataset.protein = CofactorDataset.protein(~idx);
 CofactorDataset.source = CofactorDataset.source(~idx);
 
-% delete ISC of YPL252C as it is an enzyme involved in ISC biogenesis.
-idx = ismember(CofactorDataset.cofactor,'ISC_2FE2S') & ismember(CofactorDataset.protein,'YPL252C');
+% delete ISC_4FE4S of Ilv3 as it was more likely to be ISC_2FE2S (PMID: 21987576)
+idx = ismember(CofactorDataset.cofactor,'ISC_4FE4S') & ismember(CofactorDataset.protein,'YJR016C');
 CofactorDataset.cofactor = CofactorDataset.cofactor(~idx);
 CofactorDataset.copy = CofactorDataset.copy(~idx);
 CofactorDataset.protein = CofactorDataset.protein(~idx);
 CofactorDataset.source = CofactorDataset.source(~idx);
+if ~any(ismember(CofactorDataset.cofactor,'ISC_2FE2S') & ismember(CofactorDataset.protein,'YJR016C'))
+    CofactorDataset.cofactor = [CofactorDataset.cofactor;{'ISC_2FE2S'}];
+    CofactorDataset.protein = [CofactorDataset.protein;{'YJR016C'}];
+    CofactorDataset.copy = [CofactorDataset.copy;1];
+    CofactorDataset.source = [CofactorDataset.source;{'PMID: 21987576'}];
+end
 
 save('CofactorDataset.mat','CofactorDataset');
 

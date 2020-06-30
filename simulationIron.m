@@ -4,10 +4,6 @@ tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
-% ole1 = {'r_2182_enzyme';'r_2183_enzyme';'r_2182_withoutcofactor_enzyme';'r_2183_withoutcofactor_enzyme'};
-% idx = ismember(enzymedata.enzyme,ole1);
-% enzymedata.kcat(idx) = enzymedata.kcat(idx) * 100;
-
 %% Set model
 % set medium
 model = setMedia(model,1);% minimal media (Delft media)
@@ -40,8 +36,9 @@ factor_k_withoutcofator = 0;
 q_fe_ref = flux_ref(strcmp(model.rxns,'r_1861'),1);
 
 %% Solve LPs
-k_cf = 0:0.1:0.9;
-% k_cf = 0.2;
+% k_cf = 0:0.05:0.95;
+% k_cf = 0.05;
+k_cf = [0 0.05 0.1 0.2 0.5 0.95];
 lower_fe = 0.5;
 
 fluxes = zeros(length(model.rxns),length(k_cf));
