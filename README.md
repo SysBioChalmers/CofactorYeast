@@ -4,9 +4,9 @@ CofactorYeast
 Introduction
 ------------
 
-This repository contains files for CofactorYeast. Cofactors will be integrated with proteome-constrained model of yeast to investigate how these small molecules would affect metabolism.
+This repository contains files for CofactorYeast. Cofactors, especially metal ions, have be integrated with proteome-constrained model of yeast.
 
-* Last update: 2020-06-30
+* Last update: 2020-07-02
 
 
 Contact

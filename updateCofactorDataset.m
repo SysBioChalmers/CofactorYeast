@@ -255,6 +255,56 @@ if ~any(ismember(CofactorDataset.cofactor,'ISC_2FE2S') & ismember(CofactorDatase
     CofactorDataset.source = [CofactorDataset.source;{'PMID: 21987576'}];
 end
 
+%% Add information for homologue proteins
+% assume that both homologue proteins have the same cofactors and copy
+% numbers.
+% load yeast homologue genes
+[~,txt,~] = xlsread('Yeast_homologue_genes.xlsx');%obtained 2020.01.02
+list_gene = txt(2:end,2);
+list_homologuegene = txt(2:end,5);
+clear txt;
+for i = 1:length(list_gene)
+    gene_1 = list_gene(i);
+    gene_2 = list_homologuegene(i);
+    if ismember(gene_1,CofactorDataset.protein) || ismember(gene_2,CofactorDataset.protein)
+        idx = [find(ismember(CofactorDataset.protein,gene_1));find(ismember(CofactorDataset.protein,gene_2))];
+        cf = CofactorDataset.cofactor(idx);
+        cp = CofactorDataset.copy(idx);
+        unq_cf = unique(cf);
+        for j = 1:length(unq_cf)
+            max_cp = max(cp(ismember(cf,unq_cf(j))));
+            idx_1 = ismember(CofactorDataset.protein,gene_1) & ismember(CofactorDataset.cofactor,unq_cf(j));
+            if ~any(idx_1)
+                CofactorDataset.protein = [CofactorDataset.protein;gene_1];
+                CofactorDataset.cofactor = [CofactorDataset.cofactor;unq_cf(j)];
+                CofactorDataset.copy = [CofactorDataset.copy;max_cp];
+                CofactorDataset.source = [CofactorDataset.source;strcat('Paralog:',gene_2)];
+            else
+                cp_tmp = CofactorDataset.copy(idx_1);
+                if cp_tmp < max_cp
+                    CofactorDataset.copy(idx_1) = max_cp;
+                    CofactorDataset.source(idx_1) = strcat(CofactorDataset.source(idx_1),';Copy adopted from paralog:',gene_2);
+                end
+            end
+            
+            idx_2 = ismember(CofactorDataset.protein,gene_2) & ismember(CofactorDataset.cofactor,unq_cf(j));
+            if ~any(idx_2)
+                CofactorDataset.protein = [CofactorDataset.protein;gene_2];
+                CofactorDataset.cofactor = [CofactorDataset.cofactor;unq_cf(j)];
+                CofactorDataset.copy = [CofactorDataset.copy;max_cp];
+                CofactorDataset.source = [CofactorDataset.source;strcat('Paralog:',gene_1)];
+            else
+                cp_tmp = CofactorDataset.copy(idx_2);
+                if cp_tmp < max_cp
+                    CofactorDataset.copy(idx_2) = max_cp;
+                    CofactorDataset.source(idx_2) = strcat(CofactorDataset.source(idx_2),';Copy adopted from paralog:',gene_1);
+                end
+            end
+        end
+    end
+end
+
+
 save('CofactorDataset.mat','CofactorDataset');
 
 

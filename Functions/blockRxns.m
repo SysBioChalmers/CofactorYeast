@@ -2,6 +2,12 @@
 function model = blockRxns(model)
 % Some reactions should be block to avoid weird flux distributions.
 
+% block Gcy1, an alternative glycerol dissimilation pathway that is active 
+% under microaerobic conditions (PMID: 22979944)
+model = changeRxnBounds(model,'r_0487',0,'b');
+model.ub(ismember(model.rxns,'r_0487_withoutcofactor')) = 0;
+model.lb(ismember(model.rxns,'r_0487_withoutcofactor')) = 0;
+
 % block newly added isozyme
 model = changeRxnBounds(model,'r_0438_5',0,'b'); % ferrocytochrome-c:oxygen oxidoreductase
 model.ub(ismember(model.rxns,'r_0438_5_withoutcofactor')) = 0;

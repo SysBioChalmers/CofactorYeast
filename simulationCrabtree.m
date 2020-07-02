@@ -1,5 +1,5 @@
 %% simulationCrabtree
-% Timing: ~ 850 s
+% Timing: ~ 940 s
 tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
@@ -31,7 +31,7 @@ clear tot_protein f_modeled_protein;
 factor_k_withoutcofator = 0;
 
 %% Solve LPs
-mu_list = 0.02:0.02:0.38;
+mu_list = [0.02:0.02:0.36 0.379];
 
 fluxes = zeros(length(model.rxns),length(mu_list));
 

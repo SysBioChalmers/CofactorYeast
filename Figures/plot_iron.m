@@ -1,12 +1,15 @@
 load('sI_res.mat');
 load('CofactorYeast.mat');
 load('enzymedata.mat');
+load('CofactorDataset.mat');
 
 %% plot fluxes
 fluxes = [sI_res.fluxes sI_res.flux_ref];
 glc = -1*fluxes(strcmp(model.rxns,'r_1714'),:);
 etoh = fluxes(strcmp(model.rxns,'r_1761'),:);
 mu = fluxes(strcmp(model.rxns,'r_2111'),:);
+fe = -1*fluxes(strcmp(model.rxns,'r_1861'),:);
+
 
 figure('Name','1');
 label_tmp = num2str(sI_res.k_cf);
@@ -17,7 +20,7 @@ b1 = bar(glc,'FaceColor','flat','LineWidth',1);
 b1.CData(end,:) = [1 1 1];
 xticks(1:1:length(label)+1);
 xticklabels(label);
-ylim([15 21]);
+ylim([12 21]);
 set(gca,'FontSize',6,'FontName','Helvetica');
 ylabel('Glucose (mmol/gCDW/h)','FontSize',7,'FontName','Helvetica');
 subplot(3,1,2);
@@ -25,7 +28,7 @@ b2 = bar(etoh,'FaceColor','flat','LineWidth',1);
 b2.CData(end,:) = [1 1 1];
 xticks(1:1:length(label)+1);
 xticklabels(label);
-ylim([24 36]);
+ylim([20 36]);
 set(gca,'FontSize',6,'FontName','Helvetica');
 ylabel('Ethanol (mmol/gCDW/h)','FontSize',7,'FontName','Helvetica');
 subplot(3,1,3);
@@ -33,8 +36,8 @@ b3 = bar(mu,'FaceColor','flat','LineWidth',1);
 b3.CData(end,:) = [1 1 1];
 xticks(1:1:length(label)+1);
 xticklabels(label);
-ylim([0.34 0.48]);
-yticks(0.32:0.02:0.48);
+ylim([0.3 0.48]);
+yticks(0.3:0.02:0.48);
 set(gca,'FontSize',6,'FontName','Helvetica');
 ylabel('Growth rate (/h)','FontSize',7,'FontName','Helvetica');
 set(gcf,'position',[300 300 130 330]);
@@ -74,4 +77,18 @@ h.Title = 'log2FC';
 set(h,'FontSize',6,'FontName','Helvetica');
 % set(gcf,'position',[500 300 700 120]);
 % set(gca,'position',[0.03 0.4 0.9 0.5]);
+
+figure('Name','3');
+[~,b] = size(fluxes);
+conc_list_tmp = zeros(length(model.genes),b);
+for j = 1:length(model.genes)
+    protein_list_tmp = model.genes(j);
+    conc_tmp = calculateCofactorUsage4protein(model,'FE',protein_list_tmp,CofactorDataset,fluxes);
+    conc_list_tmp(j,:) = conc_tmp;
+end
+
+
+
+
+
 
