@@ -21,7 +21,6 @@ model = changeRxnBounds(model,'r_1714',-1000,'l');% glucose
 model = changeRxnBounds(model,'r_1992',-1000,'l');
 % block reactions
 model = blockRxns(model);
-% model = changeRxnBounds(model,'r_1631',0,'b');% acetaldehyde production
 
 %% Set optimization
 rxnID = 'dilute_dummy';
@@ -33,7 +32,10 @@ f_modeled_protein = extractModeledprotein(model,'r_4041','s_3717[c]'); %g/gProte
 % s_3717[c] is protein id
 
 f = tot_protein * f_modeled_protein;
+f_mito = 0.1;
 clear tot_protein f_modeled_protein;
+
+factor_k_withoutcofator = 0;
 
 %% Solve LPs
 % Upper bound of source uptake, estimated by reference condition.
@@ -83,7 +85,7 @@ for i = a:b
         model_tmp = changeRxnBounds(model_tmp,cell2mat(exRxnID),-1*bound_tmp,'l');
     end
     
-    [~,flux_tmp] = searchMaxgrowthSpecial(model_tmp,cell2mat(label_tmp),f,osenseStr,rxnID,enzymedata,1e-6);
+    [~,flux_tmp] = searchMaxgrowthSpecial(model_tmp,cell2mat(label_tmp),f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
     fluxes(:,i-a+1) = flux_tmp;
     labels(1,i-a+1) = label_tmp;
 end

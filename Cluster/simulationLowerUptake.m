@@ -9,22 +9,18 @@ initCobraToolbox
 savepath '~/pathdef.m'
 cd(workdir)
 
-% load('CofactorYeast.mat');
-% load('enzymedata.mat');
-load('CofactorYeastExpand.mat');
-load('enzymedataExpand.mat');
-factor_k_withoutcofator = 0.1;
+load('CofactorYeast.mat');
+load('enzymedata.mat');
 
 %% Set model
 % set medium
 model = setMedia(model,1);% minimal media (Delft media)
-% set carbon source
 model = changeRxnBounds(model,'r_1714',-1000,'l');% glucose
+
 % set oxygen
 model = changeRxnBounds(model,'r_1992',-1000,'l');
 % block reactions
 model = blockRxns(model);
-% model = changeRxnBounds(model,'r_1631',0,'b');% acetaldehyde production ???????
 
 %% Set optimization
 rxnID = 'dilute_dummy';
@@ -36,7 +32,10 @@ f_modeled_protein = extractModeledprotein(model,'r_4041','s_3717[c]'); %g/gProte
 % s_3717[c] is protein id
 
 f = tot_protein * f_modeled_protein;
+f_mito = 0.1;
 clear tot_protein f_modeled_protein;
+
+factor_k_withoutcofator = 0;
 
 %% Solve LPs
 ion_mw_list = [39 24 56 65 40 55 64 23];
@@ -58,7 +57,8 @@ fluxes = zeros(length(model.rxns),length(decrease_value)+1);
 labels = cell(1,length(decrease_value)+1);
 
 % reference
-[~,fluxes_ref] = searchMaxgrowth4ExpandSpecial(model,strcat(ion,'_1'),f,osenseStr,rxnID,enzymedata,1e-6,1,factor_k_withoutcofator);
+[~,fluxes_ref] = searchMaxgrowthSpecial(model,strcat(ion,'_1'),f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+
 fluxes(:,1) = fluxes_ref;
 labels(1,1) = {strcat(ion,'_1')};
 
@@ -74,8 +74,7 @@ for j = 1:length(decrease_value)
     str_tmp = num2str(decrease_value(j));
     str_tmp = strrep(str_tmp,'.','_');
     label_tmp = strcat(ion,'_',str_tmp);
-%     [~,fluxes_tmp] = searchMaxgrowthSpecial(model_tmp,label_tmp,f,osenseStr,rxnID,enzymedata,1e-6);
-    [~,fluxes_tmp] = searchMaxgrowth4ExpandSpecial(model_tmp,label_tmp,f,osenseStr,rxnID,enzymedata,1e-6,1,factor_k_withoutcofator);
+    [~,fluxes_tmp] = searchMaxgrowthSpecial(model_tmp,label_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
     fluxes(:,j+1) = fluxes_tmp;
     labels(1,j+1) = {label_tmp};
 end

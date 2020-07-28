@@ -66,29 +66,77 @@ gname_2(ismember(gname_2,'')) = gname_1(ismember(gname_2,''));
 [~,b] = ismember(protein_list,gname_1);
 protein_id_list = gname_2(b);
 
-figure('Name','2');
-data = log2(data_rel);
-maxvalue = max(max(data));
-minvalue = min(min(data));
-data(data == -inf) = -maxvalue;
-
-h = heatmap(label_tmp,protein_id_list,data,'Colormap',jet,'ColorMethod','count','CellLabelColor','none');
-h.Title = 'log2FC';
-set(h,'FontSize',6,'FontName','Helvetica');
+% figure('Name','2');
+% data = log2(data_rel);
+% maxvalue = max(max(data));
+% minvalue = min(min(data));
+% data(data == -inf) = -maxvalue;
+% 
+% h = heatmap(label_tmp,protein_id_list,data,'Colormap',jet,'ColorMethod','count','CellLabelColor','none');
+% h.Title = 'log2FC';
+% set(h,'FontSize',6,'FontName','Helvetica');
 % set(gcf,'position',[500 300 700 120]);
 % set(gca,'position',[0.03 0.4 0.9 0.5]);
 
 figure('Name','3');
-[~,b] = size(fluxes);
-conc_list_tmp = zeros(length(model.genes),b);
-for j = 1:length(model.genes)
-    protein_list_tmp = model.genes(j);
-    conc_tmp = calculateCofactorUsage4protein(model,'FE',protein_list_tmp,CofactorDataset,fluxes);
-    conc_list_tmp(j,:) = conc_tmp;
+color_set = [153,153,153
+             197,86,89
+             91,183,205
+             203,180,123
+             117,184,181
+             71,120,185
+             84,172,117
+             220,220,220]/255;
+top_proteins = 6;
+plotidx = 1:1:length(sI_res.k_cf);
+load('cofactor_info.mat');
+
+cfusage = calculateCofactorUsage4protein(model,'FE',model.genes,fluxes);
+
+tot_tmp = fe ./ mu;
+perc_list_tmp = cfusage./tot_tmp*100;
+
+idx_ion = ismember(cofactor_info.element_id,'FE');
+tot_unmodeled_tmp = cofactor_info.element_abund_total(idx_ion) - cofactor_info.element_abund_modeled(idx_ion);
+tot_unmodeled_tmp = tot_unmodeled_tmp * 1e3 / (6.02e23*13e-12);
+
+max_tmp = max(perc_list_tmp(:,1),[],2);
+
+if length(find(max_tmp)) >= top_proteins
+    top = top_proteins;
+else
+    top = length(find(perc_list_tmp(:,1)));
 end
 
+[~,I] = sort(max_tmp,'descend');
+proteinid = model.genes(I(1:top));
+value = perc_list_tmp(I(1:top),:);
+perc_unmodeled_fe = tot_unmodeled_tmp./tot_tmp*100;
+others = 100-perc_unmodeled_fe-sum(value);
+[~,b] = ismember(proteinid,gname_1);
+proteinname = gname_2(b);
 
+data = [others;value;perc_unmodeled_fe];
 
+hold on;
+b = bar(sI_res.k_cf(plotidx),transpose(data(:,plotidx)),'stacked');
+
+for k = 1:length(b)
+    b(k).FaceColor = color_set(k,:);
+    b(k).FaceAlpha = 1;
+    b(k).EdgeColor = 'w';
+    b(k).EdgeAlpha = 0;
+end
+
+legend(['Others';proteinname;'Unmodeled'],'FontSize',6,'FontName','Helvetica','location','se');
+legend('boxoff');
+ylim([0 100]);
+set(gca,'XColor','k');
+set(gca,'YColor','k');
+xlabel('Relative uptake','FontSize',6,'FontName','Helvetica');
+ylabel('Iron usage fraction (%)','FontSize',6,'FontName','Helvetica');
+set(gca,'FontSize',6,'FontName','Helvetica');
+box off;
 
 
 
