@@ -1,5 +1,5 @@
 %% simulationIron
-% Timing: ~ 27000 s
+% Timing: ~ 39000 s
 tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');

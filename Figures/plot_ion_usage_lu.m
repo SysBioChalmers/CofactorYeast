@@ -3,10 +3,8 @@
 load('sLU_res.mat');
 load('CofactorDataset.mat');
 load('cofactor_info.mat');
-% load('CofactorYeast.mat');
-% load('enzymedata.mat');
-load('CofactorYeastExpand.mat');
-load('enzymedataExpand.mat');
+load('CofactorYeast.mat');
+load('enzymedata.mat');
 
 [~,txt,~] = xlsread('Yeast8_Modification.xlsx','SGDgeneNames');
 gname_1 = txt(2:end,1);

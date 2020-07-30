@@ -46,7 +46,7 @@ for i = 1:length(ion_id_list)
     
     subplot(2,4,i);
     hold on;
-    h = boxplot(value','Symbol','.','OutlierSize',8,'Widths',0.5,'Colors',[202,0,32]/255);
+    h = boxplot(value','Symbol','.','OutlierSize',8,'Widths',0.5,'Colors',[242,94,13]/255);
     set(h,{'linew'},{0.5});
     xlim([0.1 length(proteinname)+0.9]);
     xticks(1:1:length(proteinname));

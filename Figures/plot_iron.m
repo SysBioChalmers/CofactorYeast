@@ -36,7 +36,7 @@ b3 = bar(mu,'FaceColor','flat','LineWidth',1);
 b3.CData(end,:) = [1 1 1];
 xticks(1:1:length(label)+1);
 xticklabels(label);
-ylim([0.3 0.48]);
+ylim([0.25 0.48]);
 yticks(0.3:0.02:0.48);
 set(gca,'FontSize',6,'FontName','Helvetica');
 ylabel('Growth rate (/h)','FontSize',7,'FontName','Helvetica');

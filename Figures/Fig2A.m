@@ -160,7 +160,7 @@ end
 
 figure('Name','1');
 hold on;
-h = boxplot(log10(sim_ion_abd)','Symbol','.','OutlierSize',10,'Widths',0.3,'Colors',[202,0,32]/255);
+h = boxplot(log10(sim_ion_abd)','Symbol','.','OutlierSize',10,'Widths',0.3,'Colors',[242,94,13]/255);
 set(h,{'linew'},{0.5});
 for i = 1:length(exp_cofactor)
     x_tmp = find(ismember(ion_id_list,exp_cofactor{i}))-0.3;
