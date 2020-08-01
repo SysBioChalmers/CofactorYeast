@@ -5,7 +5,7 @@ load('CofactorYeast.mat');
 load('enzymedata.mat');
 load('CofactorDataset.mat');
 
-selected_data = 1:2:19;
+selected_data = 1:1:10;
 fluxes = [sI_res.fluxes(:,selected_data) sI_res.flux_ref];
 label_tmp = num2str(sI_res.k_cf(1,selected_data));
 label_tmp = strsplit(label_tmp);
@@ -71,7 +71,7 @@ set(gcf,'position',[300 300 120 300]);
 
 %% Protein levels
 protein_conc_ref = calculateProteinConc(model,model.genes,fluxes(:,end));
-protein_conc_low = calculateProteinConc(model,model.genes,fluxes(:,1:end-1);
+protein_conc_low = calculateProteinConc(model,model.genes,fluxes(:,1:end-1));
 protein_conc = [protein_conc_low protein_conc_ref];
 
 % remove low absolute protein level in reference

@@ -6,7 +6,7 @@ Introduction
 
 This repository contains files for CofactorYeast. Cofactors, especially metal ions, have be integrated with proteome-constrained model of yeast.
 
-* Last update: 2020-07-28
+* Last update: 2020-08-01
 
 
 Contact

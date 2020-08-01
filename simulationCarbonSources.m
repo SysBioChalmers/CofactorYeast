@@ -2,7 +2,6 @@
 % Timing: ~ 9000 s
 load('CofactorYeast.mat');
 load('enzymedata.mat');
-
 tic;
 
 %% Carbon sources

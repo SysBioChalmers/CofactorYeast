@@ -13,6 +13,26 @@ model = changeRxnBounds(model,'r_0438_5',0,'b'); % ferrocytochrome-c:oxygen oxid
 model.ub(ismember(model.rxns,'r_0438_5_withoutcofactor')) = 0;
 model.lb(ismember(model.rxns,'r_0438_5_withoutcofactor')) = 0;
 
+% block newly added isozyme for enolase as Eno1 and Eno2 show higher protein levels
+model = changeRxnBounds(model,'r_0366_1_fwd',0,'b'); % enolase
+model = changeRxnBounds(model,'r_0366_1_rvs',0,'b'); % enolase
+model.ub(ismember(model.rxns,'r_0366_1_fwd_withoutcofactor')) = 0;
+model.lb(ismember(model.rxns,'r_0366_1_fwd_withoutcofactor')) = 0;
+model.ub(ismember(model.rxns,'r_0366_1_rvs_withoutcofactor')) = 0;
+model.lb(ismember(model.rxns,'r_0366_1_rvs_withoutcofactor')) = 0;
+model = changeRxnBounds(model,'r_0366_4_fwd',0,'b'); % enolase
+model = changeRxnBounds(model,'r_0366_4_rvs',0,'b'); % enolase
+model.ub(ismember(model.rxns,'r_0366_4_fwd_withoutcofactor')) = 0;
+model.lb(ismember(model.rxns,'r_0366_4_fwd_withoutcofactor')) = 0;
+model.ub(ismember(model.rxns,'r_0366_4_rvs_withoutcofactor')) = 0;
+model.lb(ismember(model.rxns,'r_0366_4_rvs_withoutcofactor')) = 0;
+model = changeRxnBounds(model,'r_0366_5_fwd',0,'b'); % enolase
+model = changeRxnBounds(model,'r_0366_5_rvs',0,'b'); % enolase
+model.ub(ismember(model.rxns,'r_0366_5_fwd_withoutcofactor')) = 0;
+model.lb(ismember(model.rxns,'r_0366_5_fwd_withoutcofactor')) = 0;
+model.ub(ismember(model.rxns,'r_0366_5_rvs_withoutcofactor')) = 0;
+model.lb(ismember(model.rxns,'r_0366_5_rvs_withoutcofactor')) = 0;
+
 % Fe(3+) secretion should be blocked to avoid unlimited ATP and NADH
 model.ub(ismember(model.rxnNames,'iron(3+) exchange')) = 0;
 

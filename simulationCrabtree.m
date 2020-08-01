@@ -1,5 +1,5 @@
 %% simulationCrabtree
-% Timing: ~ 900 s
+% Timing: ~ 700 s
 tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');

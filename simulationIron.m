@@ -1,5 +1,5 @@
 %% simulationIron
-% Timing: ~ 39000 s
+% Timing: ~ 30000 s
 tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
@@ -35,7 +35,7 @@ factor_k_withoutcofator = 0;
 q_fe_ref = flux_ref(strcmp(model.rxns,'r_1861'),1);
 
 %% Solve LPs
-k_cf = 0:0.05:0.95;
+k_cf = 0:0.1:0.9;
 lower_fe = 0.5;
 
 fluxes = zeros(length(model.rxns),length(k_cf));
