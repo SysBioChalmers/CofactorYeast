@@ -26,14 +26,33 @@ figure('Name','1');
 hold on;
 box on;
 line([0 1],[0 1],'Color','k','LineWidth',0.5);
+cslist_tmp = {'none'};
+h_label_top = 0.45;
+h_label_btm = 0.05;
 for i = 1:length(exp_mulist)
     x_tmp = exp_mulist(i);
     y_tmp = sim_mulist(i);
     clr_tmp = clr_cs(ismember(unq_cs,exp_cslist{i}),:);
     scatter(x_tmp,y_tmp,20,'o','filled','LineWidth',1,'MarkerEdgeColor',clr_tmp,'MarkerFaceColor',clr_tmp,'MarkerFaceAlpha',0.5);
+    if ~contains(cslist_tmp,exp_cslist(i))
+        if length(cslist_tmp) < 5
+            text(0.05,h_label_top,exp_cslist{i},'FontSize',6,'FontName','Helvetica','Color',clr_tmp);
+            h_label_top = h_label_top - 0.05;
+        else
+            text(0.3,h_label_btm,exp_cslist{i},'FontSize',6,'FontName','Helvetica','Color',clr_tmp);
+            h_label_btm = h_label_btm + 0.05;
+        end
+        cslist_tmp = [cslist_tmp;exp_cslist(i)];
+    end
+    
 end
 xlim([0.01 0.49]);
 ylim([0.01 0.49]);
+
+% rmse = sqrt(sum((exp_mulist-sim_mulist).^2)/numel(exp_mulist));
+% 
+% r2txt = ['R^2 = ',num2str(r2)];
+% text(0.05,0.35,r2txt,'FontSize',6,'FontName','Helvetica','Color','k');
 set(gca,'FontSize',6,'FontName','Helvetica');
 ylabel('Simulated growth rate (/h)','FontSize',7,'FontName','Helvetica');
 xlabel('Measured growth rate (/h)','FontSize',7,'FontName','Helvetica');
@@ -76,5 +95,5 @@ ylabel('Flux (mmol/gCDW/h)','FontSize',7,'FontName','Helvetica','Color','k');
 legend({'Glucose uptake',...
         'Ethanol production',...
         'O2 uptake'},'FontSize',6,'FontName','Helvetica','location','nw');
-set(gcf,'position',[0 400 140 135]);
-set(gca,'position',[0.17 0.2 0.76 0.75]);
+set(gcf,'position',[0 200 150 150]);
+set(gca,'position',[0.2 0.2 0.6 0.6]);

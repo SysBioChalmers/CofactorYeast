@@ -1,11 +1,11 @@
 %% Plot lower uptake
-load('sLU_res.mat');
+load('sLUOCNPS_res.mat');
 
-load('CofactorYeastExpand.mat');
-load('enzymedataExpand.mat');
+load('CofactorYeast.mat');
+load('enzymedata.mat');
 
 %% Data
-lbl = sLU_res.labels;
+lbl = sLUOCNPS_res.labels;
 lbl = cellfun(@(x) x(1:strfind(x,'_')-1),lbl,'UniformOutput',false);
 lbl = unique(lbl);
 
@@ -13,9 +13,9 @@ figure('Name','1');
 
 for i = 1:length(lbl)
     ion = lbl{i};
-    idx = contains(sLU_res.labels,ion);
-    fluxes_tmp = sLU_res.fluxes(:,idx);
-    labels_tmp = sLU_res.labels(1,idx);
+    idx = contains(sLUOCNPS_res.labels,ion);
+    fluxes_tmp = sLUOCNPS_res.fluxes(:,idx);
+    labels_tmp = sLUOCNPS_res.labels(1,idx);
     labels_tmp = cellfun(@(x) x(strfind(x,'_')+1:end),labels_tmp,'UniformOutput',false);
     labels_tmp = strrep(labels_tmp,'_','.');
     labels_tmp = cellfun(@(x) str2double(x),labels_tmp,'UniformOutput',false);

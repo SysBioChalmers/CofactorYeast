@@ -31,7 +31,10 @@ factor_k_withoutcofator = 0;
 
 %% Solve LPs
 
-[~,fluxes] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
-cd Results/;
-save('sR1','fluxes');
-cd ../;
+[~,fluxes] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-4);
+qo = fluxes(ismember(model.rxns,'r_1992'),:);
+qmu = fluxes(ismember(model.rxns,'r_2111'),:);
+clear rxnID;
+% cd Results/;
+% save('sR1','fluxes');
+% cd ../;
