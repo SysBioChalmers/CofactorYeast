@@ -25,6 +25,9 @@ gname_2(ismember(gname_2,'')) = gname_1(ismember(gname_2,''));
 protein_id_list = gname_2(b);
 clear b;
 
+gname_2 = lower(gname_2);
+gname_2 = cellfun(@(x) strcat(upper(x(1)),x(2:end)),gname_2,'UniformOutput',false);
+
 top = 5;
 
 figure('Name','1');

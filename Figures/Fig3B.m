@@ -41,14 +41,22 @@ clear idx_zero;
 %% PCA plot
 ion_id_list = {'CA';'CU';'FE';'K';'MG';'MN';'NA';'ZN'};
 conserved_id_list = {'Others';'C';'N';'O';'P';'S';'Element plotted'};
+% conserved_color = [200,200,200% Other
+%                    228,26,28 % C
+%                    55,126,184 % N
+%                    77,175,74  % O
+%                    152,78,163  % P
+%                    255,127,0  % S
+%                    0,0,0]/255;% Key ion
+% alpha = [1,0.8,0.8,0.8,0.8,0.8,1]; 
 conserved_color = [200,200,200% Other
-                   228,26,28 % C
-                   55,126,184 % N
-                   77,175,74  % O
-                   152,78,163  % P
-                   255,127,0  % S
+                   215,48,39 % C
+                   253,174,97 % N
+                   69,117,180  % O
+                   244,109,67  % P
+                   116,173,209  % S
                    0,0,0]/255;% Key ion
-alpha = [1,0.8,0.8,0.8,0.8,0.8,1];                            
+alpha = [1,1,1,1,1,1,1];                            
 
 
 labels = labels';
@@ -111,7 +119,7 @@ for i = 1:length(ion_id_list)
     xlabel(['PC1 (',num2str(round(explained(1),1)),'%)'],'FontSize',7,'FontName','Helvetica','Color','k');
     ylabel(['PC2 (',num2str(round(explained(2),1)),'%)'],'FontSize',7,'FontName','Helvetica','Color','k');
 end
-set(gcf,'position',[200 200 360 180]);
+set(gcf,'position',[200 200 320 180]);
 
 % colormap(conserved_color);
 % for i = 1:8
