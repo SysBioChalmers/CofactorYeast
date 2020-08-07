@@ -19,19 +19,35 @@ cd tmp_results/;
 % cd ../;
 
 %% simulationLowerUptake
-sLU_res.fluxes = zeros(0,0);
-sLU_res.labels = cell(0,0);
-ion_list = {'K' 'MG' 'FE' 'ZN' 'CA' 'MN' 'CU' 'NA' 'O' 'C' 'P' 'S' 'N'};
+% sLU_res.fluxes = zeros(0,0);
+% sLU_res.labels = cell(0,0);
+% ion_list = {'K' 'MG' 'FE' 'ZN' 'CA' 'MN' 'CU' 'NA' 'O' 'C' 'P' 'S' 'N'};
+% for i = 1:length(ion_list)
+%     file_flux = ['sLU_fluxes_',ion_list{i},'.mat'];
+%     file_label = ['sLU_labels_',ion_list{i},'.mat'];
+%     load(file_flux);
+%     load(file_label);
+%     sLU_res.fluxes = [sLU_res.fluxes fluxes];
+%     sLU_res.labels = [sLU_res.labels labels];
+% end
+% cd ../../Results/;
+% save('sLU_res.mat','sLU_res');
+% cd ../;
+
+%% simulationLowerUptake
+sLUT050_res.fluxes = zeros(0,0);
+sLUT050_res.labels = cell(0,0);
+ion_list = {'K' 'MG' 'FE' 'ZN' 'CA' 'MN' 'CU' 'NA'};
 for i = 1:length(ion_list)
-    file_flux = ['sLU_fluxes_',ion_list{i},'.mat'];
-    file_label = ['sLU_labels_',ion_list{i},'.mat'];
+    file_flux = ['sLUT050_fluxes_',ion_list{i},'.mat'];
+    file_label = ['sLUT050_labels_',ion_list{i},'.mat'];
     load(file_flux);
     load(file_label);
-    sLU_res.fluxes = [sLU_res.fluxes fluxes];
-    sLU_res.labels = [sLU_res.labels labels];
+    sLUT050_res.fluxes = [sLUT050_res.fluxes fluxes];
+    sLUT050_res.labels = [sLUT050_res.labels labels];
 end
 cd ../../Results/;
-save('sLU_res.mat','sLU_res');
+save('sLUT050_res.mat','sLUT050_res');
 cd ../;
 
 %% simulationCNPS

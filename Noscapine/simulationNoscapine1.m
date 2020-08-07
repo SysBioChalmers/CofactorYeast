@@ -1,6 +1,6 @@
 %% simulationNoscapine1
 
-% Timing: ~ 1400 s
+% Timing: ~ 700 s
 tic;
 
 % load model
@@ -16,7 +16,7 @@ model = changeRxnBounds(model,'r_1714',-1000,'l');% glucose
 model = changeRxnBounds(model,'r_1992',-1000,'l');
 % block reactions
 model = blockRxns(model);
-% model = changeRxnBounds(model,'r_1631',0,'b');% acetaldehyde production
+
 
 %% Set optimization
 rxnID = 'new_r_eNoscapine'; %maximize noscapine production rate
@@ -31,11 +31,13 @@ f = tot_protein * f_modeled_protein;
 f_mito = 0.1;
 clear tot_protein f_modeled_protein;
 
-factor_k_withoutcofator = 0;
+factor_k_withoutcofator = 0.5;
 
 %% Solve LPs
-mu_list = 0.01:0.01:0.4;
+mu_list = [0.02:0.02:0.36 0.379];
+
 fluxes = zeros(length(model.rxns),length(mu_list));
+
 for i = 1:length(mu_list)
     mu = mu_list(i);
     model_tmp = changeRxnBounds(model,'r_2111',mu,'b');

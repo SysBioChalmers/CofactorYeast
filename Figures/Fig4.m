@@ -172,15 +172,37 @@ set(gcf,'position',[600 300 250 300]);
 set(gca,'position',[0.5 0.4 0.3 0.4]);
 
 
+%% Usage for Erg25 and Ole1
+cfusage_Erg25 = calculateCofactorUsage4protein(model,'FE',{'YGR060W'},fluxes);
+cfusage_Ole1 = calculateCofactorUsage4protein(model,'FE',{'YGL055W'},fluxes);
+tot = fe./ mu;
+perc_Erg25 = cfusage_Erg25./tot*100;
+perc_Ole1 = cfusage_Ole1./tot*100;
 
+figure('Name','C');
+subplot(2,1,1);
+b1 = bar(perc_Erg25,0.7,'FaceColor','flat','LineWidth',0.1);
+b1.CData(1:length(selected_data),:) = repmat([242,94,13]/255,length(selected_data),1);
+b1.CData(end,:) = [0 0 0];
+b1.EdgeColor = 'w';
+xticks(1:1:length(label)+1);
+xticklabels(label);
+xtickangle(90);
+ylim([0 2.5]);
+set(gca,'FontSize',6,'FontName','Helvetica');
+ylabel('Iron usage fraction (%)','FontSize',7,'FontName','Helvetica','Color','k');
+subplot(2,1,2);
+b1 = bar(perc_Ole1,0.7,'FaceColor','flat','LineWidth',0.1);
+b1.CData(1:length(selected_data),:) = repmat([242,94,13]/255,length(selected_data),1);
+b1.CData(end,:) = [0 0 0];
+b1.EdgeColor = 'w';
+xticks(1:1:length(label)+1);
+xticklabels(label);
+xtickangle(90);
+ylim([0 19]);
+set(gca,'FontSize',6,'FontName','Helvetica');
 
-
-
-
-
-
-
-
+set(gcf,'position',[100 300 110 80]);
 
 
 

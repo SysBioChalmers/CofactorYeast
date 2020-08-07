@@ -99,8 +99,15 @@ for i = 1:length(gpr_gprlst)
             cfc_tmp = gpr_cfclst(i);
             metlist = [{subsid} cf_metid {prodid}];
             coeflist = [-1 -1*cfc_tmp 1];
-        elseif ismember(gpr_cftlst(i),'HEME_A')
-            cf_metName = 'heme a [mitochondrion]';
+        elseif ismember(gpr_cftlst(i),'FE_III')
+            cf_metName = 'iron(3+) [mitochondrion]';
+            [~,c] = ismember(cf_metName,model.metNames);
+            cf_metid = model.mets(c);
+            cfc_tmp = gpr_cfclst(i);
+            metlist = [{subsid} cf_metid {prodid}];
+            coeflist = [-1 -1*cfc_tmp 1];
+        elseif ismember(gpr_cftlst(i),'HEME_B')
+            cf_metName = 'ferroheme b [mitochondrion]';
             [~,c] = ismember(cf_metName,model.metNames);
             cf_metid = model.mets(c);
             cfc_tmp = gpr_cfclst(i);

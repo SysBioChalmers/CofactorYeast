@@ -29,13 +29,8 @@ CofactorDataset.copy = [CofactorDataset.copy;gpr_cfclst(~ismember(gpr_cftlst,'-'
 CofactorDataset.protein = [CofactorDataset.protein;gpr_gprlst(~ismember(gpr_cftlst,'-'))];
 CofactorDataset.source = [CofactorDataset.source;gpr_cftsourcelst(~ismember(gpr_cftlst,'-'))];
 
+conc_fe = calculateCofactorUsage4protein(model,'FE',model.genes,flux);
 
-conc_fe = zeros(length(model.genes),b1);
-for j = 1:length(model.genes)
-    protein_list_tmp = model.genes(j);
-    conc_tmp = calculateCofactorUsage4protein(model,'FE',protein_list_tmp,CofactorDataset,flux);
-    conc_fe(j,:) = conc_tmp;
-end
 tot_fe = fe./mu;
 perc_fe = conc_fe./tot_fe*100;
 

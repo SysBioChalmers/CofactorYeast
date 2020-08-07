@@ -1,8 +1,9 @@
 %% simulationNoscapine2
 
-% Timing: ~ 16000 s
+% Timing: ~ 70000 s
 tic;
 
+% load model
 load('modelNoscapine.mat');
 load('enzymedataNoscapine.mat');
 
@@ -15,7 +16,7 @@ model = changeRxnBounds(model,'r_1714',-1000,'l');% glucose
 model = changeRxnBounds(model,'r_1992',-1000,'l');
 % block reactions
 model = blockRxns(model);
-% model = changeRxnBounds(model,'r_1631',0,'b');% acetaldehyde production
+
 
 %% Set optimization
 rxnID = 'new_r_eNoscapine'; %maximize noscapine production rate
@@ -30,12 +31,19 @@ f = tot_protein * f_modeled_protein;
 f_mito = 0.1;
 clear tot_protein f_modeled_protein;
 
-factor_k_withoutcofator = 0;
+factor_k_withoutcofator = 0.5;
 
 %% Solve LPs
-q_fe_list = -3.5e-4*(0.05:0.05:1);
+load('sN1_fluxes.mat');
+q_fe_tmp = fluxes(ismember(model.rxnNames,'iron(3+) exchange'),:);
+q_fe_tmp = round(min(q_fe_tmp),6);
+clear fluxes;
+
+q_fe_list = q_fe_tmp*(0.02:0.02:1);
+clear q_fe_tmp;
+
 init_mu = 0;
-step_mu = 0.02;
+step_mu = 0.01;
 fluxes = zeros(length(model.rxns),0);
 record = zeros(1,0);
 for i = 1:length(q_fe_list)
@@ -47,6 +55,11 @@ for i = 1:length(q_fe_list)
     mu = init_mu;
     while strcmp(sol_status,'optimal')
         mu = mu + step_mu;
+        
+        if mu == 0.38
+            mu = 0.379;
+        end
+        
         model_tmp_tmp = changeRxnBounds(model_tmp,'r_2111',mu,'b');
         disp(['q_Fe = ' num2str(q_fe) '; mu = ' num2str(mu)]);
         fileName = writeLP(model_tmp_tmp,mu,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator);

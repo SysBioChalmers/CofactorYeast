@@ -1,5 +1,5 @@
 load('sN2_res.mat');
-load('modelNoscapineExpand.mat');
+load('modelNoscapine.mat');
 
 q_fe_list = unique(sN2_res.record);
 tot_raw = sum(sN2_res.record == min(q_fe_list));
@@ -155,13 +155,7 @@ title('Fixed iron UB','FontSize',7,'FontName','Helvetica');
 set(gcf,'position',[300 300 250 120]);
 set(gca,'position',[0.17 0.28 0.36 0.63]);
 
-[~,b1] = size(fluxes_fixed_fe);
-conc_fe = zeros(length(model.genes),b1);
-for j = 1:length(model.genes)
-    protein_list_tmp = model.genes(j);
-    conc_tmp = calculateCofactorUsage4protein(model,'FE',protein_list_tmp,CofactorDataset,fluxes_fixed_fe);
-    conc_fe(j,:) = conc_tmp;
-end
+conc_fe = calculateCofactorUsage4protein(model,'FE',model.genes,fluxes_fixed_fe);
 tot_fe = fe_fixed_fe./mu_fixed_fe;
 perc_fe = conc_fe./tot_fe*100;
 new_idx = contains(model.genes,'uniprot_');
@@ -224,13 +218,8 @@ title('Fixed growth rate','FontSize',7,'FontName','Helvetica');
 set(gcf,'position',[300 0 250 120]);
 set(gca,'position',[0.17 0.28 0.36 0.63]);
 
-[~,b1] = size(fluxes_fixed_mu);
-conc_fe = zeros(length(model.genes),b1);
-for j = 1:length(model.genes)
-    protein_list_tmp = model.genes(j);
-    conc_tmp = calculateCofactorUsage4protein(model,'FE',protein_list_tmp,CofactorDataset,fluxes_fixed_mu);
-    conc_fe(j,:) = conc_tmp;
-end
+
+conc_fe = calculateCofactorUsage4protein(model,'FE',model.genes,fluxes_fixed_mu);
 tot_fe = fe_fixed_mu./mu_fixed_mu;
 perc_fe = conc_fe./tot_fe*100;
 new_idx = contains(model.genes,'uniprot_');
