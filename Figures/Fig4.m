@@ -201,6 +201,7 @@ xticklabels(label);
 xtickangle(90);
 ylim([0 19]);
 set(gca,'FontSize',6,'FontName','Helvetica');
+xlabel('theta','FontSize',7,'FontName','Helvetica','Color','k');
 
 set(gcf,'position',[100 300 110 80]);
 

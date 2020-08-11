@@ -160,12 +160,12 @@ end
 
 figure('Name','1');
 hold on;
-h = boxplot(log10(sim_ion_abd)','Symbol','.','OutlierSize',10,'Widths',0.3,'Colors',[242,94,13]/255);
+h = boxplot(log10(sim_ion_abd)','Symbol','.','OutlierSize',8,'Widths',0.3,'Colors',[242,94,13]/255);
 set(h,{'linew'},{0.5});
 for i = 1:length(exp_cofactor)
     x_tmp = find(ismember(ion_id_list,exp_cofactor{i}))-0.3;
     y_tmp = exp_atomcell(i);
-    scatter(x_tmp,log10(y_tmp),90,'.','LineWidth',1,'MarkerEdgeColor',[64,64,64]/255,'MarkerEdgeAlpha',0.8);
+    scatter(x_tmp,log10(y_tmp),60,'.','LineWidth',1,'MarkerEdgeColor',[64,64,64]/255,'MarkerEdgeAlpha',0.8);
 end
 ylim([4.5 10.5]);
 xlim([0.35 length(ion_id_list)+0.35]);
@@ -176,5 +176,5 @@ set(gca,'XTickLabel',ion_id_list);
 set(gca,'FontSize',6,'FontName','Helvetica');
 ylabel('log10(atoms/cell)','FontSize',7,'FontName','Helvetica','Color','k');
 
-set(gcf,'position',[500 100 220 130]);
-set(gca,'position',[0.11 0.1 0.87 0.85]);
+set(gcf,'position',[500 100 220 80]);
+set(gca,'position',[0.11 0.15 0.87 0.8]);
