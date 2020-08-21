@@ -19,7 +19,7 @@ end
 
 %% 3d plot
 figure('Name','1');
-surf(-q_fe_list,data_mu,data_Noscapine);
+surf(-q_fe_list,data_mu,data_Noscapine,'EdgeColor','none');
 hold on;
 grid on;
 az = -145;
@@ -36,7 +36,7 @@ set(gcf,'position',[0 600 250 200]);
 set(gca,'position',[0.25 0.25 0.65 0.65]);
 
 figure('Name','1-2d');
-surf(-q_fe_list,data_mu,data_Noscapine);
+surf(-q_fe_list,data_mu,data_Noscapine,'EdgeColor','none');
 hold on;
 grid on;
 colorbar;
@@ -54,7 +54,7 @@ set(gcf,'position',[600 600 250 200]);
 set(gca,'position',[0.15 0.25 0.55 0.65]);
 
 % fixed iron uptake rate
-fixed_fe = q_fe_list(10);
+fixed_fe = q_fe_list(floor(length(q_fe_list)/2));
 figure('Name','2');
 surf(-q_fe_list,data_mu,data_Noscapine,'FaceAlpha',0.6,'EdgeColor','none');
 hold on;
@@ -77,7 +77,7 @@ set(gcf,'position',[0 300 250 200]);
 set(gca,'position',[0.25 0.25 0.65 0.65]);
 
 % fixed growth rate
-fixed_mu = 0.2;
+fixed_mu = 0.1;
 figure('Name','3');
 surf(-q_fe_list,data_mu,data_Noscapine,'FaceAlpha',0.6,'EdgeColor','none');
 hold on;
