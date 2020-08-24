@@ -32,7 +32,22 @@ for i = 1:length(AA_IDs)
     fluxes_tmp = fluxes(:,ismember(sIRCAA_res.lables,AA_IDs(i)));
     delta_aa(1,i) = abs(fluxes_tmp(ismember(model.rxns,AA_Exchanges{i}),:));
 end
-data = delta_mu./delta_aa;
+data_aa = delta_mu./delta_aa;
+
+load('sRRCAA_res.mat');
+fluxes = sRRCAA_res.fluxes;
+mu = fluxes(ismember(model.rxns,'r_2111'),:);
+delta_mu = mu(2:end)-mu(1);
+delta_aa = zeros(1,length(AA_IDs));
+for i = 1:length(AA_IDs)
+    fluxes_tmp = fluxes(:,ismember(sIRCAA_res.lables,AA_IDs(i)));
+    delta_aa(1,i) = abs(fluxes_tmp(ismember(model.rxns,AA_Exchanges{i}),:));
+end
+data_ref = delta_mu./delta_aa;
+
+data = [data_ref;data_aa];
+data(data > 0.8) = 0.8;
+
 
 minclr = [255,255,178]/255;
 maxclr = [242,94,13]/255;
@@ -43,10 +58,10 @@ clrmap = [tmp1 tmp2 tmp3];
 
 
 figure('Name','1');
-h = heatmap(sIRCAA_res.lables(2:end),{'50% iron uptake'},data,'Colormap',clrmap,...
+h = heatmap(sIRCAA_res.lables(2:end),{'Unlimited iron uptake';'50% iron uptake'},data,'Colormap',clrmap,...
     'ColorMethod','count','CellLabelColor','none');
 set(h,'FontSize',6,'FontName','Helvetica');
 h.FontColor = 'k';
 set(gcf,'position',[100 700 300 50]);
-set(gca,'position',[0.25 0.4 0.45 0.15]);
+set(gca,'position',[0.25 0.4 0.45 0.3]);
 
