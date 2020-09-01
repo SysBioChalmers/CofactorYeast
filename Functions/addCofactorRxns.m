@@ -1,9 +1,6 @@
 %% addCofactorRxns 
 function model = addCofactorRxns(model)
-% There are several assumptions:
-% 1. 
-% 2. 
-% 3. no machineries included.
+% No machineries included.
 
 %% Import Cofactor Information
 [~,raw,~] = xlsread('cofactorList.xlsx');
