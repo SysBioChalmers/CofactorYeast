@@ -1,99 +1,87 @@
-%% Max growth rates and Crabtree
+%% Cofactor Dataset
 
+load('CofactorDataset.mat');
 load('CofactorYeast.mat');
 
-%% plot max growth rates
-load('sCS_res.mat');
-[num,txt,~] = xlsread('Exp_carbon_sources.xlsx');
-exp_cslist = txt(2:end,1);
-exp_mulist = num;
-clear num txt;
-sim_mulist = zeros(length(exp_mulist),1);
-for i = 1:length(exp_cslist)
-    sim_mulist(i) = sCS_res.mulist(ismember(sCS_res.cslist,exp_cslist(i)));
-end
+ion_id_list = {'CA';'CU';'FE';'K';'MG';'MN';'NA';'ZN'};
 
-unq_cs = unique(exp_cslist);
-clr_cs = [  228,26,28;
-            55,126,184;
-            77,175,74;
-            152,78,163;
-            255,127,0;
-            247,129,191;
-            166,86,40;
-            153,153,153]/255;
-figure('Name','1');
-hold on;
-box on;
-line([0 1],[0 1],'Color','k','LineWidth',0.5);
-cslist_tmp = {'none'};
-h_label_top = 0.45;
-h_label_btm = 0.05;
-for i = 1:length(exp_mulist)
-    x_tmp = exp_mulist(i);
-    y_tmp = sim_mulist(i);
-    clr_tmp = clr_cs(ismember(unq_cs,exp_cslist{i}),:);
-    scatter(x_tmp,y_tmp,20,'o','filled','LineWidth',1,'MarkerEdgeColor',clr_tmp,'MarkerFaceColor',clr_tmp,'MarkerFaceAlpha',0.5);
-    if ~contains(cslist_tmp,exp_cslist(i))
-        if length(cslist_tmp) < 5
-            text(0.05,h_label_top,exp_cslist{i},'FontSize',6,'FontName','Helvetica','Color',clr_tmp);
-            h_label_top = h_label_top - 0.05;
-        else
-            text(0.3,h_label_btm,exp_cslist{i},'FontSize',6,'FontName','Helvetica','Color',clr_tmp);
-            h_label_btm = h_label_btm + 0.05;
-        end
-        cslist_tmp = [cslist_tmp;exp_cslist(i)];
+
+%%
+
+tot_num = zeros(length(ion_id_list),1);
+modeled_num = zeros(length(ion_id_list),1);
+
+for i = 1:length(ion_id_list)
+    cft_tmp = ion_id_list{i};
+    if strcmp(cft_tmp,'CU')
+        cft_tmp = {'CU_I';'CU_II'};
+    elseif strcmp(cft_tmp,'FE')
+        cft_tmp = {'FE_III';'FE_II';'HEME_A';'HEME_C';'HEME_B';'ISC_2FE2S';'ISC_3FE4S';'ISC_4FE4S'};
+    else
+        cft_tmp = {cft_tmp};
     end
-    
+    tot_tmp = CofactorDataset.protein(ismember(CofactorDataset.cofactor,cft_tmp));
+    tot_num(i,1) = length(tot_tmp);
+    modeled_tmp = model.genes(ismember(model.genes,tot_tmp));
+    modeled_num(i,1) = length(modeled_tmp);
 end
-xlim([0.01 0.49]);
-ylim([0.01 0.49]);
 
-% rmse = sqrt(sum((exp_mulist-sim_mulist).^2)/numel(exp_mulist));
-% 
-% r2txt = ['R^2 = ',num2str(r2)];
-% text(0.05,0.35,r2txt,'FontSize',6,'FontName','Helvetica','Color','k');
+figure();
+clr1 = [77,77,77]/255;
+[data1,b1] = sort(tot_num);
+lbl1 = ion_id_list(b1);
+subplot(1,2,1);
+bar(data1,0.5,'FaceColor',clr1,'FaceAlpha',0.5,'EdgeColor',clr1,'LineWidth',0.8);
+xticks(1:1:length(data1));
+xticklabels(lbl1);
+ylim([0 800]);
+set(gca,'XColor','k');
+set(gca,'YColor','k');
 set(gca,'FontSize',6,'FontName','Helvetica');
-ylabel('Simulated growth rate (/h)','FontSize',7,'FontName','Helvetica');
-xlabel('Measured growth rate (/h)','FontSize',7,'FontName','Helvetica');
+ylabel('Number of proteins','FontSize',7,'FontName','Helvetica','Color','k');
+title('Total proteins (N = 6002)','FontSize',7,'FontName','Helvetica','Color','k');
+% total number of proteins is from https://www.ncbi.nlm.nih.gov/genome/15?genome_assembly_id=22535
+for i = 1:length(data1)
+    if i > 5
+        perc = round(data1(i)/6002*100);
+        if i < 8
+        text(i-0.35,data1(i)+60,num2str([num2str(perc) '%']),'FontSize',7,'FontName','Helvetica','Color',clr1);
+        else
+        text(i-0.5,data1(i)+60,num2str([num2str(perc) '%']),'FontSize',7,'FontName','Helvetica','Color',clr1);
+        end
+    end
+end
 
-set(gcf,'position',[200 200 150 150]);
-set(gca,'position',[0.2 0.2 0.6 0.6]);
-
-
-%% plot Crabtree
-load('sC_fluxes.mat');
-
-mu = fluxes(strcmp(model.rxns,'r_2111'),:);
-glc = -1*fluxes(strcmp(model.rxns,'r_1714'),:);
-etoh = fluxes(strcmp(model.rxns,'r_1761'),:);
-o2 = -1*fluxes(strcmp(model.rxns,'r_1992'),:);
-co2 = fluxes(strcmp(model.rxns,'r_1672'),:);
-
-% Yeast exp data (PMID: 9603825)
-fluxes_exp_yeast = [0.1  0.15  0.2  0.25  0.28  0.3   0.32  0.35  0.36  0.38 ; % mu
-                    1.1  1.67  2.15 2.83  3.24  3.7   5.44  8.09  8.33  10.23; % glucose
-                    0    0     0    0     0     0.51  4.42  6.91  6.71  14.91; % ethanol
-                    2.73 2.5   5.07 6.8   8.3   8.8   6.83  6.6   7.1   4.19]; % o2
-
-figure('Name','2');
-hold on;
-box on;
-
-plot(fluxes_exp_yeast(1,:),fluxes_exp_yeast(2,:),'o','LineWidth',0.75,'Color',[55,126,184]/255,'MarkerSize',5);
-plot(fluxes_exp_yeast(1,:),fluxes_exp_yeast(3,:),'o','LineWidth',0.75,'Color',[255,127,0]/255,'MarkerSize',5);
-plot(fluxes_exp_yeast(1,:),fluxes_exp_yeast(4,:),'o','LineWidth',0.75,'Color',[77,175,74]/255,'MarkerSize',5);
-plot(mu,glc,'-','LineWidth',0.75,'Color',[55,126,184]/255);
-plot(mu,etoh,'-','LineWidth',0.75,'Color',[255,127,0]/255);
-plot(mu,o2,'-','LineWidth',0.75,'Color',[77,175,74]/255);
-
-xlim([0 0.4]);
-
+[data2,b2] = sort(modeled_num);
+clr2 = [178,24,43]/255;
+lbl2 = ion_id_list(b2);
+subplot(1,2,2);
+bar(data2,0.5,'FaceColor',clr2,'FaceAlpha',0.5,'EdgeColor',clr2,'LineWidth',0.8);
+xticks(1:1:length(data2));
+xticklabels(lbl2);
+ylim([0 200]);
+set(gca,'XColor','k');
+set(gca,'YColor','k');
 set(gca,'FontSize',6,'FontName','Helvetica');
-xlabel('Growth rate (/h)','FontSize',7,'FontName','Helvetica','Color','k');
-ylabel('Flux (mmol/gCDW/h)','FontSize',7,'FontName','Helvetica','Color','k');
-legend({'Glucose uptake',...
-        'Ethanol production',...
-        'O2 uptake'},'FontSize',6,'FontName','Helvetica','location','nw');
-set(gcf,'position',[0 200 150 150]);
-set(gca,'position',[0.2 0.2 0.6 0.6]);
+ylabel('Number of proteins','FontSize',7,'FontName','Helvetica','Color','k');
+title(['Metabolic proteins (N = ' num2str(length(model.genes)) ')'],'FontSize',7,'FontName','Helvetica','Color','k');
+for i = 1:length(data2)
+    if i > 5
+        perc = round(data2(i)/length(model.genes)*100);
+        if i < 8
+        text(i-0.35,data2(i)+15,num2str([num2str(perc) '%']),'FontSize',7,'FontName','Helvetica','Color',clr2);
+        else
+        text(i-0.5,data2(i)+15,num2str([num2str(perc) '%']),'FontSize',7,'FontName','Helvetica','Color',clr2);
+        end
+    end
+end
+set(gcf,'position',[300 300 400 130]);
+
+
+
+
+
+
+
+
+
