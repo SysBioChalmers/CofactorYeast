@@ -101,32 +101,6 @@ exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
 exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
 exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
 
-[~,~,tmp] = xlsread('Exp_cofactor_abundance.xlsx','Sheet9');
-cftrid_tmp = tmp(2:end,ismember(tmp(1,:),'ID'));
-atom_tmp = tmp(2:end,ismember(tmp(1,:),'atom/cell'));
-atom_tmp = cell2mat(atom_tmp);
-idx_tmp =  ~ismember(cftrid_tmp,'-') & ~isnan(atom_tmp);
-exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
-exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
-exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
-
-[~,~,tmp] = xlsread('Exp_cofactor_abundance.xlsx','Sheet10');
-cftrid_tmp = tmp(2:end,ismember(tmp(1,:),'ID'));
-atom_tmp = tmp(2:end,ismember(tmp(1,:),'atom/cell'));
-atom_tmp = cell2mat(atom_tmp);
-idx_tmp =  ~ismember(cftrid_tmp,'-') & ~isnan(atom_tmp);
-exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
-exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
-exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
-
-[~,~,tmp] = xlsread('Exp_cofactor_abundance.xlsx','Sheet11');
-cftrid_tmp = tmp(2:end,ismember(tmp(1,:),'ID'));
-atom_tmp = tmp(2:end,ismember(tmp(1,:),'atom/cell'));
-atom_tmp = cell2mat(atom_tmp);
-idx_tmp =  ~ismember(cftrid_tmp,'-') & ~isnan(atom_tmp);
-exp_cofactor = [exp_cofactor; cftrid_tmp(idx_tmp)];
-exp_atomcell = [exp_atomcell; atom_tmp(idx_tmp)];
-exp_source = [exp_source; repmat(tmp(1,1),length(cftrid_tmp(idx_tmp)),1)];
 
 clear atom_tmp idx_tmp cftrid_tmp tmp;
 
@@ -136,27 +110,6 @@ for i = 1:length(ion_id_list)
     exp_ion_abd(i,1:length(data_tmp)) = data_tmp;
 end
 
-% Plot
-% figure('Name','1');
-% hold on;
-% h = boxplot(log10(sim_ion_abd)','Symbol','o','OutlierSize',3,'Widths',0.5,'Colors',[202,0,32]/255);
-% set(h,{'linew'},{0.75});
-% for i = 1:length(exp_cofactor)
-%     x_tmp = find(ismember(ion_id_list,exp_cofactor{i}));
-%     y_tmp = exp_atomcell(i);
-%     scatter(x_tmp,log10(y_tmp),50,'x','LineWidth',1,'MarkerEdgeColor',[10,10,10]/255,'MarkerEdgeAlpha',0.8);
-% end
-% ylim([4.5 10.5]);
-% xlim([0.1 length(ion_id_list)+0.9]);
-% xticks(1:1:length(ion_id_list));
-% set(gca, 'XColor','k');
-% set(gca, 'YColor','k');
-% set(gca,'XTickLabel',ion_id_list);
-% set(gca,'FontSize',6,'FontName','Helvetica');
-% ylabel('log10(atoms/cell)','FontSize',7,'FontName','Helvetica','Color','k');
-% 
-% set(gcf,'position',[500 100 220 150]);
-% set(gca,'position',[0.11 0.1 0.87 0.85]);
 
 figure('Name','1');
 hold on;
@@ -167,7 +120,8 @@ for i = 1:length(exp_cofactor)
     y_tmp = exp_atomcell(i);
     scatter(x_tmp,log10(y_tmp),60,'.','LineWidth',1,'MarkerEdgeColor',[64,64,64]/255,'MarkerEdgeAlpha',0.8);
 end
-ylim([4.5 10.5]);
+ylim([5 10.5]);
+yticks(5:1:10);
 xlim([0.35 length(ion_id_list)+0.35]);
 xticks(0.85:1:length(ion_id_list));
 set(gca, 'XColor','k');
@@ -176,5 +130,84 @@ set(gca,'XTickLabel',ion_id_list);
 set(gca,'FontSize',6,'FontName','Helvetica');
 ylabel('log10(atoms/cell)','FontSize',7,'FontName','Helvetica','Color','k');
 
-set(gcf,'position',[500 100 220 80]);
+set(gcf,'position',[500 100 220 70]);
 set(gca,'position',[0.11 0.15 0.87 0.8]);
+
+% figure('Name','increase with 3-fold');
+% hold on;
+% h = boxplot(log10(sim_ion_abd)','Symbol','.','OutlierSize',8,'Widths',0.3,'Colors',[242,94,13]/255);
+% set(h,{'linew'},{0.5});
+% for i = 1:length(exp_cofactor)
+%     x_tmp = find(ismember(ion_id_list,exp_cofactor{i}))-0.3;
+%     y_tmp = exp_atomcell(i);
+%     scatter(x_tmp,log10(y_tmp*3),60,'.','LineWidth',1,'MarkerEdgeColor',[64,64,64]/255,'MarkerEdgeAlpha',0.8);
+% end
+% ylim([5 10.5]);
+% yticks(5:1:10);
+% xlim([0.35 length(ion_id_list)+0.35]);
+% xticks(0.85:1:length(ion_id_list));
+% set(gca, 'XColor','k');
+% set(gca, 'YColor','k');
+% set(gca,'XTickLabel',ion_id_list);
+% set(gca,'FontSize',6,'FontName','Helvetica');
+% ylabel('log10(atoms/cell)','FontSize',7,'FontName','Helvetica','Color','k');
+% 
+% set(gcf,'position',[500 300 220 70]);
+% set(gca,'position',[0.11 0.15 0.87 0.8]);
+% 
+% figure('Name','decrease with 3-fold');
+% hold on;
+% h = boxplot(log10(sim_ion_abd)','Symbol','.','OutlierSize',8,'Widths',0.3,'Colors',[242,94,13]/255);
+% set(h,{'linew'},{0.5});
+% for i = 1:length(exp_cofactor)
+%     x_tmp = find(ismember(ion_id_list,exp_cofactor{i}))-0.3;
+%     y_tmp = exp_atomcell(i);
+%     scatter(x_tmp,log10(y_tmp/3),60,'.','LineWidth',1,'MarkerEdgeColor',[64,64,64]/255,'MarkerEdgeAlpha',0.8);
+% end
+% ylim([5 10.5]);
+% yticks(5:1:10);
+% xlim([0.35 length(ion_id_list)+0.35]);
+% xticks(0.85:1:length(ion_id_list));
+% set(gca, 'XColor','k');
+% set(gca, 'YColor','k');
+% set(gca,'XTickLabel',ion_id_list);
+% set(gca,'FontSize',6,'FontName','Helvetica');
+% ylabel('log10(atoms/cell)','FontSize',7,'FontName','Helvetica','Color','k');
+% 
+% set(gcf,'position',[500 500 220 70]);
+% set(gca,'position',[0.11 0.15 0.87 0.8]);
+% 
+% figure('Name','CI');
+% hold on;
+% h = boxplot(log10(sim_ion_abd)','Symbol','.','OutlierSize',8,'Widths',0.3,'Colors',[242,94,13]/255);
+% set(h,{'linew'},{0.5});
+% for i = 1:length(ion_id_list)
+%     x = i-0.3;
+%     y_tmp = exp_atomcell(ismember(exp_cofactor,ion_id_list(i)));
+%     y = log10(y_tmp);
+%     
+%     N = size(y,1);
+%     yMean = mean(y);
+%     ySEM = std(y)/sqrt(N);
+%     CI95 = tinv([0.025 0.975], N-1);
+%     yCI95 = bsxfun(@times, ySEM, CI95(:));
+%     plot([x;x],yCI95+yMean,'Color',[64,64,64]/255,'LineWidth',1);
+%     plot([x-0.1;x+0.1],[min(yCI95+yMean);min(yCI95+yMean)],'Color',[64,64,64]/255,'LineWidth',1);
+%     plot([x-0.1;x+0.1],[max(yCI95+yMean);max(yCI95+yMean)],'Color',[64,64,64]/255,'LineWidth',1);
+%     
+%     scatter(x*ones(length(y),1),y,80,'.','LineWidth',1,'MarkerEdgeColor',[64,64,64]/255,'MarkerEdgeAlpha',0.8);
+% 
+% end
+% 
+% ylim([5 10.5]);
+% yticks(5:1:10);
+% xlim([0.35 length(ion_id_list)+0.35]);
+% xticks(0.85:1:length(ion_id_list));
+% set(gca,'XColor','k');
+% set(gca,'YColor','k');
+% set(gca,'XTickLabel',ion_id_list);
+% set(gca,'FontSize',6,'FontName','Helvetica');
+% ylabel('log10(atoms/cell)','FontSize',7,'FontName','Helvetica','Color','k');
+% 
+% set(gcf,'position',[500 800 220 70]);
+% set(gca,'position',[0.11 0.15 0.87 0.8]);

@@ -65,7 +65,7 @@ for i = 1:length(ion_id_list)
     title(ion_id_list{i},'FontSize',7,'FontName','Helvetica','Color','k');
     box off;
 end
-set(gcf,'position',[200 500 350 180]);
+set(gcf,'position',[200 500 350 150]);
 
 
 
