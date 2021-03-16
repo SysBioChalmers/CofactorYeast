@@ -8,6 +8,11 @@ This repository contains files for CofactorYeast. Cofactors, especially metal io
 
 * Last update: 2021-01-19
 
+Reference
+------------
+
+Chen Y, Li F, Mao J, Chen Y, Nielsen J. Yeast optimizes metal utilization based on metabolic network and enzyme kinetics. Proc Natl Acad Sci U S A. 2021 Mar 23;118(12):e2020154118.
+DOI:https://doi.org/10.1073/pnas.2020154118
 
 Contact
 -------------------------------
