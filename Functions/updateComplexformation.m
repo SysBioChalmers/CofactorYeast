@@ -28,6 +28,9 @@ for i = 1:length(changed_enzymes)
             model.S(metidx_tmp,rxnidx) = coeff_tmp;
         end
     else
+        if ischar(changed_coeffs)
+            changed_coeffs = str2double(changed_coeffs);
+        end
         coeff_tmp = -1 * changed_coeffs;
         metidx_tmp = ismember(model.mets,changed_subunits);
         model.S(metidx_tmp,rxnidx) = coeff_tmp;
