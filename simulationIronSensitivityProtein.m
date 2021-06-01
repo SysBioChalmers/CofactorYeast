@@ -7,6 +7,9 @@ tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
+soplexpath = '/Users/cheyu/build/bin/soplex'; % change this to the soplex path on your PC
+
+
 % collect iron-containing proteins in the model
 iron_metNames = {'iron(3+) [mitochondrion]';
                  'iron(2+) [mitochondrion]';
@@ -74,7 +77,7 @@ clear tot_protein f_modeled_protein;
 
 %% Solve LPs
 % reference
-[~,flux_ref] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,0,1e-6);
+[~,flux_ref] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,0,1e-6,soplexpath);
 q_fe_ref = flux_ref(strcmp(model.rxns,'r_1861'),1);
 
 %% Solve LPs
@@ -97,7 +100,7 @@ for i = 1:length(iron_containing_proteins)
     idx_fe = model_tmp.S(:,idx_cfb) < 0 & ismember(model_tmp.mets,iron_mets);
     model_tmp.S(idx_fe,idx_cfb) = 0;
     
-    [~,flux_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+    [~,flux_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6,soplexpath);
     fluxes(:,i) = flux_tmp;
 end
 

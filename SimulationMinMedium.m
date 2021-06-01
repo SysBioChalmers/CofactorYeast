@@ -4,6 +4,9 @@ load('CofactorYeast.mat');
 load('enzymedata.mat');
 tic;
 
+soplexpath = '/Users/cheyu/build/bin/soplex'; % change this to the soplex path on your PC
+
+
 %% Set model
 % set medium
 model = setMedia(model,1);% minimal media (Delft media) (default)
@@ -34,7 +37,7 @@ sMM_res = struct();
 sMM_res.mulist = 0;
 sMM_res.fluxes = zeros(length(model.rxns),1);
 
-[mu_tmp,sol_full_tmp] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+[mu_tmp,sol_full_tmp] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6,soplexpath);
 sMM_res.mulist(1,1) = mu_tmp;
 sMM_res.fluxes(:,1) = sol_full_tmp;
 

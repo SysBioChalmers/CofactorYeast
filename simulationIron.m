@@ -4,6 +4,8 @@ tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
+soplexpath = '/Users/cheyu/build/bin/soplex'; % change this to the soplex path on your PC
+
 %% Set model
 % set medium
 model = setMedia(model,1);% minimal media (Delft media)
@@ -31,7 +33,7 @@ factor_k_withoutcofator = 0;
 
 %% Solve LPs
 % reference
-[~,flux_ref] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+[~,flux_ref] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6,soplexpath);
 q_fe_ref = flux_ref(strcmp(model.rxns,'r_1861'),1);
 
 %% Solve LPs
@@ -42,7 +44,7 @@ fluxes = zeros(length(model.rxns),length(k_cf));
 for i = 1:length(k_cf)
     disp([num2str(i) '/' num2str(length(k_cf))]);
     model_tmp = changeRxnBounds(model,'r_1861',q_fe_ref*lower_fe,'b');
-    [~,flux_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,k_cf(i),1e-6);
+    [~,flux_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,k_cf(i),1e-6,soplexpath);
     fluxes(:,i) = flux_tmp;
 end
 

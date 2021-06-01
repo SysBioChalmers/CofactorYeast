@@ -5,6 +5,9 @@ tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
+soplexpath = '/Users/cheyu/build/bin/soplex'; % change this to the soplex path on your PC
+
+
 %% Set model
 % set medium
 model = setMedia(model,1);% minimal media (Delft media)
@@ -32,7 +35,7 @@ factor_k_withoutcofator = 0;
 
 %% Solve LPs
 % reference
-[mu_ref,flux_ref] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+[mu_ref,flux_ref] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6,soplexpath);
 q_fe_ref = flux_ref(strcmp(model.rxns,'r_1861'),1);
 
 %% FVA
@@ -43,14 +46,14 @@ model = changeRxnBounds(model,'r_2111',mu,'b');
 osenseStr = 'Maximize';
 disp(osenseStr);
 fileName = writeLP(model,mu,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator);
-command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-20 -o1e-20 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-9 --real:fpopttol=1e-9 %s > %s.out %s',fileName,fileName);
+command = sprintf([soplexpath,' -s0 -g5 -t300 -f1e-20 -o1e-20 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-9 --real:fpopttol=1e-9 %s > %s.out %s'],fileName,fileName);
 system(command,'-echo');
 [q_fe_max,~,flux_max] = readSoplexResult('Simulation.lp.out',model);
 
 osenseStr = 'Minimize';
 disp(osenseStr);
 fileName = writeLP(model,mu,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator);
-command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-20 -o1e-20 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-9 --real:fpopttol=1e-9 %s > %s.out %s',fileName,fileName);
+command = sprintf([soplexpath,' -s0 -g5 -t300 -f1e-20 -o1e-20 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-9 --real:fpopttol=1e-9 %s > %s.out %s'],fileName,fileName);
 system(command,'-echo');
 [q_fe_min,~,flux_min] = readSoplexResult('Simulation.lp.out',model);
 

@@ -4,6 +4,8 @@ load('CofactorYeast.mat');
 load('enzymedata.mat');
 tic;
 
+soplexpath = '/Users/cheyu/build/bin/soplex'; % change this to the soplex path on your PC
+
 %% Carbon sources
 sCS_res = struct();
 sCS_res.cslist = {'Glucose' 'Acetate' 'Ethanol' 'Fructose' 'Galactose' 'Glycerol' 'Maltose' 'Sucrose'};
@@ -42,7 +44,7 @@ for i = 1:length(sCS_res.cslist)
     exrxn = exch_rxn_list{i};
     disp(['carbon source: ' sCS_res.cslist{i}]);
     model_tmp = changeRxnBounds(model,exrxn,-1000,'l');
-    [mu_tmp,sol_full_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+    [mu_tmp,sol_full_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6,soplexpath);
     sCS_res.mulist(1,i) = mu_tmp;
     sCS_res.fluxes(:,i) = sol_full_tmp;
 end

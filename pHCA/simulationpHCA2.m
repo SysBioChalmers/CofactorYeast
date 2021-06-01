@@ -7,6 +7,9 @@ tic;
 load('modelpHCA.mat');
 load('enzymedatapHCA.mat');
 
+soplexpath = '/Users/cheyu/build/bin/soplex'; % change this to the soplex path on your PC
+
+
 %% Set model
 % set medium
 model = setMedia(model,1);% minimal medium
@@ -63,7 +66,7 @@ for i = 1:length(q_fe_list)
         model_tmp_tmp = changeRxnBounds(model_tmp,'r_2111',mu,'b');
         disp(['q_Fe = ' num2str(q_fe) '; mu = ' num2str(mu)]);
         fileName = writeLP(model_tmp_tmp,mu,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator);
-        command = sprintf('/Users/cheyu/build/bin/soplex -s0 -g5 -t300 -f1e-20 -o1e-20 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s',fileName,fileName);
+        command = sprintf([soplexpath,' -s0 -g5 -t300 -f1e-20 -o1e-20 -x -q -c --int:readmode=1 --int:solvemode=2 --int:checkmode=2 --real:fpfeastol=1e-3 --real:fpopttol=1e-3 %s > %s.out %s'],fileName,fileName);
         system(command,'-echo');
         [~,sol_status,sol_full] = readSoplexResult('Simulation.lp.out',model_tmp_tmp);
         if strcmp(sol_status,'optimal')

@@ -6,6 +6,9 @@ tic;
 load('CofactorYeast.mat');
 load('enzymedata.mat');
 
+soplexpath = '/Users/cheyu/build/bin/soplex'; % change this to the soplex path on your PC
+
+
 %% Set model
 % set medium
 model = setMedia(model,1);% minimal media (Delft media)
@@ -31,7 +34,7 @@ clear tot_protein f_modeled_protein;
 
 %% Solve LPs
 % reference
-[~,flux_ref100] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,0,1e-6);
+[~,flux_ref100] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,0,1e-6,soplexpath);
 q_fe_ref100 = flux_ref100(strcmp(model.rxns,'r_1861'),1);
 
 %% Solve LPs
@@ -41,7 +44,7 @@ lower_fe = 0.5;
 q_fe_new = q_fe_ref100*lower_fe;
 
 model_fe50 = changeRxnBounds(model,'r_1861',q_fe_new,'b');
-[~,flux_ref50] = searchMaxgrowth(model_fe50,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+[~,flux_ref50] = searchMaxgrowth(model_fe50,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6,soplexpath);
 
 
 met_Exchanges = {'r_1994' ... % palmitoleate exchange
@@ -55,7 +58,7 @@ for i = 1:length(met_Exchanges)
     model_tmp = model_fe50;
     model_tmp = changeRxnBounds(model_tmp,met_Exchanges{i},q_delta,'l');
     disp(['Adding ' met_IDs{i}]);
-    [~,flux_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+    [~,flux_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6,soplexpath);
     fluxes(:,i) = flux_tmp;
 end
 
@@ -99,7 +102,7 @@ clear tot_protein f_modeled_protein;
 
 %% Solve LPs
 % reference
-[~,flux_ref] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,0,1e-6);
+[~,flux_ref] = searchMaxgrowth(model,f,f_mito,osenseStr,rxnID,enzymedata,0,1e-6,soplexpath);
 
 %% Solve LPs
 
@@ -116,7 +119,7 @@ for i = 1:length(met_Exchanges)
     model_tmp = model;
     model_tmp = changeRxnBounds(model_tmp,met_Exchanges{i},q_delta,'l');
     disp(['Adding ' met_IDs{i}]);
-    [~,flux_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6);
+    [~,flux_tmp] = searchMaxgrowth(model_tmp,f,f_mito,osenseStr,rxnID,enzymedata,factor_k_withoutcofator,1e-6,soplexpath);
     fluxes(:,i) = flux_tmp;
 end
 
