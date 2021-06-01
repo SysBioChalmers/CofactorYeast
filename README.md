@@ -11,7 +11,9 @@ Required Software
 ------------
 
 A functional Matlab installation.
+
 The [COBRA toolbox for MATLAB](https://github.com/opencobra/cobratoolbox).
+
 The solver [SoPlex](https://soplex.zib.de).
 
 
@@ -27,4 +29,6 @@ Contact
 
 * Yu Chen ([@Yu-sysbio](https://github.com/Yu-sysbio)), Chalmers University of Technology, Gothenburg, Sweden
 
-* Last update: 2021-06-01
+
+
+Last update: 2021-06-01
